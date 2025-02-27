@@ -171,7 +171,7 @@
 						$number3 = ( 12980000 / 82.35 ); //2021年4月
 						$number4 = ( 5368000 / 77.75 ); //2020年12月
 						$number5 = ( 879900 / 80.09 ); //2019年12月
-						
+
 
 						$rate_202412 = 111.83; //2024年12月
 						$number6     = ( 6588000 / $rate_202412 );
@@ -263,9 +263,9 @@
 							</div>
 						</div>
 					</div>
-					<p class="american_indian">*The above prices are calculated based on reference market values. Actual
-						prices may vary depending on the condition of the item and the timing.<br />
-						*Reference prices reflect the highest values.</p>
+					<p class="american_indian">※ 上述價格是根據參考市場行情計算的，
+						實際價格會因為商品的狀態或時期而有所變動。<br />
+						※ 參考行情為最高價。</p>
 					<img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="高くなってるかも"> <img class="is-sp"
 						src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="高くなってるかも">
 				</div>
@@ -281,10 +281,10 @@
 
 
 
-			<!-- Reference Purchase Prices for Branded Watches (ブランド時計の参考買取価格) -->
+			<!-- 名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
 			<section class="tabContents_open brand_tokei_sec02" id="brand_tokei_sec02">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main">Reference Purchase Prices for Branded Watches</h2>
+					<h2 class="titleMain--main">名牌手錶收購參考價格</h2>
 					<div class="titleMain--lead">
 						<p></p>
 					</div>
@@ -300,7 +300,7 @@
 						<li class="tab__item "> <a>Vacheron Constantin</a> </li>
 						<li class="tab__item "> <a>A. Lange & Söhne</a> </li>
 						<li class="tab__item "> <a>Breguet</a> </li>
-						<li class="tab__item "> <a>Reference Purchase Prices for Other Watches</a> </li>
+						<li class="tab__item "> <a>其他收購參考價格</a> </li>
 					</ul>
 
 					<!-- タブコンテンツ -->
@@ -5423,7 +5423,7 @@
 			</section>
 			<div class="wd_spacer is-sp"></div>
 			<section class="is-pc"></section>
-			<!-- //Reference Purchase Prices for Branded Watches (ブランド時計の参考買取価格) -->
+			<!-- //名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
 
 
 
@@ -5731,7 +5731,7 @@
 					</style>
 
 
-					<!-- Reference Purchase Prices for Branded Watches (ブランド時計の参考買取価格) -->
+					<!-- 名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
 					<div class="state_bad_arrow_area"> <img class="is-pc" src="../images/brand_tokei/bg1.webp"> <img
 							class="is-sp" src="../images/brand_tokei/bg1_sp.webp">
 

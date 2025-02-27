@@ -59,7 +59,7 @@
 			<li class="topic__path--item" itemprop="itemListElement" itemscope=""
 				itemtype="https://schema.org/ListItem">
 				<a itemprop="item" href="/">
-					<span itemprop="name">Specialized Purchase Store Otakaraya Top</span>
+					<span itemprop="name">收購專門店・OTAKARAYA首頁</span>
 				</a>
 				<meta itemprop="position" content="1">
 			</li>
@@ -2038,9 +2038,9 @@
 				<div class="colBox colBox__col04 sp__col03">
 					<div class="col"> <a href="https://www.otakaraya.jp/gold/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/1_kin.webp" alt="Gold Purchase"></p>
+								<p><img src="../images/brand/1_kin.webp" alt="黃金收購"></p>
 							</div>
-							<p class="text text--center">Gold Purchase</p>
+							<p class="text text--center">黃金收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/platinum/" class="img__link">
 							<div class="img">
