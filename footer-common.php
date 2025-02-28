@@ -58,14 +58,14 @@
                             <path class="cls-1" d="M30.59,32.74c-.51-.35-1.38-.93-2.44-2.26-1.02,1.12-1.9,1.81-2.61,2.32l-.99-1.69v1.65h-2.37v-2.16c-.88.23-2.8.64-4.54.93l-.24-2.49c.21,0,.27,0,.73-.04v-7.87h-.61v-2.26h7.77v.57h6.36v2.29c-.2,1.57-.66,4.48-1.88,6.58.99,1.18,1.81,1.66,2.29,1.9l-1.47,2.53ZM20.49,21.12v1.11h1.69v-1.11h-1.69ZM20.49,24.28v1.12h1.69v-1.12h-1.69ZM22.18,27.46h-1.69v1.26c.25-.05.69-.11,1.69-.29v-.97ZM27.22,21.79c.01.75.1,2.22.99,4.14.36-.78.87-2.07,1.08-4.21h-4.2v-.6h-.54v9.1c1.26-.88,1.92-1.66,2.17-1.96-.6-1.2-1.41-3.01-1.58-5.77l2.07-.69Z"></path>
                         </g>
                     </svg>
-                    <p class="footer__logo2024--text">For gold purchasing, we offer free appraisals and nationwide home visit services<br>through over 1,300 specialized buying stores.</p>
+                    <p class="footer__logo2024--text">黃金收購,提供免費鑑定及全國超過1,200家專業收購門市的到府收購服務</p>
                 </div>
             </div>
         </div>
         <div class="footer__foot2024">
             <div class="footer__foot2024--inner_under">
-                <p class="fo oter__foot--permit">Kanagawa Prefectural Public Safety Commission License No.451380001308</p>
-                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　Specialty Purchase Store Otakaraya　All Rights Reserved.</p>
+                <p class="fo oter__foot--permit">神奈川縣公安委員會許可 第451380001308號</p>
+                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　收購專門店—OTAKARAYA　All Rights Reserved.</p>
             </div>
         </div>
     </footer>

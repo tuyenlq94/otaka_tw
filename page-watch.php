@@ -171,7 +171,7 @@
 						$number3 = ( 12980000 / 82.35 ); //2021年4月
 						$number4 = ( 5368000 / 77.75 ); //2020年12月
 						$number5 = ( 879900 / 80.09 ); //2019年12月
-
+						
 
 						$rate_202412 = 111.83; //2024年12月
 						$number6     = ( 6588000 / $rate_202412 );
@@ -1029,7 +1029,7 @@
 								</li>
 							</div>
 
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/rolex/">勞力士收購參考價格列表請點擊這裡</a> </div> -->
 						</div>
 						<div class="flex__content ">
@@ -1770,7 +1770,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/patekphilippe/">パテック フィリップ一覧はこちら</a>
 							</div> -->
 						</div>
@@ -2544,7 +2544,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/audemarspiguet/">オーデマ ピゲ一覧はこちら</a> </div> -->
 						</div>
 						<div class="flex__content ">
@@ -3311,7 +3311,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/vacheronconstantin/">ヴァシュロン
 									コンスタンタン一覧はこちら</a> </div> -->
 						</div>
@@ -3953,7 +3953,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/lange-soehne/">A.ランゲ＆ゾーネ一覧はこちら</a> </div> -->
 						</div>
 						<div class="flex__content ">
@@ -4682,7 +4682,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/breguet/">Breguet一覧はこちら</a> </div> -->
 						</div>
 						<div class="flex__content ">
@@ -5119,7 +5119,7 @@
 									</div>
 								</li>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn28"><span>view more</span></div>
+							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
 							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/other-results/">その他の参考買取価格一覧はこちら</a>
 							</div> -->
 						</div>
@@ -6906,7 +6906,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="btn__wrap btn__more js__more--btn10 gtm-more-jisseki "> <span>view more</span>
+							<div class="btn__wrap btn__more js__more--btn10 gtm-more-jisseki "> <span>查看更多</span>
 							</div>
 						</div>
 					</div>
@@ -7216,9 +7216,9 @@
 
 
 
-			<!-- Introduction of Appraisers　（鑑定士紹介）-->
+			<!-- 鑑定師介紹　（鑑定士紹介）-->
 			<div class="titleMain titleMain--wrapper">
-				<h2 class="titleMain--main"> <span>Introduction of Appraisers</span> </h2>
+				<h2 class="titleMain--main"> <span>鑑定師介紹</span> </h2>
 			</div>
 			<div class="content-inner">
 				<section id="shop-leader02">
@@ -7285,7 +7285,7 @@
 					</div>
 				</section>
 			</div>
-			<!-- //Introduction of Appraisers　（鑑定士紹介）-->
+			<!-- //鑑定師介紹　（鑑定士紹介）-->
 
 
 			<!-- FAQ（よくある質問）-->
@@ -7298,7 +7298,7 @@
 					</div>
 				</div>
 				<div class="qa__wrap js__more--3th">
-					<!-- view moreなし -->
+					<!-- 查看更多なし -->
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">Why do brand watches retain their value and sell for high prices?
@@ -7369,7 +7369,7 @@
 						</dl>
 					</div>
 				</div>
-				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa"> <span>view more</span></div>
+				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa"> <span>查看更多</span></div>
 			</section>
 			<!-- //FAQ(よくある質問) -->
 

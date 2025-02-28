@@ -84,32 +84,29 @@
 			<section class="is-pc">
 				<!--     ▼▼▼ top_h2_text▼▼▼     -->
 				<h2 class="titleHeading top_h2_text">
-					Visit a <span>Specialized Purchase Store</span> Otakaraya <br />
-					to Sell and Appraise Your Brand Items. </h2>
+					名牌商品的收購・鑑定，請選擇高價收購的OTAKARAYA
+				</h2>
 				<!--     ▲▲▲ top_h2_text▲▲▲     -->
 
 				<div class="titleMain--lead">
-					Hermès, Chanel, Louis Vuitton, and other international brands are covered, including bags, wallets,
-					accessories, watches, and a wide range of items such as rings, necklaces, bracelets, and
-					earrings.<br />
-					At Otakaraya, our experienced appraisers accurately assess the value of branded items, ensuring a
-					reliable and trustworthy service at over 1,300 locations nationwide.
+					我們收購廣泛類別的商品，從Hermès、Chanel、Louis Vuitton等海外品牌，
+					到包包、錢包、飾品、手錶，甚至戒指、項鍊、手鏈、耳環等。
+					OTAKARAYA擁有經驗豐富的評估師，能精確評估名牌商品價值，
+					並在全國1,200多家店鋪為您提供安心服務。"
 				</div>
 			</section>
 			<div class="renew_2024_brand_titlebox is-sp">
 				<h2 class="titleHeading top_h2_text">
-					Store Otakaraya to Sell and <br />
-					Appraise Your Brand Items.
+					名牌商品的收購・鑑定，請選擇高價收購的OTAKARAYA
 				</h2>
 				<!--     ▲▲▲ top_h2_text▲▲▲     -->
 
 				<div class="renew_2024_brand_title_lead">
 					<p>
-						Hermès, Chanel, Louis Vuitton, and other international brands are covered, including bags,
-						wallets, accessories, watches, and a wide range of items such as rings, necklaces, bracelets,
-						and earrings.<br />
-						At Otakaraya, our experienced appraisers accurately assess the value of branded items, ensuring
-						a reliable and trustworthy service at over 1,300 locations nationwide.
+						我們收購廣泛類別的商品，從Hermès、Chanel、Louis Vuitton等海外品牌，
+						到包包、錢包、飾品、手錶，甚至戒指、項鍊、手鏈、耳環等。
+						OTAKARAYA擁有經驗豐富的評估師，能精確評估名牌商品價值，
+						並在全國1,200多家店鋪為您提供安心服務。"
 					</p>
 				</div>
 			</div>
@@ -119,14 +116,14 @@
 			<section class="is-pc">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						<span>Specialized Purchase</span> Store Otakaraya
+						高價收購－OTAKARAYA
 					</h2>
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp"
-									alt="Hermez Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Hermez Purchase </h3>
+									alt="Hermès（愛馬仕）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Hermès（愛馬仕） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp"
@@ -140,18 +137,18 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp"
-									alt="Harry Winston Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Harry Winston Purchase </h3>
+									alt="Harry Winston（哈利·溫斯頓）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Harry Winston（哈利·溫斯頓） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp"
-									alt="Van Cleef & Arpels Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Van Cleef & Arpels Purchase </h3>
+									alt="Van Cleef & Arpels（梵克雅寶）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Van Cleef & Arpels（梵克雅寶） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp"
-									alt="Tiffany Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Tiffany Purchase </h3>
+									alt="Tiffany & Co.（蒂芙尼）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Tiffany & Co.（蒂芙尼） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp"
@@ -160,28 +157,28 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp"
-									alt="Bulgari Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Bulgari Purchase </h3>
+									alt="Bvlgari（寶格麗）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Bvlgari（寶格麗） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp"
-									alt="Gucci Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci Purchase </h3>
+									alt="Gucci（古馳）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Gucci（古馳） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp"
-									alt="Dior Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Dior Purchase </h3>
+									alt="Dior（迪奧）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Dior（迪奧） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp"
-									alt="Prada Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Prada Purchase </h3>
+									alt="Prada（普拉達）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Prada（普拉達） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img
-									src="../images/brand/happydiamond.webp" alt="Chopard Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Chopard Purchase </h3>
+									src="../images/brand/happydiamond.webp" alt="Chopard（蕭邦）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Chopard（蕭邦） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
@@ -190,12 +187,12 @@
 			</section>
 			<!-- <section class="is-pc">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main"> <span>Specialized Purchase</span> Store Otakaraya</h2>
+					<h2 class="titleMain--main"> 高價收購－OTAKARAYA</h2>
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="Hermez Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Hermez Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="Hermès（愛馬仕）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Hermès（愛馬仕） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="Chanel 香奈兒收購"> </div>
@@ -206,40 +203,40 @@
 							<h3 class="expensive_purchase_brand_item_h4"> Louis Vuitton（路易威登） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="Harry Winston Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Harry Winston Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="Harry Winston（哈利·溫斯頓）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Harry Winston（哈利·溫斯頓） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="Van Cleef & Arpels Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Van Cleef & Arpels Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="Van Cleef & Arpels（梵克雅寶）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Van Cleef & Arpels（梵克雅寶） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="Tiffany Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Tiffany Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="Tiffany & Co.（蒂芙尼）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Tiffany & Co.（蒂芙尼） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="卡地亞 Cartier 收購"> </div>
 							<h3 class="expensive_purchase_brand_item_h4"> 卡地亞 Cartier 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="Bulgari Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Bulgari Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="Bvlgari（寶格麗）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Bvlgari（寶格麗） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Gucci Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Gucci（古馳）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Gucci（古馳） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="Dior Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Dior Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="Dior（迪奧）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Dior（迪奧） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="Prada Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Prada Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="Prada（普拉達）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Prada（普拉達） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="Chopard Purchase"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Chopard Purchase </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="Chopard（蕭邦）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> Chopard（蕭邦） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
@@ -249,7 +246,7 @@
 			</section> -->
 			<div class="renew_2024_expensive_purchase_brand_repeat is-sp">
 				<div class="renew_2024_expensive_purchase_superbox">
-					<h2 class="titleHeading"><span>Specialized Purchase</span> Store Otakaraya</h2>
+					<h2 class="titleHeading">高價收購－OTAKARAYA</h2>
 					<!-- １行-->
 					<div class="renew_2024_expensive_purchase_contentsbox">
 						<div class="renew_2024_expensive_purchase_contentsbox_flex">
@@ -257,8 +254,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/en_birkin.webp" alt="Hermez Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Hermez Purchase
+												src="../images/brand/en_birkin.webp" alt="Hermès（愛馬仕）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Hermès（愛馬仕）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -293,8 +290,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/lily.webp" alt="Harry Winston Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Harry Winston Purchase
+												src="../images/brand/lily.webp" alt="Harry Winston（哈利·溫斯頓）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Harry Winston（哈利·溫斯頓）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -305,9 +302,9 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/alhambra.webp" alt="Van Cleef & Arpels Purchase">
+												src="../images/brand/alhambra.webp" alt="Van Cleef & Arpels（梵克雅寶）">
 										</div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Van Cleef & Arpels Purchase
+										<h3 class="renew_2024_expensive_purchase_item_brand">Van Cleef & Arpels（梵克雅寶）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -318,8 +315,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/tsmile.webp" alt="Tiffany Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Tiffany Purchase
+												src="../images/brand/tsmile.webp" alt="Tiffany & Co.（蒂芙尼）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Tiffany & Co.（蒂芙尼）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -342,8 +339,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/bzeroone.webp" alt="Bulgari Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Bulgari Purchase
+												src="../images/brand/bzeroone.webp" alt="Bvlgari（寶格麗）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Bvlgari（寶格麗）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -354,8 +351,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ggmarmont.webp" alt="Gucci Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Gucci Purchase
+												src="../images/brand/ggmarmont.webp" alt="Gucci（古馳）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Gucci（古馳）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -366,8 +363,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ladydior.webp" alt="Dior Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Dior Purchase
+												src="../images/brand/ladydior.webp" alt="Dior（迪奧）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Dior（迪奧）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -378,8 +375,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/saffiano.webp" alt="Prada Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Prada Purchase
+												src="../images/brand/saffiano.webp" alt="Prada（普拉達）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Prada（普拉達）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -390,8 +387,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/happydiamond.webp" alt="Chopard Purchase"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Chopard Purchase
+												src="../images/brand/happydiamond.webp" alt="Chopard（蕭邦）"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">Chopard（蕭邦）
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -399,8 +396,8 @@
 									</div>
 								</a> </div>
 						</div>
-						<div class="btn__wrap btn__red"> <a href="./brand_list/" class="gtm-list-brand-all">Other
-								Purchase Brand List</a> </div>
+						<div class="btn__wrap btn__red"> <a href="./brand_list/" class="gtm-list-brand-all">其他品牌收購列表</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -409,7 +406,7 @@
 			<section>
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						<span>Reference Purchase Prices</span> for Brand Items
+						名牌商品收購參考價格
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -690,9 +687,8 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and
-								accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -961,9 +957,8 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and
-								accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -1222,9 +1217,8 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and
-								accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -1373,9 +1367,8 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and
-								accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 					</div>
@@ -1387,13 +1380,13 @@
 
 			<div class="renew_2024_brand_enchant_title is-sp">
 				<h2 class="titleHeading">
-					Brand Items with <span>Enhanced Purchase Offers</span>
+					強化收購品牌種類
 				</h2>
 			</div>
 			<section class="is-pc">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleHeading">
-						Brand Items with <span>Enhanced Purchase Offers</span>
+						強化收購品牌種類
 					</h2>
 				</div>
 				<div class="enhanced_purchaceitems_repeat_box">
@@ -1403,14 +1396,14 @@
 										src="../images/brand/477_440_440-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Bag Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">手袋、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/wallet.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
 								<p><img class="enhanced_purchaceitems_itemimage" src="../images/brand/350-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Wallet Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">錢包、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/jewelry.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1418,7 +1411,7 @@
 										src="../images/brand/e18dc60eec8c61e518b6ebc301c4fc18.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Jewelry Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">珠寶、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/apparel.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1426,7 +1419,7 @@
 										src="../images/brand/77ec6c8b0c0df04c50f47d28da41a96e.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Apparel Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">服飾、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/shoes.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1434,7 +1427,7 @@
 										src="../images/brand/M0iioUqInMl2CKp8-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Brand Shoes Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">名牌鞋、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/goods.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1442,7 +1435,7 @@
 										src="../images/brand/12a4b9ab44ed6fb297887b573fc5d0ac_02.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Accessories Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">配件、</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand-tokei/index.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1466,7 +1459,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Bag</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">手袋、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand/wallet.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1477,7 +1470,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Wallet</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">錢包、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand/jewelry.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1488,7 +1481,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Jewelry</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">珠寶、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand/apparel.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1499,7 +1492,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Apparel</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">服飾、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand/shoes.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1510,7 +1503,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Brand Shoes</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">名牌鞋、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand/goods.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1521,7 +1514,7 @@
 									</div>
 								</div>
 							</a>
-							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">Small items</h3>
+							<h3 class="renew_2024_enhanced_purchaceitems_itemtitle">配件、</h3>
 						</div>
 						<div class="renew_2024_enhanced_purchaceitems_itembox"> <a href="../brand-tokei/index.html">
 								<div class="renew_2024_enhanced_purchaceitems_itemimgwrap img"> <img
@@ -1551,7 +1544,7 @@
 				</div>
 				<div class="enhanced_additional_tabbox">
 					<div class="enhanced_additional_tabitem wd_active">
-						<div class="enhanced_additional_tabitem_inner">Hermès</div>
+						<div class="enhanced_additional_tabitem_inner">從Hermès</div>
 						<div class="enhanced_additional_tabitem_circle">
 							<div class="enhanced_additional_tabitem_arrow"></div>
 						</div>
@@ -1563,25 +1556,25 @@
 						</div>
 					</div>
 					<div class="enhanced_additional_tabitem">
-						<div class="enhanced_additional_tabitem_inner">Louis Vuitton</div>
+						<div class="enhanced_additional_tabitem_inner">Louis Vuitton等海外品牌</div>
 						<div class="enhanced_additional_tabitem_circle">
 							<div class="enhanced_additional_tabitem_arrow"></div>
 						</div>
 					</div>
 					<div class="enhanced_additional_tabitem">
-						<div class="enhanced_additional_tabitem_inner">Van Cleef & Arpels</div>
+						<div class="enhanced_additional_tabitem_inner">Van Cleef & Arpels（梵克雅寶）</div>
 						<div class="enhanced_additional_tabitem_circle">
 							<div class="enhanced_additional_tabitem_arrow"></div>
 						</div>
 					</div>
 					<div class="enhanced_additional_tabitem">
-						<div class="enhanced_additional_tabitem_inner">Tiffany</div>
+						<div class="enhanced_additional_tabitem_inner">Tiffany & Co.（蒂芙尼）</div>
 						<div class="enhanced_additional_tabitem_circle">
 							<div class="enhanced_additional_tabitem_arrow"></div>
 						</div>
 					</div>
 					<div class="enhanced_additional_tabitem">
-						<div class="enhanced_additional_tabitem_inner">Others</div>
+						<div class="enhanced_additional_tabitem_inner">其他品牌收購列表</div>
 						<div class="enhanced_additional_tabitem_circle">
 							<div class="enhanced_additional_tabitem_arrow"></div>
 						</div>
@@ -1592,56 +1585,56 @@
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/birkin/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/2798_440_440-1.webp">
 								</div>
-								<div class="wd_contents3_item_name">Purchase Birkin</div>
+								<div class="wd_contents3_item_name">Birkin</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/kelly/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/f8247c092dad25f12c03dbe04d7a4a94-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Kelly</div>
+								<div class="wd_contents3_item_name">Kelly</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/picotin/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/b95287bc96f9e4a8a1d81d8999480fc5.jpg"></div>
-								<div class="wd_contents3_item_name">Purchase Picotin Lock</div>
+								<div class="wd_contents3_item_name">Picotin Lock</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/evelyne/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/232-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Evelyne</div>
+								<div class="wd_contents3_item_name">Evelyne</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/alebag/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/69c708710dec52cc715855ff5b46f8a6-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase herbag</div>
+								<div class="wd_contents3_item_name">herbag</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/herline/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/0408-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Her Line</div>
+								<div class="wd_contents3_item_name">Her Line</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/fourre-tout/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/4253-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Fourre-tout</div>
+								<div class="wd_contents3_item_name">Fourre-tout</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/garden-party/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/b7a75b61ebd700852ded0d77fa21ba00.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Garden Party</div>
+								<div class="wd_contents3_item_name">Garden Party</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/constance/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/92-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Constance</div>
+								<div class="wd_contents3_item_name">Constance</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/hermes/beant/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/0955-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Bearn</div>
+								<div class="wd_contents3_item_name">Bearn</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1655,36 +1648,36 @@
 						<div class="wd_contents3_itembox"><a href="../brand/chanel/matelasse/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/3810_440_440_03.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Matelasse</div>
+								<div class="wd_contents3_item_name">Matelasse</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/chanel/cambon/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/f2a562998d0c5459b5d134d3061b2b89-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase cambonline</div>
+								<div class="wd_contents3_item_name">cambonline</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/chanel/boy-chanel/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/4d510fa1579fb82b7b09efa36f5d2f94.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Boy Chanel</div>
+								<div class="wd_contents3_item_name">Boy Chanel</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/chanel/newtravel/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/1518_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase NewTravel</div>
+								<div class="wd_contents3_item_name">NewTravel</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/chanel/camellia/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/4433_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Camelia</div>
+								<div class="wd_contents3_item_name">Camelia</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/result/chanel/hukkokutote/"
 								class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/8e4fbff81fb83c0afa0c965893047123-1_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Revival tote</div>
+								<div class="wd_contents3_item_name">Revival tote</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1698,39 +1691,39 @@
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/keepall/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/450755c8e296ac1da7ba181cfd7c5b36_03.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Keepall</div>
+								<div class="wd_contents3_item_name">Keepall</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/alma/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/30abaf399626a2b9a57fabef8fc9aa97_03.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Alma</div>
+								<div class="wd_contents3_item_name">Alma</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/onthego/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/2134_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase On the go</div>
+								<div class="wd_contents3_item_name">On the go</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="brand/louis-vuitton/neverfull/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/2482_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Never Full</div>
+								<div class="wd_contents3_item_name">Never Full</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/capucines/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/0361_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Capucines</div>
+								<div class="wd_contents3_item_name">Capucines</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/speedy/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/1309_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Speedy</div>
+								<div class="wd_contents3_item_name">Speedy</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/louis-vuitton/pochette-accessoires/"
 								class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/2439_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Pochette-Accessoires</div>
+								<div class="wd_contents3_item_name">Pochette-Accessoires</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1744,13 +1737,13 @@
 						<div class="wd_contents3_itembox"><a href="../brand/vancleefarpels/alhambra/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/20220418-2273-1.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Alhambra</div>
+								<div class="wd_contents3_item_name">Alhambra</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/vancleefarpels/perlee/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/e9cfd75529105e774933c52194669493.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Perlee</div>
+								<div class="wd_contents3_item_name">Perlee</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1764,24 +1757,24 @@
 						<div class="wd_contents3_itembox"><a href="../brand/tiffany/by-the-yard/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/46d00bf385babb467f9aad34694c0ea7.webp"></div>
-								<div class="wd_contents3_item_name">Purchase By The Yard</div>
+								<div class="wd_contents3_item_name">By The Yard</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/tiffany/hardwear/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/1e9ce44083a3cf473e477367b41e8e97.webp"></div>
-								<div class="wd_contents3_item_name">Purchase HardWear</div>
+								<div class="wd_contents3_item_name">HardWear</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/tiffany/open-heart/" class="img__link">
 								<div class="wd_contents3_item_image img"><img
 										src="../images/brand/aa1be126ce759d6d4618e6e474da00b8.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Open Heart</div>
+								<div class="wd_contents3_item_name">Open Heart</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/result/tiffany/atlas/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/22_02.webp"></div>
-								<div class="wd_contents3_item_name">Purchase Atlas</div>
+								<div class="wd_contents3_item_name">Atlas</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1795,13 +1788,13 @@
 						<div class="wd_contents3_itembox"><a href="../brand/cartier/trinity/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/20220318-67-1.webp">
 								</div>
-								<div class="wd_contents3_item_name">Purchase Trinity</div>
+								<div class="wd_contents3_item_name"> Trinity</div>
 							</a></div>
 						<!-- wd_contents_itembox --><!-- wd_contents_itembox -->
 						<div class="wd_contents3_itembox"><a href="../brand/bvlgari/b-zero1/" class="img__link">
 								<div class="wd_contents3_item_image img"><img src="../images/brand/20220418-66_02.webp">
 								</div>
-								<div class="wd_contents3_item_name">Purchase B-zero1</div>
+								<div class="wd_contents3_item_name"> B-zero1</div>
 							</a></div>
 						<!-- wd_contents_itembox -->
 						<div class="enhanced_additional_repeater02_dummy"></div>
@@ -1817,33 +1810,30 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				Reasons Why Now Is the Right Time to Sell Brand Items
+				為何現在是出售名牌的好時機？
 			</h2>
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">The Price of Brand Items Has Increased</h3>
-					<div class="wd_brandinfo_story">In recent years, factors such as rising raw material costs, changes
-						in global circumstances, and a weaker yen have led many brands to raise their retail prices.<br>
+					<h3 class="wd_brandinfo_title">名牌定價上升</h3>
+					<div class="wd_brandinfo_story">近年來，由於原材料成本上升、全球局勢變化及日元貶值等因素，
+						許多品牌都調高了定價。<br>
 						<br>
-						This increase in retail prices directly correlates to an increase in purchase prices, making now
-						a great time to sell brand items.
+						定價上升直接推動了收購價格上升，因此現在是出售名牌商品的好時機。
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Additionally, as items age, their purchase price tends to decrease.
+					<h3 class="wd_brandinfo_title">收購價格隨著時間下降
 					</h3>
-					<div class="wd_brandinfo_story">Generally, the value of brand items tends to decrease over time.
-						Therefore, it is recommended to sell them while their value is still high.<br>
+					<div class="wd_brandinfo_story">通常名牌商品的價值會隨著時間下跌，
+						因此建議在價值仍然高企時出售。<br>
 						<br>
-						If you are thinking about selling brand items, please consult with Otakaraya.
+						如果你有出售名牌商品的打算，歡迎隨時與OTAKARAYA聯絡。
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">The demand for second-hand brand items has increased</h3>
-					<div class="wd_brandinfo_story">In recent years, the global demand for second-hand brand bags has
-						been rising. Japanese second-hand items, in particular, are especially popular overseas.<br />
-						With the rise in the retail prices of new brand items due to inflation, the demand for
-						second-hand brand items has increased.</div>
+					<h3 class="wd_brandinfo_title">中古品的需求增加</h3>
+					<div class="wd_brandinfo_story">近年來，全球對二手精品的需求持續增加。日本的中古品在海外特別受歡迎。由於通脹影響，
+						因新品不斷調漲，二手市場的熱門款式更受追捧！</div>
 				</div>
 			</section>
 			<h2 class="renew_2024_titlesub">
@@ -1852,28 +1842,25 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				Characteristics of Brand Items that Sell for a High Price
+				能高價出售的名牌商品的特徵
 			</h2>
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Popular Classic Models</h3>
-					<div class="wd_brandinfo_story">Classic models are loved regardless of trends or era, so they have a
-						stable demand. As a result, classic models are highly popular in the second-hand market, and
-						when submitted for appraisal, they are likely to fetch a high price.</div>
+					<h3 class="wd_brandinfo_title">經典熱門款</h3>
+					<div class="wd_brandinfo_story">經典款式無論是時尚趨勢還是年代變遷，
+						始終深受喜愛，因此需求穩定。
+						這些款式在二手市場也非常受歡迎，提交評估後，可能會獲得高價收購。</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Limited Edition Models or Colors with Rarity</h3>
-					<div class="wd_brandinfo_story">Limited edition models, special colors, and collaboration items that
-						have a limited production run are highly valuable due to their rarity. When these items are hard
-						to find, the demand in the second-hand market increases, making them more likely to be bought at
-						a high price.</div>
+					<h3 class="wd_brandinfo_title">具稀缺性的限定款或特殊顏色</h3>
+					<div class="wd_brandinfo_story">限定款式、特殊顏色、合作款等生產數量有限的物品具有較高的稀缺價值。
+						如果難以獲得的話，二手市場的需求也會增高，因此有望獲得高價收購。</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Good Condition with Few Scratches or Signs of Use</h3>
-					<div class="wd_brandinfo_story">The condition of the item significantly affects its appraisal price.
-						Items with few scratches, no stains, and minimal signs of use are more likely to be sold at a
-						high price. Be careful with the condition of your brand items during use and storage to prevent
-						damage.</div>
+					<h3 class="wd_brandinfo_title">損壞或使用痕跡少，保存狀況良好</h3>
+					<div class="wd_brandinfo_story">商品的狀況會對評估價格產生重大影響。
+						傷痕、污漬、使用痕跡少的物品越容易以高價出售。
+						在使用和儲存名牌商品時，應小心保護，避免造成損壞。</div>
 				</div>
 			</section>
 			<h2 class="renew_2024_titlesub">
@@ -1882,51 +1869,43 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				Tips for Selling Brand Items at a High Price
+				提高收購價格的小技巧
 			</h2>
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Perform Simple Maintenance</h3>
-					<div class="wd_brandinfo_story">Before the appraisal, do some basic cleaning, such as removing
-						dirt.<br>
+					<h3 class="wd_brandinfo_title">進行簡單的保養</h3>
+					<div class="wd_brandinfo_story">在拿去鑑定前，輕微清潔保養有助於提升價值。<br>
 						<br>
-						However, depending on how it's done, cleaning might cause damage, so be sure to use methods that
-						are suitable for the material of the item, and only clean within a safe range.
+						要注意避免因清潔不當造成損壞，應根據商品材質選擇合適的方式進行保養。
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Include Accessories with the Item</h3>
-					<div class="wd_brandinfo_story">If you have any accessories that came with the brand item when
-						purchased, such as the box, bag, warranty, or guarantee card, be sure to include them when you
-						submit the item for appraisal.<br>
+					<h3 class="wd_brandinfo_title">如果有配件，請一併提供</h3>
+					<div class="wd_brandinfo_story">若名牌商品原包裝盒、塵袋、保證書、保證卡等配件仍然完好，
+						請一併提供鑑定。<br>
 						<br>
-						At Otakaraya, it is possible to offer high-value purchases even without the accessories, and
-						they are not required.
+						即使沒有配件，仍然能夠獲得高價收購，但附上配件可增加收購價值。
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Submitting multiple brand items for appraisal at the same time.</h3>
-					<div class="wd_brandinfo_story">At Otakaraya, the purchase price increases with "simultaneous
-						appraisal," where multiple brand items are appraised together. If you have unwanted items, such
-						as bags and necklaces, rings and earrings, please bring them together.</div>
+					<h3 class="wd_brandinfo_title">一次評估多件名牌商品</h3>
+					<div class="wd_brandinfo_story">在OTAKARAYA，將多件名牌商品同時評估可提高收購價格。
+						如果有多個不需要的物品，例如包包、項鍊、戒指和耳環等，可以一併收購。</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Taking advantage of campaigns to increase the appraisal value</h3>
-					<div class="wd_brandinfo_story">It is also recommended to take advantage of campaigns that increase
-						the appraisal value.<br>
+					<h3 class="wd_brandinfo_title">利用收購促銷活動提高評估價值</h3>
+					<div class="wd_brandinfo_story">參加收購促銷活動也是提高評估價值的好方法。<br>
 						<br>
-						At Otakaraya, we conduct a variety of exclusive purchase campaigns.<br />
-						By actively using campaigns that match the items you're selling, you can achieve a higher
-						purchase price.
+						OTAKARAYA定期推出多種收購促銷活動，
+						根據收購品項參與相應的活動，有機會以更高的價格出售。
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
-					<h3 class="wd_brandinfo_title">Submit your items for appraisal to Otakaraya</h3>
-					<div class="wd_brandinfo_story">Otakaraya, a specialized purchase store, handles a wide range of
-						items. It is staffed with experienced appraisers, and has a strong track record of high-value
-						purchases.<br>
+					<h3 class="wd_brandinfo_title">將商品提交給OTAKARAYA評估</h3>
+					<div class="wd_brandinfo_story">買取專門店OTAKARAYA支持各種名牌商品的收購，
+						擁有經驗豐富的專業評估師團隊，並且有著豐富的高價收購經驗。<br>
 						<br>
-						If you have unwanted brand items, bring them to Otakaraya.
+						如果有不需要的名牌商品，請隨時將其交給OTAKARAYA。
 					</div>
 				</div>
 			</section>
@@ -1944,86 +1923,84 @@
 
 			<section class="state_bad_purchase">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main">We purchase brand items in any condition.</h2>
+					<h2 class="titleMain--main">不論商品狀況如何，我們都樂意收購。</h2>
 					<div class="titleMain--lead">
-						<p>We are happy to buy items with damages.</p>
+						<p>即使是有損傷或破損的物品，我們也非常歡迎進行收購。</p>
 					</div>
 				</div>
 				<div class="colBox colBox__col04 sp__col03">
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/yogore_beta-1.webp" alt="scratches"></p>
+							<p><img src="../images/brand/yogore_beta-1.webp" alt="污漬"></p>
 						</div>
-						<p class="text text--center">scratches</p>
+						<p class="text text--center">污漬</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/hason-1.webp" alt="tears"></p>
+							<p><img src="../images/brand/hason-1.webp" alt="黏性"></p>
 						</div>
-						<p class="text text--center">tears</p>
+						<p class="text text--center">黏性</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/hurui_design-1.webp" alt="old designs"></p>
+							<p><img src="../images/brand/hurui_design-1.webp" alt="破洞"></p>
 						</div>
-						<p class="text text--center">old designs</p>
+						<p class="text text--center">破洞</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/yabure-1.webp" alt="dirt"></p>
+							<p><img src="../images/brand/yabure-1.webp" alt="損壞"></p>
 						</div>
-						<p class="text text--center">dirt</p>
+						<p class="text text--center">損壞</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/kadosure-1.webp" alt="corner scuffing"></p>
+							<p><img src="../images/brand/kadosure-1.webp" alt="角位磨損"></p>
 						</div>
-						<p class="text text--center">corner scuffing</p>
+						<p class="text text--center">角位磨損</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/hiyake-1.webp" alt="sun damage"></p>
+							<p><img src="../images/brand/hiyake-1.webp" alt="日曬"></p>
 						</div>
-						<p class="text text--center">sun damage</p>
+						<p class="text text--center">日曬</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/huzokuhin-1.webp" alt="missing accessories"></p>
+							<p><img src="../images/brand/huzokuhin-1.webp" alt="缺少附件"></p>
 						</div>
-						<p class="text text--center">missing accessories</p>
+						<p class="text text--center">缺少附件</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/sabi-1.webp" alt="rust"></p>
+							<p><img src="../images/brand/sabi-1.webp" alt="生銹"></p>
 						</div>
-						<p class="text text--center">rust</p>
+						<p class="text text--center">生銹</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/831ccd57c832dbc9f80649d253aebaa5.webp" alt="cracked leather">
+							<p><img src="../images/brand/831ccd57c832dbc9f80649d253aebaa5.webp" alt="皮革脫落">
 							</p>
 						</div>
-						<p class="text text--center">cracked leather</p>
+						<p class="text text--center">皮革脫落</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="ink stains"></p>
+							<p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="墨水污漬"></p>
 						</div>
-						<p class="text text--center">ink stains</p>
+						<p class="text text--center">墨水污漬</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp"
-									alt="internal discoloration"></p>
+							<p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp" alt="內部污點"></p>
 						</div>
-						<p class="text text--center">internal discoloration</p>
+						<p class="text text--center">內部污點</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp"
-									alt="dirt on untreated leather"></p>
+							<p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp" alt="牛皮污漬"></p>
 						</div>
-						<p class="text text--center">dirt on untreated leather</p>
+						<p class="text text--center">牛皮污漬</p>
 					</div>
 				</div>
 			</section>
@@ -2033,7 +2010,7 @@
 			</a>
 			<section class="otakaraya_purchase_goods">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main">Search from Otakaraya's Purchase Items</h2>
+					<h2 class="titleMain--main">可收購的物品列表</h2>
 				</div>
 				<div class="colBox colBox__col04 sp__col03">
 					<div class="col"> <a href="https://www.otakaraya.jp/gold/" class="img__link">
@@ -2044,9 +2021,9 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/platinum/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/2_pt.webp" alt="Precious Metals & Platinum Purchase"></p>
+								<p><img src="../images/brand/2_pt.webp" alt="貴金屬及鉑金收購"></p>
 							</div>
-							<p class="text text--center">Precious Metals & Platinum Purchase</p>
+							<p class="text text--center">貴金屬及鉑金收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/daiya/" class="img__link">
 							<div class="img">
@@ -2074,9 +2051,9 @@
 						</a> </div>
 					<div class="col"> <a href="./" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/5_brand.webp" alt="Brand Item Purchase"></p>
+								<p><img src="../images/brand/5_brand.webp" alt="精品收購"></p>
 							</div>
-							<p class="text text--center">Brand Item Purchase</p>
+							<p class="text text--center">精品收購</p>
 						</a> </div>
 					<div class="col"> <a href="./hermes/" class="img__link">
 							<div class="img">
@@ -2092,124 +2069,119 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kitte/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/6_kitte_hagaki.webp" alt="Stamp Purchase"></p>
+								<p><img src="../images/brand/6_kitte_hagaki.webp" alt="郵票收購"></p>
 							</div>
-							<p class="text text--center">Stamp Purchase</p>
+							<p class="text text--center">郵票收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/gakki/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/21_gakki.webp" alt="Musical Instrument Purchase"></p>
+								<p><img src="../images/brand/21_gakki.webp" alt="樂器收購"></p>
 							</div>
-							<p class="text text--center">Musical Instrument Purchase</p>
+							<p class="text text--center">樂器收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/gold/oban-koban/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/22_koban.webp" alt="Gold Coin Purchase"></p>
+								<p><img src="../images/brand/22_koban.webp" alt="大判・小判收購"></p>
 							</div>
-							<p class="text text--center">Gold Coin Purchase</p>
+							<p class="text text--center">大判・小判收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/gold/kinka-ginka/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/7_kinka_ginka.webp"
-										alt="Gold & Silver Coin, Commemorative Coin Purchase"></p>
+								<p><img src="../images/brand/7_kinka_ginka.webp" alt="金幣、銀幣、紀念幣收購"></p>
 							</div>
-							<p class="text text--center">Gold & Silver Coin, Commemorative Coin Purchase</p>
+							<p class="text text--center">金幣、銀幣、紀念幣收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/tableware02/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/11_brand_syokki.webp" alt="Brand Tableware Purchase"></p>
+								<p><img src="../images/brand/11_brand_syokki.webp" alt="品牌餐具收購"></p>
 							</div>
-							<p class="text text--center">Brand Tableware Purchase</p>
+							<p class="text text--center">品牌餐具收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/order_medal/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/9_kunsyo_medaru.webp" alt="Medal & Decoration Purchase">
+								<p><img src="../images/brand/9_kunsyo_medaru.webp" alt="勳章、獎牌收購">
 								</p>
 							</div>
-							<p class="text text--center">Medal & Decoration Purchase</p>
+							<p class="text text--center">勳章、獎牌收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/kosen-sihei/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/8_kosen.webp" alt="Old Coins & Banknotes Purchase"></p>
+								<p><img src="../images/brand/8_kosen.webp" alt="古幣、鈔票收購"></p>
 							</div>
-							<p class="text text--center">Old Coins & Banknotes Purchase</p>
+							<p class="text text--center">古幣、鈔票收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/antique/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/23_kottou.webp" alt="Antique Purchase"></p>
+								<p><img src="../images/brand/23_kottou.webp" alt="骨董品收購"></p>
 							</div>
-							<p class="text text--center">Antique Purchase</p>
+							<p class="text text--center">骨董品收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kimono2/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/14_kimono.webp" alt="Kimono Purchase"></p>
+								<p><img src="../images/brand/14_kimono.webp" alt="和服收購"></p>
 							</div>
-							<p class="text text--center">Kimono Purchase</p>
+							<p class="text text--center">和服收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/picture02/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/15_kaiga.webp"
-										alt="Painting, Hanging Scrolls, and Artworks Purchase"></p>
+								<p><img src="../images/brand/15_kaiga.webp" alt="畫作、掛軸、美術品收購"></p>
 							</div>
-							<p class="text text--center">Painting, Hanging Scrolls, and Artworks Purchase</p>
+							<p class="text text--center">畫作、掛軸、美術品收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/camera02/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/10_kamera.webp" alt="Camera Purchase"></p>
+								<p><img src="../images/brand/10_kamera.webp" alt="相機收購"></p>
 							</div>
-							<p class="text text--center">Camera Purchase</p>
+							<p class="text text--center">相機收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/g-ticket/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/24_kinken.webp"
-										alt="Gift Certificate & Telephone Card Purchase"></p>
+								<p><img src="../images/brand/24_kinken.webp" alt="代金券及電話卡收購"></p>
 							</div>
-							<p class="text text--center">Gift Certificate & Telephone Card Purchase</p>
+							<p class="text text--center">代金券及電話卡收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/gunsouhin/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/25_gunpuku.webp"
-										alt="Military Uniform & Military Gear Purchase"></p>
+								<p><img src="../images/brand/25_gunpuku.webp" alt="軍服及軍裝品收購"></p>
 							</div>
-							<p class="text text--center">Military Uniform & Military Gear Purchase</p>
+							<p class="text text--center">軍服及軍裝品收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/liquor/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/26_yousyu.webp" alt="Wine Purchase"></p>
+								<p><img src="../images/brand/26_yousyu.webp" alt="洋酒收購"></p>
 							</div>
-							<p class="text text--center">Wine Purchase</p>
+							<p class="text text--center">洋酒收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/hobby/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/27_hobby.webp" alt="Hobby & Model Train Purchase"></p>
+								<p><img src="../images/brand/27_hobby.webp" alt="模型、鐵道模型收購"></p>
 							</div>
-							<p class="text text--center">Hobby & Model Train Purchase</p>
+							<p class="text text--center">模型、鐵道模型收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/mobile/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/28_sumaho.webp" alt="Smartphone & Mobile Phone Purchase">
+								<p><img src="../images/brand/28_sumaho.webp" alt="手機及電話收購">
 								</p>
 							</div>
-							<p class="text text--center">Smartphone & Mobile Phone Purchase</p>
+							<p class="text text--center">手機及電話收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/minicar/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/29_minicar.webp" alt="Miniature Car Model Purchase"></p>
+								<p><img src="../images/brand/29_minicar.webp" alt="模型車收購"></p>
 							</div>
-							<p class="text text--center">Miniature Car Model Purchase</p>
+							<p class="text text--center">模型車收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kouboku/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/kouboku_33.000000.webp" alt="Aromatic Tree Purchase"></p>
+								<p><img src="../images/brand/kouboku_33.000000.webp" alt="沉香收購"></p>
 							</div>
-							<p class="text text--center">Aromatic Tree Purchase</p>
+							<p class="text text--center">沉香收購</p>
 						</a> </div>
 				</div>
 			</section>
 			<section class="faq_wrap">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main"> <span>Frequently Asked Questions</span><br />
-						About Brand Item Purchase</h2>
+					<h2 class="titleMain--main"> 常見問題</h2>
 					<div class="titleMain--lead">
 						<p></p>
 					</div>
@@ -2219,165 +2191,135 @@
 
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Is it okay outside the Tokyo metropolitan area?</dt>
-							<dd class="qa__list__a">Specialized appraisers will visit anywhere in Japan.</dd>
+							<dt class="qa__list__q">首都圈以外也可以嗎？</dt>
+							<dd class="qa__list__a">全國各地均有專業的鑑定師前來服務。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I sell a watch if the battery is dead?</dt>
-							<dd class="qa__list__a">Yes, you can. We have successfully purchased both automatic and
-								battery-operated watches that have stopped working.</dd>
+							<dt class="qa__list__q">全國各地均有專業的鑑定師前來服務。</dt>
+							<dd class="qa__list__a">可以。我們曾收購過停走的自動或電池式手錶。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I sell it for more than the original price?</dt>
-							<dd class="qa__list__a">For some items, we may offer a purchase price higher than the
-								original price. However, many branded products tend to lose value over time. If you no
-								longer plan to use the item, it is recommended to sell it sooner.</dd>
+							<dt class="qa__list__q">能否以高於原價出售？</dt>
+							<dd class="qa__list__a">部分物品有可能以高於原價收購，但大多數名牌商品隨時間會貶值。若不再使用，建議盡早出售。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Is it possible to cancel an item I requested an appraisal for?</dt>
-							<dd class="qa__list__a">Yes, it is possible. However, please note that returns cannot be
-								accepted after the purchase has been completed.</dd>
+							<dt class="qa__list__q">可以取消評估的物品嗎？</dt>
+							<dd class="qa__list__a">可以，但一旦完成交易，恕無法退還，敬請諒解</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Do you offer mail-in purchases?</dt>
-							<dd class="qa__list__a">We do not offer mail-in purchases. The purchase methods available
-								are 'home visit purchase' or 'in-store purchase'.</dd>
+							<dt class="qa__list__q">目前不提供郵寄收購</dt>
+							<dd class="qa__list__a">只有「到府收購」或「門市收購」。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can you purchase brands not listed on the website?</dt>
-							<dd class="qa__list__a">Yes, we can purchase items from brands not listed on the website.
-								Feel free to contact us, even if it's just one item.</dd>
+							<dt class="qa__list__q">網頁上沒有的品牌也能收購嗎？</dt>
+							<dd class="qa__list__a">當然可以，即使是單件物品也歡迎查詢。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can you buy items that were bought a long time ago or are in poor
-								condition?</dt>
-							<dd class="qa__list__a">Yes, we can. We have a track record of purchasing items that were
-								previously rejected by other companies due to reasons such as 'old', 'dirty', or 'sun
-								damage'. Please feel free to contact us.</dd>
+							<dt class="qa__list__q">使用已久或狀況不佳的物品能收購嗎？</dt>
+							<dd class="qa__list__a">可以。即使其他公司因「過舊」、「污漬」或「日曬」等原因拒收，
+								我們也有成功收購的紀錄。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Is an ID required?</dt>
-							<dd class="qa__list__a">Yes, it is required as per the regulations of the Antiquities Dealer
-								Law for identity verification. Rest assured, it will not be used for any other purposes.
+							<dt class="qa__list__q">一定需要身分證明文件嗎？</dt>
+							<dd class="qa__list__a">根據法律規定，賣家必須提供身分證明文件，資料只用於確認用途，請放心。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">How long does it take for an in-store appraisal?</dt>
-							<dd class="qa__list__a">For a single item, the appraisal typically takes around 5 to 15
-								minutes, depending on the item and quantity. If the store is busy, there may be a wait,
-								so we recommend making a reservation in advance.</dd>
+							<dt class="qa__list__q">在店內評估需要多長時間？</dt>
+							<dd class="qa__list__a">單件物品的評估時間5-15分鐘，視商品數量而定。如遇店鋪繁忙，建議提前預約，以節省等待時間。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I make a reservation for in-store purchases?</dt>
-							<dd class="qa__list__a">Yes, reservations are possible. Feel free to contact us.</dd>
+							<dt class="qa__list__q">是否可預約門市收購？</dt>
+							<dd class="qa__list__a">可以，請隨時聯絡我們預約時間。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">What is the minimum age for purchasing?</dt>
-							<dd class="qa__list__a">Anyone aged 20 or older can apply. Customers aged 18 or 19 will need
-								to provide a consent form or power of attorney. We cannot process requests from
-								customers under 18.</dd>
+							<dt class="qa__list__q">最低收購年齡是多少？</dt>
+							<dd class="qa__list__a">18歲以上。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can vintage items like jewelry and bags be purchased?</dt>
-							<dd class="qa__list__a">We may decline items with difficult-to-repair damage, such as
-								scratches or stains. However, some items may still be eligible for high-value purchases,
-								so please consult us for more details.</dd>
+							<dt class="qa__list__q">是否收購舊款或有損傷的珠寶或包包？</dt>
+							<dd class="qa__list__a">視物品狀況而定，部分難以修復的物品可能無法收購，但也有高價收購的例子，建議洽詢。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Should I clean items with scratches or stains before bringing them
-								in?</dt>
-							<dd class="qa__list__a">Cleaning may negatively affect the appraisal value depending on the
-								method used. Please bring the item in as-is.</dd>
+							<dt class="qa__list__q">有污漬或損傷的物品，是否應清理後再交來？</dt>
+							<dd class="qa__list__a">有些清潔方法可能會影響商品的評估價值，建議直接交來不要自行處理。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">How is the appraisal amount determined?</dt>
-							<dd class="qa__list__a">The appraisal is based on factors such as the item’s market value,
-								design, size, and condition. You can refer to the listed purchase prices for famous
-								brands at the top of the page for guidance.</dd>
+							<dt class="qa__list__q">評估金額如何決定？</dt>
+							<dd class="qa__list__a">我們會根據市場行情、設計、尺寸和商品狀況等綜合因素決定。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can the appraisal amount over the phone differ from the purchase
-								price?</dt>
-							<dd class="qa__list__a">When appraising over the phone, the estimate is based on the
-								information you provide. The final appraisal may vary once the item is physically
-								assessed. For an accurate price, we recommend using "home visit purchase" or "in-store
-								purchase."</dd>
+							<dt class="qa__list__q">電話評估與實際收購價格會有落差嗎？</dt>
+							<dd class="qa__list__a">電話查詢時，我們根據您提供的資訊計算評估價格。
+								因此，實物評估後價格可能會有所變動。
+								若想獲得更準確的價格，建議使用「到府收購」或「門市收購」服務。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I request an appraisal without deciding whether to sell?</dt>
-							<dd class="qa__list__a">Yes, you can. We offer free appraisals, so feel free to consult us.
+							<dt class="qa__list__q">猶豫是否出售，能否只做評估？</dt>
+							<dd class="qa__list__a">可以，我們提供免費評估服務，歡迎隨時查詢。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I get an appraisal for just one item?</dt>
-							<dd class="qa__list__a">Yes, appraisals are available for a single item. If you bring in
-								multiple items, we also offer convenient bulk appraisals.</dd>
+							<dt class="qa__list__q">單件物品也能評估嗎？</dt>
+							<dd class="qa__list__a">可以，單件物品也可以評估。如果您攜帶多件物品，還可享有合併評估優惠。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Why do brand items retain their value and sell for high prices?</dt>
-							<dd class="qa__list__a">This is because the supply is unable to keep up with the high
-								demand. Even though brands have a relatively large circulation compared to other brand
-								items, the excessive demand often makes them difficult to obtain, naturally increasing
-								their price and significantly influencing the appraisal value.</dd>
+							<dt class="qa__list__q">為什麼名牌商品的價格較為穩定且收購價更高？</dt>
+							<dd class="qa__list__a">名牌商品的需求量遠超供應量，儘管流通量充足，但需求過高導致名牌商品難以獲得，價格自然會較高，這對評估價格有直接影響。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">How much can I sell a brand item for?</dt>
-							<dd class="qa__list__a">While the price can fluctuate based on the latest market trends,
-								brand items generally have very high asset value, meaning their prices are less likely
-								to drop.</dd>
+							<dt class="qa__list__q">名牌商品通常能賣多高價？</dt>
+							<dd class="qa__list__a">雖然價格會隨最新的收購市場行情波動，但名牌商品通常具有很高的資產價值，貶值幅度較小。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">When is the best time to sell a brand item?</dt>
-							<dd class="qa__list__a">The best time to sell a brand item can vary. It could be a good time
-								immediately or after waiting for the value to increase over time. It’s not always clear
-								when the ideal selling moment is. If you plan to store the item long-term before
-								selling, it's important to keep it in good condition and periodically maintain it using
-								proper storage methods.</dd>
+							<dt class="qa__list__q">名牌商品的最佳出售時機是什麼時候？</dt>
+							<dd class="qa__list__a">名牌商品的出售時機可能因市場而變化，有時立即出售較佳，有時持有一段時間能提高價值。
+								若選擇長期保管，建議定期保養，以維持最佳狀態。</dd>
 						</dl>
 					</div>
 				</div>
-				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa"> <span>View More</span> </div>
+				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa"> <span>查看更多</span> </div>
 			</section>
 			<div class="titleMain titleMain--wrapper">
-				<h2 class="titleMain--main"> <span>Introduction of Appraisers</span> </h2>
+				<h2 class="titleMain--main"> <span>鑑定師介紹</span> </h2>
 			</div>
 			<div class="content-inner">
 				<section id="shop-leader02">
@@ -2386,9 +2328,9 @@
 							<div class="shop-leader_profile relative">
 								<div class="shop-leader_head absolute">
 									<h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="font-size: 26px; font-family: serif;">Appraiser</span></h2>
+											style="font-size: 26px; font-family: serif;">鑑定師介紹</span></h2>
 									<h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Appraiser</span>
+											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">鑑定師介紹</span>
 									</h2>
 								</div>
 								<div class="shop-leader_head_shadow absolute">
@@ -2398,48 +2340,46 @@
 										src="../images/brand/25bd634c4c9a33639e17210a92b9927c.webp" alt=""></div>
 								<ul class="floatlist">
 									<li class="shop-leader_name sitetextcolor" style="font-family: serif;"> <span
-											class="noto ja" style="font-weight: bold;"> Shimodate</span><br>
+											class="noto ja" style="font-weight: bold;"> 下舘</span><br>
 										<span class="noto light en"></span>
 									</li>
 									<li class="shop-leader_info">
 										<table>
 											<tbody>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Hobby: </span> </th>
-													<td><span class="noto">Watching baseball</span></td>
+													<th class="sitetextcolor"> <span class="noto">趣味 : </span> </th>
+													<td><span class="noto">捧球觀戰</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Favorite phrase:
+													<th class="sitetextcolor"> <span class="noto">喜愛:
 														</span> </th>
-													<td><span class="noto">Single-minded effort</span></td>
+													<td><span class="noto">的詞句 一意攻苦</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Favorite brand:
+													<th class="sitetextcolor"> <span class="noto">喜愛:
 														</span> </th>
-													<td><span class="noto">Hermes</span></td>
+													<td><span class="noto">的品牌 愛馬仕</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Past purchase
-															examples: </span> </th>
-													<td><span class="noto">Birkin Himalayan</span></td>
+													<th class="sitetextcolor"> <span class="noto">過去的收購品例 : </span>
+													</th>
+													<td><span class="noto">Birkin 喜瑪拉亞</span></td>
 												</tr>
 											</tbody>
 										</table>
 									</li>
 								</ul>
 							</div>
-							<p class="shop-leader_text"> <span class="noto">Otakaraya conducts the appraisal of
-									thousands of brand items every day. Currently, Otakaraya has international sales
-									channels, allowing for purchases based on global standards. Due to the weak yen,
-									Otakaraya can now offer higher prices by selling abroad compared to before. We are
-									confident that our customers will be satisfied, so please feel free to use
-									Otakaraya's services.<br>
+							<p class="shop-leader_text"> <span
+									class="noto">OTAKARAYA每天評估數千件名牌商品。現在，OTAKARAYA擁有海外銷售渠道，可以進行世界標準的收購。由於目前日圓貶值，通過銷售到海外，
+									可以比以往更高價格收購。
+									我們對顧客的滿意度充滿信心，請務必使用OTAKARAYA的服務。<br>
 									<br>
-									At Otakaraya, we purchase not only brand-new and unused items but also those
-									purchased years ago, as well as items with damage or wear. In fact, there have been
-									many instances where items purchased more than 10 years ago were bought back at a
-									higher price than their original purchase price. If you have items lying around at
-									home, feel free to consult with us.</span> </p>
+									在OTAKARAYA，我們不僅回收全新未使用的物品，
+									還回收多年以前購買的商品、以及有損傷或磨損的物品，
+									不論狀態如何都可以進行回收。實際上，
+									我們曾多次成功以高於購買時的價格回收10年以上前購買的物品。
+									如果您家中有任何閒置的物品，歡迎隨時與我們聯繫！</span> </p>
 							<div class="shop-detail_button clearfix"> </div>
 						</div>
 					</div>

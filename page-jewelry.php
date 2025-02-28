@@ -287,7 +287,7 @@
 						</div>
 						<div class="jewelrySoubaBox">
 							<div class="jewelrySoubaBox__title">
-								<h3>Diamond Reference Purchase Price Chart</h3>
+								<h3>鑽石收購參考價格表</h3>
 							</div>
 							<div class="jewelrySoubaBox__body">
 								<div class="jewelrySoubaBox__table">
@@ -1031,295 +1031,295 @@
 											s: 'tbody th',
 											f: function ( idx ) {
 												return ( $( this ).html() === color_val ) ? idx : null},
-															},
-														};
-														var reachAdjust = 8;
+																																																																																																																																	},
+																																																																																																																																};
+																																																																																																																																var reachAdjust = 8;
 
-														var applyCellReach = true;
-
-
-														var ct_id = "#ct-" + vals.carat; //変更
-
-														var clarity = vals.clarity;
-														var cut = vals.cut;
-														var color = vals.color;
-														var reach_id = ct_id + "-" + clarity;
-														$reachWrap = $(reach_id);
-
-														point.x.s = 'thead th';
-														point.x.f = function(idx) {
-															return ($(this).hasClass(cut)) ? idx : null;
-														};
-														point.y.s = 'tbody td[class*="color"]';
-														point.y.f = function(idx) {
-															return ($(this).html() === color) ? idx : null;
-														};
-
-														reachAdjust = 5;
-
-														applyCellReach = false;
+																																																																																																																																var applyCellReach = true;
 
 
-														if (!$reachWrap.length) return;
+																																																																																																																																var ct_id = "#ct-" + vals.carat; //変更
 
-														var $table = $('table');
-														var x = $table.find(point.x.s).map(point.x.f).get(0);
-														var y = $table.find(point.y.s).map(point.y.f).get(0);
-														var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
-														reachScorllIfSp();
+																																																																																																																																var clarity = vals.clarity;
+																																																																																																																																var cut = vals.cut;
+																																																																																																																																var color = vals.color;
+																																																																																																																																var reach_id = ct_id + "-" + clarity;
+																																																																																																																																$reachWrap = $(reach_id);
 
-														applyCellReach = (y > 0 && applyCellReach) || false;
+																																																																																																																																point.x.s = 'thead th';
+																																																																																																																																point.x.f = function(idx) {
+																																																																																																																																	return ($(this).hasClass(cut)) ? idx : null;
+																																																																																																																																};
+																																																																																																																																point.y.s = 'tbody td[class*="color"]';
+																																																																																																																																point.y.f = function(idx) {
+																																																																																																																																	return ($(this).html() === color) ? idx : null;
+																																																																																																																																};
 
-														var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
-														reach = reach - $priceWrap.position().top;
-														reach = $priceWrap.scrollTop() + reach - reachAdjust;
+																																																																																																																																reachAdjust = 5;
 
-														// スクロール
-														// reachScroll(reach, cell);
-														$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
-															'<span class="value">HK$</span>');
-														$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
-															'<span class="value">HK$</span>');
-
-														daiya_calc = cell.text();
-														daiya_calc = daiya_calc.replace(/en/g, '');
-														daiya_calc = daiya_calc.replace(/,/g, '');
-														daiya_calc = Number(daiya_calc);
-														simulation_select_val = $("#simulation_select").val();
-														simulation_select_val = simulation_select_val.replace(/,/g, '');
-														simulation_select_val = Number(simulation_select_val);
-														weight_val = $("#weight").val();
-														weight_val = Number(weight_val);
-														simulation_select_val = simulation_select_val * weight_val;
-														gold_daiya_calc = simulation_select_val + daiya_calc;
-														gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
-														$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
-
-													});
-												}
-
-												// Initial setup
-												updateElementsAndEvents('tab2');
-
-												// Event handlers
-												$(".price_table_contents_nav2").on('click', function() {
-													updateElementsAndEvents('tab1');
-												});
-
-												$(".price_table_contents_nav1").on('click', function() {
-													updateElementsAndEvents('tab2');
-												});
+																																																																																																																																applyCellReach = false;
 
 
-												// new
-												// ページロード時に価格データを取得
-												var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
-												var prices = {};
-												for (var i = 0; i < carat_num.length; i++) {
-													var label = carat_num[i]['label'];
-													var id = "#ct-" + label + "-if";
-													var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
-													prices[label] = price;
-												}
+																																																																																																																																if (!$reachWrap.length) return;
 
-												function updatePrice(carat, target) {
-													var price = prices[carat];
-													if (price) {
-														$(target).html(price + '<span class="value">HK$</span>');
-													}
-												}
+																																																																																																																																var $table = $('table');
+																																																																																																																																var x = $table.find(point.x.s).map(point.x.f).get(0);
+																																																																																																																																var y = $table.find(point.y.s).map(point.y.f).get(0);
+																																																																																																																																var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
+																																																																																																																																reachScorllIfSp();
 
-												$("#carat_only_btn1").on('click', function() {
-													var carat_only_price_area = $("#carat_only_price_area select").val();
-													updatePrice(carat_only_price_area, "#carat_only_price");
-												});
+																																																																																																																																applyCellReach = (y > 0 && applyCellReach) || false;
 
-												$(document).on('click', '#carat_only_btn2', function() {
-													var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
-													console.log("Selected carat: ", carat_only_price_area2);
-													updatePrice(carat_only_price_area2, "#carat_only_price2");
+																																																																																																																																var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
+																																																																																																																																reach = reach - $priceWrap.position().top;
+																																																																																																																																reach = $priceWrap.scrollTop() + reach - reachAdjust;
 
-													var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
-													var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
-													var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
-													var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
+																																																																																																																																// スクロール
+																																																																																																																																// reachScroll(reach, cell);
+																																																																																																																																$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
+																																																																																																																																	'<span class="value">HK$</span>');
+																																																																																																																																$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
+																																																																																																																																	'<span class="value">HK$</span>');
 
-													var goldCalcPrice = goldPriceVal * weight;
-													if (isNaN(goldCalcPrice)) {
-														goldCalcPrice = 0;
-													}
-													// var total = caratPrice + answer2 + goldCalcPrice;
-													var total = caratPrice + answer2;
+																																																																																																																																daiya_calc = cell.text();
+																																																																																																																																daiya_calc = daiya_calc.replace(/en/g, '');
+																																																																																																																																daiya_calc = daiya_calc.replace(/,/g, '');
+																																																																																																																																daiya_calc = Number(daiya_calc);
+																																																																																																																																simulation_select_val = $("#simulation_select").val();
+																																																																																																																																simulation_select_val = simulation_select_val.replace(/,/g, '');
+																																																																																																																																simulation_select_val = Number(simulation_select_val);
+																																																																																																																																weight_val = $("#weight").val();
+																																																																																																																																weight_val = Number(weight_val);
+																																																																																																																																simulation_select_val = simulation_select_val * weight_val;
+																																																																																																																																gold_daiya_calc = simulation_select_val + daiya_calc;
+																																																																																																																																gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
+																																																																																																																																$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
 
-													$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
-												});
+																																																																																																																															});
+																																																																																																																														}
 
+																																																																																																																														// Initial setup
+																																																																																																																														updateElementsAndEvents('tab2');
 
-												$(".price_table_contents_nav").on('click', function() {
-													$("#price_table_contents1 #price_table_calc").text("0");
-													$("#price_table_contents2 #price_table_calc").text("0");
-												});
+																																																																																																																														// Event handlers
+																																																																																																																														$(".price_table_contents_nav2").on('click', function() {
+																																																																																																																															updateElementsAndEvents('tab1');
+																																																																																																																														});
 
-												// タブ処理
-												$("a[href='#price_table_contents2']").on('click', function() {
-													$(".arrow_bottom_daiya_default").css("display", "block");
-													$(".arrow_bottom_gold_default").css("display", "none");
-													$(".arrow_bottom_gold").css("display", "block");
-													$(".arrow_bottom_daiya").css("display", "none");
-													$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
-													$(".prompt_text_daiya").css("display", "none");
-													$(".prompt_text_gold").css("display", "block");
-												});
-												$("a[href='#price_table_contents1']").on('click', function() {
-													$(".arrow_bottom_daiya_default").css("display", "none");
-													$(".arrow_bottom_daiya").css("display", "block");
-													$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
-													$(".prompt_text_gold").css("display", "none");
-													$(".prompt_text_daiya").css("display", "block");
-												});
-												let clone1 = $(".calc_area").clone();
-												$(".cloned_gold_calc").append(clone1);
+																																																																																																																														$(".price_table_contents_nav1").on('click', function() {
+																																																																																																																															updateElementsAndEvents('tab2');
+																																																																																																																														});
 
 
-											});
-											const ua = navigator.userAgent;
-											if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
+																																																																																																																														// new
+																																																																																																																														// ページロード時に価格データを取得
+																																																																																																																														var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
+																																																																																																																														var prices = {};
+																																																																																																																														for (var i = 0; i < carat_num.length; i++) {
+																																																																																																																															var label = carat_num[i]['label'];
+																																																																																																																															var id = "#ct-" + label + "-if";
+																																																																																																																															var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
+																																																																																																																															prices[label] = price;
+																																																																																																																														}
 
-												// タブ処理
-												$("a[href='#price_table_contents2']").on('click', function() {
-													$("#tablelistbox h2").css("margin-top", "680px");
-													$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
-													$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
-												});
-												$("a[href='#price_table_contents1']").on('click', function() {
-													$("#tablelistbox h2").css("margin-top", "160%");
-												});
+																																																																																																																														function updatePrice(carat, target) {
+																																																																																																																															var price = prices[carat];
+																																																																																																																															if (price) {
+																																																																																																																																$(target).html(price + '<span class="value">HK$</span>');
+																																																																																																																															}
+																																																																																																																														}
 
-											} else {
-												// pc
+																																																																																																																														$("#carat_only_btn1").on('click', function() {
+																																																																																																																															var carat_only_price_area = $("#carat_only_price_area select").val();
+																																																																																																																															updatePrice(carat_only_price_area, "#carat_only_price");
+																																																																																																																														});
 
+																																																																																																																														$(document).on('click', '#carat_only_btn2', function() {
+																																																																																																																															var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
+																																																																																																																															console.log("Selected carat: ", carat_only_price_area2);
+																																																																																																																															updatePrice(carat_only_price_area2, "#carat_only_price2");
 
-												jQuery(document).ready(function($) {
-													input_width = $(".otkr-plicelist #searchbox p input").width();
-													text_width = 130
-													arrow_width = 15;
-													margin_width = 10;
-													arrow_text_width = text_width + arrow_width + margin_width;
-													arrow_text_width_calc = input_width - arrow_text_width;
-													arrow_text_width_calc = arrow_text_width_calc / 2;
-													arrow_text_width_calc = arrow_text_width_calc + 22;
-													$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
-												});
+																																																																																																																															var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
+																																																																																																																															var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
+																																																																																																																															var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
+																																																																																																																															var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
 
+																																																																																																																															var goldCalcPrice = goldPriceVal * weight;
+																																																																																																																															if (isNaN(goldCalcPrice)) {
+																																																																																																																																goldCalcPrice = 0;
+																																																																																																																															}
+																																																																																																																															// var total = caratPrice + answer2 + goldCalcPrice;
+																																																																																																																															var total = caratPrice + answer2;
 
-												// タブ処理
-												$("a[href='#price_table_contents2']").on('click', function() {
-													var windowWidth = $(window).width();
-
-													if (windowWidth >= 1361) {
-														$("#tablelistbox > h2").css("margin-top", "650px");
-													} else {
-														$("#tablelistbox > h2").css("margin-top", "650px");
-													}
-
-												});
-												$("a[href='#price_table_contents1']").on('click', function() {
-													$("#tablelistbox > h2").css("margin-top", "400px");
-
-												});
-											}
-
-										});
-									</script>
-
-									<script>
-										document.addEventListener('DOMContentLoaded', function() {
-
-											function multi(selectId, weightId, answerId, answerCpId) {
-												var text = jQuery('#' + selectId + ' option:selected').val();
-												if (text === undefined) {
-													console.error('No selected option found for #' + selectId);
-													return;
-												}
-
-												var removed = text.replace(/,/g, '');
-												var num = parseInt(removed, 10);
-												var weight = jQuery("#" + weightId).val();
-
-												if (num) {
-													if (weight) {
-														var _up = 0;
-
-														var answer_cp = num * weight + _up * weight;
-														answer_cp = Math.round(answer_cp).toLocaleString();
-														jQuery('#' + answerCpId).text(answer_cp);
-
-														var answer = num * weight;
-														answer = Math.round(answer).toLocaleString();
-
-														// ここで値を確認
-														console.log("Calculated Answer:", answer);
-
-														// 1. `val()` で `input` の値を設定
-														jQuery('#' + answerId).val("HK$ " + answer);
-
-														// 2. `setAttribute` も試してみる
-														document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
-
-														// 値が正しくセットされたか確認
-														console.log("Updated Input Value:", jQuery('#' + answerId).val());
-													}
-												}
-											}
+																																																																																																																															$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
+																																																																																																																														});
 
 
+																																																																																																																														$(".price_table_contents_nav").on('click', function() {
+																																																																																																																															$("#price_table_contents1 #price_table_calc").text("0");
+																																																																																																																															$("#price_table_contents2 #price_table_calc").text("0");
+																																																																																																																														});
 
-											jQuery(document).on('change', '#simulation_select', function() {
-												multi('simulation_select', 'weight', 'answer', 'answer_cp');
-											});
+																																																																																																																														// タブ処理
+																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																															$(".arrow_bottom_daiya_default").css("display", "block");
+																																																																																																																															$(".arrow_bottom_gold_default").css("display", "none");
+																																																																																																																															$(".arrow_bottom_gold").css("display", "block");
+																																																																																																																															$(".arrow_bottom_daiya").css("display", "none");
+																																																																																																																															$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
+																																																																																																																															$(".prompt_text_daiya").css("display", "none");
+																																																																																																																															$(".prompt_text_gold").css("display", "block");
+																																																																																																																														});
+																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																															$(".arrow_bottom_daiya_default").css("display", "none");
+																																																																																																																															$(".arrow_bottom_daiya").css("display", "block");
+																																																																																																																															$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
+																																																																																																																															$(".prompt_text_gold").css("display", "none");
+																																																																																																																															$(".prompt_text_daiya").css("display", "block");
+																																																																																																																														});
+																																																																																																																														let clone1 = $(".calc_area").clone();
+																																																																																																																														$(".cloned_gold_calc").append(clone1);
 
-											jQuery(document).on('change', '#weight', function() {
-												multi('simulation_select', 'weight', 'answer', 'answer_cp');
-											});
 
-											jQuery(document).on('change', '#simulation_select2', function() {
-												multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-											});
+																																																																																																																													});
+																																																																																																																													const ua = navigator.userAgent;
+																																																																																																																													if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
 
-											jQuery(document).on('change', '#weight2', function() {
-												multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-											});
+																																																																																																																														// タブ処理
+																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																															$("#tablelistbox h2").css("margin-top", "680px");
+																																																																																																																															$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
+																																																																																																																															$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
+																																																																																																																														});
+																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																															$("#tablelistbox h2").css("margin-top", "160%");
+																																																																																																																														});
 
-											jQuery(function() {
-												jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
-													var month = parseInt(jQuery(this).val());
-													var monthMax = parseInt(jQuery(this).attr('max'));
-													var monthMin = parseInt(jQuery(this).attr('min'));
-													if (month > monthMax) {
-														jQuery(this).val(monthMax);
-													}
-													if (month < monthMin) {
-														jQuery(this).val(monthMin);
-													}
-												});
-											});
-										});
-									</script>
+																																																																																																																													} else {
+																																																																																																																														// pc
 
-									<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
-									<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-									<script src="/rate_files_v2/japanese-holidays.min.js"></script>
-									<script src="/rate_files_v2/price_load_ex.js"></script>
-									<script>
-										//crossdomainのphpファイルのアップ先URL
-										const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
-										//データを反映したいDOM要素のID
-										const dom_id = ["#price", "#simulation", "#todayprice"];
-										Vue.use(PriceLoad, {
-											_file: crossdomain_file,
-											_dom: dom_id
-										});
-									</script>
+
+																																																																																																																														jQuery(document).ready(function($) {
+																																																																																																																															input_width = $(".otkr-plicelist #searchbox p input").width();
+																																																																																																																															text_width = 130
+																																																																																																																															arrow_width = 15;
+																																																																																																																															margin_width = 10;
+																																																																																																																															arrow_text_width = text_width + arrow_width + margin_width;
+																																																																																																																															arrow_text_width_calc = input_width - arrow_text_width;
+																																																																																																																															arrow_text_width_calc = arrow_text_width_calc / 2;
+																																																																																																																															arrow_text_width_calc = arrow_text_width_calc + 22;
+																																																																																																																															$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
+																																																																																																																														});
+
+
+																																																																																																																														// タブ処理
+																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																															var windowWidth = $(window).width();
+
+																																																																																																																															if (windowWidth >= 1361) {
+																																																																																																																																$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																															} else {
+																																																																																																																																$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																															}
+
+																																																																																																																														});
+																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																															$("#tablelistbox > h2").css("margin-top", "400px");
+
+																																																																																																																														});
+																																																																																																																													}
+
+																																																																																																																												});
+																																																																																																																											</script>
+
+																																																																																																																											<script>
+																																																																																																																												document.addEventListener('DOMContentLoaded', function() {
+
+																																																																																																																													function multi(selectId, weightId, answerId, answerCpId) {
+																																																																																																																														var text = jQuery('#' + selectId + ' option:selected').val();
+																																																																																																																														if (text === undefined) {
+																																																																																																																															console.error('No selected option found for #' + selectId);
+																																																																																																																															return;
+																																																																																																																														}
+
+																																																																																																																														var removed = text.replace(/,/g, '');
+																																																																																																																														var num = parseInt(removed, 10);
+																																																																																																																														var weight = jQuery("#" + weightId).val();
+
+																																																																																																																														if (num) {
+																																																																																																																															if (weight) {
+																																																																																																																																var _up = 0;
+
+																																																																																																																																var answer_cp = num * weight + _up * weight;
+																																																																																																																																answer_cp = Math.round(answer_cp).toLocaleString();
+																																																																																																																																jQuery('#' + answerCpId).text(answer_cp);
+
+																																																																																																																																var answer = num * weight;
+																																																																																																																																answer = Math.round(answer).toLocaleString();
+
+																																																																																																																																// ここで値を確認
+																																																																																																																																console.log("Calculated Answer:", answer);
+
+																																																																																																																																// 1. `val()` で `input` の値を設定
+																																																																																																																																jQuery('#' + answerId).val("HK$ " + answer);
+
+																																																																																																																																// 2. `setAttribute` も試してみる
+																																																																																																																																document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
+
+																																																																																																																																// 値が正しくセットされたか確認
+																																																																																																																																console.log("Updated Input Value:", jQuery('#' + answerId).val());
+																																																																																																																															}
+																																																																																																																														}
+																																																																																																																													}
+
+
+
+																																																																																																																													jQuery(document).on('change', '#simulation_select', function() {
+																																																																																																																														multi('simulation_select', 'weight', 'answer', 'answer_cp');
+																																																																																																																													});
+
+																																																																																																																													jQuery(document).on('change', '#weight', function() {
+																																																																																																																														multi('simulation_select', 'weight', 'answer', 'answer_cp');
+																																																																																																																													});
+
+																																																																																																																													jQuery(document).on('change', '#simulation_select2', function() {
+																																																																																																																														multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
+																																																																																																																													});
+
+																																																																																																																													jQuery(document).on('change', '#weight2', function() {
+																																																																																																																														multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
+																																																																																																																													});
+
+																																																																																																																													jQuery(function() {
+																																																																																																																														jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
+																																																																																																																															var month = parseInt(jQuery(this).val());
+																																																																																																																															var monthMax = parseInt(jQuery(this).attr('max'));
+																																																																																																																															var monthMin = parseInt(jQuery(this).attr('min'));
+																																																																																																																															if (month > monthMax) {
+																																																																																																																																jQuery(this).val(monthMax);
+																																																																																																																															}
+																																																																																																																															if (month < monthMin) {
+																																																																																																																																jQuery(this).val(monthMin);
+																																																																																																																															}
+																																																																																																																														});
+																																																																																																																													});
+																																																																																																																												});
+																																																																																																																											</script>
+
+																																																																																																																											<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
+																																																																																																																											<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+																																																																																																																											<script src="/rate_files_v2/japanese-holidays.min.js"></script>
+																																																																																																																											<script src="/rate_files_v2/price_load_ex.js"></script>
+																																																																																																																											<script>
+																																																																																																																												//crossdomainのphpファイルのアップ先URL
+																																																																																																																												const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
+																																																																																																																												//データを反映したいDOM要素のID
+																																																																																																																												const dom_id = ["#price", "#simulation", "#todayprice"];
+																																																																																																																												Vue.use(PriceLoad, {
+																																																																																																																													_file: crossdomain_file,
+																																																																																																																													_dom: dom_id
+																																																																																																																												});
+																																																																																																																											</script>
 
 			<?php } ?>
 
@@ -1334,14 +1334,12 @@
 					<img class="renew_2024_dia_title_r_leaf"
 						src="../images/daiya/dialeaf_r_202404.png">
 					<p>
-						Diamond <span>Reference Purchase Price</span>
+					鑽石參考價格
 					</p>
 				</h2>
 				<div class="renew_2024_dia_title_lead">
 					<p>
-						Please note that the reference purchase prices
-						may fluctuate depending on the timing and market conditions.
-						Feel free to contact us for more information.
+					收購參考金額會依市場行情與時期變動，歡迎隨時洽詢。
 					</p>
 				</div>
 			</div>
@@ -1353,15 +1351,15 @@
 					<div class="renew_2024_tabbox wd_active"><img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 							src="../images/daiya/arrow_b_wh.png"><img
 							class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-							src="../images/daiya/arrow_b_br.png">Rings</div>
+							src="../images/daiya/arrow_b_br.png">戒指</div>
 					<div class="renew_2024_tabbox"><img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 							src="../images/daiya/arrow_b_wh.png"><img
 							class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-							src="../images/daiya/arrow_b_br.png">Necklaces</div>
+							src="../images/daiya/arrow_b_br.png">項鍊</div>
 					<div class="renew_2024_tabbox"><img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 							src="../images/daiya/arrow_b_wh.png"><img
 							class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-							src="../images/daiya/arrow_b_br.png">Bracelets</div>
+							src="../images/daiya/arrow_b_br.png">手鐲</div>
 					<div class="renew_2024_tabbox"><img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 							src="../images/daiya/arrow_b_wh.png"><img
 							class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
@@ -1539,8 +1537,8 @@
 								</a></div>
 						</div>
 						<div class="flex_annitation">
-							*Images are for illustration purposes only.<br>
-							*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+							※圖片僅供參考<br>
+							※附有保證書及完整配件的產品收購參考價格
 						</div>
 
 						<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a> -->
@@ -1774,8 +1772,8 @@
 							</a></div>
 					</div>
 					<div class="flex_annitation">
-						*Images are for illustration purposes only.<br>
-						*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+						※圖片僅供參考<br>
+						※附有保證書及完整配件的產品收購參考價格
 					</div>
 
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -1953,8 +1951,8 @@
 							</a></div>
 					</div>
 					<div class="flex_annitation">
-						*Images are for illustration purposes only.<br>
-						*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+						※圖片僅供參考<br>
+						※附有保證書及完整配件的產品收購參考價格
 					</div>
 
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -2133,8 +2131,8 @@
 						</div>
 					</div>
 					<div class="flex_annitation">
-						*Images are for illustration purposes only.<br>
-						*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+						※圖片僅供參考<br>
+						※附有保證書及完整配件的產品收購參考價格
 					</div>
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a></div> -->
 				</div>
@@ -2145,12 +2143,11 @@
 			<section>
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleMain--main">
-						Diamond <span>Reference Purchase Price</span>
+						鑽石參考價格
 					</h2>
 					<div class="titleMain--lead">
 						<p>
-							Please note that the reference purchase prices may fluctuate depending
-							on the timing and market conditions. Feel free to contact us for more information.
+						收購參考金額會依市場行情與時期變動，歡迎隨時洽詢。
 						</p>
 					</div>
 				</div>
@@ -2158,9 +2155,9 @@
 					<!-- タブメニュー -->
 					<ul class="flex__tab is-pc">
 						<!-- タブ部分 -->
-						<li class="tab__item active"><a>Rings</a></li>
-						<li class="tab__item "><a>Necklaces</a></li>
-						<li class="tab__item "><a>Bracelets</a></li>
+						<li class="tab__item active"><a>戒指</a></li>
+						<li class="tab__item "><a>項鍊</a></li>
+						<li class="tab__item "><a>手鐲</a></li>
 						<li class="tab__item "><a>brooch</a></li>
 					</ul>
 					<!-- スライダー部分 -->
@@ -2409,8 +2406,8 @@
 
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -2736,8 +2733,8 @@
 
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -2982,8 +2979,8 @@
 
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -3228,8 +3225,8 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*Images are for illustration purposes only.<br>
-								*The reference purchase prices are for items that come with the guarantee (warranty) and accessories.
+								※圖片僅供參考<br>
+								※附有保證書及完整配件的產品收購參考價格
 							</div>
 						</div>
 					</div>
@@ -3250,12 +3247,14 @@
 						</h2>
 						<div class="titleMain--lead">
 							<p>
-								Many people know that the value of a diamond is determined by its carat weight. However,
-								its value is also influenced by the other 4Cs: cut, clarity, and color.
+								許多人可能知道鑽石的價值是
+由「克拉」決定的，但其實其他4C指標，如切工、
+淨度和顏色也會影響其價值。
 								<br><br>
-								Additionally, factors such as brand, design, condition, and the presence of accessories
-								can also impact its value. At Otakaraya, we not only evaluate the 4Cs but also carefully
-								assess these additional factors to offer the highest possible purchase price.
+								此外，品牌、設計、狀態和是否有附屬品等因素
+也會影響價格。在OTAKARAYA，
+我們不僅評估4C，還會充分考量這些附加價值，
+為客人提供最高的收購金額。
 							</p>
 						</div>
 					</div>
@@ -3264,7 +3263,7 @@
 						<div class="fshoplist-target__list brand_about_repeat_parent_wrap open is_table">
 							<div class="fshoplist-target--ttl">
 								<h3 class="titleSub">
-									Factors That Determine the Value of a Diamond
+								決定鑽石價值的因素
 								</h3>
 							</div>
 							<div class="fshoplist-target--item ">
@@ -3273,12 +3272,18 @@
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">Carat</h4>
 											<div class="points_content_text">
-												<p>Carat is a unit of weight for gemstones, and 1 carat (ct) is equivalent to 0.2 grams. In the case of diamonds, certificates issued by domestic gemological and appraisal institutions provide precise measurements up to three decimal places, although in general transactions, it is often rounded to two decimal places.<br><br>
+												<p>克拉是表示寶石重量的單位，1克拉（ct）相當於0.2克。特別是在鑽石領域，國內的鑑定機構所發行的鑑定書會精確標示至小數點後三位，而在一般交易中，通常標示至小數點後兩位。<br><br>
 
-													As the carat weight increases, the rarity of the gemstone also increases, causing its price to rise significantly. Even with diamonds of the same quality, when the carat weight doubles, the price does not necessarily double. Especially for round figures like 0.5ct or 1.0ct, the price tends to rise sharply.<br><br>
-
-													In the ideal cut of a round brilliant cut, the relationship between carat weight and size is as follows: A 0.1ct diamond has a diameter of approximately 3.0mm, a 0.5ct diamond is about 5.2mm, and a 1.0ct diamond measures around 6.5mm.
-												</p>
+												隨著克拉數的增加，寶石的稀有價值也會提高，
+價格因此急劇上升。
+即使是相同品質的鑽石，當克拉數增加至原本的兩倍時，
+價格並不一定只是單純的兩倍。
+特別是在 0.5 克拉或 1.0 克拉等整數區間的尺寸時，
+價格往往會大幅上升。
+在理想的圓形明亮式切工（Round Brilliant Cut）中，
+克拉數與尺寸之間的關係如下：0.1 克拉的鑽石直徑約為 3.0mm，
+0.5 克拉約為 5.2mm，
+而 1.0 克拉則約為 6.5mm。												</p>
 												<div class="horizonlist--captionImg">
 													<img src="../images/daiya/2024_diamond_carat_translation.webp" alt="Carat">
 												</div>
@@ -3295,15 +3300,38 @@
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">Cut</h4>
 											<div class="points_content_text">
-												<p>Cut is a crucial factor in maximizing a diamond's brilliance. A diamond with an excellent cut reflects light effectively, producing a beautiful sparkle. The cut is evaluated on a scale from 'Excellent' to 'Poor' in five grades.<br><br>
+												<p>切工（Cut）是鑽石能夠最大程度展現璀璨光芒的關鍵因素。
+經過優秀切工的鑽石能夠有效地反射光線，
+展現出耀眼的光輝。
+鑽石的切工評級分為 「Excellent（極優）」至「Poor（較差）」
+五個等級。<br><br>
 
-													The evaluation is divided into two categories: 'Proportion' and 'Finish.' Proportion refers to the size, ratio, and angles of the facets in a round brilliant cut. There is an 'ideal shape' for this cut that maximizes brilliance, and diamonds are classified into five grades based on how close they come to this ideal.<br><br>
+切工的評估主要分為兩個部分：
+「比例（Proportion）」與「修飾度（Finish）」。「比例」是指圓形明亮式切工（Round Brilliant Cut）中，各個切面的大小、比例與角度是否符合理想標準。這種切工有一種能夠最大化光線折射與反射的「理想比例」，鑽石的切工等級便是根據其與理想形狀的接近程度，分為五個等級進行評估。
 
-													Next, Finish is further divided into 'Polish' and 'Symmetry.' Polish evaluates the quality of the diamond's polish, while Symmetry assesses the arrangement and symmetry of the facets, both on a five-grade scale.<br><br>
 
-													In this way, the cut evaluation is done based on 'Proportion,' 'Polish,' and 'Symmetry.' Diamonds that receive the highest rating of 'Excellent' in all these areas are particularly referred to as '3EX' (Triple Excellent). Additionally, diamonds that meet certain criteria may exhibit a 'Hearts and Arrows' pattern, a feature seen in diamonds with the 'Heart & Cupid' trademark.<br><br>
+這兩個要素也各自被評為五個等級。<br><br>
 
-													Diamonds with '3EX' or 'Hearts & Arrows' are considered the highest grade, with their brilliance easily visible to the naked eye and receiving high acclaim for their exceptional cut.</p>
+修飾度（Finish）：「修飾度」進一步細分為拋光（Polish） 和
+對稱性（Symmetry）。
+拋光（Polish）：指鑽石表面的打磨
+程度，影響光線的反射與透射效果。
+對稱性（Symmetry）：指各個切面的位置與對稱度，影響鑽石的整體均衡與光學效果。
+這兩個要素也各自被評為五個等級。<br><br>
+
+因此，鑽石的切工評價是根據「比例（Proportion）」、
+「拋光（Polish）」、「對稱性（Symmetry）」這三個項目
+來進行評定。
+如果一顆鑽石在這三個項目中都獲得最高等級的「Excellent」，
+則被稱為「3EX（Triple Excellent，三重完美）」，
+代表其擁有頂級切工品質。
+此外，符合特定條件的鑽石可能會呈現出心形與箭矢圖案
+（Heart & Cupid, H&C），
+這種特徵進一步證明其擁有卓越的對稱性與光學效果。<br><br>
+
+擁有「3EX」或「哈特＆丘比特（H&C）」特徵的鑽石，
+其璀璨光輝可用肉眼清晰可見，
+被評為最高級的切工，並在市場上享有極高的評價。</p>
 												<div class="horizonlist--captionImg">
 													<!-- <span>02</span> -->
 													<img src="../images/daiya/2024_diamond_cut.webp" alt="Cut">
@@ -3319,20 +3347,24 @@
 									<div class="horizonlist--link">
 
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Clarity</h4>
+											<h4 class="titleH4 title--left">擇淨度</h4>
 											<div class="points_content_text">
-												<p>Diamonds typically contain minute inclusions (internal characteristics) or surface blemishes. The extent of these inclusions and surface features is evaluated as 'clarity.' Skilled gemologists use a 10x loupe to inspect the diamond, and based on the severity of these characteristics, the clarity is ranked in 11 levels.<br><br>
+												<p>鑽石通常含有微小的內部包裹體（Inclusion）或表面特徵
+（Blemish）。這些內部包裹體與表面特徵的程度被用來評估淨度
+（Clarity），並由經驗豐富的鑑定師使用 10 倍放大鏡進行檢查，
+根據其可見程度將鑽石的淨度分為 11 個等級。<br><br>
 
-													Clarity is graded from the highest transparency, 'FL' (Flawless), to the lowest, 'I3', as follows.<br><br>
+淨度（Clarity）**的評級從最高的「FL（Flawless，無瑕級）」到
+最低的「I3（Included 3，內含物明顯級）」，具體分級如下：<br><br>
 
-													FL (Flawless): No inclusions or blemishes are visible under 10x magnification, even by a skilled gemologist.<br>
-													IF (Internally Flawless): No inclusions are visible under 10x magnification, only minor blemishes are detected.<br>
-													VVS1/VVS2 (Very, Very Slightly Included): Inclusions are extremely difficult to detect under 10x magnification.<br>
-													VS1/VS2 (Very Slightly Included): Minor inclusions are visible under 10x magnification.<br>
-													SI1/SI2 (Slightly Included): Inclusions are clearly visible under 10x magnification.<br>
-													I1/I2/I3 (Included): Inclusions are visible under 10x magnification or even to the naked eye, significantly affecting the diamond's clarity.<br><br>
+FL（無瑕）：即使由經驗豐富的鑑定師在 10 倍放大鏡下觀察，也看不到內含物或表面瑕疵。<br>
+IF（內部無瑕）：10 倍放大鏡下看不到內含物，只能看到輕微的表面瑕疵。<br>
+VVS1/VVS2（極輕微內含物）：在 10 倍放大鏡下很難找到內含物。<br>
+VS1/VS2（輕微內含物）：在 10 倍放大鏡下可以看到輕微內含物。<br>
+SI1/SI2（微內含物）：10 倍放大鏡下可清晰看到內含物。<br>
+I1/I2/I3（有明顯內含物）：在10倍放大鏡下或用肉眼可以看到內含物，這大大影響了鑽石的淨度。<br><br>
 
-													Clarity grading is not determined solely by the size of the inclusions, but takes into account various factors such as the number, location, type, visibility, and color of the inclusions.</p>
+淨度評估不僅取決於內含物的大小，還要綜合考慮「數量、位置、種類、可見度、顏色」等諸多因素從而決定。</p>
 												<div class="horizonlist--captionImg">
 													<!-- <span>03</span> -->
 													<img src="../images/daiya/2024_diamond_clarity.webp"
@@ -3349,13 +3381,36 @@
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">Color</h4>
 											<div class="points_content_text">
-												<p>Diamonds are graded for color on a scale from D to Z. The grading starts with D, which represents diamonds that are closest to colorless, and the scale progresses as the diamond's color deepens, ultimately reaching Z. The closer a diamond is to D, the higher its value, and as the color becomes more pronounced, its grade tends to decrease.<br><br>
+												<p>鑽石的顏色（Color）評級範圍從 D 到 Z，按照顏色的深淺程度進
+行分類。D 色級代表完全無色，是最高等級，最為稀有且價值最
+高。隨著顏色等級向 Z 發展，黃色或棕色調會變得更加明顯，整
+體價值也相對降低。<br><br>
 
-													This color grading of the 4Cs mainly applies to yellow and brown hues. Diamonds with other colors, such as pink or blue, are referred to as 'fancy colored diamonds' and are evaluated based on different criteria rather than the 4Cs. If a diamond's color exceeds Z, it is also classified as a fancy colored diamond.<br><br>
+4C 中的顏色（Color）評級主要適用於黃調至棕調的鑽石。若鑽石
+呈現粉紅、藍色等其他顏色，則被歸類為「彩色鑽石（Fancy
+Color Diamond）」，其品質不再依照 4C 標準評估，而是依照不
+同的標準來衡量價值與稀有性。此外，當鑽石的顏色超過 Z 級，
+即顏色變得更加濃烈時，該鑽石也會被視為彩色鑽石（Fancy
+Color Diamond），不再適用於傳統的 D-Z 顏色分級體系，而是根
+據顏色的濃度與飽和度來進行評估。<br><br>
 
-													In general, diamonds with yellow or brownish hues are considered less valuable, but once they reach the level of fancy colored diamonds, their rarity can increase their value. As a result, yellow diamonds with a color deeper than Z can often trade for more than colorless D diamonds due to their scarcity.<br><br>
+一般而言，帶有黃色或棕色調的鑽石通常被認為價值較低。然
+而，當顏色達到足以被歸類為彩色鑽石（Fancy Color Diamond）
+的程度時，因其稀有性反而會受到高度評價。因此，顏色超過 Z
+級的黃鑽（即彩黃鑽）通常比 D 色級的無色鑽石更為稀有，並且
+市場價格往往更高。這是因為濃艷的彩黃鑽屬於珍稀的「彩鑽
+（Fancy Diamond）」，其價值不再依據傳統 4C 標準，而是取決
+於顏色的濃度、飽和度與稀有性。<br><br>
 
-													Additionally, you may have heard that a diamond's 'fluorescence' can affect its color grading. However, this has little actual impact on the grade. Fluorescence refers to the bluish glow emitted by a diamond when exposed to ultraviolet light. Since the 4C color grading is based on yellow tones, fluorescence can affect the appearance of the diamond's color. However, unless the fluorescence is extremely strong, it doesn't significantly influence the overall grade.
+此外，你可能聽說過鑽石的「螢光反應（Fluorescence）」會影響顏色評級，
+但實際上，這種影響幾乎可以忽略不計。
+螢光性是指鑽石在紫外線（UV）照射下發出的藍白色光芒。由於
+4C 顏色評級主要針對黃調色階，當鑽石帶有藍色螢光時，可能會
+在某些光線環境下視覺上略微降低黃色調，但這種影響通常不會
+顯著改變顏色評級。
+只有在螢光反應極強的情況下，才可能導致鑽石的外觀變得霧濛
+或帶有乳白色調，進而影響市場評價。但在大多數情況下，螢光
+性對於鑽石的顏色評級影響極小，不會成為決定性因素。
 												</p>
 												<div class="horizonlist--captionImg">
 													<!-- <span>04</span> -->
@@ -3369,7 +3424,7 @@
 						</div>
 						<div class="fshoplist-target__list brand_about_repeat_parent_wrap open">
 							<div class="fshoplist-target--ttl">
-								<h3 class="titleSub">The criteria for evaluating diamonds?</h3>
+								<h3 class="titleSub">鑽石的評價標準是什麼？</h3>
 								<div class="high_price_purchase_points_content_lead"></div>
 							</div>
 							<div class="fshoplist-target--item
@@ -3379,16 +3434,15 @@
 
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">
-												Regarding the quality evaluation of diamonds.
+											關於鑽石的品質評價
 											</h4>
 											<p class="points_content_text">
-												Diamonds are evaluated based on four criteria:
-												carat (weight), cut (polishing technique),
-												clarity (transparency), and color. Among these,
-												"cut" is the only criterion that is influenced
-												by human craftsmanship, and it is a crucial factor
-												in determining the diamond's brilliance, depending
-												on the quality of the technique.
+											鑽石的評估有一套標準，主要依據 克拉（Carat，重量）、
+切工（Cut，研磨技術）、淨度（Clarity）、顏色（Color） 這四個
+項目來判斷品質，這也被稱為 4C 標準。其中，「切工（Cut）」
+是唯一由人為技術決定的因素，直接影響鑽石的光芒與火彩。切
+工的優劣決定了光線在鑽石內部的折射與反射，因此是評估鑽石
+價值時極為重要的標準。
 											</p>
 										</div>
 									</div>
@@ -3400,14 +3454,12 @@
 
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">
-												Regarding diamond treatments and processing.
+											關於鑽石的加工處理
 											</h4>
 											<p class="points_content_text">
-												Diamonds are generally not subject to any human treatments
-												other than cutting and polishing. However, some diamonds may
-												undergo treatments to improve their clarity or color.
-												At Otakaraya, we strive to evaluate your items to the fullest extent,
-												so please feel free to show us any items you're unsure about.
+											鑽石基本上不會經過除切工與拋光之外的人工處理。然而，也有一些鑽石經過處理以改善淨度或顏色。
+在OTAKARAYA，我們致力於對您的物品進行最大程度的評估，因
+此，即使您有所疑慮，也請放心帶來讓我們鑑定。
 											</p>
 										</div>
 									</div>
@@ -3418,16 +3470,13 @@
 									<div class="horizonlist--link">
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">
-												Regarding the origin of diamonds.
+											關於鑽石的產地
 											</h4>
 											<p class="points_content_text">
-												Diamonds are mined in various countries around the world,
-												with prominent countries including Russia, Botswana, and Canada.
-												The value and quality of diamonds are generally considered
-												not to vary based on their origin.
-												However, diamonds mined from the Jwaneng mine in Botswana
-												are often regarded as being of the highest quality. As of 2023,
-												there are only 10 companies globally involved in diamond mining.
+											鑽石的開採國遍布世界各地，代表性的國家包括俄羅斯、博茨瓦納、加拿大等。
+												鑽石的價值和品質通常不會因產地而有所不同。
+然而，來自博茨瓦納的朱瓦能礦山所開採的鑽石，被認為是最高
+品質之一。此外，截至2023年，全球僅有10家公司從事鑽石開採業務。
 											</p>
 										</div>
 									</div>
@@ -3437,7 +3486,7 @@
 						<div class="fshoplist-target__list brand_about_repeat_parent_wrap open">
 							<div class="fshoplist-target--ttl">
 								<h3 class="titleSub">
-									About the Colors of Diamonds with High Purchase Appraisal Value
+								關於收購評價較高的鑽石顏色
 								</h3>
 								<div class="high_price_purchase_points_content_lead"></div>
 							</div>
@@ -3450,8 +3499,8 @@
 												alt="Colorless Diamonds">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Colorless Diamonds</h4>
-											<p class="points_content_text">Diamonds are evaluated based on the 4Cs, and their value increases the larger, clearer, and more transparent they are.</p>
+											<h4 class="titleH4 title--left">無色鑽石</h4>
+											<p class="points_content_text">鑽石的品質由 4C 評估，尺寸越大、越透明且純淨，其價值越高。</p>
 										</div>
 									</div>
 								</div>
@@ -3465,8 +3514,10 @@
 												alt="Red Diamonds">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Red Diamonds</h4>
-											<p class="points_content_text">Red diamonds are the rarest and most valuable among colored diamonds. Their color is ranked as follows: Fancy Red, Fancy Purplish Red, and Fancy Orangy Red, in descending order of value.</p>
+											<h4 class="titleH4 title--left">紅鑽（Red Diamond）</h4>
+											<p class="points_content_text">在彩鑽中是最具稀有價值的種類。其色調也有等級區分，價值依
+次為：「Fancy Red」、「Fancy Purplish Red」、「Fancy Orangy
+Red」。</p>
 										</div>
 									</div>
 								</div>
@@ -3480,9 +3531,10 @@
 												alt="Blue Diamonds">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Blue Diamonds</h4>
+											<h4 class="titleH4 title--left">藍鑽（Blue Diamond</h4>
 											<p class="points_content_text">
-												Blue diamonds are the second most highly valued after red diamonds. They are occasionally mined in the Premier Mine in South Africa. Diamonds with vivid colors, free from pale or grayish hues, are considered superior.</p>
+											僅次於紅鑽，具有極高的評價，偶爾可在南非的普雷米爾礦山開
+											採到。理想的藍鑽應具有濃郁的色調，且不帶灰色調。</p>
 										</div>
 									</div>
 								</div>
@@ -3496,8 +3548,10 @@
 												alt="Green Diamonds">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Green Diamonds</h4>
-											<p class="points_content_text">Green diamonds are extremely rare and highly valued. Among them, those with high saturation, such as "Fancy Intense Green" and "Fancy Vivid Green," fetch premium prices.</p>
+											<h4 class="titleH4 title--left">綠鑽（Green Diamond）</h4>
+											<p class="points_content_text">極為罕見，具有極高的稀有價值。其中，色彩飽和度較高的
+「Fancy Intense Green」和「Fancy Vivid Green」在市場上交易價
+格極高。</p>
 										</div>
 									</div>
 								</div>
@@ -3508,12 +3562,12 @@
 										<div class="horizonlist--img">
 											<span>05</span>
 											<img src="../images/daiya/dfd4f792d6329e44ef3f282e136cc0fa.webp"
-												alt="Purple Diamonds">
+												alt="紫鑽（Purple Diamond）">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Purple Diamonds</h4>
+											<h4 class="titleH4 title--left">紫鑽（Purple Diamond）</h4>
 											<p class="points_content_text">
-												Purple diamonds come in a range of shades from light to deep hues. The deeper and more distinct the color, the higher the value.</p>
+											紫色的鑽石，顏色範圍從淡紫到深紫不等。顏色越深、越鮮明，其價值越高。</p>
 										</div>
 									</div>
 								</div>
@@ -3524,11 +3578,11 @@
 										<div class="horizonlist--img">
 											<span>06</span>
 											<img src="../images/daiya/58a97c8b6893da89264e714f7a43b3ea.webp"
-												alt="Pink Diamonds">
+												alt="粉紅鑽">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Pink Diamonds</h4>
-											<p class="points_content_text">Pink diamonds are considered one of the most valuable colored diamonds due to their limited supply.</p>
+											<h4 class="titleH4 title--left">粉紅鑽</h4>
+											<p class="points_content_text">由於供應量極其稀少，粉紅鑽被評為最具價值的彩鑽之一。</p>
 										</div>
 									</div>
 								</div>
@@ -3539,11 +3593,11 @@
 										<div class="horizonlist--img">
 											<span>07</span>
 											<img src="../images/daiya/857520b29ac66eab447eba193215d84e.webp"
-												alt="Orange Diamonds">
+												alt="橙鑽">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Orange Diamonds</h4>
-											<p class="points_content_text">Orange diamonds are highly prized for their rarity and are generally valued more than standard colored diamonds.</p>
+											<h4 class="titleH4 title--left">橙鑽</h4>
+											<p class="points_content_text">橙色鑽石極為罕見，相較於一般彩鑽，擁有更高的市場評價與價值。</p>
 										</div>
 									</div>
 								</div>
@@ -3554,11 +3608,11 @@
 										<div class="horizonlist--img">
 											<span>08</span>
 											<img src="../images/daiya/bddb718ade6b729a59cc1c6244e39317.webp"
-												alt="Yellow Diamonds">
+												alt="黃鑽">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Yellow Diamonds</h4>
-											<p class="points_content_text">Yellow diamonds are relatively abundant. However, those with canary or lemon-like hues, free from orange undertones, are considered the most valuable.</p>
+											<h4 class="titleH4 title--left">黃鑽</h4>
+											<p class="points_content_text">黃鑽的產量相對較多，但不帶橙色調、且顏色接近金絲雀黃或檸檬黃的鑽石，價值更高。</p>
 										</div>
 									</div>
 								</div>
@@ -3569,13 +3623,12 @@
 										<div class="horizonlist--img">
 											<span>09</span>
 											<img src="../images/daiya/c5c61e747e7ee3d7e6559b96051f425f.webp"
-												alt="Brown Diamonds">
+												alt="棕鑽">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Brown Diamonds</h4>
+											<h4 class="titleH4 title--left">棕鑽</h4>
 											<p class="points_content_text">
-												Brown diamonds come in various shades, such as reddish-brown or yellowish-brown, with varying levels of saturation. They are widely used in different types of jewelry due to their availability, and their resale value often depends on the design.
-											</p>
+											棕色鑽石的色調與飽和度多樣，例如紅棕色或黃棕色。由於產量較多，廣泛應用於各類珠寶設計，回收價格因設計不同而有所差異。											</p>
 										</div>
 									</div>
 								</div>
@@ -3586,11 +3639,11 @@
 										<div class="horizonlist--img">
 											<span>10</span>
 											<img src="../images/daiya/532ae322efb836b3bb2878eec8606009.webp"
-												alt="Black Diamonds">
+												alt="黑鑽">
 										</div>
 										<div class="horizonlist--text">
-											<h4 class="titleH4 title--left">Black Diamonds</h4>
-											<p class="points_content_text">Black diamonds are characterized by inclusions of iron or graphite spread throughout the stone. Natural black diamonds are extremely rare, and the deeper and richer the black color, the higher their value.</p>
+											<h4 class="titleH4 title--left">黑鑽</h4>
+											<p class="points_content_text">黑鑽的內部富含赤鐵礦或石墨，天然黑鑽極為稀有。其漆黑色澤越深邃，價值越高。</p>
 										</div>
 									</div>
 								</div>
@@ -3605,14 +3658,15 @@
 						src="../images/daiya/point_image_202404.png">
 					<div class="renew_2024_top_pont_titlebox">
 						<h2 class="renew_2024_top_pont_title">
-							Points for<br><span>High-Value Diamond Purchase and Appraisal</span>
+						鑽石的高價收購・鑑定要點
 						</h2>
 						<div class="renew_2024_top_pont_story">
-							Many people know that the value of a diamond is determined by its carat weight. However, its value is also influenced by the other 4Cs: cut, clarity, and color.<br><br>Additionally, factors such as brand, design, condition, and the presence of accessories can also impact its value. At Otakaraya, we not only evaluate the 4Cs but also carefully assess these additional factors to offer the highest possible purchase price.
-						</div>
+						許多人可能知道鑽石的價值是
+由「克拉」決定的，但其實其他4C指標，如切工、
+淨度和顏色也會影響其價值。						</div>
 					</div>
 					<div class="renew_2024_top_pont_item_titlebox">
-						<h3>Factors That Determine the Value of a Diamond</h3>
+						<h3>決定鑽石價值的因素</h3>
 						<div class="renew_2024_top_pont_item_title_circle">
 							<div></div>
 						</div>
@@ -3620,26 +3674,57 @@
 					<div class="renew_2024_top_pont_item_content is-sp">
 						<h4 class="renew_2024_top_point_item_h4"><span>01</span>Carat</h4>
 						<div class="renew_2024_top_point_item_story">
-							Carat is a unit of weight for gemstones, and 1 carat (ct) is equivalent to 0.2 grams. In the case of diamonds, certificates issued by domestic gemological and appraisal institutions provide precise measurements up to three decimal places, although in general transactions, it is often rounded to two decimal places.<br><br>
+							克拉是表示寶石重量的單位，1克拉（ct）相當於0.2克。特別是在鑽石領域，國內的鑑定機構所發行的鑑定書會精確標示至小數點後三位，而在一般交易中，通常標示至小數點後兩位。<br><br>
 
-							As the carat weight increases, the rarity of the gemstone also increases, causing its price to rise significantly. Even with diamonds of the same quality, when the carat weight doubles, the price does not necessarily double. Especially for round figures like 0.5ct or 1.0ct, the price tends to rise sharply.<br><br>
+							隨著克拉數的增加，寶石的稀有價值也會提高，
+價格因此急劇上升。
+即使是相同品質的鑽石，當克拉數增加至原本的兩倍時，
+價格並不一定只是單純的兩倍。
+特別是在 0.5 克拉或 1.0 克拉等整數區間的尺寸時，
+價格往往會大幅上升。<br><br>
 
-							In the ideal cut of a round brilliant cut, the relationship between carat weight and size is as follows: A 0.1ct diamond has a diameter of approximately 3.0mm, a 0.5ct diamond is about 5.2mm, and a 1.0ct diamond measures around 6.5mm.
+在理想的圓形明亮式切工（Round Brilliant Cut）中，
+克拉數與尺寸之間的關係如下：0.1 克拉的鑽石直徑約為 3.0mm，
+0.5 克拉約為 5.2mm，
+而 1.0 克拉則約為 6.5mm。
 							<div class="point_item_captionImg"><img class="renew_2024_top_point_item_h4_image"
 									src="../images/daiya/2024_diamond_carat_translation.webp" alt=""></div>
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
 						<h4 class="renew_2024_top_point_item_h4"><span>02</span>Cut</h4>
 						<div class="renew_2024_top_point_item_story">
-							Cut is a crucial factor in maximizing a diamond's brilliance. A diamond with an excellent cut reflects light effectively, producing a beautiful sparkle. The cut is evaluated on a scale from 'Excellent' to 'Poor' in five grades.<br><br>
+							切工（Cut）是鑽石能夠最大程度展現璀璨光芒的關鍵因素。
+經過優秀切工的鑽石能夠有效地反射光線，
+展現出耀眼的光輝。
+鑽石的切工評級分為 「Excellent（極優）」至「Poor（較差）」
+五個等級。<br><br>
 
-							The evaluation is divided into two categories: 'Proportion' and 'Finish.' Proportion refers to the size, ratio, and angles of the facets in a round brilliant cut. There is an 'ideal shape' for this cut that maximizes brilliance, and diamonds are classified into five grades based on how close they come to this ideal.<br><br>
+							切工的評估主要分為兩個部分：
+「比例（Proportion）」與「修飾度（Finish）」。「比例」是指圓形明亮式切工（Round Brilliant Cut）中，各個切面的大小、比例與角度是否符合理想標準。這種切工有一種能夠最大化光線折射與反射的「理想比例」，鑽石的切工等級便是根據其與理想形狀的接近程度，分為五個等級進行評估。
 
-							Next, Finish is further divided into 'Polish' and 'Symmetry.' Polish evaluates the quality of the diamond's polish, while Symmetry assesses the arrangement and symmetry of the facets, both on a five-grade scale.<br><br>
 
-							In this way, the cut evaluation is done based on 'Proportion,' 'Polish,' and 'Symmetry.' Diamonds that receive the highest rating of 'Excellent' in all these areas are particularly referred to as '3EX' (Triple Excellent). Additionally, diamonds that meet certain criteria may exhibit a 'Hearts and Arrows' pattern, a feature seen in diamonds with the 'Heart & Cupid' trademark. &C）」<br><br>
+這兩個要素也各自被評為五個等級<br><br>
 
-							Diamonds with '3EX' or 'Hearts & Arrows' are considered the highest grade, with their brilliance easily visible to the naked eye and receiving high acclaim for their exceptional cut.
+							修飾度（Finish）：「修飾度」進一步細分為拋光（Polish） 和
+對稱性（Symmetry）。
+拋光（Polish）：指鑽石表面的打磨
+程度，影響光線的反射與透射效果。
+對稱性（Symmetry）：指各個切面的位置與對稱度，影響鑽石的整體均衡與光學效果。
+這兩個要素也各自被評為五個等級。<br><br>
+
+							因此，鑽石的切工評價是根據「比例（Proportion）」、
+「拋光（Polish）」、「對稱性（Symmetry）」這三個項目
+來進行評定。
+如果一顆鑽石在這三個項目中都獲得最高等級的「Excellent」，
+則被稱為「3EX（Triple Excellent，三重完美）」，
+代表其擁有頂級切工品質。
+此外，符合特定條件的鑽石可能會呈現出心形與箭矢圖案
+（Heart & Cupid, H&C），
+這種特徵進一步證明其擁有卓越的對稱性與光學效果。<br><br>
+
+擁有「3EX」或「哈特＆丘比特（H&C）」特徵的鑽石，
+其璀璨光輝可用肉眼清晰可見，
+被評為最高級的切工，並在市場上享有極高的評價。
 							<div class="point_item_captionImg"><img
 									class="renew_2024_top_point_item_h4_image"
 									src="../images/daiya/2024_diamond_cut.webp" alt=""></div>
@@ -3647,104 +3732,145 @@
 						<div class="renew_2024_top_point_item_bar"></div>
 						<h4 class="renew_2024_top_point_item_h4"><span>03</span>Clarity</h4>
 						<div class="renew_2024_top_point_item_story">
-							Diamonds typically contain minute inclusions (internal characteristics) or surface blemishes. The extent of these inclusions and surface features is evaluated as 'clarity.' Skilled gemologists use a 10x loupe to inspect the diamond, and based on the severity of these characteristics, the clarity is ranked in 11 levels.<br><br>
+						鑽石通常含有微小的內部包裹體（Inclusion）或表面特徵
+（Blemish）。這些內部包裹體與表面特徵的程度被用來評估淨度
+（Clarity），並由經驗豐富的鑑定師使用 10 倍放大鏡進行檢查，
+根據其可見程度將鑽石的淨度分為 11 個等級。<br><br>
 
-							Clarity is graded from the highest transparency, 'FL' (Flawless), to the lowest, 'I3', as follows.<br><br>
+淨度（Clarity）**的評級從最高的「FL（Flawless，無瑕級）」到
+最低的「I3（Included 3，內含物明顯級）」，具體分級如下：<br><br>
 
-							FL (Flawless): No inclusions or blemishes are visible under 10x magnification, even by a skilled gemologist.<br>
-							IF (Internally Flawless): No inclusions are visible under 10x magnification, only minor blemishes are detected.<br>
-							VVS1/VVS2 (Very, Very Slightly Included): Inclusions are extremely difficult to detect under 10x magnification.<br>
-							VS1/VS2 (Very Slightly Included): Minor inclusions are visible under 10x magnification.<br>
-							SI1/SI2 (Slightly Included): Inclusions are clearly visible under 10x magnification.<br>
-							I1/I2/I3 (Included): Inclusions are visible under 10x magnification or even to the naked eye, significantly affecting the diamond's clarity.<br><br>
+FL（無瑕）：即使由經驗豐富的鑑定師在 10 倍放大鏡下觀察，也看不到內含物或表面瑕疵。<br>
+IF（內部無瑕）：10 倍放大鏡下看不到內含物，只能看到輕微的表面瑕疵。<br>
+VVS1/VVS2（極輕微內含物）：在 10 倍放大鏡下很難找到內含物。<br>
+VS1/VS2（輕微內含物）：在 10 倍放大鏡下可以看到輕微內含物。<br>
+SI1/SI2（微內含物）：10 倍放大鏡下可清晰看到內含物。<br>
+I1/I2/I3（有明顯內含物）：在10倍放大鏡下或用肉眼可以看到內含物，這大大影響了鑽石的淨度。<br><br>
 
-							Clarity grading is not determined solely by the size of the inclusions, but takes into account various factors such as the number, location, type, visibility, and color of the inclusions.
+淨度評估不僅取決於內含物的大小，還要綜合考慮「數量、位置、種類、可見度、顏色」等諸多因素從而決定。
 							<div class="point_item_captionImg"><img class="renew_2024_top_point_item_h4_image"
 									src="../images/daiya/2024_diamond_clarity.webp" alt=""></div>
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
 						<h4 class="renew_2024_top_point_item_h4"><span>04</span>Color</h4>
 						<div class="renew_2024_top_point_item_story">
-							Diamonds are graded for color on a scale from D to Z. The grading starts with D, which represents diamonds that are closest to colorless, and the scale progresses as the diamond's color deepens, ultimately reaching Z. The closer a diamond is to D, the higher its value, and as the color becomes more pronounced, its grade tends to decrease.<br><br>
+						鑽石的顏色（Color）評級範圍從 D 到 Z，按照顏色的深淺程度進
+行分類。D 色級代表完全無色，是最高等級，最為稀有且價值最
+高。隨著顏色等級向 Z 發展，黃色或棕色調會變得更加明顯，整
+體價值也相對降低。<br><br>
 
-							This color grading of the 4Cs mainly applies to yellow and brown hues. Diamonds with other colors, such as pink or blue, are referred to as 'fancy colored diamonds' and are evaluated based on different criteria rather than the 4Cs. If a diamond's color exceeds Z, it is also classified as a fancy colored diamond.<br><br>
+4C 中的顏色（Color）評級主要適用於黃調至棕調的鑽石。若鑽石
+呈現粉紅、藍色等其他顏色，則被歸類為「彩色鑽石（Fancy
+Color Diamond）」，其品質不再依照 4C 標準評估，而是依照不
+同的標準來衡量價值與稀有性。此外，當鑽石的顏色超過 Z 級，
+即顏色變得更加濃烈時，該鑽石也會被視為彩色鑽石（Fancy
+Color Diamond），不再適用於傳統的 D-Z 顏色分級體系，而是根
+據顏色的濃度與飽和度來進行評估。<br><br>
 
-							In general, diamonds with yellow or brownish hues are considered less valuable, but once they reach the level of fancy colored diamonds, their rarity can increase their value. As a result, yellow diamonds with a color deeper than Z can often trade for more than colorless D diamonds due to their scarcity.<br><br>
+一般而言，帶有黃色或棕色調的鑽石通常被認為價值較低。然
+而，當顏色達到足以被歸類為彩色鑽石（Fancy Color Diamond）
+的程度時，因其稀有性反而會受到高度評價。因此，顏色超過 Z
+級的黃鑽（即彩黃鑽）通常比 D 色級的無色鑽石更為稀有，並且
+市場價格往往更高。這是因為濃艷的彩黃鑽屬於珍稀的「彩鑽
+（Fancy Diamond）」，其價值不再依據傳統 4C 標準，而是取決
+於顏色的濃度、飽和度與稀有性。<br><br>
 
-							Additionally, you may have heard that a diamond's 'fluorescence' can affect its color grading. However, this has little actual impact on the grade. Fluorescence refers to the bluish glow emitted by a diamond when exposed to ultraviolet light. Since the 4C color grading is based on yellow tones, fluorescence can affect the appearance of the diamond's color. However, unless the fluorescence is extremely strong, it doesn't significantly influence the overall grade.
+此外，你可能聽說過鑽石的「螢光反應（Fluorescence）」會影響顏色評級，
+但實際上，這種影響幾乎可以忽略不計。
+螢光性是指鑽石在紫外線（UV）照射下發出的藍白色光芒。由於
+4C 顏色評級主要針對黃調色階，當鑽石帶有藍色螢光時，可能會
+在某些光線環境下視覺上略微降低黃色調，但這種影響通常不會
+顯著改變顏色評級。
+只有在螢光反應極強的情況下，才可能導致鑽石的外觀變得霧濛
+或帶有乳白色調，進而影響市場評價。但在大多數情況下，螢光
+性對於鑽石的顏色評級影響極小，不會成為決定性因素。
 							<div class="point_item_captionImg"><img class="renew_2024_top_point_item_h4_image"
 									src="../images/daiya/2024_diamond_color.webp" alt=""></div>
 						</div>
 					</div>
 					<div class="renew_2024_top_pont_item_titlebox">
-						<h3>The criteria for evaluating diamonds?</h3>
+						<h3>鑽石的評價標準是什麼？</h3>
 						<div class="renew_2024_top_pont_item_title_circle">
 							<div></div>
 						</div>
 					</div>
 					<div class="renew_2024_top_pont_item_content is-sp">
-						<h4 class="renew_2024_top_point_item_h4">Regarding the quality evaluation of diamonds.</h4>
+						<h4 class="renew_2024_top_point_item_h4">關於鑽石的品質評價</h4>
 						<div class="renew_2024_top_point_item_story">
-							Diamonds are evaluated based on four criteria: carat (weight), cut (polishing technique), clarity (transparency), and color. Among these, "cut" is the only criterion that is influenced by human craftsmanship, and it is a crucial factor in determining the diamond's brilliance, depending on the quality of the technique.
+							鑽石的評估有一套標準，主要依據 克拉（Carat，重量）、
+切工（Cut，研磨技術）、淨度（Clarity）、顏色（Color） 這四個
+項目來判斷品質，這也被稱為 4C 標準。其中，「切工（Cut）」
+是唯一由人為技術決定的因素，直接影響鑽石的光芒與火彩。切
+工的優劣決定了光線在鑽石內部的折射與反射，因此是評估鑽石
+價值時極為重要的標準。
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
-						<h4 class="renew_2024_top_point_item_h4">Regarding diamond treatments and processing.</h4>
-						<div class="renew_2024_top_point_item_story">Diamonds are generally not subject to any human treatments other than cutting and polishing. However, some diamonds may undergo treatments to improve their clarity or color. At Otakaraya, we strive to evaluate your items to the fullest extent, so please feel free to show us any items you're unsure about.
+						<h4 class="renew_2024_top_point_item_h4">關於鑽石的加工處理</h4>
+						<div class="renew_2024_top_point_item_story">鑽石基本上不會經過除切工與拋光之外的人工處理。然而，也有一些鑽石經過處理以改善淨度或顏色。
+在OTAKARAYA，我們致力於對您的物品進行最大程度的評估，因
+此，即使您有所疑慮，也請放心帶來讓我們鑑定。
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
-						<h4 class="renew_2024_top_point_item_h4">Regarding the origin of diamonds.</h4>
+						<h4 class="renew_2024_top_point_item_h4">關於鑽石的產地.</h4>
 						<div class="renew_2024_top_point_item_story">
-							Diamonds are mined in various countries around the world, with prominent countries including Russia, Botswana, and Canada. The value and quality of diamonds are generally considered not to vary based on their origin. However, diamonds mined from the Jwaneng mine in Botswana are often regarded as being of the highest quality. As of 2023, there are only 10 companies globally involved in diamond mining.</div>
-					</div>
+							鑽石的開採國遍布世界各地，代表性的國家包括俄羅斯、博茨瓦納、加拿大等。鑽石的價值和品質通常不會因產地而有所不同。
+然而，來自博茨瓦納的朱瓦能礦山所開採的鑽石，被認為是最高
+品質之一。此外，截至2023年，全球僅有10家公司從事鑽石開採業務。
+						</div>
 					<div class="renew_2024_top_pont_item_titlebox">
-						<h3>About the Colors of Diamonds with High Purchase Appraisal Value</h3>
+						<h3>關於收購評價較高的鑽石顏色</h3>
 						<div class="renew_2024_top_pont_item_title_circle">
 							<div></div>
 						</div>
 					</div>
 					<div class="renew_2024_top_pont_item_content is-sp"><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/0179640947107c8ce4ea929f8fabf164.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>01</span>Colorless Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Diamonds are evaluated based on the 4Cs, and their value increases the larger, clearer, and more transparent they are.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>01</span>無色鑽石</h4>
+						<div class="renew_2024_top_point_item_story">鑽石的品質由 4C 評估，尺寸越大、越透明且純淨，其價值越高。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/765829cc287d1ac17677d3b4bead81e6.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>02</span>Red Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Red diamonds are the rarest and most valuable among colored diamonds. Their color is ranked as follows: Fancy Red, Fancy Purplish Red, and Fancy Orangy Red, in descending order of value.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>02</span>紅鑽</h4>
+						<div class="renew_2024_top_point_item_story">在彩鑽中是最具稀有價值的種類。其色調也有等級區分，價值依
+次為：「Fancy Red」、「Fancy Purplish Red」、「Fancy Orangy
+Red」。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/cccd2bc758949f98d64a7d337d76ec6a.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>03</span>Blue Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Blue diamonds are the second most highly valued after red diamonds. They are occasionally mined in the Premier Mine in South Africa. Diamonds with vivid colors, free from pale or grayish hues, are considered superior.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>03</span>藍鑽</h4>
+						<div class="renew_2024_top_point_item_story">僅次於紅鑽，具有極高的評價，偶爾可在南非的普雷米爾礦山開
+						採到。理想的藍鑽應具有濃郁的色調，且不帶灰色調。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/a1d4aefe9a3a9eb13922078d8726347b.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>04</span>Green Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Green diamonds are extremely rare and highly valued. Among them, those with high saturation, such as "Fancy Intense Green" and "Fancy Vivid Green," fetch premium prices.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>04</span>綠鑽</h4>
+						<div class="renew_2024_top_point_item_story">極為罕見，具有極高的稀有價值。其中，色彩飽和度較高的
+「Fancy Intense Green」和「Fancy Vivid Green」在市場上交易價
+格極高。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/dfd4f792d6329e44ef3f282e136cc0fa.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>05</span>Purple Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Purple diamonds come in a range of shades from light to deep hues. The deeper and more distinct the color, the higher the value.
+						<h4 class="renew_2024_top_point_item_h4"><span>05</span>紫鑽</h4>
+						<div class="renew_2024_top_point_item_story">紫色的鑽石，顏色範圍從淡紫到深紫不等。顏色越深、越鮮明，其價值越高。
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/58a97c8b6893da89264e714f7a43b3ea.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>06</span>Pink Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Pink diamonds are considered one of the most valuable colored diamonds due to their limited supply.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>06</span>粉紅鑽</h4>
+						<div class="renew_2024_top_point_item_story">由於供應量極其稀少，粉紅鑽被評為最具價值的彩鑽之一。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/857520b29ac66eab447eba193215d84e.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>07</span>Orange Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Orange diamonds are highly prized for their rarity and are generally valued more than standard colored diamonds.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>07</span>橙鑽</h4>
+						<div class="renew_2024_top_point_item_story">橙色鑽石極為罕見，相較於一般彩鑽，擁有更高的市場評價與價值。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/bddb718ade6b729a59cc1c6244e39317.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>08</span>Yellow Diamonds</h4>
-						<div class="renew_2024_top_point_item_story">Yellow diamonds are relatively abundant. However, those with canary or lemon-like hues, free from orange undertones, are considered the most valuable.</div>
+						<h4 class="renew_2024_top_point_item_h4"><span>08</span>黃鑽</h4>
+						<div class="renew_2024_top_point_item_story">黃鑽的產量相對較多，但不帶橙色調、且顏色接近金絲雀黃或檸檬黃的鑽石，價值更高。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/c5c61e747e7ee3d7e6559b96051f425f.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>09</span>Brown Diamonds</h4>
+						<h4 class="renew_2024_top_point_item_h4"><span>09</span>棕鑽</h4>
 						<div class="renew_2024_top_point_item_story">
-							Brown diamonds come in various shades, such as reddish-brown or yellowish-brown, with varying levels of saturation. They are widely used in different types of jewelry due to their availability, and their resale value often depends on the design.</div>
+						棕色鑽石的色調與飽和度多樣，例如紅棕色或黃棕色。由於產量較多，廣泛應用於各類珠寶設計，回收價格因設計不同而有所差異。</div>
 						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/532ae322efb836b3bb2878eec8606009.webp" alt="">
-						<h4 class="renew_2024_top_point_item_h4"><span>10</span>Black Diamonds</h4>
+						<h4 class="renew_2024_top_point_item_h4"><span>10</span>黑鑽</h4>
 						<div class="renew_2024_top_point_item_story">
-							Black diamonds are characterized by inclusions of iron or graphite spread throughout the stone. Natural black diamonds are extremely rare, and the deeper and richer the black color, the higher their value.</div>
+						黑鑽的內部富含赤鐵礦或石墨，天然黑鑽極為稀有。其漆黑色澤越深邃，價值越高。</div>
 					</div>
 				</div> <!-- renew_2024_top_pont_superbox -->
 			</div>
@@ -3753,10 +3879,12 @@
 			<section class="transformation_description_section">
 				<div class="titleMain--wrapper">
 					<h2 class="titleMain--main">
-						What is a <span>Shaped Diamond</span>?
+					什麼是變形鑽石？
 					</h2>
 					<div class="titleMain--lead">
-						<p>Fancy-shaped diamonds refer to all diamond cuts other than the round brilliant cut, which is known for its classic round shape. While the round brilliant cut remains the most popular and traditional choice, many diamonds are crafted into unique and stylish fancy shapes. Below are some examples of these fascinating fancy-shaped diamonds.</p>
+						<p>「變形鑽石」是指除了圓形明亮式切工（Round Brilliant Cut），
+						即圓形（正圓）以外形狀的鑽石的統稱。雖然圓形明亮式切工是最經典的切割方式，但還有許多不同形狀
+						的變形鑽石（Fancy Shape），以下是其中的一部分介紹。</p>
 					</div>
 				</div>
 				<div class="transformation_description_content_wrap">
@@ -3766,15 +3894,16 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">1</span> -->
-										<span class="transformation_description_content_text">Emerald Cut</span>
+										<span class="transformation_description_content_text">祖母綠切割</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img1@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img1@4x.webp" alt="">
 									<p>
-										Diamonds with a square shape when viewed from above and a stepped design when viewed from the side, this cut allows you to fully appreciate the diamond's inherent transparency and brilliance. With fewer facets and a luxurious wide table facet, this cut enhances the diamond's natural clarity.
-									</p>
+									從上面看呈現正方形或長方形，從側面看呈階梯形狀，可以充分
+享受鑽石原來的透明度和閃爍。切割面極少，奢華的寬檯面加
+工，突顯出鑽石原本的淨度。									</p>
 								</div>
 							</div>
 						</div>
@@ -3785,15 +3914,16 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">2</span> -->
-										<span class="transformation_description_content_text">Oval Cut</span>
+										<span class="transformation_description_content_text">橢圓形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img2@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img2@4x.webp" alt="">
 									<p>
-										Diamonds cut into an oval shape, with 57 to 58 facets, making it similar to the round shape in terms of the number of facets. This cut is often used in various accessories, including rings. The oval shape allows for different impressions depending on the ratio between the length and width. With a facet count close to that of the round shape, this cut enhances the diamond's beauty and gives it a sense of depth and richness.
-									</p>
+									將鑽石加工成橢圓形，擁有 57～58 個切面，與圓形切工相近，
+因此能展現出類似的光彩與厚重感。橢圓形的長寬比例不同，會
+帶來不同的視覺效果，適用於戒指等各種珠寶設計。									</p>
 								</div>
 							</div>
 						</div>
@@ -3804,15 +3934,16 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">3</span> -->
-										<span class="transformation_description_content_text">Trilliant Cut</span>
+										<span class="transformation_description_content_text">三角形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img3@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img3@4x.webp" alt="">
 									<p>
-										They are the diamonds cut into a 'trilliant' (triangle) shape, rather than round or square. The standard number of facets is 43, and they have a unique brilliance different from that of round or square cuts. There are various variations, ranging from the basic equilateral triangle to those with sharper or more rounded corners, all of which have a strong, geometric sparkle.
-									</p>
+									非圓形或方形，而是三角形切工。標準切面數為 43 面，擁有獨
+特的光芒。此切工有等邊型與帶圓角或尖角的變體，呈現強烈的
+幾何閃耀效果。									</p>
 								</div>
 							</div>
 						</div>
@@ -3823,15 +3954,17 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">4</span> -->
-										<span class="transformation_description_content_text">Heart Shape</span>
+										<span class="transformation_description_content_text">心形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img4@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img4@4x.webp" alt="">
 									<p>
-										This cut is shaped like a heart, and it is a variation of the round brilliant cut. It is considered ideal for the heart shape to fit within a square, and pieces that are too wide or elongated are seen as having a special shape. The outline of the heart shape is carefully polished by craftsmen, and their skill greatly impacts the beauty of the final piece.
-									</p>
+									以心形為輪廓的切工，屬於圓形明亮式切工的變形款。標準比例
+應讓心形完整地落於正方形內，過寬或過長的心形可能被視為特
+殊形狀。由於心形輪廓需要手工精細打磨，因此切割技術對其美
+感影響極大。									</p>
 								</div>
 							</div>
 						</div>
@@ -3842,15 +3975,17 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">5</span> -->
-										<span class="transformation_description_content_text">Princess Cut</span>
+										<span class="transformation_description_content_text">公主方形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img5@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img5@4x.webp" alt="">
 									<p>
-										The mixed cut combines both brilliant cut and step cut to create a sparkling square shape. It features a wide table surface, and compared to the round brilliant cut, it requires less cutting, making it easier to create larger stones. However, since the corners are prone to chipping, careful handling is necessary.
-									</p>
+									結合明亮式切工（Brilliant Cut）與階梯式切工（Step Cut）的混合
+切工，呈現閃耀的方形鑽石。其桌面較大，相較於圓形切工，原
+石的切割損耗較少，因此能製作出較大顆的成品。然而，由於邊
+角較脆弱，佩戴時需特別注意避免碰撞。									</p>
 								</div>
 							</div>
 						</div>
@@ -3861,15 +3996,16 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">6</span> -->
-										<span class="transformation_description_content_text">Pear Shape Cut</span>
+										<span class="transformation_description_content_text">梨形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img6@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img6@4x.webp" alt="">
 									<p>
-										The Pear cut, as the name suggests, is shaped like a pear. Similar to the heart shape, it is a variation of the round brilliant cut with 58 facets. It is also referred to as the teardrop cut due to its resemblance to a tear-shaped droplet.
-									</p>
+									形狀如同洋梨，又稱淚滴形（Teardrop），是圓形明亮式切工的
+變形款，擁有 58 個切面。其獨特的形狀使其在戒指與吊墜設計
+中極具吸引力。									</p>
 								</div>
 							</div>
 						</div>
@@ -3880,15 +4016,17 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">7</span> -->
-										<span class="transformation_description_content_text">Radiant Cut</span>
+										<span class="transformation_description_content_text">雷地恩切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img7@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img7@4x.webp" alt="">
 									<p>
-										It is a cut that combines the brilliant cut and the emerald cut, typically in a square or rectangular shape. Developed in 1977 by Henry Grossbard, it resembles the princess cut in some ways, but the facet arrangement is different. This cutting method is often used for colored gemstones as well.
-									</p>
+									形狀為正方形或長方形，結合了明亮式切工與祖母綠切工
+（Emerald Cut）的特色。此切工由亨利·格羅斯·巴德（Henry
+Grossbard）於 1977 年開發，與公主方形切工類似，但其刻面
+排列方式不同，亦常用於彩色寶石的切割。									</p>
 								</div>
 							</div>
 						</div>
@@ -3899,15 +4037,18 @@
 								<button class="circle_btn_accordion" type="button" circle_btn_accordion_expanded="false">
 									<p class="transformation_description_content_ttl" style="position: relative;">
 										<!-- <span style="position: absolute; left: -1em;">8</span> -->
-										<span class="transformation_description_content_text">Marquise Cut</span>
+										<span class="transformation_description_content_text">馬眼形切工</span>
 									</p>
 									<img class="is-pc" src="../images/daiya/transformation_description_img8@4x.webp" alt="">
 								</button>
 								<div class="circle_btn_accordion_list_wrap" aria-hidden="true" style="height: 0px; transition: height;">
 									<img class="is-sp" src="../images/daiya/transformation_description_img8@4x.webp" alt="">
 									<p>
-										It is a boat-shaped cut where both ends of an elongated oval are sharply tapered. Classified as one of the brilliant cuts, it is typically composed of 58 facets, though it can also be cut into 18 facets. The name 'marquise' comes from the French term for 'marquis.' This diamond shape was named after Madame de Pompadour, the mistress of King Louis XV of France, who was granted the title of marquise, and thus, the cut became known as 'marquise.
-									</p>
+									呈細長的橢圓形，兩端收窄成尖形，也被稱為「舟形切工」。屬
+於明亮式切工的一種，標準為 58 面，但部分版本僅有 18 面。其
+名稱「Marquise」來自於侯爵（Marquis），據說此形狀的鑽石最
+初受到法國國王路易十五寵妾龐巴度夫人（Madame de
+Pompadour）的啟發，因此得名。									</p>
 								</div>
 							</div>
 						</div>
@@ -3918,13 +4059,18 @@
 			<section class="certificate is-pc">
 				<div class="titleMain titleMain--wrapper titleMain--mtPc128 titleMain--mtSp32">
 					<h2 class="titleMain--main">
-						Visit Otakaraya to Sell Your <span>Diamonds</span>
+					鑽石回收就選OTAKARAYA
 					</h2>
 				</div>
 				<section>
-					<h3 class="titleSub">The staff includes holders of the GG (Graduate Gemologist) qualification.</h3>
+					<h3 class="titleSub">擁有 GG 資格 的專業鑑定師在職</h3>
 					<p style="text-align: center;">
-						The GG (Graduate Gemologist) qualification is a prestigious gemologist certification awarded by the Gemological Institute of America (GIA), recognized globally as one of the most authoritative credentials. <br>At Otakaraya, we have staff members who hold the GG qualification, and we also provide regular gemologist training through our in-house educational program. <br>As a result, we are capable of performing highly accurate and high-level assessments of all types of gemstones.</p>
+					GG（Graduate Gemologist） 資格是由 GIA
+（Gemological Institute of America，美國寶石研究院） 授予的全
+球權威寶石鑑定師資格，獲得者被稱為「寶石學修了者」。OTAKARAYA擁有 GG 資格 的專業鑑定師，並透過培訓制度定期進
+行鑑定師教育。因此，能夠對各類寶石進行高精度、高水準的專業鑑定，確保評
+估的準確性與公正性。
+					</p>
 
 					<div class="colBox colBox__col01">
 						<div class="col" style="display: flex; justify-content: space-between;">
@@ -3932,17 +4078,17 @@
 								<img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松利香のプロフィール">
 							</div>
 							<div class="gg_profile">
-								<h4 class="titleSub" style="color:black;">Rika Iwamatsu</h4>
+								<h4 class="titleSub" style="color:black;">岩松 利香</h4>
 								<div class="profile">
 									<nobr>
 										<p class="profile1">Profile</p>
 									</nobr>
-									<p class="profile2">：<span>Started working at a gemological laboratory and has been involved in diamond grading and gemstone identification for nearly 30 years.</span></p>
+									<p class="profile2">：<span>就職於鑑別機構，從事鑽石分級與寶石鑑別業務近 30 年。</span></p>
 								</div>
-								<p><span>Qualifications</span>：<span>GG (Graduate Gemologist) - obtained in May 1994</span>
+								<p><span>保持資格</span>：<span>GG（1994 年 5 月取得）</span>
 								</p>
-								<p><span>Hometown</span>：Tokyo</p>
-								<p><span>Hobbies</span>：Traveling</p>
+								<p><span>出身地</span>： 東京</p>
+								<p><span>興趣</span>：旅行</p>
 							</div>
 						</div>
 					</div>
@@ -3960,44 +4106,53 @@
 
 				<!-- appraisal_equips -->
 				<section class="appraisal_equips">
-					<h3 class="titleSub">Latest appraisal equipment of Otakaraya</h3>
+					<h3 class="titleSub">OTAKARAYA的最新鑑定設備</h3>
 					<div class="equip">
 						<div class="equip_img"><img src="../images/daiya/8429090fa4171a8ce59873218128502a.webp"
-								alt="UV-Visible Near-Infrared Spectrophotometer"></div>
+								alt="紫外可視近紅外分光光度計"></div>
 						<div class="equip_meta">
-							<p class="equip_title">UV-Visible Near-Infrared Spectrophotometer</p>
+							<p class="equip_title">紫外可視近紅外分光光度計</p>
 							<p class="equip_explain">
-								When visible light (light that can be seen by the human eye) passes through a substance, some of the light is absorbed by the material. The UV-Visible Near-Infrared Spectrophotometer is excellent at analyzing the wavelengths of the absorbed light. At 'Otakaraya,' this instrument is used to inspect treatments applied to diamonds and the treatments on gold-based white pearls, allowing for accurate assessment of the gem's value.
-							</p>
+							當光（可見光）穿透物質時，部分波長的光會被吸收。紫外可視
+近紅外分光光度計擅長分析這些吸收光的波長。OTAKARAYA
+使用此設備來檢測鑽石的處理技術與金色系白蝶珍珠的處理，以
+精確評估寶石的價值。							</p>
 						</div>
 					</div>
 					<div class="equip">
 						<div class="equip_img"><img src="../images/daiya/3b83232250cb59ab1761d1e66521fde9.webp"
-								alt="Fourier Transform Infrared Spectrophotometer"></div>
+								alt="傅立葉變換紅外分光光度計（FTIR）"></div>
 						<div class="equip_meta">
-							<p class="equip_title">Fourier Transform Infrared Spectrophotometer</p>
+							<p class="equip_title">傅立葉變換紅外分光光度計（FTIR）</p>
 							<p class="equip_explain">
-								The Fourier Transform Infrared Spectrophotometer is a precision instrument that analyzes samples by shining infrared light onto them and measuring the transmitted or reflected light. At 'Otakaraya,' this equipment is used for a wide range of tests, including examining the presence of resin impregnation treatments in jade and conducting specific tests on diamonds.
-							</p>
+							傅立葉變換紅外分光光度計是一種高精密分析儀器，透過照射紅
+外光並測量透過或反射的光來分析樣品。「おたからや」使用此
+設備進行翡翠的樹脂充填處理檢測及鑽石的特定鑑定，提供多方
+面的專業檢測服務。							</p>
 						</div>
 					</div>
 					<div class="equip">
 						<div class="equip_img"><img src="../images/daiya/0609b87cd0ef7ac42d7e05f14aa2451f.webp"
-								alt="Type I and Type II Determiner"></div>
+								alt="I 型・II 型鑑定器"></div>
 						<div class="equip_meta">
-							<p class="equip_title">Type I and Type II Determiner</p>
+							<p class="equip_title">I 型・II 型鑑定器</p>
 							<p class="equip_explain">
-								The sample is placed inside the determiner, and ultraviolet light is applied to assess the diamond by its transmission rate. In just one second, the device can determine whether the diamond is Type I (natural diamond) or Type II (high-temperature, high-pressure treated diamond or synthetic diamond).
-								The device can assess both loose diamonds and diamonds set in a setting, allowing for measurement without removing the stone from the setting. It provides quick and accurate evaluation without damaging your items.</p>
+							將樣品放入鑑定器內，透過紫外線照射並測量透過率來判定鑽石
+的類型。僅需 1 秒即可區分I 型（天然鑽石）與 II 型（高溫高
+壓處理鑽石・合成鑽石）。此設備不僅能測試裸石，還可檢測鑲
+嵌狀態的鑽石，無需拆除鑲座即可測定，確保在不損傷物品的情
+況下，提供快速且精準的鑑定。								The device can assess both loose diamonds and diamonds set in a setting, allowing for measurement without removing the stone from the setting. It provides quick and accurate evaluation without damaging your items.</p>
 						</div>
 					</div>
 					<div class="equip">
 						<div class="equip_img"><img src="../images/daiya/5592cdbaa593d89e3ab7da0e4768e03f.webp"
 								alt="Moissanite Determiner"></div>
 						<div class="equip_meta">
-							<p class="equip_title">Moissanite Determiner</p>
-							<p class="equip_explain">After cleaning the surface of the gemstone, the probe is applied to the sample. The electrical conductivity measured by the device is used to determine whether the stone is a diamond or moissanite.
-								Similar to the Type I and II determiner, it provides instant and accurate assessments.</p>
+							<p class="equip_title">莫桑石鑑定器</p>
+							<p class="equip_explain">在測試前需先清潔寶石表面，然後將測試探針接觸樣品。此設備
+透過測量電導率來判斷寶石是否為鑽石或莫桑石
+（Moissanite）。與 I 型・II 型鑑定器相同，此設備能夠瞬間且準
+確地鑑定，確保高效且精確的評估結果。</p>
 						</div>
 					</div>
 				</section>
@@ -4005,9 +4160,10 @@
 
 
 				<section>
-					<h3 class="titleSub">Evaluation of Design and Brand Value</h3>
+					<h3 class="titleSub">評估設計與品牌價值</h3>
 					<p style="text-align: center;">
-						At Otakaraya, we not only assess the intrinsic value of the gemstones themselves but also take into account the brand value and design when determining the appraisal value.<br><br>
+					在 おたからや，我們不僅評估寶石本身的價值，還會考慮品牌價
+					值與設計，綜合判斷後提供最適當的估價。<br><br>
 						We ensure that even small gemstones are thoroughly evaluated, and we can offer a Purchase regardless of whether the item has accessories or a box.
 					</p>
 				</section>
@@ -4039,7 +4195,7 @@
 						</p>
 					</h2>
 					<h3 class="renew_2024_dia_title_subtitle_h3">
-						The staff includes holders of the GG (Graduate Gemologist) qualification.
+						擁有 GG 資格 的專業鑑定師在職
 					</h3>
 				</div>
 				<!-- MOD_20240417 -->
@@ -4422,7 +4578,7 @@
 			<!--     ▲▲▲carat別買取▲▲▲     --><!-- MOD_20240417 -->
 			<div class="titleMain titleMain--wrapper">
 				<h2 class="titleMain--main">
-					<span>Introduction of Appraisers</span>
+					<span>鑑定師介紹</span>
 				</h2>
 			</div>
 			<div class="content-inner">
@@ -4510,12 +4666,12 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				Frequently Asked <span>Questions</span> About Diamond Purchases
+				常見問題 About Diamond Purchases
 			</h2>
 			<section class="renew2024">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleMain--main">
-						Frequently Asked <span>Questions</span> About Diamond Purchases
+						常見問題 About Diamond Purchases
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -4600,7 +4756,7 @@
 							<dt class="qa__list__q">Can diamonds purchased a long time ago be sold?</dt>
 							<dd class="qa__list__a btn--more">
 								Yes, they can be purchased. Even items purchased a long time ago will be appraised based on current evaluation standards.<br>If the diamond comes with a certificate, the purchase price may vary depending on the issuing organization and the issuance date of the certificate.</dd>
-							<div class="qa__list__button gtm-more-qa"><button>View More</button></div>
+							<div class="qa__list__button gtm-more-qa"><button>查看更多</button></div>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
@@ -4635,7 +4791,7 @@
 					</div>
 				</div>
 				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa">
-					<span>View More</span>
+					<span>查看更多</span>
 				</div>
 			</section>
 

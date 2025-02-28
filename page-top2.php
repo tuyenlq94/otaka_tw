@@ -166,9 +166,9 @@
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img12@4x.webp" alt="Christian Dior Purchase">
+							<img src="images/index/handling_brand_img12@4x.webp" alt="Christian Dior（迪奧）">
 						</div>
-						<p class="products_area_text">Christian Dior Purchase</p>
+						<p class="products_area_text">Christian Dior（迪奧）</p>
 					</a>
 					<a href="/brand/celine/">
 						<div class="products_area_img_wrap">
@@ -184,9 +184,9 @@
 					</a>
 					<a href="/brand/gucci/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img15@4x.webp" alt="Gucci Purchase">
+							<img src="images/index/handling_brand_img15@4x.webp" alt="Gucci（古馳）">
 						</div>
-						<p class="products_area_text">Gucci Purchase</p>
+						<p class="products_area_text">Gucci（古馳）</p>
 					</a>
 				</div>
 			</section>

@@ -60,17 +60,13 @@
 	<div class="renew_2024_fv_salespoint is-sp">
 		<!--     ▼▼▼ top_h2_text▼▼▼     -->
 		<h2 class="titleHeading top_h2_text">
-			Visit a Specialized Purchase <span>Store Otakaraya</span> to<br>
-			Sell and Appraise Your Gold.
+			想高價放售・鑑定評估黃金就來的OTAKARAYA！
 		</h2>
 		<!--     ▲▲▲ top_h2_text▲▲▲     -->
 	</div>
 	<!-- フッター固定ボタン -->
 	<div class="renew_2024_fv_lead is-sp">
-		Visit a <span>Specialized Purchase Store Otakaraya</span> to Sell and Appraise Your Gold.<br>
-		Otakaraya has over 1,300 stores nationwide,<br>
-		and at these locations, experienced professional appraisers will provide customers with a purchase price that
-		they can be satisfied with
+		OTAKARAYA在全國擁有約1,200間店舖，由經驗豐富的專業鑑定師為您提供滿意的收購價格。
 	</div>
 	<main class="contents">
 		<article class="contents__left">
@@ -79,17 +75,14 @@
 				<!--     ▼▼▼ top_h2_text▼▼▼     -->
 				<div class="is-pc">
 					<h2 class="titleHeading top_h2_text">
-						Visit a Specialized Purchase <span>Store Otakaraya</span> to Sell and Appraise Your Gold.
+						想高價放售・鑑定評估黃金就來的OTAKARAYA！
 					</h2>
 				</div>
 				<!--     ▲▲▲ top_h2_text▲▲▲     -->
 
 				<div class="titleMain--lead is-pc">
 					<p style="text-align: center; margin: 1rem;">
-						Visit a <span>Specialized Purchase Store Otakaraya</span> to Sell and Appraise Your Gold.<br>
-						Otakaraya has over 1,300 stores nationwide,<br>
-						and at these locations, experienced professional appraisers<br>
-						will provide customers with a purchase price that they can be satisfied with
+						OTAKARAYA在全國擁有約1,200間店舖，由經驗豐富的專業鑑定師為您提供滿意的收購價格。
 					</p>
 				</div>
 			</section>
@@ -115,15 +108,15 @@
 							src="../images/gold/graph_title_image.png">
 					</h3>
 					<div class="renew_202404_graph_title_lead">
-						We provide a graph showing the gold price (per gram) over different time periods.<br>
-						In addition to today's price, you can also refer to movements over the past 6 months or 1 year.
+						我們展示了不同時期的黃金行情（每克）的趨勢圖。<br>
+						除了今日的行情，您也可以參考6個月或1年的波動情況。
 					</div>
 				</div>
 				<div class="shop__detail--rateGraph">
-					<h3 class="titleSub is-pc">Gold Purchase Price Trend Graph</h3>
+					<h3 class="titleSub is-pc">黃金收購行情趨勢圖</h3>
 					<p class="is-pc">
-						We provide a graph showing the gold price (per gram) over different time periods.<br>
-						In addition to today's price, you can also refer to movements over the past 6 months or 1 year.
+						我們展示了不同時期的黃金行情（每克）的趨勢圖。<br>
+						除了今日的行情，您也可以參考6個月或1年的波動情況。
 					</p>
 					<div class="rateGraph__wrap">
 						<div class="rateGraph__inner--select form__wrap">
@@ -530,141 +523,125 @@
 														continue;
 													labels.push( moment( bace_metal[ i ].date ).format( "M/D" ) );
 
-													ChartDatePrice()prices.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 2) { // 3ヶ月
-												bace_metal = prices_concat.slice(0, 62); // 90
-												for (i = 0; i < bace_metal.length; i++) {
-													if (!bace_metal[i])
+											if ( i_date == 2 ) { // 3ヶ月
+												bace_metal = prices_concat.slice( 0, 62 ); // 90
+												for ( i = 0; i < bace_metal.length; i++ ) {
+													if ( !bace_metal[ i ] )
 														continue;
-													labels2.push(moment(bace_metal[i].date).format("M/D"));
+													labels2.push( moment( bace_metal[ i ].date ).format( "M/D" ) );
 
-													ChartDatePrice()
-
-													prices2.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices2.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 3) { // 6ヶ月
-												bace_metal = prices_concat.slice(0, 125); // 180
-												for (i = 0; i < bace_metal.length; i++) {
-													if (!bace_metal[i])
+											if ( i_date == 3 ) { // 6ヶ月
+												bace_metal = prices_concat.slice( 0, 125 ); // 180
+												for ( i = 0; i < bace_metal.length; i++ ) {
+													if ( !bace_metal[ i ] )
 														continue;
-													labels3.push(moment(bace_metal[i].date).format("M/D"));
+													labels3.push( moment( bace_metal[ i ].date ).format( "M/D" ) );
 
-													ChartDatePrice()
-
-													prices3.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices3.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 4) { // 1年
-												bace_metal = prices_concat.slice(0, 241); // 360
-												for (i = 0; i < bace_metal.length; i++) {
-													if (!bace_metal[i])
+											if ( i_date == 4 ) { // 1年
+												bace_metal = prices_concat.slice( 0, 241 ); // 360
+												for ( i = 0; i < bace_metal.length; i++ ) {
+													if ( !bace_metal[ i ] )
 														continue;
-													labels4.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													labels4.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices4.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices4.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 5) { // 3年
-												bace_metal = prices_concat.slice(0, 712); // 1080
-												for (i = 0; i < bace_metal.length; i++) {
-													if (!bace_metal[i])
+											if ( i_date == 5 ) { // 3年
+												bace_metal = prices_concat.slice( 0, 712 ); // 1080
+												for ( i = 0; i < bace_metal.length; i++ ) {
+													if ( !bace_metal[ i ] )
 														continue;
-													labels5.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													labels5.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices5.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices5.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 6) { // 10年
-												bace_metal = prices_concat.slice(0, 2650); // 3600
-												for (i = 0; i < bace_metal.length; i++) {
+											if ( i_date == 6 ) { // 10年
+												bace_metal = prices_concat.slice( 0, 2650 ); // 3600
+												for ( i = 0; i < bace_metal.length; i++ ) {
 													// i = i + 5 ;
 
-													if (!bace_metal[i])
+													if ( !bace_metal[ i ] )
 														continue;
 
-													var _fmt = (_pagetmpl == 'page-souba_10years.php') ? 'YYYY/M' : 'YYYY'; // 10年相場ページは日付フォーマットが異なる
-													labels6.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													var _fmt = ( _pagetmpl == 'page-souba_10years.php' ) ? 'YYYY/M' : 'YYYY'; // 10年相場ページは日付フォーマットが異なる
+													labels6.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices6.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices6.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
 
-											if (i_date == 7) { // 20年
-												bace_metal = prices_concat.slice(0, 5100); // 7200
-												for (i = 0; i < bace_metal.length; i++) {
+											if ( i_date == 7 ) { // 20年
+												bace_metal = prices_concat.slice( 0, 5100 ); // 7200
+												for ( i = 0; i < bace_metal.length; i++ ) {
 													// 5件ごとスキップ
 													// i = i + 5 ;
-													if (!bace_metal[i])
+													if ( !bace_metal[ i ] )
 														continue;
-													labels7.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													labels7.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices7.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices7.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 8) { // 30年
-												bace_metal = prices_concat.slice(0, 7400); // 10800
-												for (i = 0; i < bace_metal.length; i++) {
+											if ( i_date == 8 ) { // 30年
+												bace_metal = prices_concat.slice( 0, 7400 ); // 10800
+												for ( i = 0; i < bace_metal.length; i++ ) {
 													// 5件ごとスキップ
 													// i = i + 5 ;
 
-													if (!bace_metal[i])
+													if ( !bace_metal[ i ] )
 														continue;
-													labels8.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													labels8.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices8.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices8.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
 											}
-											if (i_date == 9) { // 全期間
+											if ( i_date == 9 ) { // 全期間
 												bace_metal = prices_concat;
-												for (i = 0; i < bace_metal.length; i++) {
+												for ( i = 0; i < bace_metal.length; i++ ) {
 													// 5件ごとスキップ
 													// i = i + 5 ;
 
-													if (!bace_metal[i])
+													if ( !bace_metal[ i ] )
 														continue;
-													labels9.push(moment(bace_metal[i].date).format("YYYY/M/D"));
+													labels9.push( moment( bace_metal[ i ].date ).format( "YYYY/M/D" ) );
 
-													ChartDatePrice()
-
-													prices9.push(bace_price);
-													if (i === limit) {
+													ChartDatePrice()prices9.push( bace_price );
+													if ( i === limit ) {
 														break;
 													}
 												};
@@ -672,16 +649,16 @@
 
 										};
 
-										labels6 = labels6.filter((_, index) => index % 10 === 0);
-										prices6 = prices6.filter((_, index) => index % 10 === 0);
-										labels7 = labels7.filter((_, index) => index % 20 === 0);
-										prices7 = prices7.filter((_, index) => index % 20 === 0);
-										labels8 = labels8.filter((_, index) => index % 30 === 0);
-										prices8 = prices8.filter((_, index) => index % 30 === 0);
-										labels9 = labels9.filter((_, index) => index % 40 === 0);
-										prices9 = prices9.filter((_, index) => index % 40 === 0);
+										labels6 = labels6.filter( ( _, index ) => index % 10 === 0 );
+										prices6 = prices6.filter( ( _, index ) => index % 10 === 0 );
+										labels7 = labels7.filter( ( _, index ) => index % 20 === 0 );
+										prices7 = prices7.filter( ( _, index ) => index % 20 === 0 );
+										labels8 = labels8.filter( ( _, index ) => index % 30 === 0 );
+										prices8 = prices8.filter( ( _, index ) => index % 30 === 0 );
+										labels9 = labels9.filter( ( _, index ) => index % 40 === 0 );
+										prices9 = prices9.filter( ( _, index ) => index % 40 === 0 );
 										only_once = 1;
-										if (only_once == 1) {
+										if ( only_once == 1 ) {
 											labels = labels.reverse();
 											prices = prices.reverse();
 											labels2 = labels2.reverse();
@@ -703,14 +680,13 @@
 											prices9 = prices9.reverse();
 											only_once == 0;
 										}
-										var maxPrice = Math.max.apply(null, prices);
-										var minPrice = Math.min.apply(null, prices);
+										var maxPrice = Math.max.apply( null, prices );
+										var minPrice = Math.min.apply( null, prices );
 										var diff = maxPrice * 0.01; // 1%の差分を取得
-										var suggestedMax = Math.round(maxPrice + diff); // maxPriceに1%の差分を追加して四捨五入
-										var ctx = document.getElementById(id);
-										if (goldChart != null) {
-											goldChart.destroy()
-										};
+										var suggestedMax = Math.round( maxPrice + diff ); // maxPriceに1%の差分を追加して四捨五入
+										var ctx = document.getElementById( id );
+										if ( goldChart != null ) {
+											goldChart.destroy()};
 										if (myChart1 != null) {
 											myChart1.destroy();
 										}
@@ -1356,51 +1332,36 @@
 				<section class="brandinfo_section gold_top_brandinfo_section">
 					<div class="titleMain titleMain--wrapper" style="margin-bottom: 4rem;">
 						<h2 class="titleMain--main">
-							<span>Why Now is the Right Time to Sell Gold</span>
+							<span>為什麼現在是賣黃金的最佳時機</span>
 						</h2>
 					</div>
 					<div class="fshoplist-target__list brand_about_repeat_parent_wrap is-pc">
 						<div class="fshoplist-target--ttl">
-							<h3 class="titleSub">Three Important Points About Gold Purchase</h3>
+							<h3 class="titleSub">黃金收購的三大關鍵要點</h3>
 						</div>
 						<div class="fshoplist-target--item">
 							<div class="horizonlist horizonnumblist">
 								<div class="horizonlist--link">
 									<div class="horizonlist--text">
-										<h4 class="titleH4 title--left">Gold Purchase Price Trends</h4>
-										<p>Gold prices change daily.The
-											price per gram can fluctuate by
-											several hundred yen in a single
-											day, and the more gold you sell
-											(heavier the item), the greater
-											the impact of these price
-											fluctuations.
+										<h4 class="titleH4 title--left">黃金的收購價格行情</h4>
+										<p>黃金的價格每天都在變動。每克幾百日元以上的價格在一天內變動是很常見的，賣出金額越大（越重），價格波動的影響也會越大。
 										</p>
 									</div>
 								</div>
 								<div class="horizonlist--link">
 									<div class="horizonlist--text">
-										<h4 class="titleH4 title--left">Gold Purity</h4>
-										<p>Gold is marked with its purity
-											(content), such as 24K, 22K, or
-											18K.The higher the number in the
-											stamp, the rarer it is, and the
-											higher its value as gold.
+										<h4 class="titleH4 title--left">黃金的純度</h4>
+										<p>黃金的純度（含量）會根據24K、22K、18K等標準來標註。
+										標註的數字越大，越稀有，黃金的價值也越高。
 										</p>
 									</div>
 								</div>
 								<div class="horizonlist--link">
 									<div class="horizonlist--text">
-										<h4 class="titleH4 title--left">Gold Weight</h4>
+										<h4 class="titleH4 title--left">黃金的重量</h4>
 										<p>
-											Gold has a reference purchase
-											price set per gram, so the
-											appraisal value increases in
-											proportion to the weight.At
-											Otakaraya's appraisal, we
-											measure the weight in 0.1-gram
-											units and calculate the gold's
-											value accurately.
+										黃金的收購價格是按每克計算的，重量越大，收購價格越高。
+										在OTAKARAYA的鑑定中，我們會以0.1克為單位測量重量，並準確計算黃金的價值。
 										</p>
 									</div>
 								</div>
@@ -1416,47 +1377,32 @@
 							<div class="horizonlist horizonnumblist">
 								<div class="horizonlist--link">
 									<div class="sp_text_wrap">
-										<h4 class="titleH4 title--left">Gold Purchase Price Trends</h4>
+										<h4 class="titleH4 title--left">黃金的收購價格行情</h4>
 									</div>
 									<div class="horizonlist--text">
 										<p>
-											Gold prices change daily.The
-											price per gram can fluctuate by
-											several hundred yen in a single
-											day, and the more gold you sell
-											(heavier the item), the greater
-											the impact of these price
-											fluctuations.
+										黃金的價格每天都在變動。每克幾百日元以上的價格在一天內變動是很常見的，賣出金額越大（越重），價格波動的影響也會越大。
 										</p>
 									</div>
 								</div>
 								<div class="horizonlist--link">
 									<div class="sp_text_wrap">
-										<h4 class="titleH4 title--left">Gold Purity</h4>
+										<h4 class="titleH4 title--left">黃金的純度</h4>
 									</div>
 									<div class="horizonlist--text">
-										<p>Gold is marked with its purity (content),
-											such as 24K, 22K, or 18K.
-											The higher the number in the stamp,
-											the rarer it is, and the higher
-											its value as gold.
+										<p>黃金的純度（含量）會根據24K、22K、18K等標準來標註。
+標註的數字越大，越稀有，黃金的價值也越高。
 										</p>
 									</div>
 								</div>
 								<div class="horizonlist--link">
 									<div class="sp_text_wrap">
-										<h4 class="titleH4 title--left">Gold Weight</h4>
+										<h4 class="titleH4 title--left">黃金的重量</h4>
 									</div>
 									<div class="horizonlist--text">
 										<p>
-											Gold has a reference purchase
-											price set per gram, so the
-											appraisal value increases in
-											proportion to the weight. At
-											Otakaraya's appraisal, we
-											measure the weight in 0.1-gram
-											units and calculate the gold's
-											value accurately.
+											黃金的收購價格是按每克計算的，重量越大，收購價格越高。
+在OTAKARAYA的鑑定中，我們會以0.1克為單位測量重量，並準確計算黃金的價值。
 										</p>
 									</div>
 								</div>
@@ -1467,69 +1413,47 @@
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
 								<h3 class="brandinfo__header__title">
-									Why Otakaraya Can Offer High-Price Gold Purchases
+									為什麼OTAKARAYA能夠提供高價收購黃金
 								</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
 								<div class="brandinfo__body__text brandinfo__body__text--top">
-									As a specialized purchase store,
-									Otakaraya does not have retail stores to
-									sell the items purchased from customers.
-									The items we purchase are traded not
-									only in Japan but also with corporations
-									and businesses in 44 countries
-									worldwide.<br />
+								作為專業收購店，OTAKARAYA不會在門市中銷售收購的物品。
+								收購的物品不僅在日本，還與世界44個國家的企業和商家進行交易。<br />
 									<br />
-									By eliminating the costs associated with
-									selling, we are able to offer high-price
-									purchases unique to Otakaraya.
+									透過不進行銷售所產生的成本，可以將其轉嫁到收購金額上，
+使OTAKARAYA能夠提供獨有的高價收購。
 								</div>
 							</div>
 						</div>
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">Gold Price Trends Over the Past 30 Years</h3>
+								<h3 class="brandinfo__header__title">過去30年黃金的市場價格變化</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
 								<div class="brandinfo__body__text brandinfo__body__text--top">
-									Thirty years ago, in the 1990s, the
-									price of gold was around 1,000–1,500 yen
-									per gram, which was extremely low by
-									today's standards.<br />
+									30年前的1990年代，黃金的價格大約在每克1,000至1,500日元之間，當時的價格低得驚人。<br />
 									<br />
-									However, due to unstable social
-									conditions such as the Lehman Brothers
-									collapse and the COVID-19 crisis, gold's
-									value as a "safe asset" increased, and
-									its price soared.<br />
+									然而，受到雷曼危機和新冠疫情等不穩定社會情況的影響，黃金作為“安全資產”的價值逐漸提升，價格也隨之飆升。<br />
 									<br />
-									As of 2024, the price of gold has
-									surpassed 10,000 yen per gram, reaching
-									historic highs.
+									至2024年，黃金的價格已經超過每克1萬日元，達到了歷史新高。
 								</div>
 							</div>
 						</div>
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">Tips for Selling Gold at a High Price</h3>
+								<h3 class="brandinfo__header__title">高價賣出黃金的訣竅</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
 								<div class="brandinfo__body__text brandinfo__body__text--top">
 									<br>
-									The key to selling gold at a high price
-									is "selling when the price of gold is
-									high" and "selling to a specialized
-									store that offers high purchase prices."
-									Gold prices are currently soaring,
-									making this the best time to sell. An
-									important factor is choosing the right
-									purchase store. For gold purchases,
-									trust Otakaraya, known for high
-									prices.<br />
+									高價賣出黃金的訣竅是
+「在黃金價格高的時候賣出」以及「選擇能夠高價收購的專門店」。<br />
 									<br />
-									With over 1,300 stores nationwide, our
-									professional appraisers will offer you a
-									purchase price that satisfies you.
+									目前黃金價格非常高漲，現在可以說是最佳的出售時機。
+選擇買取專門店是非常重要，若是要賣黃金，高價收購就交給OTAKARAYA。
+我們全國擁有超過1,200間門市，
+由專業的鑑定師為您提供令人滿意的收購價格。
 								</div>
 							</div>
 						</div>
@@ -1538,111 +1462,84 @@
 			</div>
 			<div class="is-sp">
 				<div class="renew_202404_sellreason_titlebox">
-					<h2 class="renew_202404_sellreason_title_h2">Why Now is the Right Time to Sell Gold</h2>
-					<h3 class="renew_202404_sellreason_title_h3">Three Important Points About Gold Purchase</h3>
+					<h2 class="renew_202404_sellreason_title_h2">為什麼現在是賣黃金的最佳時機</h2>
+					<h3 class="renew_202404_sellreason_title_h3">黃金收購的三大關鍵要點</h3>
 					<img class="renew_2024_sellreason_title_image" src="../images/gold/point_stars.png">
 				</div>
 				<section class="renew_202404_sellreason_section">
 					<div class="renew_202404_sellreason_item"> <img class="renew_202404_sellreason_item_icon" src="../images/gold/point_1.webp"> <img class="renew_202404_sellreason_item_img" src="../images/gold/point_image01.jpg">
-						<h2 class="renew_202404_sellreason_item_title">Gold Purchase Price Trends</h2>
+						<h2 class="renew_202404_sellreason_item_title">黃金的收購價格行情</h2>
 						<div class="renew_202404_sellreason_item_story">
-							Gold prices change daily. The price per gram can
-							fluctuate by several hundred yen in a single
-							day, and the more gold you sell (heavier the
-							item), the greater the impact of these price
-							fluctuations.
+						黃金的價格每天都在變動。每克幾百日元以上的價格在一天內變動是很常見的，賣出金額越大（越重），價格波動的影響也會越大。
 						</div>
 					</div>
 					<!-- renew_202404_sellreason_item -->
 
 					<div class="renew_202404_sellreason_item"> <img class="renew_202404_sellreason_item_icon" src="../images/gold/point_2.webp"> <img class="renew_202404_sellreason_item_img" src="../images/gold/point_image02.jpg">
-						<h2 class="renew_202404_sellreason_item_title">Gold Purity</h2>
+						<h2 class="renew_202404_sellreason_item_title">黃金的純度</h2>
 						<div class="renew_202404_sellreason_item_story">
-							Gold is marked with its purity (content), such
-							as 24K, 22K, or 18K. The higher the number in
-							the stamp, the rarer it is, and the higher its
-							value as gold.
+						黃金的純度（含量）會根據24K、22K、18K等標準來標註。
+						標註的數字越大，越稀有，黃金的價值也越高。
 						</div>
 					</div>
 					<!-- renew_202404_sellreason_item -->
 
 					<div class="renew_202404_sellreason_item"> <img class="renew_202404_sellreason_item_icon" src="../images/gold/point_3.webp"> <img class="renew_202404_sellreason_item_img" src="../images/gold/point_image03.jpg">
-						<h2 class="renew_202404_sellreason_item_title">Gold Weight</h2>
+						<h2 class="renew_202404_sellreason_item_title">黃金的重量</h2>
 						<div class="renew_202404_sellreason_item_story">
-							Gold has a reference purchase price set per
-							gram, so the appraisal value increases in
-							proportion to the weight. At Otakaraya's
-							appraisal, we measure the weight in 0.1-gram
-							units and calculate the gold's value accurately.
+						黃金的收購價格是按每克計算的，重量越大，收購價格越高。
+						在OTAKARAYA的鑑定中，我們會以0.1克為單位測量重量，並準確計算黃金的價值。
 						</div>
 					</div>
 					<!-- renew_202404_sellreason_item -->
 					<h3 class="renew_202404_sellreason_shutter_title">
-						Why Otakaraya Can Offer High-Price Gold Purchases
+						為什麼OTAKARAYA能夠提供高價收購黃金
 						<div class="renew_202404_sellreason_shutter_circle">
 							<div class="renew_202404_sellreason_shutter_arrow"></div>
 						</div>
 					</h3>
 					<div class="renew_202404_sellreason_shutter_story">
 						<p>
-							<span>As a specialized purchase store, Otakaraya
-								does not have retail stores to sell the
-								items purchased from customers.</span>The items we purchase are traded not only in
-							Japan but also with corporations and businesses
-							in 44 countries worldwide.
+							<span>作為專業收購店，OTAKARAYA不會在門市中銷售收購的物品。</span>收購的物品不僅在日本，還與世界44個國家的企業和商家進行交易。
 						</p>
 						<p>
-							<span>By eliminating the costs associated with
-								selling</span>, we are able to offer high-price purchases
-							unique to Otakaraya.
+						透過不進行銷售所產生的成本，可以將其轉嫁到收購金額上，
+						使OTAKARAYA能夠提供獨有的高價收購。
 						</p>
 					</div>
 					<h3 class="renew_202404_sellreason_shutter_title">
-						Gold Price Trends Over the Past 30 Years
+						過去30年黃金的市場價格變化
 						<div class="renew_202404_sellreason_shutter_circle">
 							<div class="renew_202404_sellreason_shutter_arrow"></div>
 						</div>
 					</h3>
 					<div class="renew_202404_sellreason_shutter_story">
 						<p>
-							Thirty years ago,
-							<span>in the 1990s, the price of gold was around
-								1,000–1,500 yen per gram</span>, which was extremely low by today's standards.
+						30年前的1990年代，黃金的價格大約在每克1,000至1,500日元之間，當時的價格低得驚人。
 						</p>
 						<p>
-							However, due to unstable social conditions such
-							as the Lehman Brothers collapse and the COVID-19
-							crisis, gold's value as a "safe asset"
-							increased, and its price soared.
+						然而，受到雷曼危機和新冠疫情等不穩定社會情況的影響，黃金作為“安全資產”的價值逐漸提升，價格也隨之飆升。
 						</p>
 						<p>
-							<span>As of 2024, the price of gold has surpassed
-								10,000 yen per gram, reaching historic
-								highs.</span>
+							<span>至2024年，黃金的價格已經超過每克1萬日元，達到了歷史新高。</span>
 						</p>
 					</div>
 					<h3 class="renew_202404_sellreason_shutter_title">
-						Tips for Selling Gold at a High Price
+					高價賣出黃金的訣竅
 						<div class="renew_202404_sellreason_shutter_circle">
 							<div class="renew_202404_sellreason_shutter_arrow"></div>
 						</div>
 					</h3>
 					<div class="renew_202404_sellreason_shutter_story">
 						<p>
-							<span>The key to selling gold at a high price is
-								"selling when the price of gold is high" and
-								"selling to a specialized store that offers
-								high purchase prices."</span>
-							Gold prices are currently soaring, making this
-							the best time to sell. An important factor is
-							choosing the right purchase store. For gold
-							purchases, trust Otakaraya, known for high
-							prices.
+							<span>高價賣出黃金的訣竅是</span>
+							「在黃金價格高的時候賣出」以及「選擇能夠高價收購的專門店」。
 						</p>
 						<p>
-							With over 1,300 stores nationwide, our
-							professional appraisers will offer you a
-							purchase price that satisfies you.
+						目前黃金價格非常高漲，現在可以說是最佳的出售時機。
+選擇買取專門店是非常重要，若是要賣黃金，高價收購就交給OTAKARAYA。
+我們全國擁有超過1,200間門市，
+由專業的鑑定師為您提供令人滿意的收購價格。
 						</p>
 					</div>
 				</section>
@@ -1660,102 +1557,74 @@
 			<section class="renew_2024_unknownok_section is-sp">
 				<div class="renew_2024_unknownok_titlebox">
 					<h2 class="renew_2024_unknownok_title">
-						Don't worry if you're unsure of the purity of your
-						gold items for purchase.
+					不清楚金製品的純度也可安心出售
 					</h2>
 					<img class="renew_2024_unknownok_title_image"
 						src="../images/gold/ok_photo_202404.png">
 				</div>
 				<div class="renew_2024_unknownok_item_titlebox first">
-					About Gold Purity
+					About 黃金的純度
 					<div class="renew_2024_unknownok_item_title_circle">
 						<div class="renew_2024_unknownok_item_title_arrow"></div>
 					</div>
 				</div>
 				<div class="renew_2024_unknownok_item_storybox">
 					<p>
-						Gold grades, such as 24K or 18K, are marked using a
-						unique system called the 24th part ratio. In
-						addition to the 24th part ratio stamps, some items
-						may also have a hallmark, which is a purity
-						certification from a minting authority. Although the
-						hallmark does not directly increase the value of the
-						gold, it is important for ensuring safe
-						transactions, as there are many different types of
-						gold circulating in the market.
+					黃金的等級會以24分率這種特有的表示方式標示，例如24K或18K等。除了24分率的刻印，還有些情況會有由日本造幣局提供的成色證明，
+					稱為「鑑證印記」（Hallmark）。「鑑證印記」本身不會直接提高黃金的價值，
+但因為市面上有很多不同的黃金種類，
+它是為了讓交易更加安全的重要依據。
 					</p>
 					<p>
-						Especially for overseas products, it can be
-						difficult to determine gold purity from the stamp.
-						Even items without stamps can be purchased, so feel
-						free to consult with us.
+					特別是外國產品，有時刻印難以顯示黃金的等級，從而增加判斷的難度。
+					即使沒有刻印的金製品，也可以進行收購，歡迎隨時諮詢。
 					</p>
 				</div>
 				<div class="renew_2024_unknownok_item_titlebox">
-					We Accurately Measure Unknown Precious Metal Purities
+				我們能準確測定純度不明的貴金屬
 					<div class="renew_2024_unknownok_item_title_circle">
 						<div class="renew_2024_unknownok_item_title_arrow"></div>
 					</div>
 				</div>
 				<div class="renew_2024_unknownok_item_storybox">
 					<p>
-						If you're unsure of the purity or if there is no
-						stamp, don't worry.<br />
-						We can accurately measure the value of low-purity
-						gold or alloys made of multiple metals in a short
-						time, and offer an on-the-spot cash purchase.<br />
-						Feel free to contact us, even if other stores have
-						refused your items.
+					無論是「不清楚純度」或「沒有刻印」的黃金製品，您都可以放心。<br />
+					即使是低純度的金或是合金，我們也能在短時間內準確測量其價值，並當場提供現金收購服務。<br />
+					即使在其他店鋪被拒收的物品，也可以隨時向我們諮詢。
 					</p>
 				</div>
 				<div class="renew_2024_unknownok_item_titlebox">
-					We Assess the Value of Jewelry Stones and Design Along
-					with Gold
+				我們會鑑定飾品的寶石和設計價值
 					<div class="renew_2024_unknownok_item_title_circle">
 						<div class="renew_2024_unknownok_item_title_arrow"></div>
 					</div>
 				</div>
 				<div class="renew_2024_unknownok_item_storybox">
 					<p>
-						At Otakaraya, when purchasing gold items, we
-						consider not only the value of the gold itself but
-						also the value of the jewelry stones and the
-						design.<br />
-						As a specialized store that purchases a wide range
-						of precious metals, Otakaraya offers high-value
-						appraisals unique to us.
+					在OTAKARAYA，我們收購金製品時，不僅考慮到金本身的價值，還會綜合考慮飾品上的寶石價值和設計感。<br />
+					作為專門廣泛收購貴金屬的專門店，我們會為您提供最高的收購價格。
 					</p>
 				</div>
 			</section>
 			<section class="brandinfo_section gold_top_brandinfo_section is-pc">
 				<div class="titleMain titleMain--wrapper" style="margin-bottom: 4rem;">
 					<h2 class="titleMain--main">
-						<span>Don't worry if you're unsure of the purity of
-							your gold items for purchase.</span>
+						<span>不清楚金製品的純度也可安心出售</span>
 					</h2>
 				</div>
 				<div class="brandinfo brandinfo_red_repeat">
 					<div class="brandinfo__main fshoplist-target__list">
 						<div class="brandinfo__header fshoplist-target--ttl">
-							<h3 class="brandinfo__header__title">About Gold Purity</h3>
+							<h3 class="brandinfo__header__title">關於黃金的成色</h3>
 						</div>
 						<div class="fshoplist-target--item brandinfo__body no--image">
 							<div class="brandinfo__body__text brandinfo__body__text--top">
-								<p> Gold grades, such as 24K or 18K, are marked
-									using a unique system called the 24th part
-									ratio. In addition to the 24th part ratio
-									stamps, some items may also have a hallmark,
-									which is a purity certification from a
-									minting authority. Although the hallmark
-									does not directly increase the value of the
-									gold, it is important for ensuring safe
-									transactions, as there are many different
-									types of gold circulating in the market.<br />
+								<p> 黃金的等級會以24分率這種特有的表示方式標示，例如24K或18K等。除了24分率的刻印，還有些情況會有由日本造幣局提供的成色證明，
+								稱為「鑑證印記」（Hallmark）。「鑑證印記」本身不會直接提高黃金的價值，
+但因為市面上有很多不同的黃金種類，
+它是為了讓交易更加安全的重要依據。<br />
 									<br />
-									Especially for overseas products, it can be
-									difficult to determine gold purity from the
-									stamp. Even items without stamps can be
-									purchased, so feel free to consult with us.
+									特別是外國產品，有時刻印難以顯示黃金的等級，從而增加判斷的難度。即使沒有刻印的金製品，也可以進行收購，歡迎隨時諮詢。
 								</p>
 							</div>
 						</div>
@@ -1763,38 +1632,24 @@
 					<div class="brandinfo__main fshoplist-target__list">
 						<div class="brandinfo__header fshoplist-target--ttl">
 							<h3 class="brandinfo__header__title">
-								We Accurately Measure Unknown Precious Metal
-								Purities </h3>
+							即使是低純度的金或是合金，我們也能在短時間內準確測量其價值，並當場提供現金收購服務。</h3>
 						</div>
 						<div class="fshoplist-target--item brandinfo__body no--image">
 							<div class="brandinfo__body__text brandinfo__body__text--top">
 								<p>
-									If you're unsure of the purity or if there
-									is no stamp, don't worry. We can accurately
-									measure the value of low-purity gold or
-									alloys made of multiple metals in a short
-									time, and offer an on-the-spot cash
-									purchase. Feel free to contact us, even if
-									other stores have refused your items.</p>
+								無論是「不清楚純度」或「沒有刻印」的黃金製品，您都可以放心。即使是低純度的金或是合金，我們也能在短時間內準確測量其價值，並當場提供現金收購服務。即使在其他店鋪被拒收的物品，也可以隨時向我們諮詢。</p>
 							</div>
 						</div>
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
 								<h3 class="brandinfo__header__title">
-									We Assess the Value of Jewelry Stones and
-									Design Along with Gold
+								我們會鑑定飾品的寶石和設計價值
 								</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
 								<div class="brandinfo__body__text brandinfo__body__text--top">
 									<p>
-										At Otakaraya, when purchasing gold items, we
-										consider not only the value of the gold
-										itself but also the value of the jewelry
-										stones and the design. As a specialized
-										store that purchases a wide range of
-										precious metals, Otakaraya offers high-value
-										appraisals unique to us.
+									在OTAKARAYA，我們收購金製品時，不僅考慮到金本身的價值，還會綜合考慮飾品上的寶石價值和設計感。作為專門廣泛收購貴金屬的專門店，我們會為您提供最高的收購價格。
 									</p>
 								</div>
 							</div>
@@ -1809,48 +1664,34 @@
 						<div class="renew_2024_top_gg_profile_right"> Ito </div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
-						<div class="renew_2024_top_gg_profile_left">Hobbies</div>
-						<div class="renew_2024_top_gg_profile_right">shopping</div>
+						<div class="renew_2024_top_gg_profile_left">趣味</div>
+						<div class="renew_2024_top_gg_profile_right">擦皮鞋</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
-						<div class="renew_2024_top_gg_profile_left">Favorite phrase</div>
+						<div class="renew_2024_top_gg_profile_left">喜歡的詞語：</div>
 						<div class="renew_2024_top_gg_profile_right">Walk the walk and talk the talk.</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
-						<div class="renew_2024_top_gg_profile_left">Favorite brand</div>
+						<div class="renew_2024_top_gg_profile_left">喜歡的品牌：</div>
 						<div class="renew_2024_top_gg_profile_right"> Harry Winston</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
-						<div class="renew_2024_top_gg_profile_left">Past purchase examples</div>
-						<div class="renew_2024_top_gg_profile_right">Orin, ingots</div>
+						<div class="renew_2024_top_gg_profile_left">過去的收購品例：</div>
+						<div class="renew_2024_top_gg_profile_right">佛鈴、金條</div>
 					</div>
 					<div class="renew_2024_top_gg_storybox">
-						At Otakaraya, when purchasing gold, we use today's
-						reference purchase price for gold per gram and also
-						consider factors such as design to offer high-value
-						purchases. We have appraised over 10,000 items in
-						the past, and many customers have been pleased with
-						the amounts, often exceeding their expectations.
-						Additionally, Otakaraya equips all of its stores
-						with specific gravity scales, allowing us to
-						accurately measure the gold content.
+					在OTAKARAYA進行黃金收購時，我們會以當日黃金每克的收購參考價為基礎，並額外考慮設計美感等因素，提供高價收購服務。我們曾經進行過超過一萬件物品的鑑定，
+					許多客戶都表示收購金額遠超預期，感到非常滿意。此外，OTAKARAYA的所有門市均配備了測量儀器，能夠精確測量黃金的含金量。
 					</div>
 					<div class="renew_2024_top_gg_storybox">
-						Not only do we offer competitive prices, but we also
-						strive to provide the highest level of customer
-						service. We go beyond just valuing the items; we
-						take the time to understand and respect each
-						customer's feelings, ensuring they leave satisfied
-						with our thorough explanations. We are dedicated to
-						serving you with sincerity and care, and we look
-						forward to your visit to Otakaraya.
+					金額當然重要，我們也致力於提供最高水準的服務，確保每位顧客都能感受到我們的熱情款待。我們不僅僅關注商品，更重視每位顧客的心情，會耐心解釋，讓您滿意地離開。我們將誠心誠意地為您服務，期待您使用OTAKARAYA的收購服務。
 					</div>
 				</div>
 			</section>
 			<section class="is-pc">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						<span>Introduction of Appraisers</span>
+						<span>鑑定師介紹</span>
 					</h2>
 				</div>
 				<div class="content-inner">
@@ -1861,12 +1702,12 @@
 									<div class="shop-leader_head absolute">
 										<h2 class="is-pc bgsitecolor bordersitecolor relative">
 											<span class="noto thin" style="font-size: 26px; font-family: serif;">
-												Appraiser
+											估價師
 											</span>
 										</h2>
 										<h2 class="is-sp bgsitecolor bordersitecolor relative">
 											<span class="noto thin" style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">
-												Appraiser
+											估價師
 											</span>
 										</h2>
 									</div>
@@ -1884,28 +1725,28 @@
 												<tbody>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">Hobbies</span>
+															<span class="noto">趣味：</span>
 														</th>
-														<td><span class="noto">shopping</span></td>
+														<td><span class="noto">擦皮鞋</span></td>
 													</tr>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">Favorite phrase</span>
+															<span class="noto">喜歡的詞語：</span>
 														</th>
 														<td><span class="noto">Walk the walk and talk the talk.</span></td>
 													</tr>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">Favorite brand</span>
+															<span class="noto">喜歡的品牌</span>
 														</th>
 														<td><span class="noto">Harry Winston</span></td>
 													</tr>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">Past purchase examples</span>
+															<span class="noto">過去的收購品例：</span>
 														</th>
 														<td>
-															<span class="noto">Orin,ingots</span>
+															<span class="noto">佛鈴、金條</span>
 														</td>
 													</tr>
 												</tbody>
@@ -1915,24 +1756,10 @@
 								</div>
 								<p class="shop-leader_text">
 									<span class="noto">
-										At Otakaraya, when purchasing gold, we use today's
-										reference purchase price for gold per gram and also
-										consider factors such as design to offer high-value
-										purchases. We have appraised over 10,000 items in
-										the past, and many customers have been pleased with
-										the amounts, often exceeding their expectations.
-										Additionally, Otakaraya equips all of its stores
-										with specific gravity scales, allowing us to
-										accurately measure the gold content.
+										在OTAKARAYA進行黃金收購時，我們會以當日黃金每克的收購參考價為基礎，並額外考慮設計美感等因素，提供高價收購服務。我們曾經進行過超過一萬件物品的鑑定，
+許多客戶都表示收購金額遠超預期，感到非常滿意。此外，OTAKARAYA的所有門市均配備了測量儀器，能夠精確測量黃金的含金量。
 										<br /><br />
-										Not only do we offer competitive prices, but we also
-										strive to provide the highest level of customer
-										service. We go beyond just valuing the items; we
-										take the time to understand and respect each
-										customer's feelings, ensuring they leave satisfied
-										with our thorough explanations. We are dedicated to
-										serving you with sincerity and care, and we look
-										forward to your visit to Otakaraya.
+										金額當然重要，我們也致力於提供最高水準的服務，確保每位顧客都能感受到我們的熱情款待。我們不僅僅關注商品，更重視每位顧客的心情，會耐心解釋，讓您滿意地離開。我們將誠心誠意地為您服務，期待您使用OTAKARAYA的收購服務。
 									</span>
 								</p>
 								<div class="shop-detail_button clearfix"> </div>
@@ -1947,114 +1774,113 @@
 				<section>
 					<div class="titleMain titleMain--wrapper">
 						<h2 class="titleMain--main">
-							<span>We will purchase</span> gold in any condition.
+							無論什麼狀態的黃金，我們都可以收購。
 						</h2>
 						<div class="titleMain--lead">
-							<p>We are happy to purchase small amounts of
-								gold, broken accessories, and more.
+							<p>少量黃金或損壞的飾品，我們也會非常樂意收購。
 							</p>
 						</div>
 					</div>
 					<div class="colBox colBox__col04 sp__col03">
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/04-1.webp" alt="Bent or torn gold"></p>
-								<p class="is-sp"><img src="../images/gold/04-1.webp" alt="Bent or torn gold"></p>
+								<p class="is-pc"><img src="../images/gold/04-1.webp" alt="彎曲或破損的黃金"></p>
+								<p class="is-sp"><img src="../images/gold/04-1.webp" alt="彎曲或破損的黃金"></p>
 							</div>
-							<p class="text text--center">Bent or torn gold</p>
+							<p class="text text--center">彎曲或破損的黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/07-1.webp" alt="Gold without a stamp"></p>
-								<p class="is-sp"><img src="../images/gold/07-1.webp" alt="Gold without a stamp"></p>
+								<p class="is-pc"><img src="../images/gold/07-1.webp" alt="無刻印的黃金"></p>
+								<p class="is-sp"><img src="../images/gold/07-1.webp" alt="無刻印的黃金"></p>
 							</div>
-							<p class="text text--center">Gold without a stamp</p>
+							<p class="text text--center">無刻印的黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/02-1.webp" alt="Single earring or small amounts of gold"></p>
-								<p class="is-sp"><img src="../images/gold/02-1.webp" alt="Single earring or small amounts of gold"></p>
+								<p class="is-pc"><img src="../images/gold/02-1.webp" alt="單隻耳環等少量黃金"></p>
+								<p class="is-sp"><img src="../images/gold/02-1.webp" alt="單隻耳環等少量黃金"></p>
 							</div>
-							<p class="text text--center">Single earring or small amounts of gold</p>
+							<p class="text text--center">單隻耳環等少量黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/03-1.webp" alt="Gold fittings from belts"></p>
-								<p class="is-sp"><img src="../images/gold/03-1.webp" alt="Gold fittings from belts"></p>
+								<p class="is-pc"><img src="../images/gold/03-1.webp" alt="皮帶的金扣"></p>
+								<p class="is-sp"><img src="../images/gold/03-1.webp" alt="皮帶的金扣"></p>
 							</div>
-							<p class="text text--center">Gold fittings from belts</p>
+							<p class="text text--center">皮帶的金扣</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/06-1.webp" alt="Industrial-grade gold"></p>
-								<p class="is-sp"><img src="../images/gold/06-1.webp" alt="Industrial-grade gold"></p>
+								<p class="is-pc"><img src="../images/gold/06-1.webp" alt="工業用黃金"></p>
+								<p class="is-sp"><img src="../images/gold/06-1.webp" alt="工業用黃金"></p>
 							</div>
-							<p class="text text--center">Industrial-grade gold</p>
+							<p class="text text--center">工業用黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/08-1-1.webp" alt="Art value considered"></p>
-								<p class="is-sp"><img src="../images/gold/08-1-1.webp" alt="Art value considered"></p>
+								<p class="is-pc"><img src="../images/gold/08-1-1.webp" alt="具有藝術品價值的黃金"></p>
+								<p class="is-sp"><img src="../images/gold/08-1-1.webp" alt="具有藝術品價值的黃金"></p>
 							</div>
-							<p class="text text--center">Art value considered</p>
+							<p class="text text--center">具有藝術品價值的黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/01-1.webp" alt="Antique value considered"></p>
-								<p class="is-sp"><img src="../images/gold/01-1.webp" alt="Antique value considered"></p>
+								<p class="is-pc"><img src="../images/gold/01-1.webp" alt="考慮古董價值的黃金"></p>
+								<p class="is-sp"><img src="../images/gold/01-1.webp" alt="考慮古董價值的黃金"></p>
 							</div>
-							<p class="text text--center">Antique value considered</p>
+							<p class="text text--center">考慮古董價值的黃金</p>
 						</div>
 						<div class="col">
 							<div class="img">
-								<p class="is-pc"><img src="../images/gold/05-1-1.webp" alt="Gold teeth, gold dentures"></p>
-								<p class="is-sp"><img src="../images/gold/05-1-1.webp" alt="Gold teeth, gold dentures"></p>
+								<p class="is-pc"><img src="../images/gold/05-1-1.webp" alt="金牙、含有金的假牙"></p>
+								<p class="is-sp"><img src="../images/gold/05-1-1.webp" alt="金牙、含有金的假牙"></p>
 							</div>
-							<p class="text text--center">Gold teeth, gold dentures</p>
+							<p class="text text--center">金牙、含有金的假牙</p>
 						</div>
 						<div class="col">
 							<div class="img">
 								<p class="is-pc">
 									<img src="../images/gold/7f88058f04264c8f8733783d51428759.webp"
-										alt="Rings with missing stones">
+										alt="鑽石脫落的戒指">
 								</p>
 								<p class="is-sp">
 									<img src="../images/gold/7f88058f04264c8f8733783d51428759.webp"
-										alt="Rings with missing stones">
+										alt="鑽石脫落的戒指">
 								</p>
 							</div>
-							<p class="text text--center">Rings with missing stones</p>
+							<p class="text text--center">鑽石脫落的戒指</p>
 						</div>
 						<div class="col">
 							<div class="img">
 								<p class="is-pc">
 									<img src="../images/gold/ec85d0541b60c1f7ba605bfca95b13d0.webp"
-										alt="Tarnished accessories">
+										alt="變黑的飾品">
 								</p>
 								<p class="is-sp">
 									<img src="../images/gold/ec85d0541b60c1f7ba605bfca95b13d0.webp"
-										alt="Tarnished accessories">
+										alt="變黑的飾品">
 								</p>
 							</div>
-							<p class="text text--center">Tarnished accessories</p>
+							<p class="text text--center">變黑的飾品</p>
 						</div>
 						<div class="col">
 							<div class="img">
 								<p class="is-pc"><img src="../images/gold/38480b4ef7005b09bd7ed1a3e9dc1e52.webp"
-										alt="Pendant tops only"></p>
+										alt="只有吊墜部分"></p>
 								<p class="is-sp"><img src="../images/gold/38480b4ef7005b09bd7ed1a3e9dc1e52.webp"
-										alt="Pendant tops only"></p>
+										alt="只有吊墜部分"></p>
 							</div>
-							<p class="text text--center">Pendant tops only</p>
+							<p class="text text--center">只有吊墜部分</p>
 						</div>
 						<div class="col">
 							<div class="img">
 								<p class="is-pc"><img src="../images/gold/f540432c0d452207e8eb30d72179e8ea.webp"
-										alt="Brooches and gold parts"></p>
+										alt="胸針等飾品的金屬部分"></p>
 								<p class="is-sp"><img src="../images/gold/f540432c0d452207e8eb30d72179e8ea.webp"
-										alt="Brooches and gold parts"></p>
+										alt="胸針等飾品的金屬部分"></p>
 							</div>
-							<p class="text text--center">Brooches and gold parts</p>
+							<p class="text text--center">胸針等飾品的金屬部分</p>
 						</div>
 					</div>
 				</section>
@@ -2062,87 +1888,86 @@
 			<div class="is-sp">
 				<div class="renew_202404_statebad_titlebox">
 					<h2 class="renew_202404_statebad_title_h2">
-						We will purchase gold in any condition.
+						無論什麼狀態的黃金，我們都可以收購。
 					</h2>
 					<div class="renew_202404_statebad_title_lead">
-						We are happy to purchase small amounts of gold,
-						broken accessories, and more.
+						少量黃金或損壞的飾品，我們也會非常樂意收購。
 					</div>
 				</div>
 				<section class="renew_202404_statebad_section">
 					<div class="renew_202404_statebad_itembox long">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/04-1.webp" alt="Bent or torn gold">
+							<img src="../images/gold/04-1.webp" alt="彎曲或破損的黃金">
 						</div>
-						Bent or torn gold
+						彎曲或破損的黃金
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/07-1.webp" alt="Gold without a stamp">
+							<img src="../images/gold/07-1.webp" alt="無刻印的黃金">
 						</div>
-						Gold without a stamp
+						無刻印的黃金
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/02-1.webp" alt="Single earring or small amounts of gold">
+							<img src="../images/gold/02-1.webp" alt="單隻耳環等少量黃金">
 						</div>
-						Single earring or small amounts of gold
+						單隻耳環等少量黃金
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/03-1.webp" alt="Gold fittings from belts">
+							<img src="../images/gold/03-1.webp" alt="皮帶的金扣">
 						</div>
-						Gold fittings from belts
+						皮帶的金扣
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/06-1.webp" alt="Industrial-grade gold">
+							<img src="../images/gold/06-1.webp" alt="工業用黃金">
 						</div>
-						Industrial-grade gold
+						工業用黃金
 					</div>
 					<div class="renew_202404_statebad_itembox long">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/08-1-1.webp" alt="Art value considered">
+							<img src="../images/gold/08-1-1.webp" alt="具有藝術品價值的黃金">
 						</div>
-						Art value considered
+						具有藝術品價值的黃金
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/01-1.webp" alt="Antique value considered">
+							<img src="../images/gold/01-1.webp" alt="考慮古董價值的黃金">
 						</div>
-						Antique value considered
+						考慮古董價值的黃金
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/05-1-1.webp" alt="Gold teeth, gold dentures">
+							<img src="../images/gold/05-1-1.webp" alt="金牙、含有金的假牙">
 						</div>
-						Gold teeth, gold dentures
+						金牙、含有金的假牙
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/7f88058f04264c8f8733783d51428759.webp" alt="Rings with missing stones">
+							<img src="../images/gold/7f88058f04264c8f8733783d51428759.webp" alt="鑽石脫落的戒指">
 						</div>
-						Rings with missing stones
+						鑽石脫落的戒指
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
-							<img src="../images/gold/ec85d0541b60c1f7ba605bfca95b13d0.webp" alt="Tarnished accessories">
+							<img src="../images/gold/ec85d0541b60c1f7ba605bfca95b13d0.webp" alt="變黑的飾品">
 						</div>
-						Tarnished accessories
+						變黑的飾品
 					</div>
 					<div class="renew_202404_statebad_itembox long">
 						<div class="renew_202404_statebad_image">
 							<img
-								src="../images/gold/38480b4ef7005b09bd7ed1a3e9dc1e52.webp" alt="Pendant tops only">
+								src="../images/gold/38480b4ef7005b09bd7ed1a3e9dc1e52.webp" alt="只有吊墜部分">
 						</div>
-						Pendant tops only
+						只有吊墜部分
 					</div>
 					<div class="renew_202404_statebad_itembox">
 						<div class="renew_202404_statebad_image">
 							<img
-								src="../images/gold/f540432c0d452207e8eb30d72179e8ea.webp" alt="Brooches and gold parts">
+								src="../images/gold/f540432c0d452207e8eb30d72179e8ea.webp" alt="胸針等飾品的金屬部分">
 						</div>
-						Brooches and gold parts
+						胸針等飾品的金屬部分
 					</div>
 				</section>
 				<!-- renew_202404_statebad_section -->
@@ -2155,403 +1980,264 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				Frequently Asked <span>Questions</span>
+				常見問題
 			</h2>
 			<section class="faq_section renew_2024">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleMain--main">
-						Frequently Asked <span>Questions</span>
+						常見問題
 					</h2>
 				</div>
 				<div class="qa__wrap js__more--3th">
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								How is the assessment of gold items from
-								branded goods done?
+								你們怎樣鑑定品牌的黃金製品？
 							</dt>
 							<dd class="qa__list__a">
-								For branded rings, necklaces, and other
-								items, we evaluate both the price of gold
-								and the value as a brand. In some cases, the
-								brand value may result in a price much
-								higher than the value of the gold itself.
+							品牌戒指或項鍊等商品，會根據黃金的價格以及品牌的價值進行評估。
+							有時品牌價值可能遠高於黃金的價格。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can Otakaraya purchase items with lower
-								purity, such as K10?
+							10K等低純度的黃金也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Yes, we can absolutely purchase them. For
-								example, even if there is no stamp, as long
-								as we can confirm that the item contains
-								some gold, we will gladly purchase it.
+							當然可以收購。即使是沒有刻印的物品，只要確認含有少量黃金，我們都會收購。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								I have accessories, but the material is
-								unknown.
+							我有飾品，但不確定材料是什麼。
 							</dt>
 							<dd class="qa__list__a">
-								If you bring them in, we will verify the
-								material on the spot. Please feel free to
-								consult with us.
+							歡迎攜帶過來，我們會當場確認材料。隨時諮詢我們。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can you purchase small amounts of gold?
+							少量黃金也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Regardless of the amount, we are happy to
-								assess and purchase your items. Even if
-								you're unsure whether it's gold, we offer
-								free appraisals, so please don't hesitate to
-								contact us.
+							不論數量多少，我們都樂意進行鑑定及收購。
+							如果不確定是否為黃金，我們也提供免費鑑定，歡迎隨時與我們聯絡。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								I’m worried about neighbors noticing if I
-								use the home visit service.
+							如果我選擇到府收購，但擔心鄰居發現怎麼辦？
 							</dt>
 							<dd class="qa__list__a">
-								When our appraisers visit your home by car,
-								they will use a private vehicle without any
-								company logos, so you can feel at ease.
+							當鑑定師駕車到客戶家中時，會使用沒有公司名稱的私家車，請放心。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can you purchase items without accessories?
+							沒有附屬品也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								While having accessories is ideal, we are
-								more than happy to assess and purchase items
-								even without them.
+							雖然最理想是有附屬品，但即使沒有附屬品，我們也會樂意進行鑑定和收購。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Why is identification required?
+							為什麼需要提供身分證明？
 							</dt>
 							<dd class="qa__list__a">
-								The identification of the seller is required
-								by the Antique Dealer Law, and we are
-								required to keep a record for that purpose.
-								It will not be used for any other reasons.
+							根據《古物營業法》要求，
+對賣方的身份進行確認是必要的，並會作記錄之用。
+除此之外，不會將資料用於其他目的。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Is it okay just to get an appraisal for gold
-								and precious metals?
+							只來鑑定黃金和貴金屬可以嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Yes, of course, we are happy to provide
-								appraisals even without any commitment to
-								sell. <br />
-								The items you bring in likely hold many
-								memories—perhaps it's something you bought
-								with your first bonus, a gift from your
-								parents for your coming-of-age celebration,
-								or a wedding gift from your grandmother.
-								<br />
-								Each item has its own story. <br />
-								You might wonder, 'How much would something
-								I have stored away be worth if I actually
-								sold it?' <br />
-								Otakaraya can help answer that question.
-								<br />
-								We offer various appraisal methods tailored
-								to your needs, whether in-store or via home
-								visits. <br />
-								Please feel free to use our services and,
-								after getting the appraisal result, discuss
-								it with your family.
+							當然可以，我們很高興為您提供評估服務。我們相信您所帶來物品承載著許多美好回憶。
+例如，是您用第一次獎金購買的物品、父母在成年禮時贈送的禮物，
+或者是祖母送的結婚禮物等。每件物品都有其背後的故事。
+大家或許都曾想過「這些放在抽屜裡的物品，賣掉能值多少錢？」
+而解答這些疑問，正是OTAKARAYA的便利之處。我們提供多種評估方式，無論是到店還是上門，都能根據客人的需求量身打造。 歡迎隨時利用我們的服務，並且可以與家人一起討論評估結果，看看是否對您有幫助。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can Otakaraya purchase torn gold?
+							破損的金飾也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								We are happy to assess and purchase it.
+							我們很樂意進行評估及收購。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Is there an appraisal fee (authentication
-								fee) for gold and precious metals?
+							是否需要支付黃金及貴金屬的鑑定費？
 							</dt>
 							<dd class="qa__list__a">
-								For gold, precious metals, and other items,
-								we do not charge any appraisal fees.<br />
-								All appraisals are completely free of
-								charge, so please do not worry about it.
+							黃金及貴金屬，還有其他物品的評估，一律免費，
+							不會收取任何費用，請放心。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Does the purchase price of an ingot differ
-								depending on whether it has a stamp or not?
+							刻印與否會影響金條的收購價格？
 							</dt>
 							<dd class="qa__list__a">
-								The stamp is an important indication of the
-								'brand and trust' of the ingot.
-								Additionally, ingots are often engraved with
-								a number to identify the original
-								purchaser.<br />
-								For items without these markings, we may
-								unfortunately decline to purchase them. This
-								is because, in recent years, there have been
-								cases of ingots being smuggled into Japan
-								from overseas, and criminals often melt and
-								sell them to hide their origin.<br />
-								While there are cases where we may refuse to
-								buy, if there is proof of the purchase or a
-								valid explanation that aligns with the
-								item’s origin, we can still offer the same
-								purchase price as a regular ingot. Please
-								feel free to contact us for further
-								inquiries.
+							刻印是金條「品牌與信任」的重要證明，金條上通常會刻有編號，
+以便確認最初購買者。如果物品沒有刻印，收購可能會被拒絕。
+這是因為近年來有許多從海外走私到日本的金條，犯罪者往往會將其熔化後出售，
+從而掩蓋其來源。
+不過，如果您能提供購買證明，且您的說法一致，
+我們可以按照普通金條的價格進行收購。歡迎隨時諮詢。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Do the purchase prices differ between gold
-								accessories and ingots?
+							黃金飾品和金條的收購價格有區別嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Yes, the purchase prices for accessories and
-								ingots do differ.<br />
-								First, ingots are typically made of pure
-								gold (K24). There are various brands of
-								ingots, and only globally recognized
-								companies are allowed to stamp their logos
-								on them. Ingots from highly trusted brands
-								are traded at higher prices in the
-								market.<br />
-								Additionally, ingots are processed through
-								various stages in a refinery to be turned
-								into gold bars (bullion).<br />
-								The processing fees for these stages are
-								included in the purchase price, which is one
-								of the reasons why there is a difference in
-								price between accessories and ingots.
+							黃金飾品和金條的收購價格確實有差異。
+金條通常由純金（K24）製成，不同品牌的金條有不同的價值。
+經過全球認可的公司才能在金條上打刻印，市場對於高信譽品牌的金條價格會更高。
+此外，金條在精煉工廠經過多道工序加工而成，其加工費用也會影響收購價格。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Will you buy a necklace with a broken chain?
+							斷裂的項鍊等也能收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Yes, we will gladly purchase necklaces with
-								broken chains. Most of these items can be
-								easily repaired, so please feel free to
-								bring them in.<br />
-								If you attempt to fix them yourself with
-								tools like pliers, it may damage the item
-								and reduce its original value. We recommend
-								bringing the item as-is and consulting with
-								us.
+							斷裂的項鍊也可以交給我們，很多物品可以輕易修復，請放心。
+							切勿自行使用工具修復，這可能會損壞物品的原本價值，請保持原狀並交給我們。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Do scratches or dirt affect the purchase
-								price?
+							刮痕或污漬會影響收購價格嗎？
 							</dt>
 							<dd class="qa__list__a">
-								While it is always better to have items in
-								clean condition, attempting to clean them
-								yourself can sometimes cause scratches to
-								spread, potentially reducing their value.<br />
-								For dirt, using chemicals or harsh cleaning
-								methods may cause the item to lose its
-								original color, diminishing its quality.
-								Therefore, it’s best not to try cleaning the
-								item yourself.<br />
-								If you are concerned about dirt, gently wipe
-								it with a dry, soft cloth, or you may use a
-								diluted mild detergent.<br />
-								However, since proper care of gold and
-								precious metals requires specialized
-								knowledge, it's crucial to avoid doing
-								anything that could affect the item's
-								condition. If you're unsure about how to
-								proceed, feel free to consult with one of
-								our nearby stores or customer service.
+							雖然保持物品清潔是最好的，但如果自行處理污漬可能會擴大損壞。
+污漬方面，使用不當的清潔劑可能會影響物品的顏色和品質。
+建議您不要對物品做任何處理，並直接交給我們。如果您希望進行簡單清潔，
+可以用柔軟的乾布擦拭，或用稀釋的中性清潔劑清潔。
+但請注意，黃金及貴金屬的保養需要專業知識，
+以免損壞商品狀態。
+如有疑問，請隨時與附近的門店或客服聯絡。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can gold or precious metals without markings
-								be appraised?
+							沒有刻印的黃金及貴金屬可以評估嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Yes, we can buy them. <br />
-								While most modern items have markings, older
-								items or products made overseas often lack
-								these markings. Some stores may not accept
-								items without markings, but Otakaraya has a
-								fluorescent X-ray analysis device. <br />
-								This allows us to scientifically measure the
-								gold or precious metal content, even if
-								traditional methods cannot detect it.
+							是的，我們可以收購。雖然現在的製品大多數都有刻印，
+但其實一些古老時期製作的物品或海外製品，很多都沒有刻印。
+有些店家可能會拒絕沒有刻印的物品，但OTAKARAYA配備了螢光X射線分析裝置，
+能夠從科學角度測定黃金及貴金屬的含量，解決了傳統儀器無法檢測的問題。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								Can large and small gold coins, foreign gold
-								coins, antique coins, and other coins be
-								bought?
+							大判、小判、外國金幣、古錢或硬幣也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
-								Of course, we buy large and small gold coins
-								issued during the Edo period, as well as old
-								money (banknotes and coins), commonly known
-								as antique coins. <br />
-								Foreign gold coins, such as China's "Panda
-								Gold Coin," America's "Eagle Gold Coin," and
-								Canada's "Maple Leaf Gold Coin," are highly
-								sought after worldwide. <br />
-								These premium gold coins may be evaluated
-								only based on the gold's quality and weight
-								at other stores, but at Otakaraya, we
-								evaluate their overall value and offer high
-								purchase prices. <br />
-								In addition to gold coins, we also buy
-								silver coins, palladium, platinum coins,
-								commemorative coins, and medals.
+							當然可以收購，包括江戶時代發行的大判、小判，
+還有以前使用的紙幣和硬幣，即所謂的古錢。至於外國金幣，
+有一些非常受歡迎的系列，例如中國發行的『熊貓金幣』、
+美國的『鷹揚金幣』和加拿大的『楓葉金幣』等。
+這些金幣在OTAKARAYA會被綜合評價，包括其歷史和稀有性，
+而不僅僅是根據金的品質和重量來定價。
+我們也收購銀幣、鈀金、鉑金硬幣、紀念幣和獎牌。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								How long does the "gold and precious metal
-								appraisal" take?
+							黃金及貴金屬的鑑定需要多少時間？
 							</dt>
 							<dd class="qa__list__a">
-								The time required for appraisal depends on
-								the volume of the items, but it usually
-								takes about 5 to 15 minutes. <br />
-								If you can't visit the store or don't have a
-								store nearby, you can also use our home
-								visit appraisal service. Choose the
-								appraisal method that best suits your
-								lifestyle. We also accept consultations by
-								phone or email. <br />
-								Regardless of the appraisal method you
-								choose, the appraised price offered will not
-								change. <br />
-								Additionally, all appraisal services are
-								free of charge, so please feel assured.
+							視乎物品的數量，通常需要5至15分鐘。
+如果您不方便到店，或附近沒有店舖，也可以選擇上門收購服務。
+我們也接受電話和電郵諮詢。
+不論您選擇哪種方式，評估金額都是一樣的，
+而且鑑定費用完全免費，請放心。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								When is the best time to sell gold and
-								precious metals? Is it true that the
-								purchase price changes depending on the day?
+							黃金及貴金屬什麼時候賣出比較好？聽說每天的收購價格都不一樣，這是真的嗎？
 							</dt>
 							<dd class="qa__list__a">
-								The market price is updated daily, so the
-								purchase price can vary depending on the
-								day. <br />
-								The best time to sell is when the gold
-								market is high or when the exchange rate is
-								leaning towards a weaker yen. <br />
-								Additionally, during times of global
-								instability, the trust in paper currencies
-								tends to decrease, which increases trust in
-								gold, and as a result, the market price
-								rises. <br />
-								In recent years, the price of gold and
-								precious metals has been on a long-term
-								upward trend, so high purchase prices can be
-								expected.
+							是的，因為金價每天更新，收購價格會隨日波動。
+建議在金價上升或匯率偏向日圓貶值時賣出。
+此外，當世界局勢不穩時，貨幣的信譽會下降，
+黃金的信譽則會上升，推動金價上漲。
+近年來，黃金及貴金屬的長期價格上升趨勢持續，收購時能期待高價。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								How is the purchase price of gold and
-								precious metals determined?
+							黃金及貴金屬的收購價格是如何決定的？
 							</dt>
 							<dd class="qa__list__a">
-								The purchase price is determined based on
-								three factors: the globally updated market
-								price, the weight of the item, and the
-								purity of the item (such as K24, K18).
-								Additionally, a comprehensive evaluation of
-								the design and brand is considered to
-								finalize the purchase price. We aim to offer
-								higher purchase prices compared to other
-								companies.
+							我們根據全球每日更新的市場行情、物品的重量、
+物品的品位（如K24、K18）這三個因素，再加上設計和品牌的綜合評價，
+給出收購價格。我們始終以高價收購為目標，力求比其他公司更有競爭力。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-								When is the best time to sell precious
-								metals?
+							什麼時候是出售貴金屬的好時機？
 							</dt>
 							<dd class="qa__list__a">
-								The best time to sell precious metals can
-								vary. Sometimes, the right time comes
-								quickly, while in other cases, holding onto
-								them for a longer period can increase their
-								value. It's not always possible to say when
-								the right time will be. If you plan to store
-								them for the long term before selling, it is
-								important to store them properly and perform
-								regular maintenance to preserve their
-								condition.
+							貴金屬的最佳出售時機無法一概而論，有時賣出時機會很快到來，
+有時則需要長時間等待才能看到價值上升。
+如果您打算長期保存，建議保持物品的良好狀態，
+定期進行保養和維護，以確保其價值不受影響。
 							</dd>
 						</dl>
 					</div>
 				</div>
 				<div class="btn__wrap btn__more js__more--btn3 gtm-more-qa">
-					<span>View More</span>
+					<span>查看更多</span>
 				</div>
 			</section>
 			<div class="wd_spacer is-pc"></div>
