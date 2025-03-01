@@ -104,10 +104,10 @@
 				<img src="../images/daiya/Same-Day_Cash_Receipt_PC.webp">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						<span>Free Appraisal</span> ,No Service Fee
+						<span>免費估價</span> ,無服務費
 					</p>
 					<p class="reason_section_text">
-						We will cover all expenses!
+						我們將承擔所有費用！
 					</p>
 				</div>
 			</div>

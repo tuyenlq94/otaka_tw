@@ -162,7 +162,7 @@
 				$price_all   = get_page_by_path( 'price_all' );
 				$price_all   = $price_all->ID;
 				$table       = $daiya_data[ 'acf' ][ 'souba_price_all' ];
-				$carat_num   = [ 
+				$carat_num   = [
 					[ "value" => "0.1", "label" => "01ct" ],
 					[ "value" => "0.2", "label" => "02ct" ],
 					[ "value" => "0.3", "label" => "03ct" ],
@@ -219,7 +219,7 @@
 				foreach ( $m[ 0 ] as $index => $value ) {
 					$interval    = 660; // $interval の初期値を設定(各カラットの要素数が660)
 					$carat_index = floor( ( $cnt ) / $interval ); // カラットのインデックスを計算
-			
+
 					// インデックスが carat_value の範囲内にあるかどうかを確認し、それに応じて $ct_num を設定
 					if ( $carat_index >= 0 && $carat_index < count( $carat_value ) ) {
 						$ct_num = $carat_value[ $carat_index ];
@@ -1031,295 +1031,295 @@
 											s: 'tbody th',
 											f: function ( idx ) {
 												return ( $( this ).html() === color_val ) ? idx : null},
-																																																																																																																																	},
-																																																																																																																																};
-																																																																																																																																var reachAdjust = 8;
+																},
+															};
+																																																																																																																																						var reachAdjust = 8;
 
-																																																																																																																																var applyCellReach = true;
-
-
-																																																																																																																																var ct_id = "#ct-" + vals.carat; //変更
-
-																																																																																																																																var clarity = vals.clarity;
-																																																																																																																																var cut = vals.cut;
-																																																																																																																																var color = vals.color;
-																																																																																																																																var reach_id = ct_id + "-" + clarity;
-																																																																																																																																$reachWrap = $(reach_id);
-
-																																																																																																																																point.x.s = 'thead th';
-																																																																																																																																point.x.f = function(idx) {
-																																																																																																																																	return ($(this).hasClass(cut)) ? idx : null;
-																																																																																																																																};
-																																																																																																																																point.y.s = 'tbody td[class*="color"]';
-																																																																																																																																point.y.f = function(idx) {
-																																																																																																																																	return ($(this).html() === color) ? idx : null;
-																																																																																																																																};
-
-																																																																																																																																reachAdjust = 5;
-
-																																																																																																																																applyCellReach = false;
+																																																																																																																																						var applyCellReach = true;
 
 
-																																																																																																																																if (!$reachWrap.length) return;
+																																																																																																																																						var ct_id = "#ct-" + vals.carat; //変更
 
-																																																																																																																																var $table = $('table');
-																																																																																																																																var x = $table.find(point.x.s).map(point.x.f).get(0);
-																																																																																																																																var y = $table.find(point.y.s).map(point.y.f).get(0);
-																																																																																																																																var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
-																																																																																																																																reachScorllIfSp();
+																																																																																																																																						var clarity = vals.clarity;
+																																																																																																																																						var cut = vals.cut;
+																																																																																																																																						var color = vals.color;
+																																																																																																																																						var reach_id = ct_id + "-" + clarity;
+																																																																																																																																						$reachWrap = $(reach_id);
 
-																																																																																																																																applyCellReach = (y > 0 && applyCellReach) || false;
+																																																																																																																																						point.x.s = 'thead th';
+																																																																																																																																						point.x.f = function(idx) {
+																																																																																																																																							return ($(this).hasClass(cut)) ? idx : null;
+																																																																																																																																						};
+																																																																																																																																						point.y.s = 'tbody td[class*="color"]';
+																																																																																																																																						point.y.f = function(idx) {
+																																																																																																																																							return ($(this).html() === color) ? idx : null;
+																																																																																																																																						};
 
-																																																																																																																																var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
-																																																																																																																																reach = reach - $priceWrap.position().top;
-																																																																																																																																reach = $priceWrap.scrollTop() + reach - reachAdjust;
+																																																																																																																																						reachAdjust = 5;
 
-																																																																																																																																// スクロール
-																																																																																																																																// reachScroll(reach, cell);
-																																																																																																																																$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
-																																																																																																																																	'<span class="value">HK$</span>');
-																																																																																																																																$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
-																																																																																																																																	'<span class="value">HK$</span>');
-
-																																																																																																																																daiya_calc = cell.text();
-																																																																																																																																daiya_calc = daiya_calc.replace(/en/g, '');
-																																																																																																																																daiya_calc = daiya_calc.replace(/,/g, '');
-																																																																																																																																daiya_calc = Number(daiya_calc);
-																																																																																																																																simulation_select_val = $("#simulation_select").val();
-																																																																																																																																simulation_select_val = simulation_select_val.replace(/,/g, '');
-																																																																																																																																simulation_select_val = Number(simulation_select_val);
-																																																																																																																																weight_val = $("#weight").val();
-																																																																																																																																weight_val = Number(weight_val);
-																																																																																																																																simulation_select_val = simulation_select_val * weight_val;
-																																																																																																																																gold_daiya_calc = simulation_select_val + daiya_calc;
-																																																																																																																																gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
-																																																																																																																																$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
-
-																																																																																																																															});
-																																																																																																																														}
-
-																																																																																																																														// Initial setup
-																																																																																																																														updateElementsAndEvents('tab2');
-
-																																																																																																																														// Event handlers
-																																																																																																																														$(".price_table_contents_nav2").on('click', function() {
-																																																																																																																															updateElementsAndEvents('tab1');
-																																																																																																																														});
-
-																																																																																																																														$(".price_table_contents_nav1").on('click', function() {
-																																																																																																																															updateElementsAndEvents('tab2');
-																																																																																																																														});
+																																																																																																																																						applyCellReach = false;
 
 
-																																																																																																																														// new
-																																																																																																																														// ページロード時に価格データを取得
-																																																																																																																														var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
-																																																																																																																														var prices = {};
-																																																																																																																														for (var i = 0; i < carat_num.length; i++) {
-																																																																																																																															var label = carat_num[i]['label'];
-																																																																																																																															var id = "#ct-" + label + "-if";
-																																																																																																																															var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
-																																																																																																																															prices[label] = price;
-																																																																																																																														}
+																																																																																																																																						if (!$reachWrap.length) return;
 
-																																																																																																																														function updatePrice(carat, target) {
-																																																																																																																															var price = prices[carat];
-																																																																																																																															if (price) {
-																																																																																																																																$(target).html(price + '<span class="value">HK$</span>');
-																																																																																																																															}
-																																																																																																																														}
+																																																																																																																																						var $table = $('table');
+																																																																																																																																						var x = $table.find(point.x.s).map(point.x.f).get(0);
+																																																																																																																																						var y = $table.find(point.y.s).map(point.y.f).get(0);
+																																																																																																																																						var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
+																																																																																																																																						reachScorllIfSp();
 
-																																																																																																																														$("#carat_only_btn1").on('click', function() {
-																																																																																																																															var carat_only_price_area = $("#carat_only_price_area select").val();
-																																																																																																																															updatePrice(carat_only_price_area, "#carat_only_price");
-																																																																																																																														});
+																																																																																																																																						applyCellReach = (y > 0 && applyCellReach) || false;
 
-																																																																																																																														$(document).on('click', '#carat_only_btn2', function() {
-																																																																																																																															var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
-																																																																																																																															console.log("Selected carat: ", carat_only_price_area2);
-																																																																																																																															updatePrice(carat_only_price_area2, "#carat_only_price2");
+																																																																																																																																						var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
+																																																																																																																																						reach = reach - $priceWrap.position().top;
+																																																																																																																																						reach = $priceWrap.scrollTop() + reach - reachAdjust;
 
-																																																																																																																															var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
-																																																																																																																															var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
-																																																																																																																															var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
-																																																																																																																															var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
+																																																																																																																																						// スクロール
+																																																																																																																																						// reachScroll(reach, cell);
+																																																																																																																																						$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
+																																																																																																																																							'<span class="value">HK$</span>');
+																																																																																																																																						$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
+																																																																																																																																							'<span class="value">HK$</span>');
 
-																																																																																																																															var goldCalcPrice = goldPriceVal * weight;
-																																																																																																																															if (isNaN(goldCalcPrice)) {
-																																																																																																																																goldCalcPrice = 0;
-																																																																																																																															}
-																																																																																																																															// var total = caratPrice + answer2 + goldCalcPrice;
-																																																																																																																															var total = caratPrice + answer2;
+																																																																																																																																						daiya_calc = cell.text();
+																																																																																																																																						daiya_calc = daiya_calc.replace(/en/g, '');
+																																																																																																																																						daiya_calc = daiya_calc.replace(/,/g, '');
+																																																																																																																																						daiya_calc = Number(daiya_calc);
+																																																																																																																																						simulation_select_val = $("#simulation_select").val();
+																																																																																																																																						simulation_select_val = simulation_select_val.replace(/,/g, '');
+																																																																																																																																						simulation_select_val = Number(simulation_select_val);
+																																																																																																																																						weight_val = $("#weight").val();
+																																																																																																																																						weight_val = Number(weight_val);
+																																																																																																																																						simulation_select_val = simulation_select_val * weight_val;
+																																																																																																																																						gold_daiya_calc = simulation_select_val + daiya_calc;
+																																																																																																																																						gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
+																																																																																																																																						$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
 
-																																																																																																																															$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
-																																																																																																																														});
+																																																																																																																																					});
+																																																																																																																																				}
 
+																																																																																																																																				// Initial setup
+																																																																																																																																				updateElementsAndEvents('tab2');
 
-																																																																																																																														$(".price_table_contents_nav").on('click', function() {
-																																																																																																																															$("#price_table_contents1 #price_table_calc").text("0");
-																																																																																																																															$("#price_table_contents2 #price_table_calc").text("0");
-																																																																																																																														});
+																																																																																																																																				// Event handlers
+																																																																																																																																				$(".price_table_contents_nav2").on('click', function() {
+																																																																																																																																					updateElementsAndEvents('tab1');
+																																																																																																																																				});
 
-																																																																																																																														// タブ処理
-																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																															$(".arrow_bottom_daiya_default").css("display", "block");
-																																																																																																																															$(".arrow_bottom_gold_default").css("display", "none");
-																																																																																																																															$(".arrow_bottom_gold").css("display", "block");
-																																																																																																																															$(".arrow_bottom_daiya").css("display", "none");
-																																																																																																																															$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
-																																																																																																																															$(".prompt_text_daiya").css("display", "none");
-																																																																																																																															$(".prompt_text_gold").css("display", "block");
-																																																																																																																														});
-																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																															$(".arrow_bottom_daiya_default").css("display", "none");
-																																																																																																																															$(".arrow_bottom_daiya").css("display", "block");
-																																																																																																																															$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
-																																																																																																																															$(".prompt_text_gold").css("display", "none");
-																																																																																																																															$(".prompt_text_daiya").css("display", "block");
-																																																																																																																														});
-																																																																																																																														let clone1 = $(".calc_area").clone();
-																																																																																																																														$(".cloned_gold_calc").append(clone1);
+																																																																																																																																				$(".price_table_contents_nav1").on('click', function() {
+																																																																																																																																					updateElementsAndEvents('tab2');
+																																																																																																																																				});
 
 
-																																																																																																																													});
-																																																																																																																													const ua = navigator.userAgent;
-																																																																																																																													if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
+																																																																																																																																				// new
+																																																																																																																																				// ページロード時に価格データを取得
+																																																																																																																																				var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
+																																																																																																																																				var prices = {};
+																																																																																																																																				for (var i = 0; i < carat_num.length; i++) {
+																																																																																																																																					var label = carat_num[i]['label'];
+																																																																																																																																					var id = "#ct-" + label + "-if";
+																																																																																																																																					var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
+																																																																																																																																					prices[label] = price;
+																																																																																																																																				}
 
-																																																																																																																														// タブ処理
-																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																															$("#tablelistbox h2").css("margin-top", "680px");
-																																																																																																																															$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
-																																																																																																																															$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
-																																																																																																																														});
-																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																															$("#tablelistbox h2").css("margin-top", "160%");
-																																																																																																																														});
+																																																																																																																																				function updatePrice(carat, target) {
+																																																																																																																																					var price = prices[carat];
+																																																																																																																																					if (price) {
+																																																																																																																																						$(target).html(price + '<span class="value">HK$</span>');
+																																																																																																																																					}
+																																																																																																																																				}
 
-																																																																																																																													} else {
-																																																																																																																														// pc
+																																																																																																																																				$("#carat_only_btn1").on('click', function() {
+																																																																																																																																					var carat_only_price_area = $("#carat_only_price_area select").val();
+																																																																																																																																					updatePrice(carat_only_price_area, "#carat_only_price");
+																																																																																																																																				});
 
+																																																																																																																																				$(document).on('click', '#carat_only_btn2', function() {
+																																																																																																																																					var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
+																																																																																																																																					console.log("Selected carat: ", carat_only_price_area2);
+																																																																																																																																					updatePrice(carat_only_price_area2, "#carat_only_price2");
 
-																																																																																																																														jQuery(document).ready(function($) {
-																																																																																																																															input_width = $(".otkr-plicelist #searchbox p input").width();
-																																																																																																																															text_width = 130
-																																																																																																																															arrow_width = 15;
-																																																																																																																															margin_width = 10;
-																																																																																																																															arrow_text_width = text_width + arrow_width + margin_width;
-																																																																																																																															arrow_text_width_calc = input_width - arrow_text_width;
-																																																																																																																															arrow_text_width_calc = arrow_text_width_calc / 2;
-																																																																																																																															arrow_text_width_calc = arrow_text_width_calc + 22;
-																																																																																																																															$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
-																																																																																																																														});
+																																																																																																																																					var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
+																																																																																																																																					var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
+																																																																																																																																					var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
+																																																																																																																																					var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
 
+																																																																																																																																					var goldCalcPrice = goldPriceVal * weight;
+																																																																																																																																					if (isNaN(goldCalcPrice)) {
+																																																																																																																																						goldCalcPrice = 0;
+																																																																																																																																					}
+																																																																																																																																					// var total = caratPrice + answer2 + goldCalcPrice;
+																																																																																																																																					var total = caratPrice + answer2;
 
-																																																																																																																														// タブ処理
-																																																																																																																														$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																															var windowWidth = $(window).width();
-
-																																																																																																																															if (windowWidth >= 1361) {
-																																																																																																																																$("#tablelistbox > h2").css("margin-top", "650px");
-																																																																																																																															} else {
-																																																																																																																																$("#tablelistbox > h2").css("margin-top", "650px");
-																																																																																																																															}
-
-																																																																																																																														});
-																																																																																																																														$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																															$("#tablelistbox > h2").css("margin-top", "400px");
-
-																																																																																																																														});
-																																																																																																																													}
-
-																																																																																																																												});
-																																																																																																																											</script>
-
-																																																																																																																											<script>
-																																																																																																																												document.addEventListener('DOMContentLoaded', function() {
-
-																																																																																																																													function multi(selectId, weightId, answerId, answerCpId) {
-																																																																																																																														var text = jQuery('#' + selectId + ' option:selected').val();
-																																																																																																																														if (text === undefined) {
-																																																																																																																															console.error('No selected option found for #' + selectId);
-																																																																																																																															return;
-																																																																																																																														}
-
-																																																																																																																														var removed = text.replace(/,/g, '');
-																																																																																																																														var num = parseInt(removed, 10);
-																																																																																																																														var weight = jQuery("#" + weightId).val();
-
-																																																																																																																														if (num) {
-																																																																																																																															if (weight) {
-																																																																																																																																var _up = 0;
-
-																																																																																																																																var answer_cp = num * weight + _up * weight;
-																																																																																																																																answer_cp = Math.round(answer_cp).toLocaleString();
-																																																																																																																																jQuery('#' + answerCpId).text(answer_cp);
-
-																																																																																																																																var answer = num * weight;
-																																																																																																																																answer = Math.round(answer).toLocaleString();
-
-																																																																																																																																// ここで値を確認
-																																																																																																																																console.log("Calculated Answer:", answer);
-
-																																																																																																																																// 1. `val()` で `input` の値を設定
-																																																																																																																																jQuery('#' + answerId).val("HK$ " + answer);
-
-																																																																																																																																// 2. `setAttribute` も試してみる
-																																																																																																																																document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
-
-																																																																																																																																// 値が正しくセットされたか確認
-																																																																																																																																console.log("Updated Input Value:", jQuery('#' + answerId).val());
-																																																																																																																															}
-																																																																																																																														}
-																																																																																																																													}
+																																																																																																																																					$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
+																																																																																																																																				});
 
 
+																																																																																																																																				$(".price_table_contents_nav").on('click', function() {
+																																																																																																																																					$("#price_table_contents1 #price_table_calc").text("0");
+																																																																																																																																					$("#price_table_contents2 #price_table_calc").text("0");
+																																																																																																																																				});
 
-																																																																																																																													jQuery(document).on('change', '#simulation_select', function() {
-																																																																																																																														multi('simulation_select', 'weight', 'answer', 'answer_cp');
-																																																																																																																													});
+																																																																																																																																				// タブ処理
+																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																					$(".arrow_bottom_daiya_default").css("display", "block");
+																																																																																																																																					$(".arrow_bottom_gold_default").css("display", "none");
+																																																																																																																																					$(".arrow_bottom_gold").css("display", "block");
+																																																																																																																																					$(".arrow_bottom_daiya").css("display", "none");
+																																																																																																																																					$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
+																																																																																																																																					$(".prompt_text_daiya").css("display", "none");
+																																																																																																																																					$(".prompt_text_gold").css("display", "block");
+																																																																																																																																				});
+																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																					$(".arrow_bottom_daiya_default").css("display", "none");
+																																																																																																																																					$(".arrow_bottom_daiya").css("display", "block");
+																																																																																																																																					$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
+																																																																																																																																					$(".prompt_text_gold").css("display", "none");
+																																																																																																																																					$(".prompt_text_daiya").css("display", "block");
+																																																																																																																																				});
+																																																																																																																																				let clone1 = $(".calc_area").clone();
+																																																																																																																																				$(".cloned_gold_calc").append(clone1);
 
-																																																																																																																													jQuery(document).on('change', '#weight', function() {
-																																																																																																																														multi('simulation_select', 'weight', 'answer', 'answer_cp');
-																																																																																																																													});
 
-																																																																																																																													jQuery(document).on('change', '#simulation_select2', function() {
-																																																																																																																														multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-																																																																																																																													});
+																																																																																																																																			});
+																																																																																																																																			const ua = navigator.userAgent;
+																																																																																																																																			if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
 
-																																																																																																																													jQuery(document).on('change', '#weight2', function() {
-																																																																																																																														multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-																																																																																																																													});
+																																																																																																																																				// タブ処理
+																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																					$("#tablelistbox h2").css("margin-top", "680px");
+																																																																																																																																					$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
+																																																																																																																																					$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
+																																																																																																																																				});
+																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																					$("#tablelistbox h2").css("margin-top", "160%");
+																																																																																																																																				});
 
-																																																																																																																													jQuery(function() {
-																																																																																																																														jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
-																																																																																																																															var month = parseInt(jQuery(this).val());
-																																																																																																																															var monthMax = parseInt(jQuery(this).attr('max'));
-																																																																																																																															var monthMin = parseInt(jQuery(this).attr('min'));
-																																																																																																																															if (month > monthMax) {
-																																																																																																																																jQuery(this).val(monthMax);
-																																																																																																																															}
-																																																																																																																															if (month < monthMin) {
-																																																																																																																																jQuery(this).val(monthMin);
-																																																																																																																															}
-																																																																																																																														});
-																																																																																																																													});
-																																																																																																																												});
-																																																																																																																											</script>
+																																																																																																																																			} else {
+																																																																																																																																				// pc
 
-																																																																																																																											<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
-																																																																																																																											<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-																																																																																																																											<script src="/rate_files_v2/japanese-holidays.min.js"></script>
-																																																																																																																											<script src="/rate_files_v2/price_load_ex.js"></script>
-																																																																																																																											<script>
-																																																																																																																												//crossdomainのphpファイルのアップ先URL
-																																																																																																																												const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
-																																																																																																																												//データを反映したいDOM要素のID
-																																																																																																																												const dom_id = ["#price", "#simulation", "#todayprice"];
-																																																																																																																												Vue.use(PriceLoad, {
-																																																																																																																													_file: crossdomain_file,
-																																																																																																																													_dom: dom_id
-																																																																																																																												});
-																																																																																																																											</script>
+
+																																																																																																																																				jQuery(document).ready(function($) {
+																																																																																																																																					input_width = $(".otkr-plicelist #searchbox p input").width();
+																																																																																																																																					text_width = 130
+																																																																																																																																					arrow_width = 15;
+																																																																																																																																					margin_width = 10;
+																																																																																																																																					arrow_text_width = text_width + arrow_width + margin_width;
+																																																																																																																																					arrow_text_width_calc = input_width - arrow_text_width;
+																																																																																																																																					arrow_text_width_calc = arrow_text_width_calc / 2;
+																																																																																																																																					arrow_text_width_calc = arrow_text_width_calc + 22;
+																																																																																																																																					$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
+																																																																																																																																				});
+
+
+																																																																																																																																				// タブ処理
+																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																					var windowWidth = $(window).width();
+
+																																																																																																																																					if (windowWidth >= 1361) {
+																																																																																																																																						$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																																					} else {
+																																																																																																																																						$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																																					}
+
+																																																																																																																																				});
+																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																					$("#tablelistbox > h2").css("margin-top", "400px");
+
+																																																																																																																																				});
+																																																																																																																																			}
+
+																																																																																																																																		});
+																																																																																																																																	</script>
+
+																																																																																																																																	<script>
+																																																																																																																																		document.addEventListener('DOMContentLoaded', function() {
+
+																																																																																																																																			function multi(selectId, weightId, answerId, answerCpId) {
+																																																																																																																																				var text = jQuery('#' + selectId + ' option:selected').val();
+																																																																																																																																				if (text === undefined) {
+																																																																																																																																					console.error('No selected option found for #' + selectId);
+																																																																																																																																					return;
+																																																																																																																																				}
+
+																																																																																																																																				var removed = text.replace(/,/g, '');
+																																																																																																																																				var num = parseInt(removed, 10);
+																																																																																																																																				var weight = jQuery("#" + weightId).val();
+
+																																																																																																																																				if (num) {
+																																																																																																																																					if (weight) {
+																																																																																																																																						var _up = 0;
+
+																																																																																																																																						var answer_cp = num * weight + _up * weight;
+																																																																																																																																						answer_cp = Math.round(answer_cp).toLocaleString();
+																																																																																																																																						jQuery('#' + answerCpId).text(answer_cp);
+
+																																																																																																																																						var answer = num * weight;
+																																																																																																																																						answer = Math.round(answer).toLocaleString();
+
+																																																																																																																																						// ここで値を確認
+																																																																																																																																						console.log("Calculated Answer:", answer);
+
+																																																																																																																																						// 1. `val()` で `input` の値を設定
+																																																																																																																																						jQuery('#' + answerId).val("HK$ " + answer);
+
+																																																																																																																																						// 2. `setAttribute` も試してみる
+																																																																																																																																						document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
+
+																																																																																																																																						// 値が正しくセットされたか確認
+																																																																																																																																						console.log("Updated Input Value:", jQuery('#' + answerId).val());
+																																																																																																																																					}
+																																																																																																																																				}
+																																																																																																																																			}
+
+
+
+																																																																																																																																			jQuery(document).on('change', '#simulation_select', function() {
+																																																																																																																																				multi('simulation_select', 'weight', 'answer', 'answer_cp');
+																																																																																																																																			});
+
+																																																																																																																																			jQuery(document).on('change', '#weight', function() {
+																																																																																																																																				multi('simulation_select', 'weight', 'answer', 'answer_cp');
+																																																																																																																																			});
+
+																																																																																																																																			jQuery(document).on('change', '#simulation_select2', function() {
+																																																																																																																																				multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
+																																																																																																																																			});
+
+																																																																																																																																			jQuery(document).on('change', '#weight2', function() {
+																																																																																																																																				multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
+																																																																																																																																			});
+
+																																																																																																																																			jQuery(function() {
+																																																																																																																																				jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
+																																																																																																																																					var month = parseInt(jQuery(this).val());
+																																																																																																																																					var monthMax = parseInt(jQuery(this).attr('max'));
+																																																																																																																																					var monthMin = parseInt(jQuery(this).attr('min'));
+																																																																																																																																					if (month > monthMax) {
+																																																																																																																																						jQuery(this).val(monthMax);
+																																																																																																																																					}
+																																																																																																																																					if (month < monthMin) {
+																																																																																																																																						jQuery(this).val(monthMin);
+																																																																																																																																					}
+																																																																																																																																				});
+																																																																																																																																			});
+																																																																																																																																		});
+																																																																																																																																	</script>
+
+																																																																																																																																	<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
+																																																																																																																																	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+																																																																																																																																	<script src="/rate_files_v2/japanese-holidays.min.js"></script>
+																																																																																																																																	<script src="/rate_files_v2/price_load_ex.js"></script>
+																																																																																																																																	<script>
+																																																																																																																																		//crossdomainのphpファイルのアップ先URL
+																																																																																																																																		const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
+																																																																																																																																		//データを反映したいDOM要素のID
+																																																																																																																																		const dom_id = ["#price", "#simulation", "#todayprice"];
+																																																																																																																																		Vue.use(PriceLoad, {
+																																																																																																																																			_file: crossdomain_file,
+																																																																																																																																			_dom: dom_id
+																																																																																																																																		});
+																																																																																																																																	</script>
 
 			<?php } ?>
 
@@ -1373,7 +1373,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="K18 diamond ring 2.027 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">K18 diamond ring 2.027 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,067,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1387,7 +1387,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.038 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.038 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">2,722,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1401,7 +1401,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.081 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.081 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">902,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1415,7 +1415,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.381 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.381 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">797,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1429,7 +1429,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.014 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.014 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,133,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1443,7 +1443,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.02 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.02 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,039,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1457,7 +1457,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.041 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.041 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">3,085,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1471,7 +1471,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.587 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.587 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,138,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1485,7 +1485,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 5.227 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 5.227 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,787,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1499,7 +1499,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.378 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.378 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,006,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1513,7 +1513,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="K18 diamond ring 2.636 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">K18 diamond ring 2.636 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">1,490,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1528,7 +1528,7 @@
 												decoding="async" loading="lazy"
 												sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.109 ct</div>
-										<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 										<div class="renew_2024_result_item_price">968,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1553,7 +1553,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt850・Pt900 diamond necklace 15 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt850・Pt900 diamond necklace 15 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">1,177,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1567,7 +1567,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 3.22 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 3.22 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">962,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1581,7 +1581,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K14WG diamond necklace 12.89 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K14WG diamond necklace 12.89 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">886,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1595,7 +1595,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond necklace 9.77 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond necklace 9.77 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">869,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1609,7 +1609,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 10.5 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 10.5 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">858,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1623,7 +1623,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm850 diamond necklace 10 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond necklace 10 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">891,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1637,7 +1637,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond necklace 50.554 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond necklace 50.554 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">3,448,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1651,7 +1651,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 2.016 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 2.016 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">2,101,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1665,7 +1665,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm950 diamond necklace 1.15 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm950 diamond necklace 1.15 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">1,237,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1679,7 +1679,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 1.57 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 1.57 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">1,655,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1693,7 +1693,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 2.259 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 2.259 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">1,056,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1707,7 +1707,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace Pt・Pm850 0.449ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">29,700<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1721,7 +1721,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 1carat pt850</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">49,500<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1735,7 +1735,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat Pt850・Pt900 combi"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 1carat Pt850・Pt900 combi</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">47,300<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1749,7 +1749,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamondnecklace 1.2carat</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">93,500<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1763,7 +1763,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 11.56 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 11.56 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">996,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1788,7 +1788,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="18KT diamond Bracelet"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">18KT diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">331,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1802,7 +1802,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">325,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1816,7 +1816,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 2.05 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 2.05 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">326,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1830,7 +1830,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 5.29 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 5.29 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">470,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1844,7 +1844,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 3.134 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 3.134 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">543,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1858,7 +1858,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 4.48 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 4.48 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">258,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1872,7 +1872,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt850 K18 diamond Bracelet 5 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt850 K18 diamond Bracelet 5 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">363,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1886,7 +1886,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond Bracelet 0.85 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond Bracelet 0.85 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">313,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1900,7 +1900,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm850 diamond Bracelet"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">441,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1914,7 +1914,7 @@
 											class="attachment-thumbnail size-thumbnail"
 											alt="Pt･Pm850 diamond Bracelet bangle 5.00 ct" decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond Bracelet bangle 5.00 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">286,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1928,7 +1928,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond Bracelet 10.52 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond Bracelet 10.52 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">671,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1942,7 +1942,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">353,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1967,7 +1967,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 2.18 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 2.18 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">209,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1981,7 +1981,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 2.05 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 2.05 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">265,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1995,7 +1995,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">196,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2009,7 +2009,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">183,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2023,7 +2023,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 3 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 3 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">191,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2037,7 +2037,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt900 K14WG diamond brooch 3 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt900 K14WG diamond brooch 3 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">199,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2051,7 +2051,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 K18WG diamond brooch 0.171 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 K18WG diamond brooch 0.171 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">278,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2065,7 +2065,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 1.33 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 1.33 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">206,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2079,7 +2079,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 1.708 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 1.708 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">270,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2093,7 +2093,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 4.99 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 4.99 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">404,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2107,7 +2107,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond brooch 2.98 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond brooch 2.98 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">232,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2121,7 +2121,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 5.4 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 5.4 ct</div>
-									<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 									<div class="renew_2024_result_item_price">374,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2179,7 +2179,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">968,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2199,7 +2199,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">797,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2219,7 +2219,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">902,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2239,7 +2239,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,006,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2259,7 +2259,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,039,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2279,7 +2279,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,067,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2299,7 +2299,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,133,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2319,7 +2319,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,138,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2339,7 +2339,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,490,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2359,7 +2359,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,787,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2379,7 +2379,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">2,722,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2399,7 +2399,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">3,085,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2427,7 +2427,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">47,300<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2447,7 +2447,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">49,500<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2467,7 +2467,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">29,700<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2487,7 +2487,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">93,500<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2507,7 +2507,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">858,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2527,7 +2527,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">891,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2546,7 +2546,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">869,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2566,7 +2566,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">3,448,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2586,7 +2586,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">886,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2606,7 +2606,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,237,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2626,7 +2626,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">962,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2646,7 +2646,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">996,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2666,7 +2666,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,056,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2686,7 +2686,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,177,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2706,7 +2706,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,655,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2726,7 +2726,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">2,101,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2754,7 +2754,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">258,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2774,7 +2774,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">286,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2794,7 +2794,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">313,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2814,7 +2814,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">325,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2834,7 +2834,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">326,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2854,7 +2854,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">331,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2873,7 +2873,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">353,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2893,7 +2893,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">363,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2913,7 +2913,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">441,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2933,7 +2933,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">470,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2953,7 +2953,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">543,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2972,7 +2972,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">671,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3000,7 +3000,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">191,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3020,7 +3020,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">183,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3040,7 +3040,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">196,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3060,7 +3060,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">199,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3080,7 +3080,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">209,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3100,7 +3100,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">265,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3120,7 +3120,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">206,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3140,7 +3140,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">232,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3160,7 +3160,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">270,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3180,7 +3180,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">278,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3200,7 +3200,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">374,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3219,7 +3219,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">404,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3243,7 +3243,7 @@
 				<section class="brandinfo_section">
 					<div class="titleMain titleMain--wrapper">
 						<h2 class="titleMain--main">
-							Points for High-Value Diamond Purchase and Appraisal
+						購買和評估高價值鑽石的要點
 						</h2>
 						<div class="titleMain--lead">
 							<p>
@@ -4141,7 +4141,10 @@ Pompadour）的啟發，因此得名。									</p>
 的類型。僅需 1 秒即可區分I 型（天然鑽石）與 II 型（高溫高
 壓處理鑽石・合成鑽石）。此設備不僅能測試裸石，還可檢測鑲
 嵌狀態的鑽石，無需拆除鑲座即可測定，確保在不損傷物品的情
-況下，提供快速且精準的鑑定。								The device can assess both loose diamonds and diamonds set in a setting, allowing for measurement without removing the stone from the setting. It provides quick and accurate evaluation without damaging your items.</p>
+況下，提供快速且精準的鑑定。								在測試前需先清潔寶石表面，然後將測試探針接觸樣品。此設備
+透過測量電導率來判斷寶石是否為鑽石或莫桑石
+（Moissanite）。與 I 型・II 型鑑定器相同，此設備能夠瞬間且準
+確地鑑定，確保高效且精確的評估結果。</p>
 						</div>
 					</div>
 					<div class="equip">
@@ -4164,21 +4167,21 @@ Pompadour）的啟發，因此得名。									</p>
 					<p style="text-align: center;">
 					在 おたからや，我們不僅評估寶石本身的價值，還會考慮品牌價
 					值與設計，綜合判斷後提供最適當的估價。<br><br>
-						We ensure that even small gemstones are thoroughly evaluated, and we can offer a Purchase regardless of whether the item has accessories or a box.
+					我們確保即使是小寶石也經過徹底評估，並且無論物品是否有配件或盒子，我們都可以提供購買。
 					</p>
 				</section>
 				<section>
-					<h3 class="titleSub">All Fees Are Free for Purchase</h3>
+					<h3 class="titleSub">購買所有費用均免費</h3>
 					<p style="text-align: center;">
-						All fees, including appraisal fees and travel expenses, are completely free, with no burden placed on the customer.<br>
-						We offer a variety of purchasing methods, including home visits, in-store, and online appraisals.
+					所有費用如鑑定費、上門出差費等都是全免的，您無需支付任何手續費用。
+					我們透過多種方式進行採購，包括上門、店內和線上評估收購。
 					</p>
 				</section>
 				<section>
-					<h3 class="titleSub">Network of Over 1,300 Stores Nationwide</h3>
+					<h3 class="titleSub">全國約 1,300 家門店的強大網絡</h3>
 					<p style="text-align: center;">
-						A boasts over 1,300 stores nationwide, the largest number among purchasing stores.<br>If you bring your item to a nearby Otakaraya store, you can receive immediate cash payment.<br><br>
-						Additionally, Otakaraya has a proven track record of transactions with 44 countries worldwide, handling large-scale transactions not only with individuals but also with corporations and businesses.<br>In addition to diamonds, Otakaraya also purchases a wide range of gemstones, including rubies, sapphires, and more.
+					A在全國擁有超過1300家門市，是門市數量最多的代購店。<br>如果您將商品帶到附近的 Otakaraya 商店，您可以立即收到現金付款。<br><br>
+					此外，Otakaraya 擁有與全球 44 個國家進行交易的成功經驗，不僅與個人，還與公司和企業進行大規模交易。
 					</p>
 				</section>
 			</section>
@@ -4191,7 +4194,7 @@ Pompadour）的啟發，因此得名。									</p>
 						<img class="renew_2024_dia_title_r_leaf"
 							src="../images/daiya/dialeaf_r_202404.png">
 						<p>
-							Visit Otakaraya to Sell Your <span>Diamonds</span>
+						鑽石回收就選OTAKARAYA
 						</p>
 					</h2>
 					<h3 class="renew_2024_dia_title_subtitle_h3">
@@ -4200,40 +4203,42 @@ Pompadour）的啟發，因此得名。									</p>
 				</div>
 				<!-- MOD_20240417 -->
 				<div class="renew_2024_top_gg_desc">
-					The GG (Graduate Gemologist) qualification is a prestigious gemologist certification awarded by the Gemological Institute of America (GIA), recognized globally as one of the most authoritative credentials.<br>At Otakaraya, we have staff members who hold the GG qualification, and we also provide regular gemologist training through our in-house educational program.<br>As a result, we are capable of performing highly accurate and high-level assessments of all types of gemstones.
+				GG（Graduate Gemologist） 資格是由 GIA
+（Gemological Institute of America，美國寶石研究院） 授予的全
+球權威寶石鑑定師資格，獲得者被稱為「寶石學修了者」。
 				</div>
 				<img class="renew_2024_top_gg_photo" src="../images/daiya/photo_iwamatsu_202404_en.webp" alt="岩松 ">
 				<div class="renew_2024_top_gg_profile_superbox">
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left">
-							Profile
+						岩松 利香
 						</div>
 						<div class="renew_2024_top_gg_profile_right">
-							Started working at a gemological laboratory and has been involved in diamond grading and gemstone identification for nearly 30 years.
+						就職於鑑別機構，從事鑽石分級與寶石鑑別業務近 30 年。
 						</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left">
-							Qualifications
+						保持資格
 						</div>
 						<div class="renew_2024_top_gg_profile_right">
-							GG (Graduate Gemologist) - obtained in May 1994
+						GG（1994 年 5 月取得）
 						</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left">
-							Hometown
+						出身地
 						</div>
 						<div class="renew_2024_top_gg_profile_right">
-							Tokyo
+						東京
 						</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left">
-							Hobbies
+						興趣
 						</div>
 						<div class="renew_2024_top_gg_profile_right">
-							Traveling
+						旅行
 						</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_itembox">
@@ -4244,48 +4249,57 @@ Pompadour）的啟發，因此得名。									</p>
 						<!-- appraisal_equips -->
 						<section class="appraisal_equips">
 							<h3 class="renew_2024_top_point_item_h4">
-								Latest appraisal equipment of Otakaraya </h3>
+							OTAKARAYA的最新鑑定設備 </h3>
 							<div class="equip">
 								<div class="equip_img"><img
 										src="../images/daiya/8429090fa4171a8ce59873218128502a.webp"
-										alt="UV-Visible Near-Infrared Spectrophotometer"></div>
+										alt="紫外可視近紅外分光光度計"></div>
 								<div class="equip_meta">
-									<p class="equip_title">UV-Visible Near-Infrared Spectrophotometer</p>
+									<p class="equip_title">紫外可視近紅外分光光度計</p>
 									<p class="equip_explain">
-										When visible light (light that can be seen by the human eye) passes through a substance, some of the light is absorbed by the material. The UV-Visible Near-Infrared Spectrophotometer is excellent at analyzing the wavelengths of the absorbed light. At 'Otakaraya,' this instrument is used to inspect treatments applied to diamonds and the treatments on gold-based white pearls, allowing for accurate assessment of the gem's value.
-									</p>
+									當光（可見光）穿透物質時，部分波長的光會被吸收。紫外可視
+近紅外分光光度計擅長分析這些吸收光的波長。OTAKARAYA
+使用此設備來檢測鑽石的處理技術與金色系白蝶珍珠的處理，以
+精確評估寶石的價值。									</p>
 								</div>
 							</div>
 							<div class="equip">
 								<div class="equip_img"><img
 										src="../images/daiya/3b83232250cb59ab1761d1e66521fde9.webp"
-										alt="Fourier Transform Infrared Spectrophotometer"></div>
+										alt="傅立葉變換紅外分光光度計（FTIR）"></div>
 								<div class="equip_meta">
-									<p class="equip_title">Fourier Transform Infrared Spectrophotometer</p>
+									<p class="equip_title">傅立葉變換紅外分光光度計（FTIR）</p>
 									<p class="equip_explain">
-										The Fourier Transform Infrared Spectrophotometer is a precision instrument that analyzes samples by shining infrared light onto them and measuring the transmitted or reflected light. At 'Otakaraya,' this equipment is used for a wide range of tests, including examining the presence of resin impregnation treatments in jade and conducting specific tests on diamonds.
-									</p>
+									傅立葉變換紅外分光光度計是一種高精密分析儀器，透過照射紅
+外光並測量透過或反射的光來分析樣品。「おたからや」使用此
+設備進行翡翠的樹脂充填處理檢測及鑽石的特定鑑定，提供多方
+面的專業檢測服務。									</p>
 								</div>
 							</div>
 							<div class="equip">
 								<div class="equip_img"><img
 										src="../images/daiya/0609b87cd0ef7ac42d7e05f14aa2451f.webp"
-										alt="Type I and Type II Determiner"></div>
+										alt="I 型・II 型鑑定器"></div>
 								<div class="equip_meta">
-									<p class="equip_title">Type I and Type II Determiner</p>
+									<p class="equip_title">I 型・II 型鑑定器</p>
 									<p class="equip_explain">
-										The sample is placed inside the determiner, and ultraviolet light is applied to assess the diamond by its transmission rate. In just one second, the device can determine whether the diamond is Type I (natural diamond) or Type II (high-temperature, high-pressure treated diamond or synthetic diamond).
-										The device can assess both loose diamonds and diamonds set in a setting, allowing for measurement without removing the stone from the setting. It provides quick and accurate evaluation without damaging your items.</p>
+									將樣品放入鑑定器內，透過紫外線照射並測量透過率來判定鑽石
+的類型。僅需 1 秒即可區分I 型（天然鑽石）與 II 型（高溫高
+壓處理鑽石・合成鑽石）。此設備不僅能測試裸石，還可檢測鑲
+嵌狀態的鑽石，無需拆除鑲座即可測定，確保在不損傷物品的情
+況下，提供快速且精準的鑑定。</p>
 								</div>
 							</div>
 							<div class="equip">
 								<div class="equip_img"><img
 										src="../images/daiya/5592cdbaa593d89e3ab7da0e4768e03f.webp"
-										alt="Moissanite Determiner"></div>
+										alt="莫桑石鑑定器（Moissanite Tester）"></div>
 								<div class="equip_meta">
-									<p class="equip_title">Moissanite Determiner</p>
-									<p class="equip_explain">After cleaning the surface of the gemstone, the probe is applied to the sample. The electrical conductivity measured by the device is used to determine whether the stone is a diamond or moissanite.
-										Similar to the Type I and II determiner, it provides instant and accurate assessments.</p>
+									<p class="equip_title">莫桑石鑑定器（Moissanite Tester）</p>
+									<p class="equip_explain">在測試前需先清潔寶石表面，然後將測試探針接觸樣品。此設備
+透過測量電導率來判斷寶石是否為鑽石或莫桑石
+（Moissanite）。與 I 型・II 型鑑定器相同，此設備能夠瞬間且準
+確地鑑定，確保高效且精確的評估結果。</p>
 								</div>
 							</div>
 						</section>
@@ -4294,29 +4308,29 @@ Pompadour）的啟發，因此得名。									</p>
 					<div class="renew_2024_top_gg_profile_itembox">
 
 						<h3 class="renew_2024_top_point_item_h4">
-							Evaluation of Design and Brand Value
+						評估設計與品牌價值
 						</h3>
 						<div class="renew_2024_top_point_item_story">
-							At Otakaraya, we not only assess the intrinsic value of the gemstones themselves but also take into account the brand value and design when determining the appraisal value.<br><br>
-							We ensure that even small gemstones are thoroughly evaluated, and we can offer a Purchase regardless of whether the item has accessories or a box.
+						在 おたからや，我們不僅評估寶石本身的價值，還會考慮品牌價
+						值與設計，綜合判斷後提供最適當的估價。<br><br>
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
 
 						<h3 class="renew_2024_top_point_item_h4">
-							All Fees Are Free for Purchase
+						購買所有費用均免費
 						</h3>
 						<div class="renew_2024_top_point_item_story">
-							All fees, including appraisal fees and travel expenses, are completely free, with no burden placed on the customer.<br>
-							We offer a variety of purchasing methods, including home visits, in-store, and online appraisals.
+						包括評估費和差旅費在內的所有費用都是完全免費的，不會給客戶帶來任何負擔。<br>
+						我們提供多種購買方式，包括上門拜訪、店內購買和線上評估。
 						</div>
 						<div class="renew_2024_top_point_item_bar"></div>
 
 						<h3 class="renew_2024_top_point_item_h4">
-							Network of Over 1,300 Stores Nationwide
+						全國超過 1,300 家門市網絡
 						</h3>
 						<div class="renew_2024_top_point_item_story">
-							A boasts over 1,300 stores nationwide, the largest number among purchasing stores.<br>If you bring your item to a nearby Otakaraya store, you can receive immediate cash payment.<br><br>
-							Additionally, Otakaraya has a proven track record of transactions with 44 countries worldwide, handling large-scale transactions not only with individuals but also with corporations and businesses.<br>In addition to diamonds, Otakaraya also purchases a wide range of gemstones, including rubies, sapphires, and more.
+						A在全國擁有超過1,300家店鋪，是購物店鋪中數量最多的。<br><br>
+						此外，Otakaraya 擁有與全球 44 個國家進行交易的成功經驗，不僅與個人，還與公司和企業進行大規模交易。
 						</div>
 					</div>
 				</div>
@@ -4329,15 +4343,17 @@ Pompadour）的啟發，因此得名。									</p>
 				<section class="certificate">
 					<div class="titleMain titleMain--wrapper titleMain--mtPc128 titleMain--mtSp32">
 						<h2 class="titleMain--main">
-							About <span>Diamond</span> Certificates
+						關於鑽石鑑定書
 						</h2>
 					</div>
 					<section>
-						<h3 class="titleSub">What are certificates and identification reports?</h3>
+						<h3 class="titleSub">鑑定書・鑑別書是什麼？</h3>
 						<p style="text-align: center;">
-							A certificate or identification report is provided when purchasing a diamond, detailing the origin and type of the diamond.
+						購買鑽石時，通常會附帶鑑別書，
+						其中記載了鑽石的成因與種類。
 							<br><br>
-							If you have it, please bring the certificate or identification report when selling the diamond.
+							若您擁有鑑定書或鑑別書，請在出售時一併攜帶，
+有助於更精確的評估。
 						</p>
 					</section>
 					<section>
@@ -4351,84 +4367,89 @@ Pompadour）的啟發，因此得名。									</p>
 						</div>
 					</section>
 					<section>
-						<h3 class="titleSub">The GIA (Gemological Institute of America)</h3>
+						<h3 class="titleSub">GIA（美國寶石研究院）</h3>
 						<div class="colBox colBox__col01">
 							<div class="col">
 								<div class="img">
 									<img class="custom-popup-img"
 										src="../images/daiya/diamond_GIA.webp"
-										alt="The GIA (Gemological Institute of America)">
+										alt="GIA（美國寶石研究院）">
 								</div>
 							</div>
 						</div>
 					</section>
 					<section>
-						<h3 class="titleSub">How to Read a Diamond Grading Report</h3>
+						<h3 class="titleSub">鑽石鑑定書的閱讀方式</h3>
 						<ol class="num-content__lists">
 							<li class="num-content__list">
 								<dl>
-									<dt>Cut and Shape</dt>
+									<dt>切工與形狀</dt>
 									<dd>
-										<p>The diamond's shape and facet arrangement are described.</p>
+										<p>記載鑽石的外形與刻面排列。</p>
 									</dd>
 								</dl>
 							</li>
 							<li class="num-content__list">
 								<dl>
-									<dt>Weight (Carat)</dt>
+									<dt>重量（克拉）</dt>
 									<dd>
-										<p>The weight is evaluated as 1 carat = 0.2g (200mg).</p>
+										<p>鑽石重量以克拉（Carat）計算，1克拉 = 0.2克（200毫克）。</p>
 									</dd>
 								</dl>
 							</li>
 							<li class="num-content__list">
 								<dl>
-									<dt>Color Grade</dt>
+									<dt>顏色（Color）等級</dt>
 									<dd>
-										<p>The diamond's color intensity is evaluated using the GIA Master Stone (JJA/AGL certified) in grades from D to Z.</p>
+										<p>使用GIA標準比色石（JJA/AGL認證）評估鑽石的顏色濃度，並依
+										照D ~ Z 等級進行分級。</p>
 									</dd>
 								</dl>
 							</li>
 							<li class="num-content__list">
 								<dl>
-									<dt>Clarity Grade</dt>
+									<dt>淨度（Clarity）等級</dt>
 									<dd>
-										<p>The number, size, color, and location of inclusions in the diamond are evaluated in grades such as FL, IF, VVS1–VVS2, VS1–VS2, SI1–SI2, I1–I2.</p>
+										<p>根據鑽石內含物的數量、大小、顏色和位置，分為 FL、IF、VVS1~VVS2、VS1~VS2、SI1~SI2、I1~I3 等等級進行評估。</p>
 									</dd>
 								</dl>
 							</li>
 							<li class="num-content__list">
 								<dl>
-									<dt>Cut Grade</dt>
+									<dt>切工（Cut）等級</dt>
 									<dd>
-										<p>Using the GIA Facetware Cut Estimator database and visual assessment, the cut is graded as Excellent, Very Good, Good, Fair, or Poor.</p>
+										<p>使用 GIA Facetware Cut Estimator 數據庫與目視評估，分為
+										Excellent、Very Good、Good、Fair、Poor 等等級。</p>
 									</dd>
 								</dl>
 							</li>
 							<li class="num-content__list">
 								<dl>
-									<dt>Fluorescence</dt>
+									<dt>螢光反應（Fluorescence）</dt>
 									<dd>
-										<p>The color and strength of fluorescence are evaluated using a fluorescence master stone in grades of None, Faint, Medium, Strong, or Very Strong.</p>
+										<p>使用螢光標準比色石評估發光時的顏色及強度，分為 None、
+										Faint、Medium、Strong、Very Strong 等等級。</p>
 									</dd>
 								</dl>
 							</li>
 						</ol>
 					</section>
 					<section>
-						<h3 class="titleSub">Certificates can be reissued.</h3>
+						<h3 class="titleSub">鑑定書可重新發行</h3>
 						<p style="text-align: center;">
-							A certificate of appraisal can be reissued at a jewelry shop or a specialized jewelry buying store where certified gemologists or appraisal experts are employed.
+						鑑別書可由具備鑑定專業機構、持有寶石鑑定師資格的珠寶店或專業寶石回收店重新發行。
 							<br><br>
-							A reissue fee applies, which varies depending on the size and quantity of the gemstones, as well as the location where the reissue is requested. Additionally, the fee may differ depending on the number of details included, with the typical range being between 1,000 to 15,000 yen.
-						</p>
+							重新發行需支付手續費，費用會根據寶石的大小、數量及發行機
+							構有所不同。此外，費用也取決於記載項目的多少，通常費用範圍約為 1,000～15,000日圓。</p>
 					</section>
 					<section>
 						<section>
-							<h3 class="titleSub">Customers who do not have a certificate of appraisal.</h3>
+							<h3 class="titleSub">未持有鑑定書的顧客</h3>
 							<p style="text-align: center;">
-								At Otakaraya, appraisal and purchase are possible even without a certificate of appraisal or identification certificate.<br>
-								As Otakaraya employs certified gemologists who hold the GG qualification, they will conduct an on-the-spot gem appraisal and provide an appropriate valuation.
+							在OTAKARAYA，即使沒有鑑定書或鑑別書，也能進行鑑定與
+							收購。<br>
+							因店內有持有 GG（寶石鑑定士資格） 的專業鑑定師，能夠現場
+							鑑定寶石，並提供適當的估價。
 							</p>
 
 						</section>
@@ -4436,15 +4457,13 @@ Pompadour）的啟發，因此得名。									</p>
 					<section>
 						<div class="titleMain titleMain--wrapper">
 							<h2 class="titleMain--main">
-								Even products with defects <span>can be purchased</span>.
+							即使有缺陷的產品也可以購買。
 							</h2>
 							<div class="titleMain--lead">
 								<p style="text-align: center;">
-									Even items with defects such as old designs, rust, tarnishing, bending, dirt, or missing certificates of authenticity or warranties can be assessed and traded at Otakaraya.
-
+								即使是有缺陷的物品，例如設計陳舊、生鏽、失去光澤、彎曲、有污垢或缺少真品證書或保固單，都可以在 Otakaraya 進行評估和交易。
 									<br><br>
-									Professional appraisers use specialized tools to assess the items, allowing us to offer the highest possible purchase price to our customers.
-
+									專業評估師使用專門的工具對物品進行評估，使我們能夠向客戶提供最高的購買價格。
 								</p>
 							</div>
 						</div>
@@ -4462,96 +4481,105 @@ Pompadour）的啟發，因此得名。									</p>
 						About <span>Diamond</span> Certificates
 					</h2>
 					<h3 class="renew_2024_auth_title_about">
-						What are certificates and identification reports?
+					鑑定書・鑑別書是什麼？
 					</h3>
 					<img class="renew_2024_auth_title_image"
 						src="../images/daiya/report_titleimage_202404.png">
 				</div>
 				<div class="renew_2024_top_gg_desc">
-					A certificate or identification report is provided when purchasing a diamond, detailing the origin and type of the diamond.
+				購買鑽石時，通常會附帶鑑別書，
+				其中記載了鑽石的成因與種類。
 					<br><br>
-					If you have it, please bring the certificate or identification report when selling the diamond.
+					若您擁有鑑定書或鑑別書，請在出售時一併攜帶，
+有助於更精確的評估。
 				</div>
 				<div class="renew_2024_auth_item_superbox">
 					<img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="鑑定書について">
 					<h3 class="renew_2024_auth_title_about">
-						The GIA (Gemological Institute of America)
+						GIA（美國寶石研究院）
 					</h3>
 					<img class="renew_2024_auth_item_innerimage custom-popup-img"
 						src="../images/daiya/diamond_GIA.webp"
-						alt="The GIA (Gemological Institute of America)">
+						alt="GIA（美國寶石研究院）">
 					<h3 class="renew_2024_auth_title_about">
 						ダイヤモンド鑑定書の見方
 					</h3>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">01</div>
-							<div class="renew_2024_auth_howtoread_title">Cut and Shape</div>
+							<div class="renew_2024_auth_howtoread_title">切工與形狀</div>
 						</div>
-						<div class="renew_2024_auth_howtoread_story">The diamond's shape and facet arrangement are described.</div>
+						<div class="renew_2024_auth_howtoread_story">記載鑽石的外形與刻面排列。</div>
 					</div>
 					<div class="renew_2024_auth_howtoread_bar"></div>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">02</div>
-							<div class="renew_2024_auth_howtoread_title">Weight (Carat)</div>
+							<div class="renew_2024_auth_howtoread_title">重量（克拉）)</div>
 						</div>
-						<div class="renew_2024_auth_howtoread_story">The weight is evaluated as 1 carat = 0.2g (200mg).</div>
+						<div class="renew_2024_auth_howtoread_story">鑽石重量以克拉（Carat）計算，1克拉 = 0.2克（200毫克）。</div>
 					</div>
 					<div class="renew_2024_auth_howtoread_bar"></div>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">03</div>
-							<div class="renew_2024_auth_howtoread_title">Color Grade</div>
+							<div class="renew_2024_auth_howtoread_title">顏色（Color）等級</div>
 						</div>
-						<div class="renew_2024_auth_howtoread_story">The diamond's color intensity is evaluated using the GIA Master Stone (JJA/AGL certified) in grades from D to Z.</div>
+						<div class="renew_2024_auth_howtoread_story">使用GIA標準比色石（JJA/AGL認證）評估鑽石的顏色濃度，並依
+						照D ~ Z 等級進行分級。</div>
 					</div>
 					<div class="renew_2024_auth_howtoread_bar"></div>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">04</div>
-							<div class="renew_2024_auth_howtoread_title">Clarity Grade</div>
+							<div class="renew_2024_auth_howtoread_title">淨度（Clarity）等級</div>
 						</div>
 						<div class="renew_2024_auth_howtoread_story">
-							The number, size, color, and location of inclusions in the diamond are evaluated in grades such as FL, IF, VVS1–VVS2, VS1–VS2, SI1–SI2, I1–I2.</div>
+						根據鑽石內含物的數量、大小、顏色和位置，分為 FL、IF、VVS1~VVS2、VS1~VS2、SI1~SI2、I1~I3 等等級進行評估。</div>
 					</div>
 					<div class="renew_2024_auth_howtoread_bar"></div>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">05</div>
-							<div class="renew_2024_auth_howtoread_title">Cut Grade</div>
+							<div class="renew_2024_auth_howtoread_title">切工（Cut）等級</div>
 						</div>
-						<div class="renew_2024_auth_howtoread_story">Using the GIA Facetware Cut Estimator database and visual assessment, the cut is graded as Excellent, Very Good, Good, Fair, or Poor.</div>
+						<div class="renew_2024_auth_howtoread_story">使用 GIA Facetware Cut Estimator 數據庫與目視評估，分為
+						Excellent、Very Good、Good、Fair、Poor 等等級。</div>
 					</div>
 					<div class="renew_2024_auth_howtoread_bar"></div>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">
 							<div class="renew_2024_auth_howtoread_num">06</div>
-							<div class="renew_2024_auth_howtoread_title">Fluorescence</div>
+							<div class="renew_2024_auth_howtoread_title">螢光反應（Fluorescence）</div>
 						</div>
-						<div class="renew_2024_auth_howtoread_story">The color and strength of fluorescence are evaluated using a fluorescence master stone in grades of None, Faint, Medium, Strong, or Very Strong.</div>
+						<div class="renew_2024_auth_howtoread_story">使用螢光標準比色石評估發光時的顏色及強度，分為 None、
+						Faint、Medium、Strong、Very Strong 等等級。</div>
 					</div>
 				</div>
 				<div class="renew_2024_auth_additional_superbox">
 					<h3 class="renew_2024_auth_additional_tilte">
 						<img class="renew_2024_auth_item_image"
 							src="../images/daiya/auth_item_check.png">
-						Certificates can be reissued.
+							鑑定書可重新發行
 					</h3>
 					<div class="renew_2024_auth_additional_story">
-						A certificate of appraisal can be reissued at a jewelry shop or a specialized jewelry buying store where certified gemologists or appraisal experts are employed.
+					鑑別書可由具備鑑定專業機構、持有寶石鑑定師資格的珠寶店或專業寶石回收店重新發行。
 						<br><br>
-						A reissue fee applies, which varies depending on the size and quantity of the gemstones, as well as the location where the reissue is requested. Additionally, the fee may differ depending on the number of details included, with the typical range being between 1,000 to 15,000 yen.
+						重新發行需支付手續費，費用會根據寶石的大小、數量及發行機
+構有所不同。
+此外，費用也取決於記載項目的多少，通常費用範圍約為 1,000～15,000日圓。
 					</div>
 					<div class="renew_2024_auth_additional_bar"></div>
 					<h3 class="renew_2024_auth_additional_tilte">
 						<img class="renew_2024_auth_item_image"
 							src="../images/daiya/auth_item_check.png">
-						Customers who do not have a certificate of appraisal.
+							未持有鑑定書的顧客
 					</h3>
 					<div class="renew_2024_auth_additional_story">
-						At Otakaraya, appraisal and purchase are possible even without a certificate of appraisal or identification certificate.<br>
-						As Otakaraya employs certified gemologists who hold the GG qualification, they will conduct an on-the-spot gem appraisal and provide an appropriate valuation.
+					在OTAKARAYA，即使沒有鑑定書或鑑別書，也能進行鑑定與
+					收購。<br>
+					因店內有持有 GG（寶石鑑定士資格） 的專業鑑定師，能夠現場
+					鑑定寶石，並提供適當的估價。
 					</div>
 				</div>
 				<!-- renew_2024_auth_additional_superbox -->
@@ -4560,14 +4588,16 @@ Pompadour）的啟發，因此得名。									</p>
 						<img class="renew_2024_auth_oldok_photo"
 							src="../images/daiya/ok_photo_202404.png">
 						<p>
-							Don't worry if you're unsure of the purity of your gold items for purchase.
+						不清楚金製品的純度也可安心出售
 						</p>
 					</h2>
 					<div class="renew_2024_auth_oldok_story">
-						Even items with defects such as old designs, rust, tarnishing, bending, dirt, or missing certificates of authenticity or warranties can be assessed and traded at Otakaraya.
+					無論是設計老舊、生鏽、暗淡、彎曲、污損，或是缺少鑑定書與
+					保證書的商品，OTAKARAYA皆可進行鑑定與收購。
 
 						<br><br>
-						Professional appraisers use specialized tools to assess the items, allowing us to offer the highest possible purchase price to our customers.
+						專業鑑定師將使用專業的鑑定工具進行評估，確保能夠最大程度
+地回饋給顧客最佳收購價格。
 					</div>
 				</div>
 				<!-- renew_2024_auth_oldok_superbox -->
@@ -4588,9 +4618,9 @@ Pompadour）的啟發，因此得名。									</p>
 							<div class="shop-leader_profile relative">
 								<div class="shop-leader_head absolute">
 									<h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="font-size: 26px; font-family: serif;">Appraiser</span></h2>
+											style="font-size: 26px; font-family: serif;">鑑定師</span></h2>
 									<h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Appraiser</span></h2>
+											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">鑑定師</span></h2>
 								</div>
 								<div class="shop-leader_head_shadow absolute">
 									<div class="relative"></div>
@@ -4600,41 +4630,41 @@ Pompadour）的啟發，因此得名。									</p>
 								</div>
 								<ul class="floatlist">
 									<li class="shop-leader_name sitetextcolor" style="font-family: serif;">
-										<span class="noto ja" style="font-weight: bold;"> Iwamatsu</span>
+										<span class="noto ja" style="font-weight: bold;"> 岩松</span>
 									</li>
 									<li class="shop-leader_info">
 										<table>
 											<tbody>
 												<tr>
 													<th class="sitetextcolor">
-														<span class="noto">Hobbies</span>
+														<span class="noto">興趣</span>
 													</th>
 													<td>
-														<span class="noto">Travel</span>
+														<span class="noto">旅行</span>
 													</td>
 												</tr>
 												<tr>
 													<th class="sitetextcolor">
-														<span class="noto">Favorite Quote</span>
+														<span class="noto">喜歡的座右銘：</span>
 													</th>
 													<td>
-														<span class="noto">'Actions speak louder than words'</span>
+														<span class="noto">有言實行</span>
 													</td>
 												</tr>
 												<tr>
 													<th class="sitetextcolor">
-														<span class="noto">Favorite Brand</span>
+														<span class="noto">喜愛的品牌</span>
 													</th>
 													<td>
-														<span class="noto">Diamonds and Jewelry</span>
+														<span class="noto">鑽石・寶石</span>
 													</td>
 												</tr>
 												<tr>
 													<th class="sitetextcolor">
-														<span class="noto">Past Purchase Examples</span>
+														<span class="noto">過去收購案例</span>
 													</th>
 													<td>
-														<span class="noto">10-carat Diamond</span>
+														<span class="noto"> 10克拉鑽石</span>
 													</td>
 												</tr>
 											</tbody>
@@ -4643,7 +4673,14 @@ Pompadour）的啟發，因此得名。									</p>
 								</ul>
 							</div>
 							<p class="shop-leader_text">
-								<span class="noto">At Otakaraya, we assess hundreds of gemstones every day, both large and small. The value of gemstones can fluctuate greatly depending on various factors such as the 4Cs of diamonds, color, shape, weight, and fluorescence. Otakaraya holds its own auctions, allowing us to respond quickly and sensitively to daily gemstone demand. Regarding assessments, we have professional staff and specialized tools such as diamond testers, enabling accurate evaluations at our stores nationwide. If you're interested in any items, please feel free to use Otakaraya's services.</span>
+								<span class="noto">在OTAKARAYA，每天都會鑑定並收購數百件大小不一的寶
+石。鑽石的評估價格會根據 4C標準（克拉、顏色、淨度、切工）
+以及形狀、重量、螢光性等多種因素而有所不同。
+
+此外，おたからや 自營拍賣會，能夠靈活應對市場對寶石的最新
+需求。我們的專業鑑定團隊配備 鑽石測試儀 及其他專業設備，
+因此全國各門店都能夠提供快速且精準的鑑定服務。
+若您有任何想要鑑定或出售的寶石，歡迎隨時利用OTAKARAYA！</span>
 							</p>
 							<div class="shop-detail_button clearfix">
 							</div>
@@ -4666,12 +4703,12 @@ Pompadour）的啟發，因此得名。									</p>
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				常見問題 About Diamond Purchases
+				鑽石收購常見問題
 			</h2>
 			<section class="renew2024">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleMain--main">
-						常見問題 About Diamond Purchases
+						鑽石收購常見問題
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -4680,113 +4717,121 @@ Pompadour）的啟發，因此得名。									</p>
 				<div class="qa__wrap js__more--3th">
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">When is the best time to sell diamonds?</dt>
+							<dt class="qa__list__q">什麼時候是出售鑽石的最佳時機？</dt>
 							<dd class="qa__list__a">
-								The best time to sell diamonds can vary. Sometimes, the right opportunity arises quickly, while at other times, holding onto them for a longer period can increase their value. It is difficult to pinpoint a universally ideal time. If you plan to keep your diamonds for a longer duration before selling, it is essential to store them properly. We recommend using appropriate storage methods and performing regular maintenance to preserve their condition.
-							</dd>
+							鑽石的市場行情變動較大，有時價格可能快速上漲，有時則需長時間持有才能提升價值。因此，無法一概而論最佳出售時機。如果打算長期持有鑽石，請確保妥善保管，並定期進行維護，以保持其最佳狀態。							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I sell diamonds without a certificate?</dt>
-							<dd class="qa__list__a">Yes, you can. Our appraisers will evaluate the diamond 4Cs (Carat, Color, Clarity, and Cut) and provide you with a purchase price.</dd>
+							<dt class="qa__list__q">沒有鑑定書也能收購嗎？</dt>
+							<dd class="qa__list__a">是的，我們可收購您的鑽石。專業鑑定師將依據 4C標準（克拉、顏色、淨度、切工）進行評估，並提供合適的收購價格。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Does the design affect the purchase price?</dt>
-							<dd class="qa__list__a">For gemstone purchases, the grade of the diamond itself is crucial. Even with an older design, Otakaraya ensures a high-value purchase, so you can rest assured.</dd>
+							<dt class="qa__list__q">設計款式會影響收購價格嗎？</dt>
+							<dd class="qa__list__a">在寶石收購中，鑽石本身的等級是主要評估因素。即使設計較老
+							舊，OTAKARAYA仍可提供高價收購，請放心出售。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Does the shape of the diamond affect the purchase price?</dt>
+							<dt class="qa__list__q">鑽石的形狀會影響收購價格嗎？</dt>
 							<dd class="qa__list__a">
-								Yes, the purchase price varies by shape. The "round brilliant cut" is the most highly valued cut for diamonds. The purchase price also changes depending on the diamond's grade, so feel free to take advantage of our free appraisal service.
-							</dd>
+							是的，收購價格會因形狀不同而有所變動。其中，「圓形明亮式
+切工（Round Brilliant Cut）」通常擁有最高評價。此外，鑽石的
+等級也會影響價格，建議您先進行免費鑑定。							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Do specialty gemstone purchase shops offer higher prices?</dt>
+							<dt class="qa__list__q">專業寶石收購店的價格會更高嗎？</dt>
 							<dd class="qa__list__a">
-								At Otakaraya, we handle a wide range of items, including diamonds, gemstones, jewelry, gold, precious metals, branded items, and watches. This extensive sales network allows us to avoid holding excess inventory, enabling us to offer the highest possible prices for your items.
-							</dd>
+							OTAKARAYA不僅收購鑽石、寶石和珠寶，還涵蓋黃金、貴金屬、
+品牌精品、手錶等多種類別，擁有豐富的銷售渠道。因此，我們
+能夠快速流通庫存，並提供極具競爭力的高價收購。							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can melee diamonds (pavé diamonds) be purchased?</dt>
-							<dd class="qa__list__a">Yes, they can be purchased. Jewelry adorned with melee diamonds (pavé diamonds) may receive a higher appraisal value. However, loose stones may not be eligible for purchase.</dd>
+							<dt class="qa__list__q">碎鑽 / 密釘鑲鑽可以收購嗎？</dt>
+							<dd class="qa__list__a">是的，我們可以收購。鑲有碎鑽 / 密釘鑲鑽的珠寶可能會獲得更
+高的評估價值。不過，若為裸石（Loose Diamond），則可能無法
+收購。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Are there diamonds with high purchase values?</dt>
+							<dt class="qa__list__q">哪些類型的鑽石收購價格較高？</dt>
 							<dd class="qa__list__a">
-								Diamonds over 1 carat, diamonds with a VS grade or higher, branded diamond jewelry, and rare colored diamonds often fetch high purchase prices. Not only colorless diamonds but also natural pink diamonds, blue diamonds, and yellow diamonds tend to have higher purchase values.
-							</dd>
+							一般來說，1克拉以上、VS等級以上、品牌鑽石珠寶，以及稀有
+彩鑽（如天然粉鑽、藍鑽、黃鑽）通常能獲得較高的收購價格。
+不僅無色透明的鑽石，天然彩鑽的市場價值也較高。							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Is there anything I should bring for the appraisal?</dt>
+							<dt class="qa__list__q">鑑定時應攜帶哪些物品？</dt>
 
-							<dd class="qa__list__a">If you have a grading certificate, please bring it with you. The certificate serves as proof of the diamond’s value, such as its 4C grade, which may increase the likelihood of obtaining a favorable purchase price.</dd>
+							<dd class="qa__list__a">若您有鑑定書，請一併攜帶。鑑定書可證明鑽石的 4C等級，有助
+							於獲得更理想的收購價格。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">What kind of items can be purchased at a high price?</dt>
+							<dt class="qa__list__q">哪些商品能獲得高價收購？</dt>
 							<dd class="qa__list__a">
-								For diamond purchases, items with a high 4C grade are considered. Additionally, the quality of the surrounding stones, not just the main stone, also plays a role in the evaluation. Feel free to consult with us first.
-							</dd>
+							在鑽石收購中，4C等級較高 的鑽石通常能獲得更高評估。此外，
+不僅是主鑽，周圍鑲嵌的小鑽等整體品質也會影響價格。如有任
+何疑問，歡迎隨時與我們聯繫！							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Does 'yen depreciation/yen appreciation' affect the purchase price?</dt>
+							<dt class="qa__list__q">日圓貶值或升值會影響收購價格嗎？</dt>
 							<dd class="qa__list__a">
-								Since gemstones like diamonds are not produced in Japan, they are influenced by exchange rates such as yen depreciation or yen appreciation. When the yen depreciates, the value (price) increases, and as the prices in the second-hand market rise, the purchase price becomes higher.
-							</dd>
+							由於鑽石等寶石並非產自日本，因此會受到日圓匯率變動的影響。當日圓貶值時，鑽石的價值（價格）通常會上升，二手市場價格也會上漲，因此收購價格會提高。							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can diamonds purchased a long time ago be sold?</dt>
+							<dt class="qa__list__q">很久以前購買的鑽石也能收購嗎？</dt>
 							<dd class="qa__list__a btn--more">
-								Yes, they can be purchased. Even items purchased a long time ago will be appraised based on current evaluation standards.<br>If the diamond comes with a certificate, the purchase price may vary depending on the issuing organization and the issuance date of the certificate.</dd>
+							是的，可以收購。即使是多年以前購買的商品，也會依照當前的評估標準進行鑑定。<br>如果商品附有鑑定書，其發行機構與發行時間可能會影響最終的收購價格。</dd>
 							<div class="qa__list__button gtm-more-qa"><button>查看更多</button></div>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can loose diamonds or rough stones be purchased?
+							<dt class="qa__list__q">裸石（Loose Diamond）或原石可以收購嗎？
 							</dt>
-							<dd class="qa__list__a">Yes, we also purchase loose diamonds and rough stones.</dd>
+							<dd class="qa__list__a">是的，我們也收購裸石與原石。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Does the size of the gemstone affect its purchase price?</dt>
+							<dt class="qa__list__q">寶石的大小會影響收購價格嗎？</dt>
 							<dd class="qa__list__a">
-								Yes, the size of the gemstone does affect the purchase price. If there are two diamonds with the same grade, the larger stone is considered rarer and can expect a higher purchase price.
+							是的，寶石的大小會影響收購價格。即使同等級的鑽石，大顆寶
+							石因為稀有性較高，通常能獲得更高的收購價格。							</dd>
+						</dl>
+					</div>
+					<div class="qa__list js__more--item3">
+						<dl class="qa__list__inner">
+							<dt class="qa__list__q">哪些因素會影響鑽石的收購價格？</dt>
+							<dd class="qa__list__a">
+							鑽石的收購價格主要受到 4C標準（克拉、顏色、淨度、切工）與
+							寶石大小的影響。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">What factors affect the purchase price of diamonds?</dt>
-							<dd class="qa__list__a">
-								The quality of the diamond, known as the 4Cs, and its size are the main factors that influence its purchase price.
-							</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Why is identification required?</dt>
+							<dt class="qa__list__q">為何需要身分證明文件？</dt>
 
-							<dd class="qa__list__a">The identification of the seller is required by the Antique Dealer Law, and we are required to keep a record for that purpose. It will not be used for any other reasons.</dd>
+							<dd class="qa__list__a">我們需確認出售者的身分並進行記錄，但不會用於其他目的，請
+							放心提供。</dd>
 						</dl>
 					</div>
 				</div>

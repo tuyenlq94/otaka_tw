@@ -280,7 +280,7 @@ $k18_pt850_half = round($k18_half + $pt850_half);
                 <p>=</p>
             </li>
             <li>
-                <label for="result">Reference purchase price</label>
+                <label for="result">參考購買價格</label>
                 <div class="form__liner form__liner--result">
                     <input type="text" id="answer" readonly="readonly" class="boxstyle">
                 </div>

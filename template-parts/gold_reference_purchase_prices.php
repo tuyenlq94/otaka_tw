@@ -1,23 +1,21 @@
 <div class="is-pc">
 	<section class="tabContents_open">
 		<div class="titleMain titleMain--wrapper">
-			<h2 class="titleMain--main"> Gold <span>Reference Purchase Prices</span> </h2>
+			<h2 class="titleMain--main"> 黃金的收購參考價格 </h2>
 			<div class="titleMain--lead">
 				<p>
-					Please note that the reference purchase prices may fluctuate depending on the timing and market
-					conditions. <br>
-					Feel free to contact us for more information.
+					收購價格會隨時期和行情變動，請聯絡我們了解最新資訊。
 				</p>
 			</div>
 		</div>
 		<div class="flex flex--hasItem5">
 			<ul id="cat_list" class="flex__tab">
 				<!-- タブ部分 -->
-				<li class="tab__item active"><a>Gold Jewelry</a></li>
-				<li class="tab__item "><a>Pure Gold / Gold Ingots</a></li>
-				<li class="tab__item "><a>gold coins / Commemorative Coins</a></li>
-				<li class="tab__item "><a>Buddhist Statues and Implements</a></li>
-				<li class="tab__item tab__item_others"><a>Gold Teeth</a></li>
+				<li class="tab__item active"><a>黃金飾品收購</a></li>
+				<li class="tab__item "><a>純金・金條</a></li>
+				<li class="tab__item "><a>金幣・紀念幣</a></li>
+				<li class="tab__item "><a>佛像佛具</a></li>
+				<li class="tab__item tab__item_others"><a>金牙</a></li>
 			</ul>
 			<div class="flex__tabContents no_slider">
 				<div class="flex__content active">
@@ -34,7 +32,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">5,126,800<span>&yen;</span></p>
 							</div>
 						</li>
@@ -43,15 +41,14 @@
 									<p class="content__image img"></p>
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/2b21d2033e8b9e767bcb0b0b64c76a16-150x150.webp"
-											class="attachment-thumbnail size-thumbnail"
-											alt="gold necklace and gold coin" decoding="async" loading="lazy"
-											sizes="100vw"></p>
+											class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購 and gold coin"
+											decoding="async" loading="lazy" sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">gold necklace and gold coin</p>
+									<p class="content--name">黃金項鍊收購 and gold coin</p>
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">3,258,900<span>&yen;</span></p>
 							</div>
 						</li>
@@ -60,15 +57,14 @@
 									<p class="content__image img"></p>
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/0050d5d868704bb985f7893556db0261-150x150.webp"
-											class="attachment-thumbnail size-thumbnail"
-											alt="祖母が使っていた  gold accessories類" decoding="async" loading="lazy"
-											sizes="100vw"></p>
+											class="attachment-thumbnail size-thumbnail" alt="祖母が使っていた  黃金飾品類"
+											decoding="async" loading="lazy" sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">gold accessories</p>
+									<p class="content--name">黃金飾品</p>
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">1,684,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -84,7 +80,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">22,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -101,7 +97,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">331,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -118,7 +114,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">71,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -135,7 +131,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">80,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -152,7 +148,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">511,200<span>&yen;</span></p>
 							</div>
 						</li>
@@ -169,7 +165,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">517,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -185,7 +181,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">70,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -201,7 +197,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">26,700<span>&yen;</span></p>
 							</div>
 						</li>
@@ -218,7 +214,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">13,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -234,7 +230,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">8,700<span>&yen;</span></p>
 							</div>
 						</li>
@@ -250,7 +246,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">5,400<span>&yen;</span></p>
 							</div>
 						</li>
@@ -267,7 +263,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">73,600<span>&yen;</span></p>
 							</div>
 						</li>
@@ -284,13 +280,13 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">103,000<span>&yen;</span></p>
 							</div>
 						</li>
 					</div>
 					<div class="flex_annitation">
-						※The images are for reference only.<br>
+						※ 圖片僅供參考。<br>
 						※附有保證書及完整配件的產品收購參考價格
 					</div>
 				</div>
@@ -309,7 +305,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">7,512,500<span>&yen;</span></p>
 							</div>
 						</li>
@@ -325,7 +321,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">45,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -342,7 +338,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">15,025,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -359,7 +355,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">3,005,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -376,7 +372,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">300,500<span>&yen;</span></p>
 							</div>
 						</li>
@@ -393,13 +389,13 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">1,502,500<span>&yen;</span></p>
 							</div>
 						</li>
 					</div>
 					<div class="flex_annitation">
-						※The images are for reference only.<br>
+						※ 圖片僅供參考。<br>
 						※附有保證書及完整配件的產品收購參考價格
 					</div>
 				</div>
@@ -418,7 +414,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">751,200<span>&yen;</span></p>
 							</div>
 						</li>
@@ -427,15 +423,14 @@
 									<p class="content__image img"> </p>
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/2b21d2033e8b9e767bcb0b0b64c76a16-150x150.webp"
-											class="attachment-thumbnail size-thumbnail"
-											alt="gold necklace and gold coin" decoding="async" loading="lazy"
-											sizes="100vw"></p>
+											class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購 and gold coin"
+											decoding="async" loading="lazy" sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">gold necklace and gold coin</p>
+									<p class="content--name">黃金項鍊收購 and gold coin</p>
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">3,258,900<span>&yen;</span></p>
 							</div>
 						</li>
@@ -452,7 +447,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">114,500<span>&yen;</span></p>
 							</div>
 						</li>
@@ -469,7 +464,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">462,100<span>&yen;</span></p>
 							</div>
 						</li>
@@ -487,7 +482,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">160,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -505,7 +500,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">152,320<span>&yen;</span></p>
 							</div>
 						</li>
@@ -522,7 +517,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">505,900<span>&yen;</span></p>
 							</div>
 						</li>
@@ -539,7 +534,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">75,700<span>&yen;</span></p>
 							</div>
 						</li>
@@ -557,7 +552,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">237,800<span>&yen;</span></p>
 							</div>
 						</li>
@@ -573,7 +568,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">9,820,400<span>&yen;</span></p>
 							</div>
 						</li>
@@ -590,7 +585,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">467,200<span>&yen;</span></p>
 							</div>
 						</li>
@@ -607,7 +602,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">467,200<span>&yen;</span></p>
 							</div>
 						</li>
@@ -624,7 +619,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">93,100<span>&yen;</span></p>
 							</div>
 						</li>
@@ -641,7 +636,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">232,800<span>&yen;</span></p>
 							</div>
 						</li>
@@ -657,7 +652,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">293,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -673,13 +668,13 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">86,000<span>&yen;</span></p>
 							</div>
 						</li>
 					</div>
 					<div class="flex_annitation">
-						※The images are for reference only.<br>
+						※ 圖片僅供參考。<br>
 						※附有保證書及完整配件的產品收購參考價格
 					</div>
 				</div>
@@ -697,7 +692,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">2,684,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -714,7 +709,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">12,360,400<span>&yen;</span></p>
 							</div>
 						</li>
@@ -730,7 +725,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">3,176,800<span>&yen;</span></p>
 							</div>
 						</li>
@@ -747,7 +742,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">4,605,600<span>&yen;</span></p>
 							</div>
 						</li>
@@ -763,13 +758,13 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">5,655,000<span>&yen;</span></p>
 							</div>
 						</li>
 					</div>
 					<div class="flex_annitation">
-						※The images are for reference only.<br>
+						※ 圖片僅供參考。<br>
 						※附有保證書及完整配件的產品收購參考價格
 					</div>
 				</div>
@@ -788,7 +783,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">890,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -804,7 +799,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">44,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -820,7 +815,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">21,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -836,7 +831,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">93,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -852,7 +847,7 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">11,000<span>&yen;</span></p>
 							</div>
 						</li>
@@ -868,13 +863,13 @@
 								</div>
 							</a>
 							<div class="content__text">
-								<p class="content--title">Reference Purchase Prices</p>
+								<p class="content--title">收購參考價格</p>
 								<p class="content--price">42,000<span>&yen;</span></p>
 							</div>
 						</li>
 					</div>
 					<div class="flex_annitation">
-						※The images are for reference only.<br>
+						※ 圖片僅供參考。<br>
 						※附有保證書及完整配件的產品收購參考價格
 					</div>
 				</div>
@@ -884,33 +879,31 @@
 </div>
 <div class="is-sp">
 	<div class="renew_202404_result_titlebox">
-		<h2 class="renew_202404_result_title">Gold Reference Purchase Prices<img class="renew_202404_result_title_l"
+		<h2 class="renew_202404_result_title">黃金的收購參考價格<img class="renew_202404_result_title_l"
 				src="../images/gold/goldleaf_l_202404.png"> <img class="renew_202404_result_title_r"
 				src="../images/gold/goldleaf_r_202404.png"> <img class="renew_202404_result_title_c"
 				src="../images/gold/icon_title_crown.png"> </h2>
 		<div class="renew_202404_result_title_lead">
-			Please note that the reference purchase prices may fluctuate depending on the timing and market conditions.
-			<br>
-			Feel free to contact us for more information.
+			收購價格會隨時期和行情變動，請聯絡我們了解最新資訊。
 		</div>
 	</div>
 	<div class="renew_2024_top_result_superbox is-sp">
 		<div class="renew_2024_tab_superbox">
 			<div class="renew_2024_tabbox wd_active"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 					src="../images/gold/arrow_b_wh.png"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-					src="../images/gold/arrow_b_br.png"> Gold Accessories </div>
+					src="../images/gold/arrow_b_br.png"> 黃金飾品 </div>
 			<div class="renew_2024_tabbox"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 					src="../images/gold/arrow_b_wh.png"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-					src="../images/gold/arrow_b_br.png"> Pure Gold / Gold Ingots </div>
+					src="../images/gold/arrow_b_br.png"> 純金・金條 </div>
 			<div class="renew_2024_tabbox"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 					src="../images/gold/arrow_b_wh.png"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-					src="../images/gold/arrow_b_br.png"> gold coins / Commemorative Coins </div>
+					src="../images/gold/arrow_b_br.png"> 金幣・紀念幣 </div>
 			<div class="renew_2024_tabbox"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 					src="../images/gold/arrow_b_wh.png"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-					src="../images/gold/arrow_b_br.png"> Buddhist Statues and Implements </div>
+					src="../images/gold/arrow_b_br.png"> 佛像佛具 </div>
 			<div class="renew_2024_tabbox"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_wh"
 					src="../images/gold/arrow_b_wh.png"> <img class="renew_2024_tab_arrow renew_2024_tab_arrow_br"
-					src="../images/gold/arrow_b_br.png"> Gold Teeth </div>
+					src="../images/gold/arrow_b_br.png"> 金牙 </div>
 			<div class="renew_2024_tabbox_dummy"></div>
 			<div class="renew_2024_tabbox_dummy"></div>
 			<div class="renew_2024_result_contentsbox">
@@ -919,10 +912,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/93ad2e8e540c551156c0bcfe1c293015-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold necklace" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name"> gold necklace </div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name"> 黃金項鍊收購 </div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">88,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -933,10 +926,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/d8b120a883a1590cdabfd9d1ca52c2c2-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold earring" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold earring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">36,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -947,10 +940,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/074dc5bae54126ddec18593c2725903d-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold ring" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold ring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">32,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -964,7 +957,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="unused 、 gold curb chain ネックレス"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">unused gold curb chain necklace</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">669,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -975,10 +968,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/2b21d2033e8b9e767bcb0b0b64c76a16-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold necklace and gold coin"
+										class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購 and 黃金小判收購"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold necklace and gold coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金項鍊收購 and 黃金小判收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">3,258,900<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -989,10 +982,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/0050d5d868704bb985f7893556db0261-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="祖母が使っていた  gold accessories類"
+										class="attachment-thumbnail size-thumbnail" alt="祖母が使っていた  黃金飾品類"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold accessories</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金飾品</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">1,684,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1003,10 +996,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/de9f84023d96fb7cde455b4c88f9d97a-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold accessories"
-										decoding="async" loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold accessories</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										class="attachment-thumbnail size-thumbnail" alt="黃金飾品" decoding="async"
+										loading="lazy" sizes="100vw"> </div>
+								<div class="renew_2024_result_item_name">黃金飾品</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">1,358,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1017,10 +1010,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/c22c0258d7b77410301e0d23eb932eca-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold ring and jewelry"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購 , 黃金飾品收購"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold ring and jewelry</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購 , 黃金飾品收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">724,900<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1034,7 +1027,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="18-karat gold（K18）signt ring"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">18-karat gold（K18）signt ring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">517,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1048,7 +1041,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold platinum accessories"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">gold platinum accessories</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">5,126,800<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1059,10 +1052,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/b4571980297bfec3582efa468144eadd-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="unused gold ring"
-										decoding="async" loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">unused gold ring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+										class="attachment-thumbnail size-thumbnail" alt="unused 黃金戒指收購" decoding="async"
+										loading="lazy" sizes="100vw"> </div>
+								<div class="renew_2024_result_item_name">unused 黃金戒指收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">72,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1076,7 +1069,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold pendant top"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">gold pendant top</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">36,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1087,10 +1080,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/676b049f8a1ab8c822423b10fb85c580-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold ring" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold ring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">82,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1104,7 +1097,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold pendant top"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">gold pendant top</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">46,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1115,10 +1108,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/fcf18783042043e47c203985718b0837-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold ring" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold ring</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">108,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1129,10 +1122,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/d6ebdd79428841da3f4fdf3f5b6f359b-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold earrings" decoding="async"
+										class="attachment-thumbnail size-thumbnail" alt="黃金戒指收購s" decoding="async"
 										loading="lazy" sizes="100vw"> </div>
-								<div class="renew_2024_result_item_name">gold earrings</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金戒指收購s</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">34,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1150,7 +1143,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="24-karat gold（K24）ingot 1kg"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）ingot 1kg</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">15,025,000<span class="unit">&yen;</span>
 								</div>
 								<div class="renew_2024_result_item_arrow">
@@ -1165,7 +1158,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="24-karat gold（K24）ingot 20g"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）ingot 20g</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">300,500<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1179,7 +1172,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="24-karat gold（K24）ingot 100g"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）ingot 100g</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">1,502,500<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1193,7 +1186,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="24-karat gold（K24）ingot 200g"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）ingot 200g</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">3,005,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1207,7 +1200,7 @@
 										class="attachment-thumbnail size-thumbnail" alt=" gold ingot 1g 3 pieces"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name"> gold ingot 1g 3 pieces</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">45,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1222,7 +1215,7 @@
 										alt="24-karat gold（K24）pure gold ingot 500g" decoding="async" loading="lazy"
 										sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）pure gold ingot 500g</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">7,512,500<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1237,10 +1230,10 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"><img width="150" height="150"
 										src="../images/gold/2b21d2033e8b9e767bcb0b0b64c76a16-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="gold necklace and gold coin"
+										class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購 and gold coin"
 										decoding="async" loading="lazy" sizes="100vw"></div>
-								<div class="renew_2024_result_item_name">gold necklace and gold coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_name">黃金項鍊收購 and gold coin</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">3,258,900<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1256,7 +1249,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Australian Gold Nugget 1/2
 									ounce</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">232,800<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1272,7 +1265,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Canadian Gold Maple Leaf 1
 									ounce</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">467,200<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1288,7 +1281,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Isle of Man Cat Gold Coin 1/5
 									ounce</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">93,100<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1304,7 +1297,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Vienna Philharmonic Gold Coin
 									1 ounce</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">467,200<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1318,7 +1311,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold coins" decoding="async"
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">gold coins</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">9,820,400<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1333,7 +1326,7 @@
 										alt="24-karat gold（K24）Panda gold coin 50g" decoding="async" loading="lazy"
 										sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Panda gold coin 50g</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">751,200<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1350,7 +1343,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">22-karat gold（K22）Krugerrand gold coin 1/4
 									ounce(1982)</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">114,500<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1366,7 +1359,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">22-karat gold（K22）Krugerrand gold coin 1
 									ounce(1996)</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">462,100<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1382,7 +1375,7 @@
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">22-karat gold（K22）Eiffel Tower 100th
 									anniversary gold coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">160,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1398,7 +1391,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">21.6-karat gold（K21.6）liberty gold coin Olympic
 									Memorial</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">152,320<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1414,7 +1407,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">21.6-karat gold（K21.6）Mexican 50 Pesos gold
 									coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">505,900<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1430,7 +1423,7 @@
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">21.6-karat gold（K21.6）Mexican 2.5 Pesos gold
 									coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">75,700<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1446,7 +1439,7 @@
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Australian Gold Nugget 1/2
 									ounce pendant top</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">237,800<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1460,7 +1453,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold commemorative coin"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">gold commemorative coin</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">139,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1474,7 +1467,7 @@
 										class="attachment-thumbnail size-thumbnail" alt=" gold commemorative medal"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name"> gold commemorative medal</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">293,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1492,7 +1485,7 @@
 										class="attachment-thumbnail size-thumbnail" alt=" gold Buddha statue"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name"> gold Buddha statue</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">5,655,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1507,7 +1500,7 @@
 										alt="24-karat gold（K24）Buddha statue" decoding="async" loading="lazy"
 										sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）Buddha statue</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">4,605,600<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1521,7 +1514,7 @@
 										class="attachment-thumbnail size-thumbnail" alt=" gold Buddha statue"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name"> gold Buddha statue</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">3,176,800<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1536,7 +1529,7 @@
 										alt="24-karat gold（K24）mortuary tablet" decoding="async" loading="lazy"
 										sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）mortuary tablet</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">12,360,400<span class="unit">&yen;</span>
 								</div>
 								<div class="renew_2024_result_item_arrow">
@@ -1551,7 +1544,7 @@
 										class="attachment-thumbnail size-thumbnail" alt=" gold Buddhist altar items"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name"> gold Buddhist altar items</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">2,684,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1569,7 +1562,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="gold tooth" decoding="async"
 										loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">gold tooth</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">44,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1584,7 +1577,7 @@
 										alt="24-karat gold（K24）dental sheet metal" decoding="async" loading="lazy"
 										sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">24-karat gold（K24）dental sheet metal</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">890,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1598,7 +1591,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="unused gold tooth"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">unused gold tooth</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">21,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1612,7 +1605,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="estate gold tooth"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">estate gold tooth</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">93,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1626,7 +1619,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="chipped gold tooth"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">chipped gold tooth</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">11,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>
@@ -1640,7 +1633,7 @@
 										class="attachment-thumbnail size-thumbnail" alt="grandfather's gold tooth"
 										decoding="async" loading="lazy" sizes="100vw"></div>
 								<div class="renew_2024_result_item_name">grandfather's gold tooth</div>
-								<div class="renew_2024_result_item_kaitori">Reference Purchase Prices</div>
+								<div class="renew_2024_result_item_kaitori">收購參考價格</div>
 								<div class="renew_2024_result_item_price">42,000<span class="unit">&yen;</span></div>
 								<div class="renew_2024_result_item_arrow">
 									<div></div>

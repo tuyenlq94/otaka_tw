@@ -1,21 +1,19 @@
 <section class="rateSection">
     <div class="is-sp">
         <h3 class="renew_202404_calctool_title">
-            Gold<br>
-            Purchase Price<br>
-            <span>Trend Graph</span>
+        黃金收購行情趨勢圖
             <img class="renew_2024_market_update_title graph_title_image" src="../images/gold/graph_title_image.png">
         </h3>
         <div class="renew_202404_graph_title_lead">
-            We provide a graph showing the gold price (per gram) over different time periods.<br>
-            In addition to today's price, you can also refer to movements over the past 6 months or 1 year.
+            我們展示了不同時期的黃金行情（每克）的趨勢圖。<br>
+           除了今日的行情，您也可以參考6個月或1年的波動情況。
         </div>
     </div>
     <div class="shop__detail--rateGraph">
         <h3 class="titleSub is-pc">Gold Purchase Price Trend Graph</h3>
         <p class="is-pc">
-            We provide a graph showing the gold price (per gram) over different time periods.<br>
-            In addition to today's price, you can also refer to movements over the past 6 months or 1 year.
+            我們展示了不同時期的黃金行情（每克）的趨勢圖。<br>
+           除了今日的行情，您也可以參考6個月或1年的波動情況。
         </p>
         <div class="rateGraph__wrap">
             <div class="rateGraph__inner--select form__wrap">

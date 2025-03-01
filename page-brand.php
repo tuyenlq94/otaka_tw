@@ -65,7 +65,7 @@
 			</li>
 			<li class="topic__path--item" itemprop="itemListElement" itemscope=""
 				itemtype="https://schema.org/ListItem">
-				<span itemprop="name">High-Price Purchases for Branded Items</span>
+				<span itemprop="name">高價收購名牌商品</span>
 				<meta itemprop="position" content="2">
 			</li>
 		</ol>
@@ -440,7 +440,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">187,000<span>円</span></p>
 									</div>
 								</li>
@@ -456,7 +456,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">93,500<span>円</span></p>
 									</div>
 								</li>
@@ -472,7 +472,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">63,800<span>円</span></p>
 									</div>
 								</li>
@@ -488,7 +488,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">60,500<span>円</span></p>
 									</div>
 								</li>
@@ -504,7 +504,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">39,600<span>円</span></p>
 									</div>
 								</li>
@@ -521,7 +521,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">279,400<span>円</span></p>
 									</div>
 								</li>
@@ -537,7 +537,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">23,100<span>円</span></p>
 									</div>
 								</li>
@@ -554,7 +554,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">146,300<span>円</span></p>
 									</div>
 								</li>
@@ -571,7 +571,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">72,600<span>円</span></p>
 									</div>
 								</li>
@@ -588,7 +588,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">46,200<span>円</span></p>
 									</div>
 								</li>
@@ -605,7 +605,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">397,100<span>円</span></p>
 									</div>
 								</li>
@@ -620,7 +620,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">394,900<span>円</span></p>
 									</div>
 								</li>
@@ -635,7 +635,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">348,700<span>円</span></p>
 									</div>
 								</li>
@@ -651,7 +651,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">280,500<span>円</span></p>
 									</div>
 								</li>
@@ -666,7 +666,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">243,100<span>円</span></p>
 									</div>
 								</li>
@@ -681,7 +681,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">242,000<span>円</span></p>
 									</div>
 								</li>
@@ -706,7 +706,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">737,000<span>円</span></p>
 									</div>
 								</li>
@@ -723,7 +723,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">698,500<span>円</span></p>
 									</div>
 								</li>
@@ -740,7 +740,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">685,300<span>円</span></p>
 									</div>
 								</li>
@@ -757,7 +757,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
@@ -772,7 +772,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">632,500<span>円</span></p>
 									</div>
 								</li>
@@ -787,7 +787,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">556,600<span>円</span></p>
 									</div>
 								</li>
@@ -804,7 +804,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">528,000<span>円</span></p>
 									</div>
 								</li>
@@ -819,7 +819,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">350,900<span>円</span></p>
 									</div>
 								</li>
@@ -834,7 +834,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">303,600<span>円</span></p>
 									</div>
 								</li>
@@ -851,7 +851,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">287,100<span>円</span></p>
 									</div>
 								</li>
@@ -868,7 +868,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">235,400<span>円</span></p>
 									</div>
 								</li>
@@ -885,7 +885,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">232,100<span>円</span></p>
 									</div>
 								</li>
@@ -902,7 +902,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">132,000<span>円</span></p>
 									</div>
 								</li>
@@ -917,7 +917,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">1,146,200<span>円</span></p>
 									</div>
 								</li>
@@ -934,7 +934,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">772,200<span>円</span></p>
 									</div>
 								</li>
@@ -951,7 +951,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">727,100<span>円</span></p>
 									</div>
 								</li>
@@ -974,7 +974,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">551,100<span>円</span></p>
 									</div>
 								</li>
@@ -989,7 +989,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">396,000<span>円</span></p>
 									</div>
 								</li>
@@ -1006,7 +1006,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">386,100<span>円</span></p>
 									</div>
 								</li>
@@ -1023,7 +1023,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">309,100<span>円</span></p>
 									</div>
 								</li>
@@ -1040,7 +1040,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">301,400<span>円</span></p>
 									</div>
 								</li>
@@ -1055,7 +1055,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">279,400<span>円</span></p>
 									</div>
 								</li>
@@ -1070,7 +1070,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">276,100<span>円</span></p>
 									</div>
 								</li>
@@ -1085,7 +1085,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">266,200<span>円</span></p>
 									</div>
 								</li>
@@ -1100,7 +1100,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">254,100<span>円</span></p>
 									</div>
 								</li>
@@ -1117,7 +1117,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">225,500<span>円</span></p>
 									</div>
 								</li>
@@ -1132,7 +1132,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
@@ -1149,7 +1149,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">209,000<span>円</span></p>
 									</div>
 								</li>
@@ -1164,7 +1164,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">198,000<span>円</span></p>
 									</div>
 								</li>
@@ -1179,7 +1179,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">196,900<span>円</span></p>
 									</div>
 								</li>
@@ -1194,7 +1194,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">188,100<span>円</span></p>
 									</div>
 								</li>
@@ -1211,7 +1211,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
@@ -1233,7 +1233,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">408,000<span>円</span></p>
 									</div>
 								</li>
@@ -1247,7 +1247,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">378,000<span>円</span></p>
 									</div>
 								</li>
@@ -1261,7 +1261,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">275,000<span>円</span></p>
 									</div>
 								</li>
@@ -1275,7 +1275,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">256,000<span>円</span></p>
 									</div>
 								</li>
@@ -1290,7 +1290,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">161,000<span>円</span></p>
 									</div>
 								</li>
@@ -1305,7 +1305,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">119,000<span>円</span></p>
 									</div>
 								</li>
@@ -1319,7 +1319,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">254,000<span>円</span></p>
 									</div>
 								</li>
@@ -1333,7 +1333,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">264,000<span>円</span></p>
 									</div>
 								</li>
@@ -1347,7 +1347,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">506,000<span>円</span></p>
 									</div>
 								</li>
@@ -1361,7 +1361,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price">212,000<span>円</span></p>
 									</div>
 								</li>
@@ -1539,7 +1539,7 @@
 			<section class="enhanced_additional_wrap">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleHeading">
-						Brand Items' Model with <span>Enhanced Purchase Offers</span>
+					特別加強收購</span>
 					</h2>
 				</div>
 				<div class="enhanced_additional_tabbox">

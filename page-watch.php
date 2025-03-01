@@ -76,8 +76,8 @@
 	<div id="topic__path" class="topic__path">
 		<ol class="topic__path--list" itemscope="" itemtype="https://schema.org/BreadcrumbList">
 			<li class="topic__path--item" itemprop="itemListElement" itemscope=""
-				itemtype="https://schema.org/ListItem"> <a itemprop="item" href="/"><span itemprop="name">Specialized
-						Purchase Store Otakaraya Top</span></a>
+				itemtype="https://schema.org/ListItem"> <a itemprop="item" href="/"><span
+						itemprop="name">收購專門店・OTAKARAYA首頁</span></a>
 				<meta itemprop="position" content="1">
 			</li>
 			<li class="topic__path--item" itemprop="itemListElement" itemscope=""
@@ -182,7 +182,7 @@
 						?>
 
 						<div class="market_fluctuations_content_area_row content_area_row2">
-							<div class="repeater-field-wrapper">Actual Price Achieved</div>
+							<div class="repeater-field-wrapper">過往價格</div>
 							<div class="repeater-field-wrapper">
 								<div class="repeater-item">
 									<div class="brand_text">
@@ -223,7 +223,7 @@
 						</div>
 						<div class="market_fluctuations_content_area_row content_area_row3">
 							<div class="repeater-field-wrapper">2024年12月<br>
-								Reference Price</div>
+								參考價格</div>
 							<div class="repeater-field-wrapper">
 								<div class="repeater-item">
 									<div class="brand_text">
@@ -318,7 +318,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -333,7 +333,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 18,232,000円</p>
 									</div>
 								</li>
@@ -348,7 +348,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,549,000円</p>
 									</div>
 								</li>
@@ -363,7 +363,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,983,000円</p>
 									</div>
 								</li>
@@ -378,7 +378,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,383,500円</p>
 									</div>
 								</li>
@@ -393,7 +393,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,662,000円</p>
 									</div>
 								</li>
@@ -408,7 +408,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,708,000円</p>
 									</div>
 								</li>
@@ -423,7 +423,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,187,500円</p>
 									</div>
 								</li>
@@ -438,7 +438,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,176,500円</p>
 									</div>
 								</li>
@@ -453,7 +453,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,965,500円</p>
 									</div>
 								</li>
@@ -468,7 +468,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,080,000円</p>
 									</div>
 								</li>
@@ -483,7 +483,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,542,000円</p>
 									</div>
 								</li>
@@ -498,7 +498,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,096,500円</p>
 									</div>
 								</li>
@@ -513,7 +513,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,624,000円</p>
 									</div>
 								</li>
@@ -528,7 +528,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,081,000円</p>
 									</div>
 								</li>
@@ -543,7 +543,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,526,500円</p>
 									</div>
 								</li>
@@ -558,7 +558,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,658,600円</p>
 									</div>
 								</li>
@@ -573,7 +573,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,361,500円</p>
 									</div>
 								</li>
@@ -588,7 +588,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -603,7 +603,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,585,900円</p>
 									</div>
 								</li>
@@ -618,7 +618,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,212,000円</p>
 									</div>
 								</li>
@@ -633,7 +633,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,099,500円</p>
 									</div>
 								</li>
@@ -648,7 +648,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,245,000円</p>
 									</div>
 								</li>
@@ -663,7 +663,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,879,500円</p>
 									</div>
 								</li>
@@ -678,7 +678,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,019,500円</p>
 									</div>
 								</li>
@@ -693,7 +693,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,082,000円</p>
 									</div>
 								</li>
@@ -708,7 +708,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,871,000円</p>
 									</div>
 								</li>
@@ -723,7 +723,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,597,000円</p>
 									</div>
 								</li>
@@ -738,7 +738,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,865,500円</p>
 									</div>
 								</li>
@@ -753,7 +753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,952,500円</p>
 									</div>
 								</li>
@@ -768,7 +768,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,617,000円</p>
 									</div>
 								</li>
@@ -783,7 +783,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,721,500円</p>
 									</div>
 								</li>
@@ -798,7 +798,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,860,000円</p>
 									</div>
 								</li>
@@ -813,7 +813,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,886,500円</p>
 									</div>
 								</li>
@@ -828,7 +828,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 386,000円</p>
 									</div>
 								</li>
@@ -843,7 +843,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 532,400円</p>
 									</div>
 								</li>
@@ -858,7 +858,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 369,000円</p>
 									</div>
 								</li>
@@ -873,7 +873,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 390,000円</p>
 									</div>
 								</li>
@@ -888,7 +888,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,054,500円</p>
 									</div>
 								</li>
@@ -903,7 +903,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -918,7 +918,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,735,500円</p>
 									</div>
 								</li>
@@ -933,7 +933,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -948,7 +948,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,597,000円</p>
 									</div>
 								</li>
@@ -963,7 +963,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,158,000円</p>
 									</div>
 								</li>
@@ -978,7 +978,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,086,500円</p>
 									</div>
 								</li>
@@ -993,7 +993,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -1008,7 +1008,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,148,000円</p>
 									</div>
 								</li>
@@ -1023,7 +1023,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,376,000円</p>
 									</div>
 								</li>
@@ -1045,7 +1045,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,391,000円</p>
 									</div>
 								</li>
@@ -1060,7 +1060,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,912,500円</p>
 									</div>
 								</li>
@@ -1075,7 +1075,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,265,500円</p>
 									</div>
 								</li>
@@ -1090,7 +1090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,646,000円</p>
 									</div>
 								</li>
@@ -1106,7 +1106,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,290,000円</p>
 									</div>
 								</li>
@@ -1121,7 +1121,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 698,500円</p>
 									</div>
 								</li>
@@ -1137,7 +1137,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,697,000円</p>
 									</div>
 								</li>
@@ -1153,7 +1153,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,439,500円</p>
 									</div>
 								</li>
@@ -1169,7 +1169,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,341,500円</p>
 									</div>
 								</li>
@@ -1184,7 +1184,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 746,900円</p>
 									</div>
 								</li>
@@ -1199,7 +1199,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 902,000円</p>
 									</div>
 								</li>
@@ -1214,7 +1214,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 869,000円</p>
 									</div>
 								</li>
@@ -1229,7 +1229,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 924,000円</p>
 									</div>
 								</li>
@@ -1244,7 +1244,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 962,500円</p>
 									</div>
 								</li>
@@ -1259,7 +1259,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 962,500円</p>
 									</div>
 								</li>
@@ -1274,7 +1274,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,034,000円</p>
 									</div>
 								</li>
@@ -1289,7 +1289,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 990,000円</p>
 									</div>
 								</li>
@@ -1304,7 +1304,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,127,500円</p>
 									</div>
 								</li>
@@ -1319,7 +1319,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,271,600円</p>
 									</div>
 								</li>
@@ -1334,7 +1334,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,232,000円</p>
 									</div>
 								</li>
@@ -1349,7 +1349,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,639,000円</p>
 									</div>
 								</li>
@@ -1365,7 +1365,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,677,500円</p>
 									</div>
 								</li>
@@ -1380,7 +1380,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,045,000円</p>
 									</div>
 								</li>
@@ -1395,7 +1395,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,535,500円</p>
 									</div>
 								</li>
@@ -1410,7 +1410,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,111,000円</p>
 									</div>
 								</li>
@@ -1425,7 +1425,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,386,000円</p>
 									</div>
 								</li>
@@ -1440,7 +1440,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,111,000円</p>
 									</div>
 								</li>
@@ -1455,7 +1455,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,457,500円</p>
 									</div>
 								</li>
@@ -1470,7 +1470,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,463,000円</p>
 									</div>
 								</li>
@@ -1485,7 +1485,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,512,500円</p>
 									</div>
 								</li>
@@ -1500,7 +1500,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,595,000円</p>
 									</div>
 								</li>
@@ -1515,7 +1515,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,820,500円</p>
 									</div>
 								</li>
@@ -1530,7 +1530,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,666,500円</p>
 									</div>
 								</li>
@@ -1545,7 +1545,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,486,000円</p>
 									</div>
 								</li>
@@ -1560,7 +1560,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,051,500円</p>
 									</div>
 								</li>
@@ -1575,7 +1575,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,596,000円</p>
 									</div>
 								</li>
@@ -1591,7 +1591,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,964,500円</p>
 									</div>
 								</li>
@@ -1607,7 +1607,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,234,000円</p>
 									</div>
 								</li>
@@ -1622,7 +1622,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,092,000円</p>
 									</div>
 								</li>
@@ -1638,7 +1638,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,102,000円</p>
 									</div>
 								</li>
@@ -1654,7 +1654,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,206,500円</p>
 									</div>
 								</li>
@@ -1670,7 +1670,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,327,500円</p>
 									</div>
 								</li>
@@ -1686,7 +1686,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,883,000円</p>
 									</div>
 								</li>
@@ -1702,7 +1702,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,225,000円</p>
 									</div>
 								</li>
@@ -1718,7 +1718,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,330,500円</p>
 									</div>
 								</li>
@@ -1733,7 +1733,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,512,000円</p>
 									</div>
 								</li>
@@ -1749,7 +1749,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,023,500円</p>
 									</div>
 								</li>
@@ -1765,7 +1765,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,342,500円</p>
 									</div>
 								</li>
@@ -1788,7 +1788,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,320,000円</p>
 									</div>
 								</li>
@@ -1804,7 +1804,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 902,000円</p>
 									</div>
 								</li>
@@ -1820,7 +1820,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,677,500円</p>
 									</div>
 								</li>
@@ -1835,7 +1835,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,255,000円</p>
 									</div>
 								</li>
@@ -1851,7 +1851,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -1867,7 +1867,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,895,000円</p>
 									</div>
 								</li>
@@ -1882,7 +1882,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,316,500円</p>
 									</div>
 								</li>
@@ -1898,7 +1898,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,247,000円</p>
 									</div>
 								</li>
@@ -1914,7 +1914,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,505,500円</p>
 									</div>
 								</li>
@@ -1930,7 +1930,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,527,500円</p>
 									</div>
 								</li>
@@ -1946,7 +1946,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,581,400円</p>
 									</div>
 								</li>
@@ -1962,7 +1962,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,621,000円</p>
 									</div>
 								</li>
@@ -1978,7 +1978,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,846,500円</p>
 									</div>
 								</li>
@@ -1994,7 +1994,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,913,500円</p>
 									</div>
 								</li>
@@ -2010,7 +2010,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,945,500円</p>
 									</div>
 								</li>
@@ -2026,7 +2026,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,116,000円</p>
 									</div>
 								</li>
@@ -2042,7 +2042,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,425,000円</p>
 									</div>
 								</li>
@@ -2058,7 +2058,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,414,000円</p>
 									</div>
 								</li>
@@ -2074,7 +2074,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,145,500円</p>
 									</div>
 								</li>
@@ -2090,7 +2090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,761,500円</p>
 									</div>
 								</li>
@@ -2106,7 +2106,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,626,200円</p>
 									</div>
 								</li>
@@ -2122,7 +2122,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,662,500円</p>
 									</div>
 								</li>
@@ -2138,7 +2138,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 9,361,000円</p>
 									</div>
 								</li>
@@ -2154,7 +2154,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 9,680,000円</p>
 									</div>
 								</li>
@@ -2170,7 +2170,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 10,681,000円</p>
 									</div>
 								</li>
@@ -2186,7 +2186,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 10,549,000円</p>
 									</div>
 								</li>
@@ -2202,7 +2202,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 11,222,200円</p>
 									</div>
 								</li>
@@ -2218,7 +2218,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 14,850,000円</p>
 									</div>
 								</li>
@@ -2234,7 +2234,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -2249,7 +2249,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 11,566,500円</p>
 									</div>
 								</li>
@@ -2265,7 +2265,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 12,265,550円</p>
 									</div>
 								</li>
@@ -2281,7 +2281,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 15,587,000円</p>
 									</div>
 								</li>
@@ -2296,7 +2296,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 16,538,500円</p>
 									</div>
 								</li>
@@ -2312,7 +2312,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 16,692,500円</p>
 									</div>
 								</li>
@@ -2328,7 +2328,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 17,611,000円</p>
 									</div>
 								</li>
@@ -2344,7 +2344,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -2360,7 +2360,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,117,500円</p>
 									</div>
 								</li>
@@ -2376,7 +2376,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,435,500円</p>
 									</div>
 								</li>
@@ -2392,7 +2392,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,335,000円</p>
 									</div>
 								</li>
@@ -2407,7 +2407,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,379,000円</p>
 									</div>
 								</li>
@@ -2423,7 +2423,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,466,000円</p>
 									</div>
 								</li>
@@ -2438,7 +2438,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,318,000円</p>
 									</div>
 								</li>
@@ -2456,7 +2456,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,662,000円</p>
 									</div>
 								</li>
@@ -2473,7 +2473,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,720,000円</p>
 									</div>
 								</li>
@@ -2491,7 +2491,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,701,000円</p>
 									</div>
 								</li>
@@ -2507,7 +2507,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,225,000円</p>
 									</div>
 								</li>
@@ -2523,7 +2523,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,718,000円</p>
 									</div>
 								</li>
@@ -2539,7 +2539,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,585,000円</p>
 									</div>
 								</li>
@@ -2561,7 +2561,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,996,500円</p>
 									</div>
 								</li>
@@ -2577,7 +2577,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -2593,7 +2593,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,556,000円</p>
 									</div>
 								</li>
@@ -2609,7 +2609,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,421,000円</p>
 									</div>
 								</li>
@@ -2625,7 +2625,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,805,000円</p>
 									</div>
 								</li>
@@ -2641,7 +2641,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,360,500円</p>
 									</div>
 								</li>
@@ -2657,7 +2657,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,020,500円</p>
 									</div>
 								</li>
@@ -2673,7 +2673,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,053,500円</p>
 									</div>
 								</li>
@@ -2689,7 +2689,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,196,500円</p>
 									</div>
 								</li>
@@ -2705,7 +2705,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,202,000円</p>
 									</div>
 								</li>
@@ -2721,7 +2721,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 6,198,500円</p>
 									</div>
 								</li>
@@ -2737,7 +2737,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 9,740,500円</p>
 									</div>
 								</li>
@@ -2753,7 +2753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,331,500円</p>
 									</div>
 								</li>
@@ -2769,7 +2769,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,969,000円</p>
 									</div>
 								</li>
@@ -2785,7 +2785,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,397,000円</p>
 									</div>
 								</li>
@@ -2801,7 +2801,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -2817,7 +2817,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -2833,7 +2833,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,470,500円</p>
 									</div>
 								</li>
@@ -2849,7 +2849,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 9,515,000円</p>
 									</div>
 								</li>
@@ -2864,7 +2864,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,331,000円</p>
 									</div>
 								</li>
@@ -2879,7 +2879,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,265,000円</p>
 									</div>
 								</li>
@@ -2894,7 +2894,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,490,500円</p>
 									</div>
 								</li>
@@ -2910,7 +2910,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,540,000円</p>
 									</div>
 								</li>
@@ -2926,7 +2926,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,600,500円</p>
 									</div>
 								</li>
@@ -2942,7 +2942,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,985,500円</p>
 									</div>
 								</li>
@@ -2958,7 +2958,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,694,000円</p>
 									</div>
 								</li>
@@ -2974,7 +2974,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,721,500円</p>
 									</div>
 								</li>
@@ -2990,7 +2990,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,194,500円</p>
 									</div>
 								</li>
@@ -3006,7 +3006,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,260,500円</p>
 									</div>
 								</li>
@@ -3022,7 +3022,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,568,500円</p>
 									</div>
 								</li>
@@ -3037,7 +3037,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,766,500円</p>
 									</div>
 								</li>
@@ -3053,7 +3053,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,976,500円</p>
 									</div>
 								</li>
@@ -3069,7 +3069,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,906,000円</p>
 									</div>
 								</li>
@@ -3085,7 +3085,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 896,500円</p>
 									</div>
 								</li>
@@ -3101,7 +3101,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,160,500円</p>
 									</div>
 								</li>
@@ -3117,7 +3117,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 957,000円</p>
 									</div>
 								</li>
@@ -3133,7 +3133,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,248,500円</p>
 									</div>
 								</li>
@@ -3149,7 +3149,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,276,000円</p>
 									</div>
 								</li>
@@ -3164,7 +3164,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,485,000円</p>
 									</div>
 								</li>
@@ -3180,7 +3180,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,611,500円</p>
 									</div>
 								</li>
@@ -3195,7 +3195,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 26,125,000円</p>
 									</div>
 								</li>
@@ -3210,7 +3210,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -3226,7 +3226,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,467,000円</p>
 									</div>
 								</li>
@@ -3242,7 +3242,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,535,500円</p>
 									</div>
 								</li>
@@ -3258,7 +3258,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,914,000円</p>
 									</div>
 								</li>
@@ -3274,7 +3274,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,056,000円</p>
 									</div>
 								</li>
@@ -3290,7 +3290,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 11,907,500円</p>
 									</div>
 								</li>
@@ -3306,7 +3306,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,347,500円</p>
 									</div>
 								</li>
@@ -3328,7 +3328,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,052,500円</p>
 									</div>
 								</li>
@@ -3343,7 +3343,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -3358,7 +3358,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,644,500円</p>
 									</div>
 								</li>
@@ -3373,7 +3373,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,875,500円</p>
 									</div>
 								</li>
@@ -3388,7 +3388,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,853,500円</p>
 									</div>
 								</li>
@@ -3403,7 +3403,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,930,500円</p>
 									</div>
 								</li>
@@ -3418,7 +3418,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,969,000円</p>
 									</div>
 								</li>
@@ -3434,7 +3434,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,145,000円</p>
 									</div>
 								</li>
@@ -3449,7 +3449,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,101,000円</p>
 									</div>
 								</li>
@@ -3464,7 +3464,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,200,000円</p>
 									</div>
 								</li>
@@ -3480,7 +3480,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,255,000円</p>
 									</div>
 								</li>
@@ -3495,7 +3495,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,420,000円</p>
 									</div>
 								</li>
@@ -3511,7 +3511,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,625,500円</p>
 									</div>
 								</li>
@@ -3526,7 +3526,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,091,000円</p>
 									</div>
 								</li>
@@ -3541,7 +3541,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,503,500円</p>
 									</div>
 								</li>
@@ -3556,7 +3556,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,155,500円</p>
 									</div>
 								</li>
@@ -3571,7 +3571,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,656,500円</p>
 									</div>
 								</li>
@@ -3587,7 +3587,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,513,000円</p>
 									</div>
 								</li>
@@ -3602,7 +3602,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -3617,7 +3617,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,381,500円</p>
 									</div>
 								</li>
@@ -3632,7 +3632,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,738,000円</p>
 									</div>
 								</li>
@@ -3648,7 +3648,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,663,000円</p>
 									</div>
 								</li>
@@ -3663,7 +3663,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,255,500円</p>
 									</div>
 								</li>
@@ -3678,7 +3678,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 7,040,000円</p>
 									</div>
 								</li>
@@ -3693,7 +3693,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,964,500円</p>
 									</div>
 								</li>
@@ -3708,7 +3708,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -3723,7 +3723,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,084,500円</p>
 									</div>
 								</li>
@@ -3738,7 +3738,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,103,000円</p>
 									</div>
 								</li>
@@ -3753,7 +3753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,498,000円</p>
 									</div>
 								</li>
@@ -3768,7 +3768,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,015,000円</p>
 									</div>
 								</li>
@@ -3783,7 +3783,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -3798,7 +3798,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,965,500円</p>
 									</div>
 								</li>
@@ -3813,7 +3813,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,234,000円</p>
 									</div>
 								</li>
@@ -3828,7 +3828,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,515,500円</p>
 									</div>
 								</li>
@@ -3843,7 +3843,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,723,500円</p>
 									</div>
 								</li>
@@ -3858,7 +3858,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,437,500円</p>
 									</div>
 								</li>
@@ -3873,7 +3873,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,349,500円</p>
 									</div>
 								</li>
@@ -3888,7 +3888,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,295,500円</p>
 									</div>
 								</li>
@@ -3903,7 +3903,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,064,000円</p>
 									</div>
 								</li>
@@ -3918,7 +3918,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -3933,7 +3933,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 5,912,500円</p>
 									</div>
 								</li>
@@ -3948,7 +3948,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -3969,7 +3969,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 566,500円</p>
 									</div>
 								</li>
@@ -3985,7 +3985,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -4000,7 +4000,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 786,000円</p>
 									</div>
 								</li>
@@ -4015,7 +4015,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 539,000円</p>
 									</div>
 								</li>
@@ -4030,7 +4030,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,661,000円</p>
 									</div>
 								</li>
@@ -4045,7 +4045,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,923,900円</p>
 									</div>
 								</li>
@@ -4060,7 +4060,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,369,500円</p>
 									</div>
 								</li>
@@ -4075,7 +4075,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,508,000円</p>
 									</div>
 								</li>
@@ -4090,7 +4090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,369,000円</p>
 									</div>
 								</li>
@@ -4105,7 +4105,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,354,000円</p>
 									</div>
 								</li>
@@ -4120,7 +4120,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -4135,7 +4135,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,556,500円</p>
 									</div>
 								</li>
@@ -4150,7 +4150,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,996,500円</p>
 									</div>
 								</li>
@@ -4166,7 +4166,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -4181,7 +4181,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,739,000円</p>
 									</div>
 								</li>
@@ -4196,7 +4196,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 946,000円</p>
 									</div>
 								</li>
@@ -4211,7 +4211,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,348,500円</p>
 									</div>
 								</li>
@@ -4226,7 +4226,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 858,000円</p>
 									</div>
 								</li>
@@ -4241,7 +4241,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,435,500円</p>
 									</div>
 								</li>
@@ -4256,7 +4256,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,117,500円</p>
 									</div>
 								</li>
@@ -4271,7 +4271,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,508,000円</p>
 									</div>
 								</li>
@@ -4286,7 +4286,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,216,500円</p>
 									</div>
 								</li>
@@ -4301,7 +4301,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,195,500円</p>
 									</div>
 								</li>
@@ -4316,7 +4316,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,151,500円</p>
 									</div>
 								</li>
@@ -4331,7 +4331,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 973,500円</p>
 									</div>
 								</li>
@@ -4346,7 +4346,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,184,500円</p>
 									</div>
 								</li>
@@ -4361,7 +4361,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,116,500円</p>
 									</div>
 								</li>
@@ -4376,7 +4376,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 841,500円</p>
 									</div>
 								</li>
@@ -4391,7 +4391,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,276,000円</p>
 									</div>
 								</li>
@@ -4406,7 +4406,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 922,900円</p>
 									</div>
 								</li>
@@ -4421,7 +4421,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,227,500円</p>
 									</div>
 								</li>
@@ -4436,7 +4436,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,485,000円</p>
 									</div>
 								</li>
@@ -4451,7 +4451,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,556,000円</p>
 									</div>
 								</li>
@@ -4466,7 +4466,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,348,000円</p>
 									</div>
 								</li>
@@ -4481,7 +4481,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 929,000円</p>
 									</div>
 								</li>
@@ -4496,7 +4496,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,490,500円</p>
 									</div>
 								</li>
@@ -4511,7 +4511,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,243,000円</p>
 									</div>
 								</li>
@@ -4527,7 +4527,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 8,475,500円</p>
 									</div>
 								</li>
@@ -4542,7 +4542,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 3,102,000円</p>
 									</div>
 								</li>
@@ -4557,7 +4557,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,992,000円</p>
 									</div>
 								</li>
@@ -4572,7 +4572,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,563,000円</p>
 									</div>
 								</li>
@@ -4587,7 +4587,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,656,500円</p>
 									</div>
 								</li>
@@ -4602,7 +4602,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,062,500円</p>
 									</div>
 								</li>
@@ -4617,7 +4617,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,678,500円</p>
 									</div>
 								</li>
@@ -4632,7 +4632,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,354,000円</p>
 									</div>
 								</li>
@@ -4647,7 +4647,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,920,500円</p>
 									</div>
 								</li>
@@ -4662,7 +4662,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,452,000円</p>
 									</div>
 								</li>
@@ -4677,7 +4677,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,831,500円</p>
 									</div>
 								</li>
@@ -4698,7 +4698,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 150,000円</p>
 									</div>
 								</li>
@@ -4713,7 +4713,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 510,000円</p>
 									</div>
 								</li>
@@ -4728,7 +4728,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,560,000円</p>
 									</div>
 								</li>
@@ -4743,7 +4743,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,560,000円</p>
 									</div>
 								</li>
@@ -4759,7 +4759,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 450,000円</p>
 									</div>
 								</li>
@@ -4774,7 +4774,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 450,000円</p>
 									</div>
 								</li>
@@ -4789,7 +4789,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 270,000円</p>
 									</div>
 								</li>
@@ -4805,7 +4805,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,200,000円</p>
 									</div>
 								</li>
@@ -4820,7 +4820,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 800,000円</p>
 									</div>
 								</li>
@@ -4835,7 +4835,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,170,000円</p>
 									</div>
 								</li>
@@ -4851,7 +4851,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,800,000円</p>
 									</div>
 								</li>
@@ -4866,7 +4866,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,500,000円</p>
 									</div>
 								</li>
@@ -4882,7 +4882,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 950,000円</p>
 									</div>
 								</li>
@@ -4898,7 +4898,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,500,000円</p>
 									</div>
 								</li>
@@ -4914,7 +4914,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 700,000円</p>
 									</div>
 								</li>
@@ -4929,7 +4929,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,060,000円</p>
 									</div>
 								</li>
@@ -4945,7 +4945,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 880,000円</p>
 									</div>
 								</li>
@@ -4960,7 +4960,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,530,000円</p>
 									</div>
 								</li>
@@ -4976,7 +4976,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 980,000円</p>
 									</div>
 								</li>
@@ -4992,7 +4992,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 880,000円</p>
 									</div>
 								</li>
@@ -5007,7 +5007,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 630,000円</p>
 									</div>
 								</li>
@@ -5022,7 +5022,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 1,540,000円</p>
 									</div>
 								</li>
@@ -5037,7 +5037,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 700,000円</p>
 									</div>
 								</li>
@@ -5052,7 +5052,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 800,000円</p>
 									</div>
 								</li>
@@ -5067,7 +5067,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 850,000円</p>
 									</div>
 								</li>
@@ -5082,7 +5082,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 2,200,000円</p>
 									</div>
 								</li>
@@ -5098,7 +5098,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 44,500,000円</p>
 									</div>
 								</li>
@@ -5114,7 +5114,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">Reference Purchase Prices</p>
+										<p class="content--title">收購參考價格</p>
 										<p class="content--price"> 57,000,000円</p>
 									</div>
 								</li>
@@ -5140,7 +5140,7 @@
 			<section class="is-pc"></section>
 			<section class="purchase_reinforcement brand_tokei_sec04" id="brand_tokei_sec04"
 				style="margin: 2rem auto 0;">
-				<h3 style="text-align: center; width: 100%;">Luxury Watches with Enhanced Purchase Offers</h3>
+				<h3 style="text-align: center; width: 100%;">正在提升收購價的高級手錶</h3>
 				<div class="secHead_items is-sp"> <img src="../images/brand_tokei/secHead04_item01.png" class=""> <img
 						src="../images/brand_tokei/secHead04_item02.png" class=""> <img
 						src="../images/brand_tokei/secHead04_item03.png" class=""> </div>
@@ -5148,7 +5148,7 @@
 					decoding="async" class="secHeadBg04 is-sp">
 				<div class="purchase_reinforcement_area purchase_reinforcement_area0 four">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">Rolex Models with Enhanced Purchase Offers</h4>
+						<h4 class="purchase_reinforcement_ttl">提升收購價的勞力士 Rolex 型號</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a href="../brand-tokei/rolex/daytona/">
 							<div class="purchase_reinforcement_item">
@@ -5212,7 +5212,7 @@
 
 				<div class="purchase_reinforcement_area purchase_reinforcement_area1 four">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">Patek Philippe Models with Enhanced Purchase Offers</h4>
+						<h4 class="purchase_reinforcement_ttl">提升收購價的百達翡麗 Patek Philippe 型號</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a href="../brand-tokei/patekphilippe/nautilus/">
 							<div class="purchase_reinforcement_item">
@@ -5276,7 +5276,7 @@
 
 				<div class="purchase_reinforcement_area purchase_reinforcement_area2 purchase_reinforcement_border">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">Audemars Piguet Models with Enhanced Purchase Offers</h4>
+						<h4 class="purchase_reinforcement_ttl">提升收購價的愛彼 Audemars Piguet 型號</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a href="../brand-tokei/audemarspiguet/royal-oak/">
 							<div class="purchase_reinforcement_item">
@@ -5312,7 +5312,7 @@
 
 				<div class="purchase_reinforcement_area purchase_reinforcement_area3">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">Vacheron Constantin Models with Enhanced Purchase Offers
+						<h4 class="purchase_reinforcement_ttl">提升收購價的江詩丹頓 Vacheron Constantin 型號
 						</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a
@@ -5350,7 +5350,7 @@
 
 				<div class="purchase_reinforcement_area purchase_reinforcement_area4 purchase_reinforcement_border">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">A. Lange & Söhne Models with Enhanced Purchase Offers
+						<h4 class="purchase_reinforcement_ttl">提升收購價的朗格 A. Lange & Söhne 型號
 						</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a href="../brand-tokei/lange-soehne/lange1/">
@@ -5386,7 +5386,7 @@
 
 				<div class="purchase_reinforcement_area purchase_reinforcement_area5">
 					<div class="purchase_reinforcement_ttl_wrap">
-						<h4 class="purchase_reinforcement_ttl">Breguet Models with Enhanced Purchase Offers</h4>
+						<h4 class="purchase_reinforcement_ttl">提升收購價的璣 Breguet 型號</h4>
 					</div>
 					<div class="purchase_reinforcement_item_wrap"> <a href="../brand-tokei/breguet/marine/">
 							<div class="purchase_reinforcement_item">
@@ -5438,20 +5438,20 @@
 			<!-- こんな時計も高価買取できます_アンティーク・懐中・宝飾　-->
 			<section class="can_be_purchased_section brand_tokei_sec06" id="brand_tokei_sec06">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main">We can also offer high purchase prices for watches like these.</h2>
+					<h2 class="titleMain--main">這類手錶也可高價收購</h2>
 					<div class="can_be_purchased_content_wrap">
 						<div class="can_be_purchased_content">
 							<div class="can_be_purchased_img_wrap"> <img class="is-pc"
-									src="../images/brand_tokei/EN_antique_PC.webp" alt="Antique watches"> <img
-									class="is-sp" src="../images/brand_tokei/EN_antique_SP.webp" alt="Antique watches">
+									src="../images/brand_tokei/EN_antique_PC.webp" alt="古董手錶"> <img class="is-sp"
+									src="../images/brand_tokei/EN_antique_SP.webp" alt="古董手錶">
 							</div>
 							<div class="can_be_purchased_img_wrap"> <img class="is-pc"
-									src="../images/brand_tokei/EN_pocket_PC.webp" alt="Pocket watches"> <img
-									class="is-sp" src="../images/brand_tokei/EN_pocket_SP.webp" alt="Pocket watches">
+									src="../images/brand_tokei/EN_pocket_PC.webp" alt="懷錶"> <img class="is-sp"
+									src="../images/brand_tokei/EN_pocket_SP.webp" alt="懷錶">
 							</div>
 							<div class="can_be_purchased_img_wrap"> <img class="is-pc"
-									src="../images/brand_tokei/EN_jewelry_PC.webp" alt="Jewelry watches"> <img
-									class="is-sp" src="../images/brand_tokei/EN_jewelry_SP.webp" alt="Jewelry watches">
+									src="../images/brand_tokei/EN_jewelry_PC.webp" alt="珠寶手錶"> <img class="is-sp"
+									src="../images/brand_tokei/EN_jewelry_SP.webp" alt="珠寶手錶">
 							</div>
 						</div>
 					</div>
@@ -5469,14 +5469,12 @@
 								src="../images/brand_tokei/EN_text1.webp"
 								alt="Even if it's old, worn out, or broken, it's OK!">
 							<div class="state_bad_purchase_section_top_h_text">
-								<h2> <span>We accept watches</span>
-									<p class="theme_color">in any condition!</p>
+								<h2> 任何狀態的手錶我們都會進行收購！</p>
 							</div>
-							<p class="state_bad_purchase_section_top_read_text">No matter the condition of your item, we
-								are happy to buy it, so feel free to entrust it to us with peace of mind.</p>
+							<p class="state_bad_purchase_section_top_read_text">無論您的物品狀態如何，我們都會高興地進行收購，請放心交給我們。</p>
 						</div>
 						<div class="state_bad_purchase_section_top_h_img"> <img
-								src="../images/brand_tokei/EN_watch_broken_riona.webp" alt="Leave it to Otakaraya!">
+								src="../images/brand_tokei/EN_watch_broken_riona.webp" alt="交給OTAKARAYA吧！">
 						</div>
 					</div>
 					<!-- end state_bad_purchase_section_top_h_area -->
@@ -5484,220 +5482,206 @@
 
 
 					<div class="state_bad_purchase_section_top_content_wrap">
-						<div class="text_img"><img class="" src="../images/brand_tokei/text2.webp"
-								alt="for example..."><span class="text_img_txt"> for example...</span></div>
+						<div class="text_img"><img class="" src="../images/brand_tokei/text2.webp" alt="例如..."><span
+								class="text_img_txt"> 例如...</span></div>
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Cracked Glass</h4>
+							<h4>玻璃破裂</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list1.webp" alt="Cracked Glass">
+								<img src="../images/brand_tokei/watch_broken_list1.webp" alt="玻璃破裂">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The glass (crystal) of the watch has cracks
-								or breaks.</p>
+							<p class="state_bad_purchase_section_top_text">手錶的玻璃面（表鏡）有裂痕或破損。</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Belt Stains or Deterioration</h4>
+							<h4>錶帶污損或老化</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list2.webp"
-									alt="Belt Stains or Deterioration">
+								<img src="../images/brand_tokei/watch_broken_list2.webp" alt="錶帶污損或老化">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The leather or rubber strap is dirty or
-								deteriorated.</p>
+							<p class="state_bad_purchase_section_top_text">皮革或橡膠錶帶有污垢，或者有老化跡象。</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Broken Belt</h4>
+							<h4>錶帶斷裂</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list3.webp" alt="Broken Belt">
+								<img src="../images/brand_tokei/watch_broken_list3.webp" alt="錶帶斷裂">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The leather or metal strap is torn or
-								damaged.</p>
+							<p class="state_bad_purchase_section_top_text">皮革或金屬錶帶斷裂或損壞。</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Discoloration</h4>
+							<h4>變色</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list4.webp" alt="Discoloration">
+								<img src="../images/brand_tokei/watch_broken_list4.webp" alt="變色">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The dial has discolored due to aging or UV
-								exposure.</p>
+							<p class="state_bad_purchase_section_top_text">因老化或紫外線照射，錶盤變色。</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Rust</h4>
+							<h4>生鏽</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list5.webp" alt="Rust">
+								<img src="../images/brand_tokei/watch_broken_list5.webp" alt="生鏽">
 							</div>
-							<p class="state_bad_purchase_section_top_text">Rust has developed on the metal parts.</p>
+							<p class="state_bad_purchase_section_top_text">金屬部件有鏽跡。</p>
 						</div>
 
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Scratches</h4>
+							<h4>刮痕</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list6.webp" alt="Scratches">
+								<img src="../images/brand_tokei/watch_broken_list6.webp" alt="刮痕">
 							</div>
-							<p class="state_bad_purchase_section_top_text">There are scratches on the buckle or clasp.
+							<p class="state_bad_purchase_section_top_text">錶扣或錶帶上的扣具有刮痕。
 							</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Prominent Scratches</h4>
+							<h4>明顯刮傷</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list7.webp" alt="Prominent Scratches">
+								<img src="../images/brand_tokei/watch_broken_list7.webp" alt="明顯刮傷">
 							</div>
-							<p class="state_bad_purchase_section_top_text">There are noticeable scratches on the case,
-								bezel, or strap.</p>
+							<p class="state_bad_purchase_section_top_text">錶殼、錶圈或錶帶有明顯刮傷。</p>
 						</div>
 
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Dial Stains</h4>
+							<h4>錶盤污垢</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list8.webp" alt="Dial Stains">
+								<img src="../images/brand_tokei/watch_broken_list8.webp" alt="錶盤污垢">
 							</div>
-							<p class="state_bad_purchase_section_top_text">There are stains or dirt on the dial.</p>
+							<p class="state_bad_purchase_section_top_text">錶盤上有斑點或污垢。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Bezel Detached</h4>
+							<h4>錶圈鬆動</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list9.webp" alt="Bezel Detached">
+								<img src="../images/brand_tokei/watch_broken_list9.webp" alt="錶圈鬆動">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The bezel is detached or is easily coming
-								off.</p>
+							<p class="state_bad_purchase_section_top_text">錶圈鬆脫或容易脫落。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Leather Stitching Fraying</h4>
+							<h4>皮革部分脫線</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list10.webp"
-									alt="Leather Stitching Fraying">
+								<img src="../images/brand_tokei/watch_broken_list10.webp" alt="皮革部分脫線">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The stitching on the leather strap is
-								fraying.</p>
+							<p class="state_bad_purchase_section_top_text">皮革錶帶的縫線脫落。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Flash Fit Peeling</h4>
+							<h4>表耳金屬剝落</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list11.webp" alt="Flash Fit Peeling">
+								<img src="../images/brand_tokei/watch_broken_list11.webp" alt="表耳金屬剝落">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The metal of the flash fit is peeling.</p>
+							<p class="state_bad_purchase_section_top_text">表耳的金屬部分剝落。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Bracelet Warping</h4>
+							<h4>金屬錶帶鬆垮</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list12.webp" alt="Bracelet Warping">
+								<img src="../images/brand_tokei/watch_broken_list12.webp" alt="金屬錶帶鬆垮">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The metal bracelet is warped or bent.</p>
+							<p class="state_bad_purchase_section_top_text">金屬錶帶變形或鬆垮。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Dirt Inside the Case</h4>
+							<h4>錶殼內部污垢</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list13.webp" alt="Dirt Inside the Case">
+								<img src="../images/brand_tokei/watch_broken_list13.webp" alt="錶殼內部污垢">
 							</div>
-							<p class="state_bad_purchase_section_top_text">Dirt has accumulated inside the watch case.
+							<p class="state_bad_purchase_section_top_text">手錶錶殼內部堆積污垢。
 							</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Non-Functional</h4>
+							<h4>不動品</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list14.webp" alt="Non-Functional">
+								<img src="../images/brand_tokei/watch_broken_list14.webp" alt="不動品">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The watch hands are not moving at all, also
-								known as a non-functional watch.</p>
+							<p class="state_bad_purchase_section_top_text">手錶指針完全不動，就是不動品。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Broken Hands</h4>
+							<h4>指針折斷</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list15.webp" alt="Broken Hands">
+								<img src="../images/brand_tokei/watch_broken_list15.webp" alt="指針折斷">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The watch hands are broken or missing.</p>
+							<p class="state_bad_purchase_section_top_text">手錶的指針斷裂或缺損。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Missing Crown</h4>
+							<h4>錶冠缺失</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list16.webp" alt="Missing Crown">
+								<img src="../images/brand_tokei/watch_broken_list16.webp" alt="錶冠缺失">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The crown is missing or lost.</p>
+							<p class="state_bad_purchase_section_top_text">錶冠缺失或遺失。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Water Damage</h4>
+							<h4>進水損壞</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list17.webp" alt="Water Damage">
+								<img src="../images/brand_tokei/watch_broken_list17.webp" alt="進水損壞">
 							</div>
-							<p class="state_bad_purchase_section_top_text">The watch has been submerged in water and has
-								sustained internal damage</p>
+							<p class="state_bad_purchase_section_top_text">手錶進水，內部受損。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Internal Rust or Damage</h4>
+							<h4>內部生鏽或損壞</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list18.webp" alt="Internal Rust or Damage">
+								<img src="../images/brand_tokei/watch_broken_list18.webp" alt="內部生鏽或損壞">
 							</div>
-							<p class="state_bad_purchase_section_top_text">Rust has appeared internally, or parts are
-								damaged.</p>
+							<p class="state_bad_purchase_section_top_text">手錶內部生鏽或零件損壞。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Parts Only</h4>
+							<h4>僅剩零件</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list19.webp" alt="Parts Only">
+								<img src="../images/brand_tokei/watch_broken_list19.webp" alt="僅剩零件">
 							</div>
-							<p class="state_bad_purchase_section_top_text">Only parts like hands or the movement remain.
+							<p class="state_bad_purchase_section_top_text">僅剩下指針或機芯等零件。
 							</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>Case Only</h4>
+							<h4>僅剩錶殼</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list20.webp" alt="Case Only">
+								<img src="../images/brand_tokei/watch_broken_list20.webp" alt="僅剩錶殼">
 							</div>
-							<p class="state_bad_purchase_section_top_text">Only the case remains, with internal parts
-								missing.</p>
+							<p class="state_bad_purchase_section_top_text">僅剩下錶殼，內部零件缺失。</p>
 						</div>
 
 						<div class="state_bad_purchase_section_top_content">
-							<h4>No Accessories</h4>
+							<h4>沒有附屬品</h4>
 							<div class="state_bad_purchase_section_top_img_wrap"> <img class="ok_img"
 									src="../images/common/OK.png">
-								<img src="../images/brand_tokei/watch_broken_list21.webp" alt="No Accessories">
+								<img src="../images/brand_tokei/watch_broken_list21.webp" alt="沒有附屬品">
 							</div>
-							<p class="state_bad_purchase_section_top_text">No accessories such as warranty cards or
-								boxes are available.</p>
+							<p class="state_bad_purchase_section_top_text">沒有保證卡或盒子等附屬品。</p>
 						</div>
 					</div>
 					<!-- end state_bad_purchase_section_top_content_wrapssss -->
@@ -5736,18 +5720,17 @@
 							class="is-sp" src="../images/brand_tokei/bg1_sp.webp">
 
 						<div class="state_bad_arrow_area_text">
-							<p>Don't give up just because it's 'broken,' <br class="is-sp">'not working,' or 'old'!</p>
-							<p><span>Otakaraya</span> enhancing<br class="is-sp">purchase offers for <br /><span
-									class="attention_color">watches in any condition!</span></p>
+							<p>「壞掉了」、「不動了」、「舊了」也不要放棄！</p>
+							<p>OTAKARAYA積極收購任何狀況的手錶！</p>
 						</div>
 					</div>
 				</div>
-				<p class="intermediate_text"> Do you have questions like, 'Can I sell a watch with a cracked glass,'
-					'What if it's not working,' or 'Can I sell an old watch?'<br />
-					We’ve got answers for you.<br>
-					Even watches in poor condition are actively appraised and purchased at 'Otakaraya'.<br>
-					Even broken or old watches have the chance for a high purchase price! Start by using our free
-					appraisal service. </p>
+				<p class="intermediate_text"> 「玻璃破裂了」、「不動了」、「舊手錶也能收購嗎？」
+					給對這些問題感到疑惑的你。<br>
+					無論手錶狀態多糟糕，
+					OTAKARAYA都會積極鑑定與收購。<br>
+					即使是壞掉的手錶或舊手錶，
+					也有高價收購的可能性！先來試試我們的免費鑑定吧。 </p>
 
 
 				<div class="state_bad_purchase_section_bottom">
@@ -5756,28 +5739,26 @@
 
 						<!--壊れた時計でも買い取ります！-->
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
-							<h3 class="theme_b_color">We buy broken watches too!</h3>
+							<h3 class="theme_b_color">壞掉的手錶也會收購！</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
 									src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="時計画像1">
-								<p class="theme_color_text theme_color">\ Even in these conditions, we're happy to buy!
-									/</p>
+								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with cracked glass</p>
+									<p>玻璃面破裂的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches that have stopped working (non-functional)</p>
+									<p>不運作的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches that have been water-damaged and have internal rust</p>
+									<p>浸水後內部生鏽的手錶</p>
 								</div>
-								<p class="description_text">Broken watches, such as those with cracked glass from being
-									dropped or water-damaged and no longer working, can sometimes incur high repair
-									costs. However, at 'Otakaraya,' we assess the value of watches even if they require
-									repairs and offer high purchase prices. Before giving up, please feel free to
-									consult with us!</p>
+								<p class="description_text">「掉落後玻璃破裂了」「浸水後不再運作了」這類壞掉的手錶，
+									修理費用可能相當高昂。然而，在OTAKARAYA，即使是需要修理的手錶，
+									我們也會認真評估其價值並進行高價收購。
+									請不要放棄，歡迎隨時諮詢我們！</p>
 							</div>
 						</div>
 						<!--//壊れた時計でも買い取ります！-->
@@ -5786,23 +5767,21 @@
 
 						<!--傷が多い時計も買取可能！-->
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
-							<h3 class="theme_b_color">Watches with many scratches are also eligible for purchase!</h3>
+							<h3 class="theme_b_color">有多處傷痕的手錶也能收購！</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
 									src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="時計画像2">
-								<p class="theme_color_text theme_color">\ Even in these conditions, we're happy to buy!
-									/</p>
+								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with numerous scratches or dents</p>
+									<p>有多處擦傷或凹痕</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with noticeable dirt from everyday use</p>
+									<p>用作日常使用、髒污明顯的手錶</p>
 								</div>
-								<p class="description_text">With daily use, it's inevitable that small scratches and
-									dents will appear on your watch. At 'Otakaraya,' we properly appraise and buy
-									watches with large scratches as well as those that can be repaired through
-									polishing. No matter the damage, feel free to consult with us first.</p>
+								<p class="description_text">日常使用中，手錶難免會出現小刮痕或凹痕。
+									OTAKARAYA對於可通過拋光修復的手錶，甚至有大傷痕的手錶，
+									都會進行合理鑑定並收購。不論傷痕如何，請先來諮詢我們吧。</p>
 							</div>
 						</div>
 						<!--//傷が多い時計も買取可能！-->
@@ -5811,55 +5790,52 @@
 
 						<!-- 古い時計でも高価買取！-->
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
-							<h3 class="theme_b_color">Even old watches can be sold for a high price!</h3>
+							<h3 class="theme_b_color">舊手錶也能高價收購！</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
 									src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="時計画像3">
-								<p class="theme_color_text theme_color">\ Even in these conditions, we're happy to buy!
-									/</p>
+								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with noticeable rust</p>
+									<p>鏽跡明顯的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with discolored dials</p>
+									<p>錶盤變色的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with missing dials</p>
+									<p>錶盤損壞的手錶</p>
 								</div>
-								<p class="description_text">Even old watches retain their brand value. Watches that you
-									think can't be sold due to rust can still be bought. Antique and vintage watches,
-									even with signs of aging, have potential for repair or restoration, and can
-									sometimes lead to unexpected high appraisal values. Try our free appraisal service
-									first!</p>
+								<p class="description_text">即使是舊了的手錶，其品牌價值依然不會喪失。
+									「生鏽了不能賣」的手錶也是可以收購的。古董錶或復古錶，
+									即使隨著時間經過而出現老化現象，仍然有修復和復元的可能性，
+									有時候甚至能夠獲得意外的高價鑑定。請先嘗試一次免費鑑定吧！</p>
 							</div>
 						</div>
 						<!-- //古い時計でも高価買取！-->
 
 						<!-- 部品が欠けている時計も！-->
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
-							<h3 class="theme_b_color">Even watches with missing parts!</h3>
+							<h3 class="theme_b_color">零件缺失的手錶也能收購！</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
 									src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="時計画像4">
-								<p class="theme_color_text theme_color">\ Even in these conditions, we're happy to buy!
-									/</p>
+								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches without a strap or buckle</p>
+									<p>沒有錶帶或錶扣</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with a missing crown or push button</p>
+									<p>錶冠或按鈕掉落</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
 										alt="チェックアイコン">
-									<p>Watches with lost screws or parts</p>
+									<p>螺絲或部件遺失</p>
 								</div>
-								<p class="description_text">Have you given up thinking 'It can't be sold because it’s
-									missing parts'? At 'Otakaraya,' we can buy watches with missing parts. Watches with
-									repairable parts can be restored and regain their value. Even watches with missing
-									components may receive a high appraisal from us.</p>
+								<p class="description_text">你是否因為「零件缺失，已經賣不出去」而放棄了？
+									OTAKARAYA可以收購那些零件不全的手錶。
+									缺失部件的手錶，維修後可能重新具有價值。
+									所以即使是零件缺失的手錶，我們也有可能給予高額鑑定。</p>
 							</div>
 						</div>
 						<!-- //部品が欠けている時計も！-->
@@ -6929,10 +6905,8 @@
 			<section class="purchase_reinforcement_section brand_tokei_sec03" id="brand_tokei_sec03">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						<p class="is-pc">Now is the perfect time to sell your watch, with market prices reaching new
-							heights!</p>
-						<p class="is-sp">Now is the perfect time to sell your watch, with market prices reaching new
-							heights!</p>
+						<p class="is-pc">現在市價正在上漲，是賣手錶的最佳時機！</p>
+						<p class="is-sp">現在市價正在上漲，是賣手錶的最佳時機！</p>
 					</h2>
 					<img src="../images/brand_tokei/secHeadBg03_sp.png" width="390" height="263" loading="lazy"
 						decoding="async" class="secHeadBg03 is-sp">
@@ -6944,13 +6918,9 @@
 								<h3 class="brandinfo__header__title">為什麼現在是賣名牌手錶的好時機？</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
-								<div class="brandinfo__body__text brandinfo__body__text--top">In recent years, the overall market prices
-									for branded watches have surged due to factors such as increased demand from the COVID-19 pandemic,
-									the depreciation of the yen, and inflation. Many luxury watches have undergone price adjustments, and
-									the rising prices of new watches have also led to increased demand and prices for pre-owned
-									watches.<br />
-									However, it is unpredictable how long this surge will continue. It is believed that now, while the
-									market is high, is a good time to sell your watch.</div>
+								<div class="brandinfo__body__text brandinfo__body__text--top">近年來，由於新冠病毒疫情導致需求增加，以及日圓貶值和通貨膨脹等因素，品牌手錶的整體市場價格大幅上漲。許多高級手錶品牌都進行了建議售價的調整，而由於新錶價格上漲，二手錶的需求和價格也呈上升趨勢。
+不過，這樣的價格上漲趨勢將持續多久是無法預測的。就目前而言，手錶市場價格處於高點，可以說現在是出售手錶的好時機。
+								</div>
 							</div>
 						</div> -->
 
@@ -6960,18 +6930,12 @@
 
 							<div class="brandinfo__main fshoplist-target__list">
 								<div class="brandinfo__header fshoplist-target--ttl">
-									<h3 class="brandinfo__header__title">Why now is the best time to sell your branded
-										watch.</h3>
+									<h3 class="brandinfo__header__title">為什麼現在是賣名牌手錶的好時機？</h3>
 								</div>
 								<div class="fshoplist-target--item brandinfo__body no--image">
-									<div class="brandinfo__body__text brandinfo__body__text--top"> In recent years, the
-										overall market prices for branded watches have surged due to factors such as
-										increased demand from the COVID-19 pandemic, the depreciation of the yen, and
-										inflation. Many luxury watches have undergone price adjustments, and the rising
-										prices of new watches have also led to increased demand and prices for pre-owned
-										watches.<br />
-										However, it is unpredictable how long this surge will continue. It is believed
-										that now, while the market is high, is a good time to sell your watch. </div>
+									<div class="brandinfo__body__text brandinfo__body__text--top">
+										近年來，由於新冠病毒疫情導致需求增加，以及日圓貶值和通貨膨脹等因素，品牌手錶的整體市場價格大幅上漲。許多高級手錶品牌都進行了建議售價的調整，而由於新錶價格上漲，二手錶的需求和價格也呈上升趨勢。
+										不過，這樣的價格上漲趨勢將持續多久是無法預測的。就目前而言，手錶市場價格處於高點，可以說現在是出售手錶的好時機。 </div>
 								</div>
 							</div>
 							<!--//アコーディオン：今ブランド腕時計が売り時の理由-->
@@ -6980,12 +6944,12 @@
 							<!--アコーディオン：2025年最新！高く売れるブランド腕時計-->
 							<div class="brandinfo__main fshoplist-target__list">
 								<div class="brandinfo__header fshoplist-target--ttl">
-									<h3 class="brandinfo__header__title">2025 Update! <br />
-										High-Value Branded Watches You Can Sell for a Premium Price</h3>
+									<h3 class="brandinfo__header__title">2025年最新！<br />
+										能賣高價的名牌手錶</h3>
 								</div>
 								<div class="fshoplist-target--item brandinfo__body no--image">
-									<div class="brandinfo__body__text brandinfo__body__text--top"> The following watch
-										brands are expected to fetch high prices in 2025.<br>
+									<div class="brandinfo__body__text brandinfo__body__text--top">
+										2025年能賣出高價的手錶品牌如下：<br>
 										<br>
 										<div class="text_wrap">
 											<div class="text_"> ・百達翡麗 Patek Philippe 收購<br>
@@ -7023,21 +6987,18 @@
 			<section class="brandinfo_section brandinfo_section_top_only brand_tokei_sec05" id="brand_tokei_sec05">
 				<div class="fshoplist-target__list brand_about_repeat_parent_wrap is-pc">
 					<div class="fshoplist-target--ttl">
-						<h3 class="titleSub">Characteristics of Branded Watches <br class="is-pc" />
-							That Can Be Sold for a High Price</h3>
+						<h3 class="titleSub">能高價出售名牌手錶的特點</h3>
 						<div class="high_price_purchase_points_content_lead"></div>
 					</div>
 					<div class="fshoplist-target--item existence_img">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
 								<div class="horizonlist--text">
-									<h4 class="titleH4 title--left">High in demand and popular in the pre-owned market
+									<h4 class="titleH4 title--left">受歡迎且二手需求高
 									</h4>
-									<p class="points_content_text">The more popular and in-demand a branded watch is in
-										the second-hand and antique market, the higher the potential price it can
-										fetch.<br />
-										For new releases or highly sought-after collections, it’s important to get an
-										early appraisal while they are still in the spotlight.</p>
+									<p class="points_content_text">在二手或古董市場上，越受歡迎且需求越高的名牌手錶，越容易高價賣出。
+										對於新款或話題度高的系列，
+										最好趁它們受到關注時盡早進行收購鑑定。</p>
 								</div>
 							</div>
 						</div>
@@ -7046,11 +7007,11 @@
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
 								<div class="horizonlist--text">
-									<h4 class="titleH4 title--left">Watches in good condition</h4>
-									<p class="points_content_text">Branded watches are precision machines, so their
-										condition and any defects can impact the appraisal value.<br />
-										At Otakaraya, we offer high purchase prices even for branded watches in
-										less-than-ideal condition, so feel free to bring them in.</p>
+									<h4 class="titleH4 title--left">手錶的狀況良好</h4>
+									<p class="points_content_text">名牌手錶屬於精密機械，
+										因此其狀況和是否故障都會影響鑑定價格。
+										在OTAKARAYA，即使是狀況不太好的名牌手錶，也能被
+										高價收購，歡迎隨時帶來鑑定。</p>
 								</div>
 							</div>
 						</div>
@@ -7058,33 +7019,31 @@
 				</div>
 				<div class="fshoplist-target__list brand_about_repeat_parent_wrap is-sp">
 					<div class="fshoplist-target--ttl">
-						<h3 class="titleSub">Characteristics of Branded Watches <br class="is-pc" />
-							That Can Be Sold for a High Price</h3>
+						<h3 class="titleSub">能高價出售名牌手錶的特點</h3>
 						<div class="high_price_purchase_points_content_lead"></div>
 					</div>
 					<div class="fshoplist-target--item">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
-								<h4 class="titleH4 title--left">High in demand and popular in the pre-owned market</h4>
+								<h4 class="titleH4 title--left">受歡迎且二手需求高</h4>
 							</div>
 							<div class="horizonlist--text">
-								<p class="points_content_text">The more popular and in-demand a branded watch is in the
-									second-hand and antique market, the higher the potential price it can fetch.<br />
-									For new releases or highly sought-after collections, it’s important to get an early
-									appraisal while they are still in the spotlight.</p>
+								<p class="points_content_text">在二手或古董市場上，越受歡迎且需求越高的名牌手錶，越容易高價賣出。
+									對於新款或話題度高的系列，
+									最好趁它們受到關注時盡早進行收購鑑定。</p>
 							</div>
 						</div>
 					</div>
 					<div class="fshoplist-target--item">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
-								<h4 class="titleH4 title--left">Watches in good condition</h4>
+								<h4 class="titleH4 title--left">手錶的狀況良好</h4>
 							</div>
 							<div class="horizonlist--text">
-								<p class="points_content_text">Branded watches are precision machines, so their
-									condition and any defects can impact the appraisal value.<br />
-									At Otakaraya, we offer high purchase prices even for branded watches in
-									less-than-ideal condition, so feel free to bring them in.</p>
+								<p class="points_content_text">名牌手錶屬於精密機械，
+									因此其狀況和是否故障都會影響鑑定價格。
+									在OTAKARAYA，即使是狀況不太好的名牌手錶，也能被
+									高價收購，歡迎隨時帶來鑑定。</p>
 							</div>
 						</div>
 					</div>
@@ -7096,20 +7055,18 @@
 				<!-- ブランド時計を高値で売るためのヒント-->
 				<div class="fshoplist-target__list brand_about_repeat_parent_wrap is-pc">
 					<div class="fshoplist-target--ttl">
-						<h3 class="titleSub">Tips for Selling Branded Watches at a High Price</h3>
+						<h3 class="titleSub">高價出售名牌手錶的小技巧</h3>
 						<div class="high_price_purchase_points_content_lead"></div>
 					</div>
 					<div class="fshoplist-target--item existence_img">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
 								<div class="horizonlist--text">
-									<h4 class="titleH4 title--left">Sell with all accessories included</h4>
-									<p class="points_content_text">Having accessories such as the original box, warranty
-										card, manual, special tools, and extra straps that came with the purchase can
-										help increase the appraisal value.<br />
-										At Otakaraya, we also offer high purchase prices for branded watches that are
-										missing accessories like the warranty card—just the watch itself.<br />
-										We also accept broken watches for purchase, so feel free to consult with us.</p>
+									<h4 class="titleH4 title--left">和附帶的配件一起出售</h4>
+									<p class="points_content_text">如果有購買時附帶的外盒、保證卡、使用說明書、專用工具、
+										替換錶帶等配件，估價通常會上升。
+										在OTAKARAYA，即使是沒有保證卡等配件,「僅有本體」的名
+										牌手錶,也能進行高價收購。壞掉的手錶也可收購，歡迎隨時諮詢。</p>
 								</div>
 							</div>
 						</div>
@@ -7118,13 +7075,12 @@
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
 								<div class="horizonlist--text">
-									<h4 class="titleH4 title--left">Sell before the model or design becomes outdated
+									<h4 class="titleH4 title--left">在型號和設計過時之前出售
 									</h4>
-									<p class="points_content_text">New models and trendy, popular design watches tend to
-										be traded at high prices in the pre-owned market due to their high
-										visibility.<br />
-										To secure a high appraisal, it’s important to get an appraisal before interest
-										and trends start to decline.</p>
+									<p class="points_content_text">最新型號或流行的設計款手錶，
+										由於話題度高，在二手市場中也容易賣出高價。
+										如果希望獲得高價評估，推薦趁其受關注或流行度未減之前進行收購
+										評估。</p>
 								</div>
 							</div>
 						</div>
@@ -7133,13 +7089,14 @@
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
 								<div class="horizonlist--text">
-									<h4 class="titleH4 title--left">Sell to a purchase store with high appraisal values
+									<h4 class="titleH4 title--left">選擇提供高價評估的收購店
 									</h4>
-									<p class="points_content_text">To sell your branded watch at a high price, it's
-										recommended to bring it to a specialist store with a proven track record of high
-										purchase prices.<br />
-										At Otakaraya, we have many successful high-value appraisals carried out by our
-										experienced professional appraisers, so feel free to consult with us.</p>
+									<p class="points_content_text">高級手錶結合了精湛的工藝與優美的設計，不僅具備實用性，還是一種身份象徵。
+										其資產價值極高，像勞力士、愛彼、百達翡麗等受歡迎品牌的手錶，
+										在市場上交易價格不斷攀升。即使在二手市場，它們的價格也持續上漲。
+										為了讓顧客感到滿意，OTAKARAYA經驗豐富的評估師，
+										會在全國超過1,200間門店為您準確評估。
+										如果你想評估或出售高級手錶，歡迎聯繫OTAKARAYA！</p>
 								</div>
 							</div>
 						</div>
@@ -7147,48 +7104,47 @@
 				</div>
 				<div class="fshoplist-target__list brand_about_repeat_parent_wrap is-sp">
 					<div class="fshoplist-target--ttl">
-						<h3 class="titleSub">Tips for Selling Branded Watches at a High Price</h3>
+						<h3 class="titleSub">高價出售名牌手錶的小技巧</h3>
 						<div class="high_price_purchase_points_content_lead"></div>
 					</div>
 					<div class="fshoplist-target--item">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
-								<h4 class="titleH4 title--left">Sell with all accessories included</h4>
+								<h4 class="titleH4 title--left">和附帶的配件一起出售</h4>
 							</div>
 							<div class="horizonlist--text">
-								<p class="points_content_text">Having accessories such as the original box, warranty
-									card, manual, special tools, and extra straps that came with the purchase can help
-									increase the appraisal value.<br />
-									At Otakaraya, we also offer high purchase prices for branded watches that are
-									missing accessories like the warranty card—just the watch itself.<br />
-									We also accept broken watches for purchase, so feel free to consult with us.</p>
+								<p class="points_content_text">如果有購買時附帶的外盒、保證卡、使用說明書、專用工具、
+									替換錶帶等配件，估價通常會上升。
+									在OTAKARAYA，即使是沒有保證卡等配件,「僅有本體」的名
+									牌手錶,也能進行高價收購。壞掉的手錶也可收購，歡迎隨時諮詢。</p>
 							</div>
 						</div>
 					</div>
 					<div class="fshoplist-target--item">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
-								<h4 class="titleH4 title--left">Sell before the model or design becomes outdated</h4>
+								<h4 class="titleH4 title--left">在型號和設計過時之前出售</h4>
 							</div>
 							<div class="horizonlist--text">
-								<p class="points_content_text">New models and trendy, popular design watches tend to be
-									traded at high prices in the pre-owned market due to their high visibility.<br />
-									To secure a high appraisal, it’s important to get an appraisal before interest and
-									trends start to decline.</p>
+								<p class="points_content_text">最新型號或流行的設計款手錶，
+									由於話題度高，在二手市場中也容易賣出高價。
+									如果希望獲得高價評估，推薦趁其受關注或流行度未減之前進行收購
+									評估。</p>
 							</div>
 						</div>
 					</div>
 					<div class="fshoplist-target--item">
 						<div class="horizonlist horizonnumblist">
 							<div class="horizonlist--link">
-								<h4 class="titleH4 title--left">Sell to a purchase store with high appraisal values</h4>
+								<h4 class="titleH4 title--left">選擇提供高價評估的收購店</h4>
 							</div>
 							<div class="horizonlist--text">
-								<p class="points_content_text">To sell your branded watch at a high price, it's
-									recommended to bring it to a specialist store with a proven track record of high
-									purchase prices.<br />
-									At Otakaraya, we have many successful high-value appraisals carried out by our
-									experienced professional appraisers, so feel free to consult with us.</p>
+								<p class="points_content_text">高級手錶結合了精湛的工藝與優美的設計，不僅具備實用性，還是一種身份象徵。
+									其資產價值極高，像勞力士、愛彼、百達翡麗等受歡迎品牌的手錶，
+									在市場上交易價格不斷攀升。即使在二手市場，它們的價格也持續上漲。
+									為了讓顧客感到滿意，OTAKARAYA經驗豐富的評估師，
+									會在全國超過1,200間門店為您準確評估。
+									如果你想評估或出售高級手錶，歡迎聯繫OTAKARAYA！</p>
 							</div>
 						</div>
 					</div>
@@ -7227,9 +7183,9 @@
 							<div class="shop-leader_profile relative">
 								<div class="shop-leader_head absolute">
 									<h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="font-size: 26px; font-family: serif;">Appraiser</span></h2>
+											style="font-size: 26px; font-family: serif;">鑑定師</span></h2>
 									<h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin"
-											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Appraiser</span>
+											style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">鑑定師</span>
 									</h2>
 								</div>
 								<div class="shop-leader_head_shadow absolute">
@@ -7246,39 +7202,37 @@
 										<table>
 											<tbody>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Hobby: </span> </th>
-													<td><span class="noto">Playing the guitar</span></td>
+													<th class="sitetextcolor"> <span class="noto">興趣：</span> </th>
+													<td><span class="noto">彈吉他</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Favorite phrase:
+													<th class="sitetextcolor"> <span class="noto">喜歡的名言：
 														</span> </th>
-													<td><span class="noto">"Actions speak louder than words" </span>
+													<td><span class="noto">言出必行 </span>
 													</td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Favorite brand:
+													<th class="sitetextcolor"> <span class="noto">喜歡的品牌：
 														</span> </th>
-													<td><span class="noto">Rolex</span></td>
+													<td><span class="noto">勞力士</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">Past purchase
-															examples: </span> </th>
-													<td><span class="noto">High-end watches in general</span></td>
+													<th class="sitetextcolor"> <span class="noto">過去的收購案例：</span> </th>
+													<td><span class="noto">一般高級手錶</span></td>
 												</tr>
 											</tbody>
 										</table>
 									</li>
 								</ul>
 							</div>
-							<p class="shop-leader_text">At Otakaraya, we assess thousands of watches every day.
-								Currently, Otakaraya has established sales channels overseas, allowing us to offer
-								purchases based on global standards. Due to the current yen depreciation, we can offer
-								higher prices by selling overseas compared to before. We are confident that we can
-								satisfy our customers, so please make sure to use Oakaraya.<br>
+							<p class="shop-leader_text">OTAKARAYA每天對數千件手錶進行鑑定。
+								目前，OTAKARAYA在海外也有銷售渠道，可以根據國際標準進行收購。
+								由於目前日元貶值，通過向海外銷售，我們可以以比以往更高的價格收購手錶。
+								我們對能讓顧客感到滿意充滿信心，請務必選擇OTAKARAYA。
 								<br>
-								At Otakaraya, we can also purchase watches that no longer work or are missing parts. In
-								fact, even broken watches are often bought for over one million yen. If you have any
-								watches you'd like to inquire about, please feel free to consult with us.
+								OTAKARAYA還可以收購已經不再運作的手錶或只剩下零件的手錶。
+								實際上，壞掉的手錶有時也可以收購到超過100萬日圓。
+								如果您有任何疑問，請隨時與我們聯繫。
 							</p>
 							<div class="shop-detail_button clearfix"> </div>
 						</div>
@@ -7291,7 +7245,7 @@
 			<!-- FAQ（よくある質問）-->
 			<section class="margin_top brand_tokei_sec11" id="brand_tokei_sec11">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main"> <span>Frequently Asked Questions</span><br />
+					<h2 class="titleMain--main"> <span>腕錶收購常見問題</span><br />
 						About 手錶收購 </h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -7301,70 +7255,66 @@
 					<!-- 查看更多なし -->
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Why do brand watches retain their value and sell for high prices?
+							<dt class="qa__list__q">為什麼名牌腕錶價格不易下跌，並且能夠賣得更高價錢？
 							</dt>
-							<dd class="qa__list__a">This is because the supply cannot keep up with the demand. While
-								brand watches have a considerable circulation compared to other types of watches, the
-								demand is so high that they often become difficult to obtain. As a result, the price
-								naturally rises, which significantly impacts the valuation.</dd>
+							<dd class="qa__list__a">因為需求超過供應量。
+								名牌腕錶儘管有相當的流通量，但由於需求過高，往往會變得難以入手
+								這自然會導致價格上漲，並對鑑定產生重大影響。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">When is the best time to sell a brand watch?</dt>
-							<dd class="qa__list__a">The best time to sell a brand watch can vary. Sometimes, the right
-								moment comes quickly, while other times, waiting longer can increase the value. There is
-								no definite answer as to when it’s best. If you plan to store the watch for a longer
-								period before selling, it’s important to keep it in good condition. For vintage watches,
-								we recommend proper storage and regular maintenance to ensure they retain their value.
+							<dt class="qa__list__q">名牌腕錶的賣出時機是？</dt>
+							<dd class="qa__list__a">名牌腕錶的賣出時機有時會迅速來臨，
+								也有可能經過漫長時間保管而使價值上升，
+								因此無法確定具體的最佳時機。如果您打算長期保存後再出售，
+								建議保持腕錶的良好狀況，並定期進行保養，
+								以達到優質的復古腕錶效果。
 							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">How much can a brand watch be sold for?</dt>
-							<dd class="qa__list__a">The price can vary depending on the latest market trends, but brand
-								watches generally have a high asset value, which means their prices tend to hold steady
-								or even increase over time.</dd>
+							<dt class="qa__list__q">名牌腕錶能賣出多高價格？</dt>
+							<dd class="qa__list__a">雖然名牌腕錶的收購價格會隨著市場行情的變動而有所波動，
+								但由於其資產價值高，價格不易下跌，因此具有穩定的高收購價值。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can a watch with a worn-out strap be purchased?</dt>
-							<dd class="qa__list__a">Yes, it is possible. Even if the strap is worn out or torn, we are
-								happy to assess and purchase it in any condition.</dd>
+							<dt class="qa__list__q">即使是表帶破損的腕錶也可以收購嗎？</dt>
+							<dd class="qa__list__a">當然可以。即使錶帶破損或斷裂，
+								無論腕錶狀況如何，我們都會樂意進行鑑定和收購。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can a watch with a cracked glass be purchased?</dt>
-							<dd class="qa__list__a">Yes, we are happy to assess and purchase watches in any condition.
-								However, since there is a risk of injury from broken glass, please be careful when
-								bringing it in for assessment.</dd>
+							<dt class="qa__list__q">玻璃面破損的腕錶也能收購嗎？</dt>
+							<dd class="qa__list__a">無論腕錶狀況如何，我們都會樂意進行鑑定和收購。
+								請注意，破損的玻璃可能會造成傷害，請在將腕錶帶來時小心處理。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Is it okay to sell a watch that still works but is quite old?</dt>
-							<dd class="qa__list__a">Absolutely, no problem at all.<br />
-								It might even have appreciated in value as an antique if production has since ceased. We
-								are happy to assess watches in any condition.</dd>
+							<dt class="qa__list__q">雖然運作正常但已經使用多年的腕錶也可以收購嗎？</dt>
+							<dd class="qa__list__a">完全沒問題。
+								有些腕錶即便已經停產，但作為古董錶，其價值有可能大幅上升。
+								我們會歡迎任何狀況的腕錶進行鑑定。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">I’m worried about neighbors noticing if I use the home visit
-								service.</dt>
-							<dd class="qa__list__a">When our appraisers visit your home, they use unmarked cars without
-								the company name, so you can rest assured of your privacy.</dd>
+							<dt class="qa__list__q">如果我選擇到府收購，但擔心鄰居發現怎麼辦？</dt>
+							<dd class="qa__list__a">在收購過程中，我們的鑑定師會駕駛無公司名稱的私家車前來，請您放心。</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">Can I sell a watch that no longer works?</dt>
-							<dd class="qa__list__a">We would be delighted to appraise it for you.
-								In many cases, bringing us the watch in its non-functional state may result in a higher
-								net amount for you than paying for repairs yourself before selling it.<br>
+							<dt class="qa__list__q">即使是壞掉的腕錶也能收購嗎？</dt>
+							<dd class="qa__list__a">當然可以。
+								我們歡迎任何狀態的腕錶進行評估。
+								與其花費修理後再帶來，不如直接將壞掉的腕錶帶來，
+								可能會為您帶來更高的收益。<br>
 							</dd>
 						</dl>
 					</div>
