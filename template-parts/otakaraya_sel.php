@@ -4,7 +4,7 @@
 	</h2>
 	<div class="titleMain--lead">
 		<p>
-			OTAKARAYA在日本全國擁有約1,300家門市，是一間專注於高價收購的專門店。<br />
+			OTAKARAYA在日本全國擁有約1,200家門市，是一間專注於高價收購的專門店。<br />
 			創立24年，作為業界領先品牌，OTAKARAYA能提供高價收購的9大原因如下：
 		</p>
 	</div>
@@ -23,7 +23,7 @@
 						專業評估，準確識別價值
 					</p>
 					<p class="reason_section_text">
-						擁有24年的專業歷史，累積了豐富的評估經驗與知識！
+						擁有累積24年歷史的豐富的經驗與專業知識!
 					</p>
 				</div>
 			</div>
@@ -37,7 +37,7 @@
 						專注於收購的專門店
 					</p>
 					<p class="reason_section_text">
-						緊貼本地需求，致力為顧客提供高價收購！
+					緊貼本地需求，致力為顧客提供高價收購服務！
 					</p>
 				</div>
 			</div>
@@ -48,7 +48,7 @@
 				<img src="../images/common/Over_1,300stores_nationwide_PC_EN.jpg">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						日本全國約1,300家門市
+					全國約1,200家門市
 					</p>
 					<p class="reason_section_text">
 						日本全國門店共享專業收購經驗與市場資訊
@@ -62,7 +62,7 @@
 				<img src="../images/daiya/reason_img_4.webp">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						全球44國交易實績
+					與44個國家有交易實績
 					</p>
 					<p class="reason_section_text">
 						與全球各國建立合作網絡，以國際標準為基礎提供最具競爭力的收購價格！
@@ -90,7 +90,7 @@
 				<img src="../images/daiya/reason_img_6.webp">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						最優秀的估價環境
+					最頂尖的估價環境
 					</p>
 					<p class="reason_section_text">
 						我們能準確判斷物品的真正價值，並即時為您提供具吸引力的收購報價！
@@ -130,10 +130,10 @@
 				<img src="../images/daiya/reason_img_9.webp">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						透過自營拍賣降低成本
+					內部拍賣平台，降低成本
 					</p>
 					<p class="reason_section_text">
-						能夠降低銷售成本,提供更高的收購金額!
+					我們利用自家拍賣平台，降低營運成本，從而以更高收購價格回饋給顧客！
 					</p>
 				</div>
 			</div>

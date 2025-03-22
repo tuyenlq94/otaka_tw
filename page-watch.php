@@ -171,7 +171,7 @@
 						$number3 = ( 12980000 / 82.35 ); //2021年4月
 						$number4 = ( 5368000 / 77.75 ); //2020年12月
 						$number5 = ( 879900 / 80.09 ); //2019年12月
-						
+
 
 						$rate_202412 = 111.83; //2024年12月
 						$number6     = ( 6588000 / $rate_202412 );
@@ -6955,12 +6955,12 @@
 											<div class="text_"> ・百達翡麗 Patek Philippe 收購<br>
 												・愛彼 Audemars Piguet 收購<br>
 												・江詩丹頓 Vacheron Constantin 收購<br>
-												・A. Lange &amp; Söhne Purchase<br>
-												・Breguet Purchase<br>
-												・Richard Mille Purchase<br>
+												・朗格 A. Lange & Söhne 收購<br>
+												・寶璣 Breguet 收購<br>
+												・理查德米爾 Richard Mille 收購<br>
 												・歐米茄 Omega 收購<br>
 												・萬國 IWC 收購<br>
-												・Hublot Purchase<br>
+												・宇舶 Hublot 收購<br>
 											</div>
 											<div class="text_"> ・ZENITH<br>
 												・PIAGET<br>

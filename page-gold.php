@@ -1668,7 +1668,7 @@
 						<div class="renew_2024_top_gg_profile_right">擦皮鞋</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
-						<div class="renew_2024_top_gg_profile_left">喜歡的詞語：</div>
+						<div class="renew_2024_top_gg_profile_left">喜歡的詞語:</div>
 						<div class="renew_2024_top_gg_profile_right">Walk the walk and talk the talk.</div>
 					</div>
 					<div class="renew_2024_top_gg_profile_flex">
@@ -1731,15 +1731,15 @@
 													</tr>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">喜歡的詞語：</span>
+															<span class="noto">喜歡的詞語:</span>
 														</th>
-														<td><span class="noto">Walk the walk and talk the talk.</span></td>
+														<td><span class="noto">勇猛果敢</span></td>
 													</tr>
 													<tr>
 														<th class="sitetextcolor">
-															<span class="noto">喜歡的品牌</span>
+															<span class="noto">喜歡的品牌：</span>
 														</th>
-														<td><span class="noto">Harry Winston</span></td>
+														<td><span class="noto">Berluti（伯魯提）</span></td>
 													</tr>
 													<tr>
 														<th class="sitetextcolor">

@@ -142,9 +142,9 @@
 					</a>
 					<a href="/brand/cartier/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img8@4x.webp" alt="卡地亞 Cartier 收購">
+							<img src="images/index/handling_brand_img8@4x.webp" alt="Cartier（卡地亞）">
 						</div>
-						<p class="products_area_text">卡地亞 Cartier 收購</p>
+						<p class="products_area_text">Cartier（卡地亞）</p>
 					</a>
 					<a href="/brand/louis-vuitton/">
 						<div class="products_area_img_wrap">
@@ -154,15 +154,15 @@
 					</a>
 					<a href="/brand/hermes/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img10@4x.webp" alt="Hermes 愛馬仕收購">
+							<img src="images/index/handling_brand_img10@4x.webp" alt=" Hermès（愛馬仕）">
 						</div>
-						<p class="products_area_text">Hermes 愛馬仕收購</p>
+						<p class="products_area_text"> Hermès（愛馬仕）</p>
 					</a>
 					<a href="/brand/chanel/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img11@4x.webp" alt="Chanel 香奈兒收購">
+							<img src="images/index/handling_brand_img11@4x.webp" alt="Chanel（香奈兒）">
 						</div>
-						<p class="products_area_text">Chanel 香奈兒收購</p>
+						<p class="products_area_text">Chanel（香奈兒）</p>
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">

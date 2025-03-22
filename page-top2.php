@@ -142,9 +142,9 @@
 					</a>
 					<a href="/brand/cartier/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img8@4x.webp" alt="卡地亞 Cartier 收購">
+							<img src="images/index/handling_brand_img8@4x.webp" alt="Cartier（卡地亞）">
 						</div>
-						<p class="products_area_text">卡地亞 Cartier 收購</p>
+						<p class="products_area_text">Cartier（卡地亞）</p>
 					</a>
 					<a href="/brand/louis-vuitton/">
 						<div class="products_area_img_wrap">
@@ -154,15 +154,15 @@
 					</a>
 					<a href="/brand/hermes/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img10@4x.webp" alt="Hermes 愛馬仕收購">
+							<img src="images/index/handling_brand_img10@4x.webp" alt=" Hermès（愛馬仕）">
 						</div>
-						<p class="products_area_text">Hermes 愛馬仕收購</p>
+						<p class="products_area_text"> Hermès（愛馬仕）</p>
 					</a>
 					<a href="/brand/chanel/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img11@4x.webp" alt="Chanel 香奈兒收購">
+							<img src="images/index/handling_brand_img11@4x.webp" alt="Chanel（香奈兒）">
 						</div>
-						<p class="products_area_text">Chanel 香奈兒收購</p>
+						<p class="products_area_text">Chanel（香奈兒）</p>
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">
@@ -222,7 +222,7 @@
 								<img src="images/index/reason_img_1.webp">
 								<div class="reason_section_text_area">
 									<p class="reason_section_ttl">專業評估，準確識別價值</p>
-									<p class="reason_section_text">擁有24年的專業歷史，累積了豐富的評估經驗與知識！</p>
+									<p class="reason_section_text">擁有累積24年歷史的豐富的經驗與專業知識!</p>
 								</div>
 							</div>
 							<div class="reason_area_img_wrap" style="position: relative;">
@@ -230,14 +230,14 @@
 								<img src="images/index/reason_img_2.webp">
 								<div class="reason_section_text_area">
 									<p class="reason_section_ttl">專注於收購的專門店</p>
-									<p class="reason_section_text">緊貼本地需求，致力為顧客提供高價收購！</p>
+									<p class="reason_section_text">緊貼本地需求，致力為顧客提供高價收購服務！</p>
 								</div>
 							</div>
 							<div class="reason_area_img_wrap" style="position: relative;">
 								<span class="reason_numbering" style="position: absolute; left: 0px;">03</span>
 								<img src="images/index/Over_1,200stores_nationwide_PC.webp">
 								<div class="reason_section_text_area">
-									<p class="reason_section_ttl">日本全國約1,200家門市</p>
+									<p class="reason_section_ttl">日本全國超過1,200家門市</p>
 									<p class="reason_section_text">日本全國門店共享專業收購經驗與市場資訊</p>
 								</div>
 							</div>
@@ -245,7 +245,7 @@
 								<span class="reason_numbering" style="position: absolute; left: 0px;">04</span>
 								<img src="images/index/reason_img_4.webp">
 								<div class="reason_section_text_area">
-									<p class="reason_section_ttl">全球44國交易實績</p>
+									<p class="reason_section_ttl">與全球44個國家的交易實績</p>
 									<p class="reason_section_text">與全球各國建立合作網絡，以國際標準為基礎提供最具競爭力的收購價格！</p>
 								</div>
 							</div>
@@ -261,7 +261,7 @@
 								<span class="reason_numbering" style="position: absolute; left: 0px;">06</span>
 								<img src="images/index/reason_img_6.webp">
 								<div class="reason_section_text_area">
-									<p class="reason_section_ttl">最優秀的估價環境</p>
+									<p class="reason_section_ttl">最頂尖的估價環境</p>
 									<p class="reason_section_text">我們能準確判斷物品的真正價值，並即時為您提供具吸引力的收購報價！</p>
 								</div>
 							</div>
