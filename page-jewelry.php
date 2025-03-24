@@ -287,7 +287,7 @@
 						</div>
 						<div class="jewelrySoubaBox">
 							<div class="jewelrySoubaBox__title">
-								<h3>鑽石收購參考價格表</h3>
+								<h3>鑽石鑽石收購參考價格表表</h3>
 							</div>
 							<div class="jewelrySoubaBox__body">
 								<div class="jewelrySoubaBox__table">
@@ -1373,7 +1373,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="K18 diamond ring 2.027 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">K18 diamond ring 2.027 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,067,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1387,7 +1387,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.038 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.038 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">2,722,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1401,7 +1401,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.081 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.081 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">902,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1415,7 +1415,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.381 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.381 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">797,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1429,7 +1429,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.014 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.014 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,133,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1443,7 +1443,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.02 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.02 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,039,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1457,7 +1457,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.041 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.041 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">3,085,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1471,7 +1471,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 3.587 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.587 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,138,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1485,7 +1485,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 5.227 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 5.227 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,787,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1499,7 +1499,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond ring 2.378 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 2.378 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,006,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1513,7 +1513,7 @@
 												class="attachment-thumbnail size-thumbnail" alt="K18 diamond ring 2.636 ct"
 												decoding="async" loading="lazy" sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">K18 diamond ring 2.636 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">1,490,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1528,7 +1528,7 @@
 												decoding="async" loading="lazy"
 												sizes="100vw"></div>
 										<div class="renew_2024_result_item_name">Pt･Pm900 diamond ring 3.109 ct</div>
-										<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+										<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 										<div class="renew_2024_result_item_price">968,000<span class="unit">&yen;</span></div>
 										<div class="renew_2024_result_item_arrow">
 											<div></div>
@@ -1538,7 +1538,7 @@
 						</div>
 						<div class="flex_annitation">
 							※圖片僅供參考<br>
-							※附有保證書及完整配件的產品收購參考價格
+							※附有保證書及完整配件的產品鑽石收購參考價格表
 						</div>
 
 						<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a> -->
@@ -1553,7 +1553,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt850・Pt900 diamond necklace 15 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt850・Pt900 diamond necklace 15 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">1,177,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1567,7 +1567,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 3.22 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 3.22 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">962,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1581,7 +1581,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K14WG diamond necklace 12.89 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K14WG diamond necklace 12.89 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">886,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1595,7 +1595,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond necklace 9.77 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond necklace 9.77 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">869,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1609,7 +1609,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 10.5 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 10.5 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">858,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1623,7 +1623,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm850 diamond necklace 10 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond necklace 10 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">891,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1637,7 +1637,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond necklace 50.554 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond necklace 50.554 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">3,448,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1651,7 +1651,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 2.016 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 2.016 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">2,101,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1665,7 +1665,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm950 diamond necklace 1.15 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm950 diamond necklace 1.15 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">1,237,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1679,7 +1679,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 1.57 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 1.57 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">1,655,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1693,7 +1693,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 2.259 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 2.259 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">1,056,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1707,7 +1707,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace Pt・Pm850 0.449ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">29,700<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1721,7 +1721,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 1carat pt850</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">49,500<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1735,7 +1735,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat Pt850・Pt900 combi"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamond necklace 1carat Pt850・Pt900 combi</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">47,300<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1749,7 +1749,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">diamondnecklace 1.2carat</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">93,500<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1763,7 +1763,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond necklace 11.56 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond necklace 11.56 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">996,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1773,7 +1773,7 @@
 					</div>
 					<div class="flex_annitation">
 						※圖片僅供參考<br>
-						※附有保證書及完整配件的產品收購參考價格
+						※附有保證書及完整配件的產品鑽石收購參考價格表
 					</div>
 
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -1788,7 +1788,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="18KT diamond Bracelet"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">18KT diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">331,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1802,7 +1802,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">325,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1816,7 +1816,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 2.05 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 2.05 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">326,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1830,7 +1830,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 5.29 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 5.29 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">470,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1844,7 +1844,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 3.134 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 3.134 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">543,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1858,7 +1858,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet 4.48 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet 4.48 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">258,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1872,7 +1872,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt850 K18 diamond Bracelet 5 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt850 K18 diamond Bracelet 5 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">363,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1886,7 +1886,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond Bracelet 0.85 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond Bracelet 0.85 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">313,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1900,7 +1900,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm850 diamond Bracelet"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">441,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1914,7 +1914,7 @@
 											class="attachment-thumbnail size-thumbnail"
 											alt="Pt･Pm850 diamond Bracelet bangle 5.00 ct" decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm850 diamond Bracelet bangle 5.00 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">286,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1928,7 +1928,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond Bracelet 10.52 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond Bracelet 10.52 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">671,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1942,7 +1942,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond Bracelet" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond Bracelet</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">353,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1952,7 +1952,7 @@
 					</div>
 					<div class="flex_annitation">
 						※圖片僅供參考<br>
-						※附有保證書及完整配件的產品收購參考價格
+						※附有保證書及完整配件的產品鑽石收購參考價格表
 					</div>
 
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -1967,7 +1967,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 2.18 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 2.18 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">209,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1981,7 +1981,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 2.05 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 2.05 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">265,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -1995,7 +1995,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">196,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2009,7 +2009,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch" decoding="async"
 											loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">183,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2023,7 +2023,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 3 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 3 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">191,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2037,7 +2037,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt900 K14WG diamond brooch 3 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt900 K14WG diamond brooch 3 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">199,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2051,7 +2051,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 K18WG diamond brooch 0.171 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 K18WG diamond brooch 0.171 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">278,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2065,7 +2065,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 1.33 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 1.33 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">206,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2079,7 +2079,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 1.708 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 1.708 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">270,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2093,7 +2093,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18WG diamond brooch 4.99 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18WG diamond brooch 4.99 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">404,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2107,7 +2107,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="Pt･Pm900 diamond brooch 2.98 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">Pt･Pm900 diamond brooch 2.98 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">232,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2121,7 +2121,7 @@
 											class="attachment-thumbnail size-thumbnail" alt="K18 diamond brooch 5.4 ct"
 											decoding="async" loading="lazy" sizes="100vw"></div>
 									<div class="renew_2024_result_item_name">K18 diamond brooch 5.4 ct</div>
-									<div class="renew_2024_result_item_kaitori">收購參考價格</div>
+									<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
 									<div class="renew_2024_result_item_price">374,000<span class="unit">&yen;</span></div>
 									<div class="renew_2024_result_item_arrow">
 										<div></div>
@@ -2132,7 +2132,7 @@
 					</div>
 					<div class="flex_annitation">
 						※圖片僅供參考<br>
-						※附有保證書及完整配件的產品收購參考價格
+						※附有保證書及完整配件的產品鑽石收購參考價格表
 					</div>
 					<!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a></div> -->
 				</div>
@@ -2179,7 +2179,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">968,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2199,7 +2199,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">797,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2219,7 +2219,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">902,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2239,7 +2239,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,006,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2259,7 +2259,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,039,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2279,7 +2279,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,067,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2299,7 +2299,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,133,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2319,7 +2319,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,138,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2339,7 +2339,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,490,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2359,7 +2359,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,787,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2379,7 +2379,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">2,722,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2399,7 +2399,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">3,085,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2407,7 +2407,7 @@
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -2427,7 +2427,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">47,300<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2447,7 +2447,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">49,500<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2467,7 +2467,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">29,700<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2487,7 +2487,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">93,500<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2507,7 +2507,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">858,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2527,7 +2527,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">891,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2546,7 +2546,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">869,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2566,7 +2566,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">3,448,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2586,7 +2586,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">886,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2606,7 +2606,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,237,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2626,7 +2626,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">962,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2646,7 +2646,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">996,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2666,7 +2666,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,056,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2686,7 +2686,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,177,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2706,7 +2706,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,655,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2726,7 +2726,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">2,101,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2734,7 +2734,7 @@
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -2754,7 +2754,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">258,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2774,7 +2774,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">286,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2794,7 +2794,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">313,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2814,7 +2814,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">325,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2834,7 +2834,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">326,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2854,7 +2854,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">331,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2873,7 +2873,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">353,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2893,7 +2893,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">363,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2913,7 +2913,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">441,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2933,7 +2933,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">470,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2953,7 +2953,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">543,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2972,7 +2972,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">671,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -2980,7 +2980,7 @@
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  " style="align-items: stretch">
@@ -3000,7 +3000,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">191,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3020,7 +3020,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">183,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3040,7 +3040,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">196,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3060,7 +3060,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">199,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3080,7 +3080,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">209,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3100,7 +3100,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">265,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3120,7 +3120,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">206,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3140,7 +3140,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">232,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3160,7 +3160,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">270,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3180,7 +3180,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">278,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3200,7 +3200,7 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">374,000<span>&yen;</span></p>
 									</div>
 								</li>
@@ -3219,14 +3219,14 @@
 
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">404,000<span>&yen;</span></p>
 									</div>
 								</li>
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 					</div>

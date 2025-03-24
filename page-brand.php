@@ -406,7 +406,7 @@
 			<section>
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						名牌商品收購參考價格
+						名牌商品鑽石收購參考價格表
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -433,14 +433,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/0d706217fe3dc0164f211f4966e2ec88-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram deauvilleMINI shoulder bag M45528 收購參考價格">
+													alt="Louis Vuitton Monogram deauvilleMINI shoulder bag M45528 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton Monogram deauvilleMINI shoulder bag
 												M45528</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">187,000<span>円</span></p>
 									</div>
 								</li>
@@ -451,12 +451,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/ede4fe21ef52470b785232855bb40615-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram deauville handbag M47270 收購參考價格"></p>
+													alt="Louis Vuitton Monogram deauville handbag M47270 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton Monogram deauville handbag M47270</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">93,500<span>円</span></p>
 									</div>
 								</li>
@@ -467,12 +467,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/0a22ef77b9da7e1ba187b0f59c52af6b-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Damier deauville handbag Ｎ47272 收購參考價格"></p>
+													alt="Louis Vuitton Damier deauville handbag Ｎ47272 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton Damier deauville handbag Ｎ47272</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">63,800<span>円</span></p>
 									</div>
 								</li>
@@ -483,12 +483,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/f4f68587f57520dc7072f094cd380d10-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton epi deauville handbag 收購參考價格"></p>
+													alt="Louis Vuitton epi deauville handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton epi deauville handbag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">60,500<span>円</span></p>
 									</div>
 								</li>
@@ -499,12 +499,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/285e245fa7e085337ec56368ffb8cec7-1-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram deauville handbag M42228 收購參考價格"></p>
+													alt="Louis Vuitton Monogram deauville handbag M42228 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton Monogram deauville handbag M42228</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">39,600<span>円</span></p>
 									</div>
 								</li>
@@ -514,14 +514,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/369f3c8951bf7bf635073bc8b9591a80-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram reverse vanityNVPM vanity bag M45165 收購參考價格">
+													alt="Louis Vuitton Monogram reverse vanityNVPM vanity bag M45165 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton Monogram reverse vanityNVPM vanity
 												bag M45165</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">279,400<span>円</span></p>
 									</div>
 								</li>
@@ -532,12 +532,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/100f701f50758a0e238d41c9c301a987-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Damier deauville handbag  N47272 收購參考價格"></p>
+													alt="Louis Vuitton Damier deauville handbag  N47272 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton Damier deauville handbag N47272</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">23,100<span>円</span></p>
 									</div>
 								</li>
@@ -547,14 +547,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/98d312968fec0a4ed7e498fbc20fec15-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram Ink vanityPM vanity bag M57118 收購參考價格">
+													alt="Louis Vuitton Monogram Ink vanityPM vanity bag M57118 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton Monogram Ink vanityPM vanity bag
 												M57118</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">146,300<span>円</span></p>
 									</div>
 								</li>
@@ -564,14 +564,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/4946bd028173004be04b9abb3c0840b4-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram bowling・vanity handbag M47270 收購參考價格">
+													alt="Louis Vuitton Monogram bowling・vanity handbag M47270 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton Monogram bowling・vanity handbag
 												M47270</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">72,600<span>円</span></p>
 									</div>
 								</li>
@@ -581,14 +581,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/3428ceffb66a4cc1a3a12249434ca3dd-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton Monogram Amfer Three vanity star shoulder bag M47275 收購參考價格">
+													alt="Louis Vuitton Monogram Amfer Three vanity star shoulder bag M47275 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton Monogram Amfer Three vanity star
 												shoulder bag M47275</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">46,200<span>円</span></p>
 									</div>
 								</li>
@@ -598,14 +598,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/9cecdda4808720085f4857745ab21aaf-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton epi Painted Dots twist shoulder bag M21695 收購參考價格">
+													alt="Louis Vuitton epi Painted Dots twist shoulder bag M21695 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Louis Vuitton epi Painted Dots twist shoulder bag
 												M21695</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">397,100<span>円</span></p>
 									</div>
 								</li>
@@ -615,12 +615,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/0887991f1a6e78b45421192698f0d6fa-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton epi twistMM shoulder bag M57517 收購參考價格"></p>
+													alt="Louis Vuitton epi twistMM shoulder bag M57517 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton epi twistMM shoulder bag M57517</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">394,900<span>円</span></p>
 									</div>
 								</li>
@@ -630,12 +630,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/169d489933acbba63e44161764a214d0-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton twist one handlePM M57093 收購參考價格"></p>
+													alt="Louis Vuitton twist one handlePM M57093 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton twist one handlePM M57093</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">348,700<span>円</span></p>
 									</div>
 								</li>
@@ -645,13 +645,13 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/2ea4bbf0ec9ec0577e5c2d0a7cf9cec4-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton high end twist one handleBB M59090 收購參考價格"></p>
+													alt="Louis Vuitton high end twist one handleBB M59090 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton high end twist one handleBB M59090
 											</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">280,500<span>円</span></p>
 									</div>
 								</li>
@@ -661,12 +661,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/c9bbb721cee18fce00fc557564f14743-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton twist one handle M57214 收購參考價格"></p>
+													alt="Louis Vuitton twist one handle M57214 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton twist one handle M57214</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">243,100<span>円</span></p>
 									</div>
 								</li>
@@ -676,19 +676,19 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/3d9a136a813def87cafe0602cfd4e348-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Louis Vuitton epi twistPM shoulder bag M50332 收購參考價格"></p>
+													alt="Louis Vuitton epi twistPM shoulder bag M50332 鑽石收購參考價格表"></p>
 											<p class="content--name">Louis Vuitton epi twistPM shoulder bag M50332</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">242,000<span>円</span></p>
 									</div>
 								</li>
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -699,14 +699,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/73257361d43c669bb4b16fbab24dcb6c-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet black gold metal fittings U engraved 收購參考價格">
+													alt="Hermès Kelly wallet black gold metal fittings U engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet black gold metal fittings U
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">737,000<span>円</span></p>
 									</div>
 								</li>
@@ -716,14 +716,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/6626829c3c7a1c896b4672c83d98eb59-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet bordeaux silver metal fittings □M engraved 收購參考價格">
+													alt="Hermès Kelly wallet bordeaux silver metal fittings □M engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet bordeaux silver metal fittings
 												M engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">698,500<span>円</span></p>
 									</div>
 								</li>
@@ -733,14 +733,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/c54aff440bacbe396733d7e4abcd3b56-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet green silver metal fittings C engraved 收購參考價格">
+													alt="Hermès Kelly wallet green silver metal fittings C engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet green silver metal fittings C
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">685,300<span>円</span></p>
 									</div>
 								</li>
@@ -750,14 +750,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/fca9637672b76b921fb35726df1bf0bd-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet to go black silver metal fittings U engraved 收購參考價格">
+													alt="Hermès Kelly wallet to go black silver metal fittings U engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet to go black silver metal
 												fittings U engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
@@ -767,12 +767,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/4ddb5548cea22d1aae3ca8a7b9cad78a-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet long to go B engraved 收購參考價格"></p>
+													alt="Hermès Kelly wallet long to go B engraved 鑽石收購參考價格表"></p>
 											<p class="content--name">Hermès Kelly wallet long to go B engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">632,500<span>円</span></p>
 									</div>
 								</li>
@@ -782,12 +782,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/fd914f9ea94dfa2f9415fedd71d4c60f-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet long to go U engraved 收購參考價格"></p>
+													alt="Hermès Kelly wallet long to go U engraved 鑽石收購參考價格表"></p>
 											<p class="content--name">Hermès Kelly wallet long to go U engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">556,600<span>円</span></p>
 									</div>
 								</li>
@@ -797,14 +797,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/46cefd061375097dcff9f4f55c38abcc-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet to go beige silver metal fittings U engraved 收購參考價格">
+													alt="Hermès Kelly wallet to go beige silver metal fittings U engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet to go beige silver metal
 												fittings U engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">528,000<span>円</span></p>
 									</div>
 								</li>
@@ -814,12 +814,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/37dc46ae9bad0527603dfb05fe9eb781-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet B engraved 收購參考價格"></p>
+													alt="Hermès Kelly wallet B engraved 鑽石收購參考價格表"></p>
 											<p class="content--name">Hermès Kelly wallet B engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">350,900<span>円</span></p>
 									</div>
 								</li>
@@ -829,12 +829,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/9f45ae8f256490c16b22fbebd5034461-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet Y engraved 收購參考價格"></p>
+													alt="Hermès Kelly wallet Y engraved 鑽石收購參考價格表"></p>
 											<p class="content--name">Hermès Kelly wallet Y engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">303,600<span>円</span></p>
 									</div>
 								</li>
@@ -844,14 +844,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/30ed8cd9756ab16cad8cde19bc607543-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet red gold metal fittings X engraved 收購參考價格">
+													alt="Hermès Kelly wallet red gold metal fittings X engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet red gold metal fittings X
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">287,100<span>円</span></p>
 									</div>
 								</li>
@@ -861,14 +861,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/da20a9399acde97661b7b1ea58dd3e8d-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet greige silver metal fittings R engraved 收購參考價格">
+													alt="Hermès Kelly wallet greige silver metal fittings R engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet greige silver metal fittings R
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">235,400<span>円</span></p>
 									</div>
 								</li>
@@ -878,14 +878,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/8d49c9d0d71b3f73064ce34967b89d23-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet gray gold metal fittings T engraved 收購參考價格">
+													alt="Hermès Kelly wallet gray gold metal fittings T engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet gray gold metal fittings T
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">232,100<span>円</span></p>
 									</div>
 								</li>
@@ -895,14 +895,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/149a1a5c48d4a74d8af5052464299e4c-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly wallet yellow silver metal fittings O engraved 收購參考價格">
+													alt="Hermès Kelly wallet yellow silver metal fittings O engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly wallet yellow silver metal fittings O
 												engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">132,000<span>円</span></p>
 									</div>
 								</li>
@@ -912,12 +912,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/ef2fc256d10c0adce7529b0f0ba95d29-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly sportsPM shoulder bag S engraved 收購參考價格"></p>
+													alt="Hermès Kelly sportsPM shoulder bag S engraved 鑽石收購參考價格表"></p>
 											<p class="content--name">Hermès Kelly sportsPM shoulder bag S engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">1,146,200<span>円</span></p>
 									</div>
 								</li>
@@ -927,14 +927,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/76feb528e87e5bff87b526b0c39be479-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly sportsGM shoulder bag black gold metal fittings X engraved 收購參考價格">
+													alt="Hermès Kelly sportsGM shoulder bag black gold metal fittings X engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly sportsGM shoulder bag black gold metal
 												fittings X engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">772,200<span>円</span></p>
 									</div>
 								</li>
@@ -944,21 +944,21 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/7a5c0755b921814fb02f6d1c79239768-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Hermès Kelly sportsPM shoulder bag brown gold metal fittings T engraved 收購參考價格">
+													alt="Hermès Kelly sportsPM shoulder bag brown gold metal fittings T engraved 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Hermès Kelly sportsPM shoulder bag brown gold metal
 												fittings T engraved</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">727,100<span>円</span></p>
 									</div>
 								</li>
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -969,12 +969,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/fb0cbb7277f1751cd0baa7ad98580226-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel Matelasse wild stitch shoulder bag 收購參考價格"></p>
+													alt="Chanel Matelasse wild stitch shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel Matelasse wild stitch shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">551,100<span>円</span></p>
 									</div>
 								</li>
@@ -984,12 +984,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/326b2fab1f2df74b2211709eded12d3c-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch handbag 收購參考價格"></p>
+													alt="Chanel wild stitch handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch handbag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">396,000<span>円</span></p>
 									</div>
 								</li>
@@ -999,14 +999,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/3d7f28db91a6d3e7d887ade4439f38f6-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag black silver metal fittings 收購參考價格">
+													alt="Chanel wild stitch shoulder bag black silver metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch shoulder bag black silver metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">386,100<span>円</span></p>
 									</div>
 								</li>
@@ -1016,14 +1016,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/3cfaab11a2f49cf7f72221eb4ad45f02-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch handbag black gold metal fittings 收購參考價格">
+													alt="Chanel wild stitch handbag black gold metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch handbag black gold metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">309,100<span>円</span></p>
 									</div>
 								</li>
@@ -1033,14 +1033,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/8413e4dac82a08dd3b290c8c979daf76-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag black gold metal fittings 收購參考價格">
+													alt="Chanel wild stitch shoulder bag black gold metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch shoulder bag black gold metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">301,400<span>円</span></p>
 									</div>
 								</li>
@@ -1050,12 +1050,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/28b0668cfa3fcf5d77e6233cbd057a9e-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag 收購參考價格"></p>
+													alt="Chanel wild stitch shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">279,400<span>円</span></p>
 									</div>
 								</li>
@@ -1065,12 +1065,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/9c0907e31609567743a57b50d7a56f03-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch chain shoulder bag 收購參考價格"></p>
+													alt="Chanel wild stitch chain shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch chain shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">276,100<span>円</span></p>
 									</div>
 								</li>
@@ -1080,12 +1080,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/ffc55e015f2e961598f6dc755822c39c-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag 收購參考價格"></p>
+													alt="Chanel wild stitch shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">266,200<span>円</span></p>
 									</div>
 								</li>
@@ -1095,12 +1095,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/c35acc9a9c6542b91109bc529ace50ef-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch handbag 收購參考價格"></p>
+													alt="Chanel wild stitch handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch handbag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">254,100<span>円</span></p>
 									</div>
 								</li>
@@ -1110,14 +1110,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/ab39f8a921718c914cc3358d9e92d929-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag beige gold metal fittings 收購參考價格">
+													alt="Chanel wild stitch shoulder bag beige gold metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch shoulder bag beige gold metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">225,500<span>円</span></p>
 									</div>
 								</li>
@@ -1127,12 +1127,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/610cf5d63b439f75d66ce6fd9fc42f7f-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag 收購參考價格"></p>
+													alt="Chanel wild stitch shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
@@ -1142,14 +1142,14 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/4999ab75eb70b054685cf158375d46ae-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag black silver metal fittings 收購參考價格">
+													alt="Chanel wild stitch shoulder bag black silver metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch shoulder bag black silver metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">209,000<span>円</span></p>
 									</div>
 								</li>
@@ -1159,12 +1159,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/fc710870c2f3fb2c0c5b76b4e3c2b5af-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch tote bag 收購參考價格"></p>
+													alt="Chanel wild stitch tote bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch tote bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">198,000<span>円</span></p>
 									</div>
 								</li>
@@ -1174,12 +1174,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/4d40dd304c88302564c63f2542414e6f-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag 收購參考價格"></p>
+													alt="Chanel wild stitch shoulder bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch shoulder bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">196,900<span>円</span></p>
 									</div>
 								</li>
@@ -1189,12 +1189,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/ab8adb32dda5496bd197cb485c72e9e9-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch tote bag 收購參考價格"></p>
+													alt="Chanel wild stitch tote bag 鑽石收購參考價格表"></p>
 											<p class="content--name">Chanel wild stitch tote bag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">188,100<span>円</span></p>
 									</div>
 								</li>
@@ -1204,21 +1204,21 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/f73aa156424fcfbf913a51c3f5e91148-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chanel wild stitch shoulder bag white gold metal fittings 收購參考價格">
+													alt="Chanel wild stitch shoulder bag white gold metal fittings 鑽石收購參考價格表">
 											</p>
 											<p class="content--name">Chanel wild stitch shoulder bag white gold metal
 												fittings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">ASK</p>
 									</div>
 								</li>
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 						<div class="flex__content  flex_content_wrap">
@@ -1228,12 +1228,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/05313354cec29f8dbac5db142aaa9cc6-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Damiani Belle epoque necklace WG diamond 收購參考價格"></p>
+													alt="Damiani Belle epoque necklace WG diamond 鑽石收購參考價格表"></p>
 											<p class="content--name">Damiani Belle epoque necklace WG diamond</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">408,000<span>円</span></p>
 									</div>
 								</li>
@@ -1242,12 +1242,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/fd9ad28aa9a7ff79d0042853fdd25fa4-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Damiani Belle epoque necklace YG diamond 收購參考價格"></p>
+													alt="Damiani Belle epoque necklace YG diamond 鑽石收購參考價格表"></p>
 											<p class="content--name">Damiani Belle epoque necklace YG diamond</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">378,000<span>円</span></p>
 									</div>
 								</li>
@@ -1256,12 +1256,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/68dfd2e64ba293d23d188e396e49fbbe-300x300.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Graff Mini Butterfly Silhouette necklace 收購參考價格"></p>
+													alt="Graff Mini Butterfly Silhouette necklace 鑽石收購參考價格表"></p>
 											<p class="content--name">Graff Mini Butterfly Silhouette necklace</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">275,000<span>円</span></p>
 									</div>
 								</li>
@@ -1270,12 +1270,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/aa489e56ffd75cf1307856c1e35ec6b3_03.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Dior Lady Dior leather black handbag 收購參考價格"></p>
+													alt="Dior Lady Dior leather black handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Dior Lady Dior leather black handbag</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">256,000<span>円</span></p>
 									</div>
 								</li>
@@ -1284,13 +1284,13 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/2972-1.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Loewe puzzle small sand classic calf beige handbag 收購參考價格"></p>
+													alt="Loewe puzzle small sand classic calf beige handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Loewe puzzle small sand classic calf beige handbag
 											</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">161,000<span>円</span></p>
 									</div>
 								</li>
@@ -1299,13 +1299,13 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/2944-1.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Loewe hammock bag leather canvas off white handbag 收購參考價格"></p>
+													alt="Loewe hammock bag leather canvas off white handbag 鑽石收購參考價格表"></p>
 											<p class="content--name">Loewe hammock bag leather canvas off white handbag
 											</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">119,000<span>円</span></p>
 									</div>
 								</li>
@@ -1314,12 +1314,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/20220418-217-1.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Boucheron quatre matching rings 收購參考價格"></p>
+													alt="Boucheron quatre matching rings 鑽石收購參考價格表"></p>
 											<p class="content--name">Boucheron quatre matching rings</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">254,000<span>円</span></p>
 									</div>
 								</li>
@@ -1328,12 +1328,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/20220218-11-1.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Boucheron quatre radiant リング 收購參考價格"></p>
+													alt="Boucheron quatre radiant リング 鑽石收購參考價格表"></p>
 											<p class="content--name">Boucheron quatre radiant ring</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">264,000<span>円</span></p>
 									</div>
 								</li>
@@ -1342,12 +1342,12 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/20220418-1771_02.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Piaget rose diamond necklace 收購參考價格"></p>
+													alt="Piaget rose diamond necklace 鑽石收購參考價格表"></p>
 											<p class="content--name">Piaget rose diamond necklace</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">506,000<span>円</span></p>
 									</div>
 								</li>
@@ -1356,19 +1356,19 @@
 											<p class="content__image img"> <img width="300" height="300"
 													src="../images/brand/20220218-157_02.webp"
 													class="attachment-thumbnail size-thumbnail"
-													alt="Chopard happy diamond necklace 收購參考價格"></p>
+													alt="Chopard happy diamond necklace 鑽石收購參考價格表"></p>
 											<p class="content--name">Chopard happy diamond necklace</p>
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price">212,000<span>円</span></p>
 									</div>
 								</li>
 							</div>
 							<div class="flex_annitation">
 								※圖片僅供參考<br>
-								※附有保證書及完整配件的產品收購參考價格
+								※附有保證書及完整配件的產品鑽石收購參考價格表
 							</div>
 						</div>
 					</div>

@@ -281,10 +281,10 @@
 
 
 
-			<!-- 名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
+			<!-- 名牌手錶鑽石收購參考價格表 (ブランド時計の参考買取価格) -->
 			<section class="tabContents_open brand_tokei_sec02" id="brand_tokei_sec02">
 				<div class="titleMain titleMain--wrapper">
-					<h2 class="titleMain--main">名牌手錶收購參考價格</h2>
+					<h2 class="titleMain--main">名牌手錶鑽石收購參考價格表</h2>
 					<div class="titleMain--lead">
 						<p></p>
 					</div>
@@ -300,7 +300,7 @@
 						<li class="tab__item "> <a>Vacheron Constantin</a> </li>
 						<li class="tab__item "> <a>A. Lange & Söhne</a> </li>
 						<li class="tab__item "> <a>Breguet</a> </li>
-						<li class="tab__item "> <a>其他收購參考價格</a> </li>
+						<li class="tab__item "> <a>其他鑽石收購參考價格表</a> </li>
 					</ul>
 
 					<!-- タブコンテンツ -->
@@ -318,7 +318,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -333,7 +333,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 18,232,000円</p>
 									</div>
 								</li>
@@ -348,7 +348,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,549,000円</p>
 									</div>
 								</li>
@@ -363,7 +363,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,983,000円</p>
 									</div>
 								</li>
@@ -378,7 +378,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,383,500円</p>
 									</div>
 								</li>
@@ -393,7 +393,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,662,000円</p>
 									</div>
 								</li>
@@ -408,7 +408,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,708,000円</p>
 									</div>
 								</li>
@@ -423,7 +423,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,187,500円</p>
 									</div>
 								</li>
@@ -438,7 +438,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,176,500円</p>
 									</div>
 								</li>
@@ -453,7 +453,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,965,500円</p>
 									</div>
 								</li>
@@ -468,7 +468,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,080,000円</p>
 									</div>
 								</li>
@@ -483,7 +483,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,542,000円</p>
 									</div>
 								</li>
@@ -498,7 +498,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,096,500円</p>
 									</div>
 								</li>
@@ -513,7 +513,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,624,000円</p>
 									</div>
 								</li>
@@ -528,7 +528,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,081,000円</p>
 									</div>
 								</li>
@@ -543,7 +543,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,526,500円</p>
 									</div>
 								</li>
@@ -558,7 +558,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,658,600円</p>
 									</div>
 								</li>
@@ -573,7 +573,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,361,500円</p>
 									</div>
 								</li>
@@ -588,7 +588,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -603,7 +603,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,585,900円</p>
 									</div>
 								</li>
@@ -618,7 +618,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,212,000円</p>
 									</div>
 								</li>
@@ -633,7 +633,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,099,500円</p>
 									</div>
 								</li>
@@ -648,7 +648,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,245,000円</p>
 									</div>
 								</li>
@@ -663,7 +663,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,879,500円</p>
 									</div>
 								</li>
@@ -678,7 +678,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,019,500円</p>
 									</div>
 								</li>
@@ -693,7 +693,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,082,000円</p>
 									</div>
 								</li>
@@ -708,7 +708,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,871,000円</p>
 									</div>
 								</li>
@@ -723,7 +723,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,597,000円</p>
 									</div>
 								</li>
@@ -738,7 +738,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,865,500円</p>
 									</div>
 								</li>
@@ -753,7 +753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,952,500円</p>
 									</div>
 								</li>
@@ -768,7 +768,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,617,000円</p>
 									</div>
 								</li>
@@ -783,7 +783,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,721,500円</p>
 									</div>
 								</li>
@@ -798,7 +798,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,860,000円</p>
 									</div>
 								</li>
@@ -813,7 +813,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,886,500円</p>
 									</div>
 								</li>
@@ -828,7 +828,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 386,000円</p>
 									</div>
 								</li>
@@ -843,7 +843,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 532,400円</p>
 									</div>
 								</li>
@@ -858,7 +858,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 369,000円</p>
 									</div>
 								</li>
@@ -873,7 +873,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 390,000円</p>
 									</div>
 								</li>
@@ -888,7 +888,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,054,500円</p>
 									</div>
 								</li>
@@ -903,7 +903,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -918,7 +918,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,735,500円</p>
 									</div>
 								</li>
@@ -933,7 +933,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -948,7 +948,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,597,000円</p>
 									</div>
 								</li>
@@ -963,7 +963,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,158,000円</p>
 									</div>
 								</li>
@@ -978,7 +978,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,086,500円</p>
 									</div>
 								</li>
@@ -993,7 +993,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -1008,7 +1008,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,148,000円</p>
 									</div>
 								</li>
@@ -1023,14 +1023,14 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,376,000円</p>
 									</div>
 								</li>
 							</div>
 
 							<div class="btn__wrap btn__more js__more--btn28"><span>查看更多</span></div>
-							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/rolex/">勞力士收購參考價格列表請點擊這裡</a> </div> -->
+							<!-- <div class="btn__wrap btn__red"> <a href="../brand-tokei/result/rolex/">勞力士鑽石收購參考價格表列表請點擊這裡</a> </div> -->
 						</div>
 						<div class="flex__content ">
 							<div class="content__list js__more--28th">
@@ -1045,7 +1045,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,391,000円</p>
 									</div>
 								</li>
@@ -1060,7 +1060,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,912,500円</p>
 									</div>
 								</li>
@@ -1075,7 +1075,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,265,500円</p>
 									</div>
 								</li>
@@ -1090,7 +1090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,646,000円</p>
 									</div>
 								</li>
@@ -1106,7 +1106,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,290,000円</p>
 									</div>
 								</li>
@@ -1121,7 +1121,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 698,500円</p>
 									</div>
 								</li>
@@ -1137,7 +1137,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,697,000円</p>
 									</div>
 								</li>
@@ -1153,7 +1153,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,439,500円</p>
 									</div>
 								</li>
@@ -1169,7 +1169,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,341,500円</p>
 									</div>
 								</li>
@@ -1184,7 +1184,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 746,900円</p>
 									</div>
 								</li>
@@ -1199,7 +1199,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 902,000円</p>
 									</div>
 								</li>
@@ -1214,7 +1214,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 869,000円</p>
 									</div>
 								</li>
@@ -1229,7 +1229,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 924,000円</p>
 									</div>
 								</li>
@@ -1244,7 +1244,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 962,500円</p>
 									</div>
 								</li>
@@ -1259,7 +1259,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 962,500円</p>
 									</div>
 								</li>
@@ -1274,7 +1274,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,034,000円</p>
 									</div>
 								</li>
@@ -1289,7 +1289,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 990,000円</p>
 									</div>
 								</li>
@@ -1304,7 +1304,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,127,500円</p>
 									</div>
 								</li>
@@ -1319,7 +1319,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,271,600円</p>
 									</div>
 								</li>
@@ -1334,7 +1334,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,232,000円</p>
 									</div>
 								</li>
@@ -1349,7 +1349,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,639,000円</p>
 									</div>
 								</li>
@@ -1365,7 +1365,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,677,500円</p>
 									</div>
 								</li>
@@ -1380,7 +1380,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,045,000円</p>
 									</div>
 								</li>
@@ -1395,7 +1395,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,535,500円</p>
 									</div>
 								</li>
@@ -1410,7 +1410,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,111,000円</p>
 									</div>
 								</li>
@@ -1425,7 +1425,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,386,000円</p>
 									</div>
 								</li>
@@ -1440,7 +1440,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,111,000円</p>
 									</div>
 								</li>
@@ -1455,7 +1455,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,457,500円</p>
 									</div>
 								</li>
@@ -1470,7 +1470,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,463,000円</p>
 									</div>
 								</li>
@@ -1485,7 +1485,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,512,500円</p>
 									</div>
 								</li>
@@ -1500,7 +1500,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,595,000円</p>
 									</div>
 								</li>
@@ -1515,7 +1515,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,820,500円</p>
 									</div>
 								</li>
@@ -1530,7 +1530,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,666,500円</p>
 									</div>
 								</li>
@@ -1545,7 +1545,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,486,000円</p>
 									</div>
 								</li>
@@ -1560,7 +1560,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,051,500円</p>
 									</div>
 								</li>
@@ -1575,7 +1575,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,596,000円</p>
 									</div>
 								</li>
@@ -1591,7 +1591,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,964,500円</p>
 									</div>
 								</li>
@@ -1607,7 +1607,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,234,000円</p>
 									</div>
 								</li>
@@ -1622,7 +1622,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,092,000円</p>
 									</div>
 								</li>
@@ -1638,7 +1638,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,102,000円</p>
 									</div>
 								</li>
@@ -1654,7 +1654,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,206,500円</p>
 									</div>
 								</li>
@@ -1670,7 +1670,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,327,500円</p>
 									</div>
 								</li>
@@ -1686,7 +1686,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,883,000円</p>
 									</div>
 								</li>
@@ -1702,7 +1702,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,225,000円</p>
 									</div>
 								</li>
@@ -1718,7 +1718,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,330,500円</p>
 									</div>
 								</li>
@@ -1733,7 +1733,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,512,000円</p>
 									</div>
 								</li>
@@ -1749,7 +1749,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,023,500円</p>
 									</div>
 								</li>
@@ -1765,7 +1765,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,342,500円</p>
 									</div>
 								</li>
@@ -1788,7 +1788,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,320,000円</p>
 									</div>
 								</li>
@@ -1804,7 +1804,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 902,000円</p>
 									</div>
 								</li>
@@ -1820,7 +1820,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,677,500円</p>
 									</div>
 								</li>
@@ -1835,7 +1835,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,255,000円</p>
 									</div>
 								</li>
@@ -1851,7 +1851,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -1867,7 +1867,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,895,000円</p>
 									</div>
 								</li>
@@ -1882,7 +1882,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,316,500円</p>
 									</div>
 								</li>
@@ -1898,7 +1898,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,247,000円</p>
 									</div>
 								</li>
@@ -1914,7 +1914,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,505,500円</p>
 									</div>
 								</li>
@@ -1930,7 +1930,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,527,500円</p>
 									</div>
 								</li>
@@ -1946,7 +1946,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,581,400円</p>
 									</div>
 								</li>
@@ -1962,7 +1962,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,621,000円</p>
 									</div>
 								</li>
@@ -1978,7 +1978,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,846,500円</p>
 									</div>
 								</li>
@@ -1994,7 +1994,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,913,500円</p>
 									</div>
 								</li>
@@ -2010,7 +2010,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,945,500円</p>
 									</div>
 								</li>
@@ -2026,7 +2026,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,116,000円</p>
 									</div>
 								</li>
@@ -2042,7 +2042,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,425,000円</p>
 									</div>
 								</li>
@@ -2058,7 +2058,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,414,000円</p>
 									</div>
 								</li>
@@ -2074,7 +2074,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,145,500円</p>
 									</div>
 								</li>
@@ -2090,7 +2090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,761,500円</p>
 									</div>
 								</li>
@@ -2106,7 +2106,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,626,200円</p>
 									</div>
 								</li>
@@ -2122,7 +2122,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,662,500円</p>
 									</div>
 								</li>
@@ -2138,7 +2138,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 9,361,000円</p>
 									</div>
 								</li>
@@ -2154,7 +2154,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 9,680,000円</p>
 									</div>
 								</li>
@@ -2170,7 +2170,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 10,681,000円</p>
 									</div>
 								</li>
@@ -2186,7 +2186,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 10,549,000円</p>
 									</div>
 								</li>
@@ -2202,7 +2202,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 11,222,200円</p>
 									</div>
 								</li>
@@ -2218,7 +2218,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 14,850,000円</p>
 									</div>
 								</li>
@@ -2234,7 +2234,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -2249,7 +2249,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 11,566,500円</p>
 									</div>
 								</li>
@@ -2265,7 +2265,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 12,265,550円</p>
 									</div>
 								</li>
@@ -2281,7 +2281,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 15,587,000円</p>
 									</div>
 								</li>
@@ -2296,7 +2296,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 16,538,500円</p>
 									</div>
 								</li>
@@ -2312,7 +2312,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 16,692,500円</p>
 									</div>
 								</li>
@@ -2328,7 +2328,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 17,611,000円</p>
 									</div>
 								</li>
@@ -2344,7 +2344,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> ASK</p>
 									</div>
 								</li>
@@ -2360,7 +2360,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,117,500円</p>
 									</div>
 								</li>
@@ -2376,7 +2376,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,435,500円</p>
 									</div>
 								</li>
@@ -2392,7 +2392,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,335,000円</p>
 									</div>
 								</li>
@@ -2407,7 +2407,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,379,000円</p>
 									</div>
 								</li>
@@ -2423,7 +2423,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,466,000円</p>
 									</div>
 								</li>
@@ -2438,7 +2438,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,318,000円</p>
 									</div>
 								</li>
@@ -2456,7 +2456,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,662,000円</p>
 									</div>
 								</li>
@@ -2473,7 +2473,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,720,000円</p>
 									</div>
 								</li>
@@ -2491,7 +2491,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,701,000円</p>
 									</div>
 								</li>
@@ -2507,7 +2507,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,225,000円</p>
 									</div>
 								</li>
@@ -2523,7 +2523,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,718,000円</p>
 									</div>
 								</li>
@@ -2539,7 +2539,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,585,000円</p>
 									</div>
 								</li>
@@ -2561,7 +2561,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,996,500円</p>
 									</div>
 								</li>
@@ -2577,7 +2577,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -2593,7 +2593,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,556,000円</p>
 									</div>
 								</li>
@@ -2609,7 +2609,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,421,000円</p>
 									</div>
 								</li>
@@ -2625,7 +2625,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,805,000円</p>
 									</div>
 								</li>
@@ -2641,7 +2641,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,360,500円</p>
 									</div>
 								</li>
@@ -2657,7 +2657,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,020,500円</p>
 									</div>
 								</li>
@@ -2673,7 +2673,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,053,500円</p>
 									</div>
 								</li>
@@ -2689,7 +2689,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,196,500円</p>
 									</div>
 								</li>
@@ -2705,7 +2705,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,202,000円</p>
 									</div>
 								</li>
@@ -2721,7 +2721,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 6,198,500円</p>
 									</div>
 								</li>
@@ -2737,7 +2737,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 9,740,500円</p>
 									</div>
 								</li>
@@ -2753,7 +2753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,331,500円</p>
 									</div>
 								</li>
@@ -2769,7 +2769,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,969,000円</p>
 									</div>
 								</li>
@@ -2785,7 +2785,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,397,000円</p>
 									</div>
 								</li>
@@ -2801,7 +2801,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -2817,7 +2817,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -2833,7 +2833,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,470,500円</p>
 									</div>
 								</li>
@@ -2849,7 +2849,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 9,515,000円</p>
 									</div>
 								</li>
@@ -2864,7 +2864,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,331,000円</p>
 									</div>
 								</li>
@@ -2879,7 +2879,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,265,000円</p>
 									</div>
 								</li>
@@ -2894,7 +2894,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,490,500円</p>
 									</div>
 								</li>
@@ -2910,7 +2910,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,540,000円</p>
 									</div>
 								</li>
@@ -2926,7 +2926,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,600,500円</p>
 									</div>
 								</li>
@@ -2942,7 +2942,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,985,500円</p>
 									</div>
 								</li>
@@ -2958,7 +2958,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,694,000円</p>
 									</div>
 								</li>
@@ -2974,7 +2974,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,721,500円</p>
 									</div>
 								</li>
@@ -2990,7 +2990,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,194,500円</p>
 									</div>
 								</li>
@@ -3006,7 +3006,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,260,500円</p>
 									</div>
 								</li>
@@ -3022,7 +3022,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,568,500円</p>
 									</div>
 								</li>
@@ -3037,7 +3037,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,766,500円</p>
 									</div>
 								</li>
@@ -3053,7 +3053,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,976,500円</p>
 									</div>
 								</li>
@@ -3069,7 +3069,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,906,000円</p>
 									</div>
 								</li>
@@ -3085,7 +3085,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 896,500円</p>
 									</div>
 								</li>
@@ -3101,7 +3101,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,160,500円</p>
 									</div>
 								</li>
@@ -3117,7 +3117,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 957,000円</p>
 									</div>
 								</li>
@@ -3133,7 +3133,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,248,500円</p>
 									</div>
 								</li>
@@ -3149,7 +3149,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,276,000円</p>
 									</div>
 								</li>
@@ -3164,7 +3164,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,485,000円</p>
 									</div>
 								</li>
@@ -3180,7 +3180,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,611,500円</p>
 									</div>
 								</li>
@@ -3195,7 +3195,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 26,125,000円</p>
 									</div>
 								</li>
@@ -3210,7 +3210,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -3226,7 +3226,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,467,000円</p>
 									</div>
 								</li>
@@ -3242,7 +3242,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,535,500円</p>
 									</div>
 								</li>
@@ -3258,7 +3258,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,914,000円</p>
 									</div>
 								</li>
@@ -3274,7 +3274,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,056,000円</p>
 									</div>
 								</li>
@@ -3290,7 +3290,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 11,907,500円</p>
 									</div>
 								</li>
@@ -3306,7 +3306,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,347,500円</p>
 									</div>
 								</li>
@@ -3328,7 +3328,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,052,500円</p>
 									</div>
 								</li>
@@ -3343,7 +3343,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -3358,7 +3358,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,644,500円</p>
 									</div>
 								</li>
@@ -3373,7 +3373,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,875,500円</p>
 									</div>
 								</li>
@@ -3388,7 +3388,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,853,500円</p>
 									</div>
 								</li>
@@ -3403,7 +3403,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,930,500円</p>
 									</div>
 								</li>
@@ -3418,7 +3418,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,969,000円</p>
 									</div>
 								</li>
@@ -3434,7 +3434,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,145,000円</p>
 									</div>
 								</li>
@@ -3449,7 +3449,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,101,000円</p>
 									</div>
 								</li>
@@ -3464,7 +3464,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,200,000円</p>
 									</div>
 								</li>
@@ -3480,7 +3480,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,255,000円</p>
 									</div>
 								</li>
@@ -3495,7 +3495,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,420,000円</p>
 									</div>
 								</li>
@@ -3511,7 +3511,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,625,500円</p>
 									</div>
 								</li>
@@ -3526,7 +3526,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,091,000円</p>
 									</div>
 								</li>
@@ -3541,7 +3541,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,503,500円</p>
 									</div>
 								</li>
@@ -3556,7 +3556,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,155,500円</p>
 									</div>
 								</li>
@@ -3571,7 +3571,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,656,500円</p>
 									</div>
 								</li>
@@ -3587,7 +3587,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,513,000円</p>
 									</div>
 								</li>
@@ -3602,7 +3602,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,305,500円</p>
 									</div>
 								</li>
@@ -3617,7 +3617,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,381,500円</p>
 									</div>
 								</li>
@@ -3632,7 +3632,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,738,000円</p>
 									</div>
 								</li>
@@ -3648,7 +3648,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,663,000円</p>
 									</div>
 								</li>
@@ -3663,7 +3663,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,255,500円</p>
 									</div>
 								</li>
@@ -3678,7 +3678,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 7,040,000円</p>
 									</div>
 								</li>
@@ -3693,7 +3693,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,964,500円</p>
 									</div>
 								</li>
@@ -3708,7 +3708,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -3723,7 +3723,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,084,500円</p>
 									</div>
 								</li>
@@ -3738,7 +3738,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,103,000円</p>
 									</div>
 								</li>
@@ -3753,7 +3753,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,498,000円</p>
 									</div>
 								</li>
@@ -3768,7 +3768,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,015,000円</p>
 									</div>
 								</li>
@@ -3783,7 +3783,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -3798,7 +3798,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,965,500円</p>
 									</div>
 								</li>
@@ -3813,7 +3813,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,234,000円</p>
 									</div>
 								</li>
@@ -3828,7 +3828,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,515,500円</p>
 									</div>
 								</li>
@@ -3843,7 +3843,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,723,500円</p>
 									</div>
 								</li>
@@ -3858,7 +3858,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,437,500円</p>
 									</div>
 								</li>
@@ -3873,7 +3873,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,349,500円</p>
 									</div>
 								</li>
@@ -3888,7 +3888,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,295,500円</p>
 									</div>
 								</li>
@@ -3903,7 +3903,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,064,000円</p>
 									</div>
 								</li>
@@ -3918,7 +3918,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 4,416,500円</p>
 									</div>
 								</li>
@@ -3933,7 +3933,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 5,912,500円</p>
 									</div>
 								</li>
@@ -3948,7 +3948,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,441,000円</p>
 									</div>
 								</li>
@@ -3969,7 +3969,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 566,500円</p>
 									</div>
 								</li>
@@ -3985,7 +3985,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -4000,7 +4000,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 786,000円</p>
 									</div>
 								</li>
@@ -4015,7 +4015,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 539,000円</p>
 									</div>
 								</li>
@@ -4030,7 +4030,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,661,000円</p>
 									</div>
 								</li>
@@ -4045,7 +4045,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,923,900円</p>
 									</div>
 								</li>
@@ -4060,7 +4060,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,369,500円</p>
 									</div>
 								</li>
@@ -4075,7 +4075,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,508,000円</p>
 									</div>
 								</li>
@@ -4090,7 +4090,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,369,000円</p>
 									</div>
 								</li>
@@ -4105,7 +4105,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,354,000円</p>
 									</div>
 								</li>
@@ -4120,7 +4120,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,046,000円</p>
 									</div>
 								</li>
@@ -4135,7 +4135,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,556,500円</p>
 									</div>
 								</li>
@@ -4150,7 +4150,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,996,500円</p>
 									</div>
 								</li>
@@ -4166,7 +4166,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,315,500円</p>
 									</div>
 								</li>
@@ -4181,7 +4181,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,739,000円</p>
 									</div>
 								</li>
@@ -4196,7 +4196,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 946,000円</p>
 									</div>
 								</li>
@@ -4211,7 +4211,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,348,500円</p>
 									</div>
 								</li>
@@ -4226,7 +4226,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 858,000円</p>
 									</div>
 								</li>
@@ -4241,7 +4241,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,435,500円</p>
 									</div>
 								</li>
@@ -4256,7 +4256,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,117,500円</p>
 									</div>
 								</li>
@@ -4271,7 +4271,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,508,000円</p>
 									</div>
 								</li>
@@ -4286,7 +4286,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,216,500円</p>
 									</div>
 								</li>
@@ -4301,7 +4301,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,195,500円</p>
 									</div>
 								</li>
@@ -4316,7 +4316,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,151,500円</p>
 									</div>
 								</li>
@@ -4331,7 +4331,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 973,500円</p>
 									</div>
 								</li>
@@ -4346,7 +4346,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,184,500円</p>
 									</div>
 								</li>
@@ -4361,7 +4361,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,116,500円</p>
 									</div>
 								</li>
@@ -4376,7 +4376,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 841,500円</p>
 									</div>
 								</li>
@@ -4391,7 +4391,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,276,000円</p>
 									</div>
 								</li>
@@ -4406,7 +4406,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 922,900円</p>
 									</div>
 								</li>
@@ -4421,7 +4421,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,227,500円</p>
 									</div>
 								</li>
@@ -4436,7 +4436,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,485,000円</p>
 									</div>
 								</li>
@@ -4451,7 +4451,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,556,000円</p>
 									</div>
 								</li>
@@ -4466,7 +4466,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,348,000円</p>
 									</div>
 								</li>
@@ -4481,7 +4481,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 929,000円</p>
 									</div>
 								</li>
@@ -4496,7 +4496,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,490,500円</p>
 									</div>
 								</li>
@@ -4511,7 +4511,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,243,000円</p>
 									</div>
 								</li>
@@ -4527,7 +4527,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 8,475,500円</p>
 									</div>
 								</li>
@@ -4542,7 +4542,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 3,102,000円</p>
 									</div>
 								</li>
@@ -4557,7 +4557,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,992,000円</p>
 									</div>
 								</li>
@@ -4572,7 +4572,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,563,000円</p>
 									</div>
 								</li>
@@ -4587,7 +4587,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,656,500円</p>
 									</div>
 								</li>
@@ -4602,7 +4602,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,062,500円</p>
 									</div>
 								</li>
@@ -4617,7 +4617,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,678,500円</p>
 									</div>
 								</li>
@@ -4632,7 +4632,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,354,000円</p>
 									</div>
 								</li>
@@ -4647,7 +4647,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,920,500円</p>
 									</div>
 								</li>
@@ -4662,7 +4662,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,452,000円</p>
 									</div>
 								</li>
@@ -4677,7 +4677,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,831,500円</p>
 									</div>
 								</li>
@@ -4698,7 +4698,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 150,000円</p>
 									</div>
 								</li>
@@ -4713,7 +4713,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 510,000円</p>
 									</div>
 								</li>
@@ -4728,7 +4728,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,560,000円</p>
 									</div>
 								</li>
@@ -4743,7 +4743,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,560,000円</p>
 									</div>
 								</li>
@@ -4759,7 +4759,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 450,000円</p>
 									</div>
 								</li>
@@ -4774,7 +4774,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 450,000円</p>
 									</div>
 								</li>
@@ -4789,7 +4789,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 270,000円</p>
 									</div>
 								</li>
@@ -4805,7 +4805,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,200,000円</p>
 									</div>
 								</li>
@@ -4820,7 +4820,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 800,000円</p>
 									</div>
 								</li>
@@ -4835,7 +4835,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,170,000円</p>
 									</div>
 								</li>
@@ -4851,7 +4851,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,800,000円</p>
 									</div>
 								</li>
@@ -4866,7 +4866,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,500,000円</p>
 									</div>
 								</li>
@@ -4882,7 +4882,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 950,000円</p>
 									</div>
 								</li>
@@ -4898,7 +4898,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,500,000円</p>
 									</div>
 								</li>
@@ -4914,7 +4914,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 700,000円</p>
 									</div>
 								</li>
@@ -4929,7 +4929,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,060,000円</p>
 									</div>
 								</li>
@@ -4945,7 +4945,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 880,000円</p>
 									</div>
 								</li>
@@ -4960,7 +4960,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,530,000円</p>
 									</div>
 								</li>
@@ -4976,7 +4976,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 980,000円</p>
 									</div>
 								</li>
@@ -4992,7 +4992,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 880,000円</p>
 									</div>
 								</li>
@@ -5007,7 +5007,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 630,000円</p>
 									</div>
 								</li>
@@ -5022,7 +5022,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 1,540,000円</p>
 									</div>
 								</li>
@@ -5037,7 +5037,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 700,000円</p>
 									</div>
 								</li>
@@ -5052,7 +5052,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 800,000円</p>
 									</div>
 								</li>
@@ -5067,7 +5067,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 850,000円</p>
 									</div>
 								</li>
@@ -5082,7 +5082,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 2,200,000円</p>
 									</div>
 								</li>
@@ -5098,7 +5098,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 44,500,000円</p>
 									</div>
 								</li>
@@ -5114,7 +5114,7 @@
 										</div>
 									</a>
 									<div class="content__text">
-										<p class="content--title">收購參考價格</p>
+										<p class="content--title">鑽石收購參考價格表</p>
 										<p class="content--price"> 57,000,000円</p>
 									</div>
 								</li>
@@ -5129,7 +5129,7 @@
 			<!-- end brand_tokei_sec02 -->
 
 			<!-- <section>
-				<div class="wd_searchtitle">查詢收購參考價格</div>
+				<div class="wd_searchtitle">查詢鑽石收購參考價格表</div>
 				<div class="wd_searchbox">
 					<form action="/search-result/" method="get" name="wd_searchbox" class="gtm_form_search_result_normal">
 						<input type="text" name="kw" class="wd_searchinput" placeholder="勞力士 Rolex、Daytona、116500LN">
@@ -5423,7 +5423,7 @@
 			</section>
 			<div class="wd_spacer is-sp"></div>
 			<section class="is-pc"></section>
-			<!-- //名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
+			<!-- //名牌手錶鑽石收購參考價格表 (ブランド時計の参考買取価格) -->
 
 
 
@@ -5715,7 +5715,7 @@
 					</style>
 
 
-					<!-- 名牌手錶收購參考價格 (ブランド時計の参考買取価格) -->
+					<!-- 名牌手錶鑽石收購參考價格表 (ブランド時計の参考買取価格) -->
 					<div class="state_bad_arrow_area"> <img class="is-pc" src="../images/brand_tokei/bg1.webp"> <img
 							class="is-sp" src="../images/brand_tokei/bg1_sp.webp">
 

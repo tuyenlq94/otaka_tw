@@ -8,7 +8,7 @@
             <img class="renew_2024_dia_title_r"
                 src="../images/daiya/dia_image02_202404.png">
             <p>
-                鑽石收購參考價格表
+                鑽石鑽石收購參考價格表表
             </p>
         </h2>
         <div class="renew_2024_dia_title_lead">
@@ -128,7 +128,7 @@
         <section>
             <div class="titleMain titleMain--wrapper is-pc">
                 <h2 class="titleMain--main">
-                    鑽石收購參考價格表
+                    鑽石鑽石收購參考價格表表
                 </h2>
                 <div class="titleMain--lead">
                     <p>持有鑑定書的顧客或了解物品4C的顧客，<br />可以從以下模擬參考購買價格。</p>
@@ -160,7 +160,7 @@
             </div>
             <div class="jewelrySoubaBox">
                 <div class="jewelrySoubaBox__title">
-                    <h3>鑽石收購參考價格表</h3>
+                    <h3>鑽石鑽石收購參考價格表表</h3>
                 </div>
                 <div class="jewelrySoubaBox__body">
                     <div class="jewelrySoubaBox__table">
@@ -177,7 +177,7 @@
 
                             </div>
                             <div class="btn__wrap btn__red is-pc">
-                                <a href="/daiya/price/">查看鑽石收購參考價格表詳情請點此</a>
+                                <a href="/daiya/price/">查看鑽石鑽石收購參考價格表表詳情請點此</a>
                             </div>
                         </div>
                     </div>
