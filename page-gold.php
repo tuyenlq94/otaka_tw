@@ -1410,22 +1410,7 @@
 						</div>
 					</div>
 					<div class="brandinfo brandinfo_red_repeat">
-						<div class="brandinfo__main fshoplist-target__list">
-							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">
-									為什麼OTAKARAYA能夠提供高價收購黃金
-								</h3>
-							</div>
-							<div class="fshoplist-target--item brandinfo__body no--image">
-								<div class="brandinfo__body__text brandinfo__body__text--top">
-								作為專業收購店，OTAKARAYA不會在門市中銷售收購的物品。
-								收購的物品不僅在日本，還與世界44個國家的企業和商家進行交易。<br />
-									<br />
-									透過不進行銷售所產生的成本，可以將其轉嫁到收購金額上，
-使OTAKARAYA能夠提供獨有的高價收購。
-								</div>
-							</div>
-						</div>
+
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
 								<h3 class="brandinfo__header__title">過去30年黃金的市場價格變化</h3>
@@ -1489,26 +1474,12 @@
 						</div>
 					</div>
 					<!-- renew_202404_sellreason_item -->
-					<h3 class="renew_202404_sellreason_shutter_title">
-						為什麼OTAKARAYA能夠提供高價收購黃金
-						<div class="renew_202404_sellreason_shutter_circle">
-							<div class="renew_202404_sellreason_shutter_arrow"></div>
-						</div>
-					</h3>
-					<div class="renew_202404_sellreason_shutter_story">
-						<p>
-							<span>作為專業收購店，OTAKARAYA不會在門市中銷售收購的物品。</span>收購的物品不僅在日本，還與世界44個國家的企業和商家進行交易。
-						</p>
-						<p>
-						透過不進行銷售所產生的成本，可以將其轉嫁到收購金額上，
-						使OTAKARAYA能夠提供獨有的高價收購。
-						</p>
-					</div>
+
 					<h3 class="renew_202404_sellreason_shutter_title">
 						過去30年黃金的市場價格變化
 						<div class="renew_202404_sellreason_shutter_circle">
 							<div class="renew_202404_sellreason_shutter_arrow"></div>
-						</div>
+						<iv>
 					</h3>
 					<div class="renew_202404_sellreason_shutter_story">
 						<p>
