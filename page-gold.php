@@ -1413,20 +1413,6 @@
 
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">過去30年黃金的市場價格變化</h3>
-							</div>
-							<div class="fshoplist-target--item brandinfo__body no--image">
-								<div class="brandinfo__body__text brandinfo__body__text--top">
-									30年前的1990年代，黃金的價格大約在每克1,000至1,500日元之間，當時的價格低得驚人。<br />
-									<br />
-									然而，受到雷曼危機和新冠疫情等不穩定社會情況的影響，黃金作為“安全資產”的價值逐漸提升，價格也隨之飆升。<br />
-									<br />
-									至2024年，黃金的價格已經超過每克1萬日元，達到了歷史新高。
-								</div>
-							</div>
-						</div>
-						<div class="brandinfo__main fshoplist-target__list">
-							<div class="brandinfo__header fshoplist-target--ttl">
 								<h3 class="brandinfo__header__title">高價賣出黃金的訣竅</h3>
 							</div>
 							<div class="fshoplist-target--item brandinfo__body no--image">
@@ -1475,23 +1461,6 @@
 					</div>
 					<!-- renew_202404_sellreason_item -->
 
-					<h3 class="renew_202404_sellreason_shutter_title">
-						過去30年黃金的市場價格變化
-						<div class="renew_202404_sellreason_shutter_circle">
-							<div class="renew_202404_sellreason_shutter_arrow"></div>
-						<iv>
-					</h3>
-					<div class="renew_202404_sellreason_shutter_story">
-						<p>
-						30年前的1990年代，黃金的價格大約在每克1,000至1,500日元之間，當時的價格低得驚人。
-						</p>
-						<p>
-						然而，受到雷曼危機和新冠疫情等不穩定社會情況的影響，黃金作為“安全資產”的價值逐漸提升，價格也隨之飆升。
-						</p>
-						<p>
-							<span>至2024年，黃金的價格已經超過每克1萬日元，達到了歷史新高。</span>
-						</p>
-					</div>
 					<h3 class="renew_202404_sellreason_shutter_title">
 					高價賣出黃金的訣竅
 						<div class="renew_202404_sellreason_shutter_circle">
