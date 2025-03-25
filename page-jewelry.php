@@ -3817,17 +3817,20 @@ Color Diamond），不再適用於傳統的 D-Z 顏色分級體系，而是根
 然而，來自博茨瓦納的朱瓦能礦山所開採的鑽石，被認為是最高
 品質之一。此外，截至2023年，全球僅有10家公司從事鑽石開採業務。
 						</div>
+					</div>
 					<div class="renew_2024_top_pont_item_titlebox">
 						<h3>關於收購評價較高的鑽石顏色</h3>
 						<div class="renew_2024_top_pont_item_title_circle">
 							<div></div>
 						</div>
 					</div>
-					<div class="renew_2024_top_pont_item_content is-sp"><img class="renew_2024_top_point_item_h4_image"
+					<div class="renew_2024_top_pont_item_content is-sp">
+						<img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/0179640947107c8ce4ea929f8fabf164.webp" alt="">
 						<h4 class="renew_2024_top_point_item_h4"><span>01</span>無色鑽石</h4>
 						<div class="renew_2024_top_point_item_story">鑽石的品質由 4C 評估，尺寸越大、越透明且純淨，其價值越高。</div>
-						<div class="renew_2024_top_point_item_bar"></div><img class="renew_2024_top_point_item_h4_image"
+						<div class="renew_2024_top_point_item_bar"></div>
+						<img class="renew_2024_top_point_item_h4_image"
 							src="../images/daiya/765829cc287d1ac17677d3b4bead81e6.webp" alt="">
 						<h4 class="renew_2024_top_point_item_h4"><span>02</span>紅鑽</h4>
 						<div class="renew_2024_top_point_item_story">在彩鑽中是最具稀有價值的種類。其色調也有等級區分，價值依
