@@ -2,8 +2,8 @@
 	<div id="nav_toggle"></div>
 	<div class="header__head">
 		<div class="logo__wrap">
-			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
-			<h1 class="logo__text">黃金收購,提供免費鑑定及全國超過1,300家專業收購門市的到府收購服務</h1>
+			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="寶藏"></a></p>
+			<h1 class="logo__text">黃金收購、我們在全球超過 1,300 家店鋪提供免費的上門評估與買取服務</h1>
 		</div>
 		<div class="tel__wrap">
 			<p class="tel__img"><img src="../images/common/header_tel.png" alt="0120-555-600"></p>
@@ -25,7 +25,7 @@
 			<div class="common_header_head is-sp">
 				<div class="common_logo_wrap">
 					<p class="common_logo_img"><a href="/"><img src="../images/common/logo.png" class="logo"
-								alt="おたからや"></a></p>
+								alt="寶藏"></a></p>
 					<h1 class="common_logo_text">黃金高價收購與鑑定估價——盡在OTAKARAYA</h1>
 				</div>
 			</div>
