@@ -187,20 +187,20 @@ $k18_pt850_half = round($k18_half + $pt850_half);
 
     <div class="shop__detail--rateSimulation">
         <div class="renew_202404_calctool_title is-sp">
-            Today's Gold Price Calculation Tool
+            今日金價計算工具
             <img
                 class="renew_2024_market_update_title"
                 src="../images/gold/tool_title_image.png">
         </div>
         <div class="renew_202404_graph_title_lead is-sp"></div>
-        <h3 class="titleSub is-pc">Today's Gold Price Calculation Tool</h3>
+        <h3 class="titleSub is-pc">今日金價計算工具</h3>
         <p class="is-pc"></p>
         <ul class="rateSimulation__wrap form__wrap">
             <li>
-                <label for="type">Purity</label>
+                <label for="type">純度</label>
                 <div class="form__liner">
                     <select id="rateSimulation--select">
-                        <option value="" selected="selected">select type</option>
+                        <option value="" selected="selected">選擇類型</option>
                         <option value="<?php echo $price_gold; ?>">Gold Ingots（gold）</option>
                         <option value="<?php echo $k24_price; ?>" <?php if ($slug == "24kin") {
                                                                         echo "selected";
@@ -271,7 +271,7 @@ $k18_pt850_half = round($k18_half + $pt850_half);
                 <p>×</p>
             </li>
             <li>
-                <label for="weight">Weight</label>
+                <label for="weight">重量</label>
                 <div class="form__liner form__liner--weight w_unit w_gram active">
                     <input type="number" class="weight" min="1" max="100000" value="1" placeholder="グラムを入力">
                 </div>

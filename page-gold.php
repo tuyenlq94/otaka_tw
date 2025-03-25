@@ -122,7 +122,7 @@
 						<div class="rateGraph__inner--select form__wrap">
 							<div class="price-chart-header form__liner">
 								<select id="graph-select" class="form-control my-5">
-									<option value="">select type</option>
+									<option value="">選擇類型</option>
 									<optgroup label="gold">
 										<option value="k24_ingot" selected="selected">Ingots (gold)</option>
 										<option value="k24">K24</option>

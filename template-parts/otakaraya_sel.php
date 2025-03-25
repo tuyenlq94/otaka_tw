@@ -4,7 +4,7 @@
 	</h2>
 	<div class="titleMain--lead">
 		<p>
-			OTAKARAYA在日本全國擁有約1,200家門市，是一間專注於高價收購的專門店。<br />
+			OTAKARAYA在日本全國擁有約1,300家門市，是一間專注於高價收購的專門店。<br />
 			創立24年，作為業界領先品牌，OTAKARAYA能提供高價收購的9大原因如下：
 		</p>
 	</div>
@@ -48,7 +48,7 @@
 				<img src="../images/common/Over_1,300stores_nationwide_PC_EN.jpg">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-					全國約1,200家門市
+					全國約1,300家門市
 					</p>
 					<p class="reason_section_text">
 						日本全國門店共享專業收購經驗與市場資訊
@@ -104,10 +104,10 @@
 				<img src="../images/daiya/Same-Day_Cash_Receipt_PC.webp">
 				<div class="reason_section_text_area">
 					<p class="reason_section_ttl">
-						<span>免費估價</span> ,無服務費
+						<span>免費評估</span> ,無服務費
 					</p>
 					<p class="reason_section_text">
-						我們將承擔所有費用！
+					我們將負擔所有費用
 					</p>
 				</div>
 			</div>

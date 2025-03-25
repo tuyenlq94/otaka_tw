@@ -208,7 +208,7 @@
 						能實現高價收購的9大原因
 					</h2>
 					<h3 class="titleMain--lead">
-						<p>OTAKARAYA在日本全國擁有約1,200家門市，是一間專注於高價收購的專門店。<br>
+						<p>OTAKARAYA在日本全國擁有約1,300家門市，是一間專注於高價收購的專門店。<br>
 							創立24年，作為業界領先品牌，OTAKARAYA能提供高價收購的9大原因如下：
 						</p>
 					</h3>
@@ -237,7 +237,7 @@
 								<span class="reason_numbering" style="position: absolute; left: 0px;">03</span>
 								<img src="images/index/Over_1,200stores_nationwide_PC.webp">
 								<div class="reason_section_text_area">
-									<p class="reason_section_ttl">日本全國超過1,200家門市</p>
+									<p class="reason_section_ttl">日本全國超過1,300家門市</p>
 									<p class="reason_section_text">日本全國門店共享專業收購經驗與市場資訊</p>
 								</div>
 							</div>

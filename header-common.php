@@ -3,7 +3,7 @@
 	<div class="header__head">
 		<div class="logo__wrap">
 			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
-			<h1 class="logo__text">黃金收購,提供免費鑑定及全國超過1,200家專業收購門市的到府收購服務</h1>
+			<h1 class="logo__text">黃金收購,提供免費鑑定及全國超過1,300家專業收購門市的到府收購服務</h1>
 		</div>
 		<div class="tel__wrap">
 			<p class="tel__img"><img src="../images/common/header_tel.png" alt="0120-555-600"></p>
