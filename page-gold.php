@@ -1657,7 +1657,7 @@
 					</div>
 			</section>
 			<section class="renew_2024_top_gg_section is-sp" style="margin-top:0px !important;">
-				<img class="renew_2024_top_gg_photo" src="../images/gold/photo_ito_sp.webp" alt="鑑定士の紹介">
+				<img class="renew_2024_top_gg_photo" src="../images/gold/photo_ito_sp.webp" alt="介紹我們的評估師">
 				<div class="renew_2024_top_gg_profile_superbox">
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left"> 名前 </div>
