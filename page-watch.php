@@ -6944,7 +6944,7 @@
 							<!--アコーディオン：2025年最新！高く売れるブランド腕時計-->
 							<div class="brandinfo__main fshoplist-target__list">
 								<div class="brandinfo__header fshoplist-target--ttl">
-									<h3 class="brandinfo__header__title">2025年最新！<br />
+									<h3 class="brandinfo__header__title">更新 2025！<br />
 										能賣高價的名牌手錶</h3>
 								</div>
 								<div class="fshoplist-target--item brandinfo__body no--image">
