@@ -7304,12 +7304,6 @@
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">如果我選擇到府收購，但擔心鄰居發現怎麼辦？</dt>
-							<dd class="qa__list__a">在收購過程中，我們的鑑定師會駕駛無公司名稱的私家車前來，請您放心。</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
 							<dt class="qa__list__q">即使是壞掉的腕錶也能收購嗎？</dt>
 							<dd class="qa__list__a">當然可以。
 								我們歡迎任何狀態的腕錶進行評估。

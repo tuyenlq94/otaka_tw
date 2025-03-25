@@ -2189,12 +2189,7 @@
 				<div class="qa__wrap js__more--3th">
 					<!-- もっと見るなし -->
 
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
-							<dt class="qa__list__q">首都圈以外也可以嗎？</dt>
-							<dd class="qa__list__a">全國各地均有專業的鑑定師前來服務。</dd>
-						</dl>
-					</div>
+
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">全國各地均有專業的鑑定師前來服務。</dt>
@@ -2215,12 +2210,6 @@
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">目前不提供郵寄收購</dt>
-							<dd class="qa__list__a">只有「到府收購」或「門市收購」。</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
 							<dt class="qa__list__q">網頁上沒有的品牌也能收購嗎？</dt>
 							<dd class="qa__list__a">當然可以，即使是單件物品也歡迎查詢。</dd>
 						</dl>
@@ -2230,13 +2219,6 @@
 							<dt class="qa__list__q">使用已久或狀況不佳的物品能收購嗎？</dt>
 							<dd class="qa__list__a">可以。即使其他公司因「過舊」、「污漬」或「日曬」等原因拒收，
 								我們也有成功收購的紀錄。</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
-							<dt class="qa__list__q">一定需要身分證明文件嗎？</dt>
-							<dd class="qa__list__a">根據法律規定，賣家必須提供身分證明文件，資料只用於確認用途，請放心。
-							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">

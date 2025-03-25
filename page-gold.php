@@ -2034,16 +2034,6 @@
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-							如果我選擇到府收購，但擔心鄰居發現怎麼辦？
-							</dt>
-							<dd class="qa__list__a">
-							當鑑定師駕車到客戶家中時，會使用沒有公司名稱的私家車，請放心。
-							</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
-							<dt class="qa__list__q">
 							沒有附屬品也可以收購嗎？
 							</dt>
 							<dd class="qa__list__a">
