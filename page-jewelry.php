@@ -85,9 +85,9 @@
 			</section>
 			<section class="simple_cta_top">
 				<div class="kv_area">
-					<p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+					<p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="休眠鑽石：不賣的話，可就虧大了！ ？">
 					</p>
-					<p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+					<p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="休眠鑽石：不賣的話，可就虧大了！ ？">
 					</p>
 				</div>
 			</section>
@@ -3368,7 +3368,7 @@ I1/I2/I3（有明顯內含物）：在10倍放大鏡下或用肉眼可以看到�
 												<div class="horizonlist--captionImg">
 													<!-- <span>03</span> -->
 													<img src="../images/daiya/2024_diamond_clarity.webp"
-														alt="Clarity">
+														alt="擇淨度">
 												</div>
 											</div>
 										</div>
@@ -3496,7 +3496,7 @@ Color Diamond），不再適用於傳統的 D-Z 顏色分級體系，而是根
 										<div class="horizonlist--img">
 											<span>01</span>
 											<img src="../images/daiya/0179640947107c8ce4ea929f8fabf164.webp"
-												alt="Colorless Diamonds">
+												alt="無色鑽石">
 										</div>
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">無色鑽石</h4>
@@ -3511,7 +3511,7 @@ Color Diamond），不再適用於傳統的 D-Z 顏色分級體系，而是根
 										<div class="horizonlist--img">
 											<span>02</span>
 											<img src="../images/daiya/765829cc287d1ac17677d3b4bead81e6.webp"
-												alt="Red Diamonds">
+												alt="紅鑽（Red Diamond）">
 										</div>
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">紅鑽（Red Diamond）</h4>
@@ -3528,7 +3528,7 @@ Red」。</p>
 										<div class="horizonlist--img">
 											<span>03</span>
 											<img src="../images/daiya/cccd2bc758949f98d64a7d337d76ec6a.webp"
-												alt="Blue Diamonds">
+												alt="藍鑽（Blue Diamond">
 										</div>
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">藍鑽（Blue Diamond</h4>
@@ -3545,7 +3545,7 @@ Red」。</p>
 										<div class="horizonlist--img">
 											<span>04</span>
 											<img src="../images/daiya/a1d4aefe9a3a9eb13922078d8726347b.webp"
-												alt="Green Diamonds">
+												alt="綠鑽（Green Diamond）">
 										</div>
 										<div class="horizonlist--text">
 											<h4 class="titleH4 title--left">綠鑽（Green Diamond）</h4>
@@ -4078,7 +4078,7 @@ Pompadour）的啟發，因此得名。									</p>
 					<div class="colBox colBox__col01">
 						<div class="col" style="display: flex; justify-content: space-between;">
 							<div class="img gg_holder_profile">
-								<img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松利香のプロフィール">
+								<img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松 利香">
 							</div>
 							<div class="gg_profile">
 								<h4 class="titleSub" style="color:black;">岩松 利香</h4>
@@ -4152,7 +4152,7 @@ Pompadour）的啟發，因此得名。									</p>
 					</div>
 					<div class="equip">
 						<div class="equip_img"><img src="../images/daiya/5592cdbaa593d89e3ab7da0e4768e03f.webp"
-								alt="Moissanite Determiner"></div>
+								alt="莫桑石鑑定器"></div>
 						<div class="equip_meta">
 							<p class="equip_title">莫桑石鑑定器</p>
 							<p class="equip_explain">在測試前需先清潔寶石表面，然後將測試探針接觸樣品。此設備
@@ -4497,7 +4497,7 @@ Pompadour）的啟發，因此得名。									</p>
 有助於更精確的評估。
 				</div>
 				<div class="renew_2024_auth_item_superbox">
-					<img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="鑑定書について">
+					<img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="關於證書">
 					<h3 class="renew_2024_auth_title_about">
 						GIA（美國寶石研究院）
 					</h3>
@@ -4505,7 +4505,7 @@ Pompadour）的啟發，因此得名。									</p>
 						src="../images/daiya/diamond_GIA.webp"
 						alt="GIA（美國寶石研究院）">
 					<h3 class="renew_2024_auth_title_about">
-						ダイヤモンド鑑定書の見方
+					如何讀懂鑽石證書
 					</h3>
 					<div class="renew_2024_auth_howtoread_itembox">
 						<div class="renew_2024_auth_howtoread_titlebox">

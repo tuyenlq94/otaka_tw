@@ -38,8 +38,8 @@
 
 
 	<div class="fv_img_wrap">
-		<img class="is-pc" src="images/index/OTAKARAYA_top_PC_EN.webp" alt="High-price purchases at Otakaraya">
-		<img class="is-sp" src="images/index/OTAKARAYA_top_SP_EN.webp" alt="High-price purchases at Otakaraya">
+		<img class="is-pc" src="images/index/OTAKARAYA_top_PC_EN.webp" alt="在 Otakaraya 購買高價商品">
+		<img class="is-sp" src="images/index/OTAKARAYA_top_SP_EN.webp" alt="在 Otakaraya 購買高價商品">
 	</div>
 
 	<?php get_template_part( 'template-parts/license' ); ?>
@@ -195,9 +195,9 @@
 			<!-- ctaセクション -->
 			<div class="cta_band_img_area">
 				<img class="is-pc" style="width: 100%;"
-					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_PC.webp" alt="今が売り時">
+					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_PC.webp" alt="現在是出售的時候了">
 				<img class="is-sp" style="width: 100%;"
-					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_SP.webp" alt="今が売り時">
+					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_SP.webp" alt="現在是出售的時候了">
 			</div>
 			<!-- ctaセクション -->
 
@@ -210,9 +210,9 @@
 			<!-- ctaセクション -->
 			<div class="cta_band_img_area">
 				<img class="is-pc" style="width: 100%;"
-					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_PC.webp" alt="今が売り時">
+					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_PC.webp" alt="現在是出售的時候了">
 				<img class="is-sp" style="width: 100%;"
-					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_SP.webp" alt="今が売り時">
+					src="images/index/Now_is_the_time_to_sell_if_you're_unsure_SP.webp" alt="現在是出售的時候了">
 			</div>
 			<!-- ctaセクション -->
 

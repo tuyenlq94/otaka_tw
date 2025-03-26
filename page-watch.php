@@ -266,8 +266,8 @@
 					<p class="american_indian">※ 上述價格是根據參考市場行情計算的，
 						實際價格會因為商品的狀態或時期而有所變動。<br />
 						※ 參考行情為最高價。</p>
-					<img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="高くなってるかも"> <img class="is-sp"
-						src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="高くなってるかも">
+					<img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="價格可能會越來越貴"> <img class="is-sp"
+						src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="價格可能會越來越貴">
 				</div>
 			</section>
 			<!--//END sec brand_tokei_sec01 -->
@@ -5744,15 +5744,15 @@
 									src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="時計画像1">
 								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="壞掉的手錶也會收購！">
 									<p>玻璃面破裂的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="壞掉的手錶也會收購！">
 									<p>不運作的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="壞掉的手錶也會收購！">
 									<p>浸水後內部生鏽的手錶</p>
 								</div>
 								<p class="description_text">「掉落後玻璃破裂了」「浸水後不再運作了」這類壞掉的手錶，
@@ -5772,11 +5772,11 @@
 									src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="時計画像2">
 								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="有多處傷痕的手錶也能收購！">
 									<p>有多處擦傷或凹痕</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="有多處傷痕的手錶也能收購！">
 									<p>用作日常使用、髒污明顯的手錶</p>
 								</div>
 								<p class="description_text">日常使用中，手錶難免會出現小刮痕或凹痕。
@@ -5795,15 +5795,15 @@
 									src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="時計画像3">
 								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="舊手錶也能高價收購！">
 									<p>鏽跡明顯的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="舊手錶也能高價收購！">
 									<p>錶盤變色的手錶</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="舊手錶也能高價收購！">
 									<p>錶盤損壞的手錶</p>
 								</div>
 								<p class="description_text">即使是舊了的手錶，其品牌價值依然不會喪失。
@@ -5821,15 +5821,15 @@
 									src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="時計画像4">
 								<p class="theme_color_text theme_color">\ 這種狀態也OK！我們依然可以收購！ /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="零件缺失的手錶也能收購！">
 									<p>沒有錶帶或錶扣</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="零件缺失的手錶也能收購！">
 									<p>錶冠或按鈕掉落</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="零件缺失的手錶也能收購！">
 									<p>螺絲或部件遺失</p>
 								</div>
 								<p class="description_text">你是否因為「零件缺失，已經賣不出去」而放棄了？
@@ -5933,7 +5933,7 @@
 								<div class="latest_results_item " style="display: block;">
 									<div class="latest_results_image img"> <img width="300" height="300"
 											src="../images/brand_tokei/fa0aaf015d15ad182d3e569d5df12c82.jpg"
-											alt="olex　Daytona　16520"> </div>
+											alt="Rolex　Daytona　16520"> </div>
 									<div class="latest_results_text_area_wrap">
 										<div class="brand_name">
 											<div class="latest_results_area">

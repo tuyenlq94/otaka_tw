@@ -44,9 +44,9 @@
 
 
   <div class="fv_img_wrap">
-    <img class="is-pc" src="../images/daiya/jewelry_FV_PC_HK.webp" alt="損したくない!?なら絶対!高価買取「OTAKARAYA」">
+    <img class="is-pc" src="../images/daiya/jewelry_FV_PC_HK.webp" alt="不想虧錢嗎？那就選擇高價值的購買選項“OTAKARAYA”">
 
-    <img class="is-sp" src="../images/daiya/jewelry_FV_SP_HK.webp" alt="損したくない!?なら絶対!高価買取「OTAKARAYA」">
+    <img class="is-sp" src="../images/daiya/jewelry_FV_SP_HK.webp" alt="不想虧錢嗎？那就選擇高價值的購買選項“OTAKARAYA”">
   </div>
   <!-- <div class="under_mv">
         <img class="is-pc" style="max-width: 1400px; margin: auto; width: 100%; margin-top: 1rem;" src="../images/daiya/2024_1216-1222キャンペーン_daiya_PC.webp" alt="買取金額UP!">
@@ -72,9 +72,9 @@
       </section>
       <section class="simple_cta_top">
         <div class="kv_area">
-          <p class="is-pc"><img src="../images/daiya/diamond_banner_PC_HK.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+          <p class="is-pc"><img src="../images/daiya/diamond_banner_PC_HK.webp" alt="休眠鑽石：不賣的話，可就虧大了！ ？">
           </p>
-          <p class="is-sp"><img src="../images/daiya/diamond_banner_SP_HK.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+          <p class="is-sp"><img src="../images/daiya/diamond_banner_SP_HK.webp" alt="休眠鑽石：不賣的話，可就虧大了！ ？">
           </p>
         </div>
       </section>
@@ -2662,7 +2662,7 @@
           <div class="colBox colBox__col01">
             <div class="col" style="display: flex; justify-content: space-between;">
               <div class="img gg_holder_profile">
-                <img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松利香のプロフィール">
+                <img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松莉香">
               </div>
               <div class="gg_profile">
                 <h4 class="titleSub" style="color:black;">岩松莉香</h4>
@@ -2938,7 +2938,7 @@
               <div class="col">
                 <div class="img">
                   <img class="custom-popup-img" src="../images/daiya/kantei_org.webp"
-                    alt="鑑定書について">
+                    alt="關於證書">
                 </div>
               </div>
             </div>
@@ -3075,7 +3075,7 @@
         <div class="renew_2024_auth_item_superbox">
 
           <img class="renew_2024_auth_item_innerimage custom-popup-img"
-            src="../images/daiya/kantei_org.webp" alt="鑑定書について">
+            src="../images/daiya/kantei_org.webp" alt="關於證書">
 
 
 

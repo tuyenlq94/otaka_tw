@@ -982,7 +982,7 @@
 							<div class="renew_2024_result_itembox">
 								<div class="renew_2024_result_item_image"> <img width="150" height="150"
 										src="../images/gold/0050d5d868704bb985f7893556db0261-150x150.webp"
-										class="attachment-thumbnail size-thumbnail" alt="祖母が使っていた  黃金飾品類"
+										class="attachment-thumbnail size-thumbnail" alt="黃金飾品"
 										decoding="async" loading="lazy" sizes="100vw"> </div>
 								<div class="renew_2024_result_item_name">黃金飾品</div>
 								<div class="renew_2024_result_item_kaitori">鑽石收購參考價格表</div>
