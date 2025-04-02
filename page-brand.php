@@ -122,18 +122,18 @@
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp"
-									alt="Hermès（愛馬仕）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Hermès（愛馬仕） </h3>
+									alt="愛馬仕 Hermès 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 愛馬仕 Hermès 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp"
-									alt="Chanel（香奈兒）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Chanel（香奈兒） </h3>
+									alt="香奈兒 Chanel 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 香奈兒 Chanel 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp"
-									alt="Louis Vuitton（路易威登）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Louis Vuitton（路易威登） </h3>
+									alt="路易威登 Louis Vuitton 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 路易威登 Louis Vuitton 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp"
@@ -152,8 +152,8 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp"
-									alt="Cartier（卡地亞）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Cartier（卡地亞） </h3>
+									alt="卡地亞 Cartier 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 卡地亞 Cartier 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp"
@@ -162,8 +162,8 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp"
-									alt="Gucci（古馳）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci（古馳） </h3>
+									alt="古馳 Gucci 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 古馳 Gucci 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp"
@@ -191,16 +191,16 @@
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="Hermès（愛馬仕）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Hermès（愛馬仕） </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="愛馬仕 Hermès 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 愛馬仕 Hermès 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="Chanel（香奈兒）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Chanel（香奈兒） </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="香奈兒 Chanel 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 香奈兒 Chanel 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="Louis Vuitton（路易威登）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Louis Vuitton（路易威登） </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="路易威登 Louis Vuitton 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 路易威登 Louis Vuitton 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="Harry Winston（哈利·溫斯頓）"> </div>
@@ -215,16 +215,16 @@
 							<h3 class="expensive_purchase_brand_item_h4"> Tiffany & Co.（蒂芙尼） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="Cartier（卡地亞）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Cartier（卡地亞） </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="卡地亞 Cartier 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 卡地亞 Cartier 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="Bvlgari（寶格麗）"> </div>
 							<h3 class="expensive_purchase_brand_item_h4"> Bvlgari（寶格麗） </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Gucci（古馳）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci（古馳） </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="古馳 Gucci 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 古馳 Gucci 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="Dior（迪奧）"> </div>
@@ -254,8 +254,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/en_birkin.webp" alt="Hermès（愛馬仕）"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Hermès（愛馬仕）
+												src="../images/brand/en_birkin.webp" alt="愛馬仕 Hermès 收購"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">愛馬仕 Hermès 收購
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -266,8 +266,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/matelasse.webp" alt="Chanel（香奈兒）"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Chanel（香奈兒）
+												src="../images/brand/matelasse.webp" alt="香奈兒 Chanel 收購"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">香奈兒 Chanel 收購
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -278,8 +278,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/monogram.webp" alt="Louis Vuitton（路易威登）"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Louis Vuitton（路易威登）
+												src="../images/brand/monogram.webp" alt="路易威登 Louis Vuitton 收購"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">路易威登 Louis Vuitton 收購
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -327,8 +327,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/lovering.webp" alt="Cartier（卡地亞）"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Cartier（卡地亞）
+												src="../images/brand/lovering.webp" alt="卡地亞 Cartier 收購"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">卡地亞 Cartier 收購
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -351,8 +351,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ggmarmont.webp" alt="Gucci（古馳）"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Gucci（古馳）
+												src="../images/brand/ggmarmont.webp" alt="古馳 Gucci 收購"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">古馳 Gucci 收購
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -2057,15 +2057,15 @@
 						</a> </div>
 					<div class="col"> <a href="./hermes/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/19_hermes.webp" alt=" Hermès（愛馬仕）"></p>
+								<p><img src="../images/brand/19_hermes.webp" alt=" 愛馬仕 Hermès 收購"></p>
 							</div>
-							<p class="text text--center"> Hermès（愛馬仕）</p>
+							<p class="text text--center"> 愛馬仕 Hermès 收購</p>
 						</a> </div>
 					<div class="col"> <a href="./chanel/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/20_chanel.webp" alt="Chanel（香奈兒）"></p>
+								<p><img src="../images/brand/20_chanel.webp" alt="香奈兒 Chanel 收購"></p>
 							</div>
-							<p class="text text--center">Chanel（香奈兒）</p>
+							<p class="text text--center">香奈兒 Chanel 收購</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kitte/" class="img__link">
 							<div class="img">

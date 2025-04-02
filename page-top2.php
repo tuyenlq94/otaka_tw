@@ -142,51 +142,51 @@
 					</a>
 					<a href="/brand/cartier/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img8@4x.webp" alt="Cartier（卡地亞）">
+							<img src="images/index/handling_brand_img8@4x.webp" alt="卡地亞 Cartier 收購">
 						</div>
-						<p class="products_area_text">Cartier（卡地亞）</p>
+						<p class="products_area_text">卡地亞 Cartier 收購</p>
 					</a>
 					<a href="/brand/louis-vuitton/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img9@4x.webp" alt="Louis Vuitton（路易威登）">
+							<img src="images/index/handling_brand_img9@4x.webp" alt="路易威登 Louis Vuitton 收購">
 						</div>
-						<p class="products_area_text">Louis Vuitton（路易威登）</p>
+						<p class="products_area_text">路易威登 Louis Vuitton 收購</p>
 					</a>
 					<a href="/brand/hermes/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img10@4x.webp" alt=" Hermès（愛馬仕）">
+							<img src="images/index/handling_brand_img10@4x.webp" alt=" 愛馬仕 Hermès 收購">
 						</div>
-						<p class="products_area_text"> Hermès（愛馬仕）</p>
+						<p class="products_area_text"> 愛馬仕 Hermès 收購</p>
 					</a>
 					<a href="/brand/chanel/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img11@4x.webp" alt="Chanel（香奈兒）">
+							<img src="images/index/handling_brand_img11@4x.webp" alt="香奈兒 Chanel 收購">
 						</div>
-						<p class="products_area_text">Chanel（香奈兒）</p>
+						<p class="products_area_text">香奈兒 Chanel 收購</p>
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img12@4x.webp" alt="Christian Dior（迪奧）">
+							<img src="images/index/handling_brand_img12@4x.webp" alt="克里斯汀·迪奧 Christian Dior 收購">
 						</div>
-						<p class="products_area_text">Christian Dior（迪奧）</p>
+						<p class="products_area_text">克里斯汀·迪奧 Christian Dior 收購</p>
 					</a>
 					<a href="/brand/celine/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img13@4x.webp" alt="Celine Purchase">
+							<img src="images/index/handling_brand_img13@4x.webp" alt="思琳 Celine 收購">
 						</div>
-						<p class="products_area_text">Celine Purchase</p>
+						<p class="products_area_text">思琳 Celine 收購</p>
 					</a>
 					<a href="/brand/fendi/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img14@4x.webp" alt="Fendi Purchase">
+							<img src="images/index/handling_brand_img14@4x.webp" alt="芬迪 Fendi 收購">
 						</div>
-						<p class="products_area_text">Fendi Purchase</p>
+						<p class="products_area_text">芬迪 Fendi 收購</p>
 					</a>
 					<a href="/brand/gucci/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img15@4x.webp" alt="Gucci（古馳）">
+							<img src="images/index/handling_brand_img15@4x.webp" alt="古馳 Gucci 收購">
 						</div>
-						<p class="products_area_text">Gucci（古馳）</p>
+						<p class="products_area_text">古馳 Gucci 收購</p>
 					</a>
 				</div>
 			</section>
