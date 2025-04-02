@@ -41,10 +41,10 @@
 									<p class="content__image img"></p>
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/2b21d2033e8b9e767bcb0b0b64c76a16-150x150.webp"
-											class="attachment-thumbnail size-thumbnail" alt="黃金項鍊收購 and gold coin"
+											class="attachment-thumbnail size-thumbnail" alt="gold necklace and gold coin"
 											decoding="async" loading="lazy" sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">黃金項鍊收購 and gold coin</p>
+									<p class="content--name">gold necklace and gold coin</p>
 								</div>
 							</a>
 							<div class="content__text">
@@ -57,10 +57,10 @@
 									<p class="content__image img"></p>
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/0050d5d868704bb985f7893556db0261-150x150.webp"
-											class="attachment-thumbnail size-thumbnail" alt="祖母が使っていた  黃金飾品類"
+											class="attachment-thumbnail size-thumbnail" alt="gold accessories"
 											decoding="async" loading="lazy" sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">黃金飾品</p>
+									<p class="content--name">gold accessories</p>
 								</div>
 							</a>
 							<div class="content__text">
