@@ -269,8 +269,8 @@
 								<span class="reason_numbering" style="position: absolute; left: 0px;">07</span>
 								<img src="images/index/Same-Day_Cash_Receipt_PC.webp">
 								<div class="reason_section_text_area">
-									<p class="reason_section_ttl">即日現金支付</p>
-									<p class="reason_section_text">無論交易金額大小，我們都能在交易完成後即時支付現金！</p>
+									<p class="reason_section_ttl"><span>免費評估</span> ,無服務費</p>
+									<p class="reason_section_text">我們將負擔所有費用</p>
 								</div>
 							</div>
 							<div class="reason_area_img_wrap" style="position: relative;">
