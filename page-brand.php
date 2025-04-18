@@ -137,18 +137,18 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp"
-									alt="Harry Winston（哈利·溫斯頓）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Harry Winston（哈利·溫斯頓） </h3>
+									alt="哈利·溫斯頓 Harry Winston 收購）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 哈利·溫斯頓 Harry Winston 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp"
-									alt="Van Cleef & Arpels（梵克雅寶）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Van Cleef & Arpels（梵克雅寶） </h3>
+									alt="梵克雅寶 Van Cleef & Arpels 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 梵克雅寶 Van Cleef & Arpels 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp"
-									alt="Tiffany & Co.（蒂芙尼）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Tiffany & Co.（蒂芙尼） </h3>
+									alt="蒂芙尼 Tiffany & Co. 收購）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 蒂芙尼 Tiffany & Co. 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp"
@@ -157,8 +157,8 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp"
-									alt="Bvlgari（寶格麗）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Bvlgari（寶格麗） </h3>
+									alt="寶格麗 Bvlgari 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 寶格麗 Bvlgari 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp"
@@ -167,18 +167,18 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp"
-									alt="Dior（迪奧）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Dior（迪奧） </h3>
+									alt="迪奧 Dior 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 迪奧 Dior 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp"
-									alt="Prada（普拉達）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Prada（普拉達） </h3>
+									alt="普拉達 Prada 收購"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 普拉達 Prada 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img
-									src="../images/brand/happydiamond.webp" alt="Chopard（蕭邦）"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Chopard（蕭邦） </h3>
+									src="../images/brand/happydiamond.webp" alt="蕭邦 Chopard 收購）"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> 蕭邦 Chopard 收購 </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
