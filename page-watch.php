@@ -7195,8 +7195,7 @@
 										src="../images/brand_tokei/24f0e59011854ed5fab6581dd0386e70.webp" alt=""></div>
 								<ul class="floatlist">
 									<li class="shop-leader_name sitetextcolor" style="font-family: serif;"> <span
-											class="noto ja" style="font-weight: bold;"> 木村</span><br>
-										<span class="noto light en">kimura</span>
+											class="noto ja" style="font-weight: bold; font-size: 40px;">Kimura</span>
 									</li>
 									<li class="shop-leader_info">
 										<table>

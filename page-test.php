@@ -3210,7 +3210,7 @@
                     src=../images/daiya/568433d3328efc80e6346b56a8db47df.webp alt=""></div>
                 <ul class="floatlist">
                   <li class="shop-leader_name sitetextcolor" style="font-family: serif;">
-                    <span class="noto ja" style="font-weight: bold;"> 岩松</span>
+                    <span class="noto ja" style="font-weight: bold;">Iwamatsu</span>
                     <!-- <br>
                                         <span class="noto light en">iwamatsu</span> -->
                   </li>

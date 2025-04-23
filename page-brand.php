@@ -2322,8 +2322,7 @@
 										src="../images/brand/25bd634c4c9a33639e17210a92b9927c.webp" alt=""></div>
 								<ul class="floatlist">
 									<li class="shop-leader_name sitetextcolor" style="font-family: serif;"> <span
-											class="noto ja" style="font-weight: bold;"> 下舘</span><br>
-										<span class="noto light en"></span>
+											class="noto ja" style="font-weight: bold;">Shimodate</span>
 									</li>
 									<li class="shop-leader_info">
 										<table>

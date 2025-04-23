@@ -162,7 +162,7 @@
 				$price_all   = get_page_by_path( 'price_all' );
 				$price_all   = $price_all->ID;
 				$table       = $daiya_data[ 'acf' ][ 'souba_price_all' ];
-				$carat_num   = [
+				$carat_num   = [ 
 					[ "value" => "0.1", "label" => "01ct" ],
 					[ "value" => "0.2", "label" => "02ct" ],
 					[ "value" => "0.3", "label" => "03ct" ],
@@ -219,7 +219,7 @@
 				foreach ( $m[ 0 ] as $index => $value ) {
 					$interval    = 660; // $interval の初期値を設定(各カラットの要素数が660)
 					$carat_index = floor( ( $cnt ) / $interval ); // カラットのインデックスを計算
-
+			
 					// インデックスが carat_value の範囲内にあるかどうかを確認し、それに応じて $ct_num を設定
 					if ( $carat_index >= 0 && $carat_index < count( $carat_value ) ) {
 						$ct_num = $carat_value[ $carat_index ];
@@ -1031,295 +1031,295 @@
 											s: 'tbody th',
 											f: function ( idx ) {
 												return ( $( this ).html() === color_val ) ? idx : null},
-																},
-															};
-																																																																																																																																						var reachAdjust = 8;
+																	},
+																};
+																																																																																																																																							var reachAdjust = 8;
 
-																																																																																																																																						var applyCellReach = true;
-
-
-																																																																																																																																						var ct_id = "#ct-" + vals.carat; //変更
-
-																																																																																																																																						var clarity = vals.clarity;
-																																																																																																																																						var cut = vals.cut;
-																																																																																																																																						var color = vals.color;
-																																																																																																																																						var reach_id = ct_id + "-" + clarity;
-																																																																																																																																						$reachWrap = $(reach_id);
-
-																																																																																																																																						point.x.s = 'thead th';
-																																																																																																																																						point.x.f = function(idx) {
-																																																																																																																																							return ($(this).hasClass(cut)) ? idx : null;
-																																																																																																																																						};
-																																																																																																																																						point.y.s = 'tbody td[class*="color"]';
-																																																																																																																																						point.y.f = function(idx) {
-																																																																																																																																							return ($(this).html() === color) ? idx : null;
-																																																																																																																																						};
-
-																																																																																																																																						reachAdjust = 5;
-
-																																																																																																																																						applyCellReach = false;
+																																																																																																																																							var applyCellReach = true;
 
 
-																																																																																																																																						if (!$reachWrap.length) return;
+																																																																																																																																							var ct_id = "#ct-" + vals.carat; //変更
 
-																																																																																																																																						var $table = $('table');
-																																																																																																																																						var x = $table.find(point.x.s).map(point.x.f).get(0);
-																																																																																																																																						var y = $table.find(point.y.s).map(point.y.f).get(0);
-																																																																																																																																						var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
-																																																																																																																																						reachScorllIfSp();
+																																																																																																																																							var clarity = vals.clarity;
+																																																																																																																																							var cut = vals.cut;
+																																																																																																																																							var color = vals.color;
+																																																																																																																																							var reach_id = ct_id + "-" + clarity;
+																																																																																																																																							$reachWrap = $(reach_id);
 
-																																																																																																																																						applyCellReach = (y > 0 && applyCellReach) || false;
+																																																																																																																																							point.x.s = 'thead th';
+																																																																																																																																							point.x.f = function(idx) {
+																																																																																																																																								return ($(this).hasClass(cut)) ? idx : null;
+																																																																																																																																							};
+																																																																																																																																							point.y.s = 'tbody td[class*="color"]';
+																																																																																																																																							point.y.f = function(idx) {
+																																																																																																																																								return ($(this).html() === color) ? idx : null;
+																																																																																																																																							};
 
-																																																																																																																																						var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
-																																																																																																																																						reach = reach - $priceWrap.position().top;
-																																																																																																																																						reach = $priceWrap.scrollTop() + reach - reachAdjust;
+																																																																																																																																							reachAdjust = 5;
 
-																																																																																																																																						// スクロール
-																																																																																																																																						// reachScroll(reach, cell);
-																																																																																																																																						$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
-																																																																																																																																							'<span class="value">HK$</span>');
-																																																																																																																																						$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
-																																																																																																																																							'<span class="value">HK$</span>');
+																																																																																																																																							applyCellReach = false;
 
-																																																																																																																																						daiya_calc = cell.text();
-																																																																																																																																						daiya_calc = daiya_calc.replace(/en/g, '');
-																																																																																																																																						daiya_calc = daiya_calc.replace(/,/g, '');
-																																																																																																																																						daiya_calc = Number(daiya_calc);
-																																																																																																																																						simulation_select_val = $("#simulation_select").val();
-																																																																																																																																						simulation_select_val = simulation_select_val.replace(/,/g, '');
-																																																																																																																																						simulation_select_val = Number(simulation_select_val);
-																																																																																																																																						weight_val = $("#weight").val();
-																																																																																																																																						weight_val = Number(weight_val);
-																																																																																																																																						simulation_select_val = simulation_select_val * weight_val;
-																																																																																																																																						gold_daiya_calc = simulation_select_val + daiya_calc;
-																																																																																																																																						gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
-																																																																																																																																						$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
+
+																																																																																																																																							if (!$reachWrap.length) return;
+
+																																																																																																																																							var $table = $('table');
+																																																																																																																																							var x = $table.find(point.x.s).map(point.x.f).get(0);
+																																																																																																																																							var y = $table.find(point.y.s).map(point.y.f).get(0);
+																																																																																																																																							var cell = $reachWrap.find("tr").eq(y).find("td").eq(x);
+																																																																																																																																							reachScorllIfSp();
+
+																																																																																																																																							applyCellReach = (y > 0 && applyCellReach) || false;
+
+																																																																																																																																							var reach = (applyCellReach) ? $(cell).position().top : $reachWrap.position().top;
+																																																																																																																																							reach = reach - $priceWrap.position().top;
+																																																																																																																																							reach = $priceWrap.scrollTop() + reach - reachAdjust;
+
+																																																																																																																																							// スクロール
+																																																																																																																																							// reachScroll(reach, cell);
+																																																																																																																																							$("#diamond_price_table_display_inner #price_table_calc").html(cell.text() +
+																																																																																																																																								'<span class="value">HK$</span>');
+																																																																																																																																							$("#diamond_price_table_display_2 #price_table_calc").html(cell.text() +
+																																																																																																																																								'<span class="value">HK$</span>');
+
+																																																																																																																																							daiya_calc = cell.text();
+																																																																																																																																							daiya_calc = daiya_calc.replace(/en/g, '');
+																																																																																																																																							daiya_calc = daiya_calc.replace(/,/g, '');
+																																																																																																																																							daiya_calc = Number(daiya_calc);
+																																																																																																																																							simulation_select_val = $("#simulation_select").val();
+																																																																																																																																							simulation_select_val = simulation_select_val.replace(/,/g, '');
+																																																																																																																																							simulation_select_val = Number(simulation_select_val);
+																																																																																																																																							weight_val = $("#weight").val();
+																																																																																																																																							weight_val = Number(weight_val);
+																																																																																																																																							simulation_select_val = simulation_select_val * weight_val;
+																																																																																																																																							gold_daiya_calc = simulation_select_val + daiya_calc;
+																																																																																																																																							gold_daiya_calc = String(gold_daiya_calc).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,');
+																																																																																																																																							$("#daiya_gold_calc").html(gold_daiya_calc + '<span class="value">HK$</span>');
+
+																																																																																																																																						});
+																																																																																																																																					}
+
+																																																																																																																																					// Initial setup
+																																																																																																																																					updateElementsAndEvents('tab2');
+
+																																																																																																																																					// Event handlers
+																																																																																																																																					$(".price_table_contents_nav2").on('click', function() {
+																																																																																																																																						updateElementsAndEvents('tab1');
+																																																																																																																																					});
+
+																																																																																																																																					$(".price_table_contents_nav1").on('click', function() {
+																																																																																																																																						updateElementsAndEvents('tab2');
+																																																																																																																																					});
+
+
+																																																																																																																																					// new
+																																																																																																																																					// ページロード時に価格データを取得
+																																																																																																																																					var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
+																																																																																																																																					var prices = {};
+																																																																																																																																					for (var i = 0; i < carat_num.length; i++) {
+																																																																																																																																						var label = carat_num[i]['label'];
+																																																																																																																																						var id = "#ct-" + label + "-if";
+																																																																																																																																						var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
+																																																																																																																																						prices[label] = price;
+																																																																																																																																					}
+
+																																																																																																																																					function updatePrice(carat, target) {
+																																																																																																																																						var price = prices[carat];
+																																																																																																																																						if (price) {
+																																																																																																																																							$(target).html(price + '<span class="value">HK$</span>');
+																																																																																																																																						}
+																																																																																																																																					}
+
+																																																																																																																																					$("#carat_only_btn1").on('click', function() {
+																																																																																																																																						var carat_only_price_area = $("#carat_only_price_area select").val();
+																																																																																																																																						updatePrice(carat_only_price_area, "#carat_only_price");
+																																																																																																																																					});
+
+																																																																																																																																					$(document).on('click', '#carat_only_btn2', function() {
+																																																																																																																																						var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
+																																																																																																																																						console.log("Selected carat: ", carat_only_price_area2);
+																																																																																																																																						updatePrice(carat_only_price_area2, "#carat_only_price2");
+
+																																																																																																																																						var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
+																																																																																																																																						var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
+																																																																																																																																						var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
+																																																																																																																																						var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
+
+																																																																																																																																						var goldCalcPrice = goldPriceVal * weight;
+																																																																																																																																						if (isNaN(goldCalcPrice)) {
+																																																																																																																																							goldCalcPrice = 0;
+																																																																																																																																						}
+																																																																																																																																						// var total = caratPrice + answer2 + goldCalcPrice;
+																																																																																																																																						var total = caratPrice + answer2;
+
+																																																																																																																																						$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
+																																																																																																																																					});
+
+
+																																																																																																																																					$(".price_table_contents_nav").on('click', function() {
+																																																																																																																																						$("#price_table_contents1 #price_table_calc").text("0");
+																																																																																																																																						$("#price_table_contents2 #price_table_calc").text("0");
+																																																																																																																																					});
+
+																																																																																																																																					// タブ処理
+																																																																																																																																					$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																						$(".arrow_bottom_daiya_default").css("display", "block");
+																																																																																																																																						$(".arrow_bottom_gold_default").css("display", "none");
+																																																																																																																																						$(".arrow_bottom_gold").css("display", "block");
+																																																																																																																																						$(".arrow_bottom_daiya").css("display", "none");
+																																																																																																																																						$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
+																																																																																																																																						$(".prompt_text_daiya").css("display", "none");
+																																																																																																																																						$(".prompt_text_gold").css("display", "block");
+																																																																																																																																					});
+																																																																																																																																					$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																						$(".arrow_bottom_daiya_default").css("display", "none");
+																																																																																																																																						$(".arrow_bottom_daiya").css("display", "block");
+																																																																																																																																						$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
+																																																																																																																																						$(".prompt_text_gold").css("display", "none");
+																																																																																																																																						$(".prompt_text_daiya").css("display", "block");
+																																																																																																																																					});
+																																																																																																																																					let clone1 = $(".calc_area").clone();
+																																																																																																																																					$(".cloned_gold_calc").append(clone1);
+
+
+																																																																																																																																				});
+																																																																																																																																				const ua = navigator.userAgent;
+																																																																																																																																				if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
+
+																																																																																																																																					// タブ処理
+																																																																																																																																					$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																						$("#tablelistbox h2").css("margin-top", "680px");
+																																																																																																																																						$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
+																																																																																																																																						$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
+																																																																																																																																					});
+																																																																																																																																					$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																						$("#tablelistbox h2").css("margin-top", "160%");
+																																																																																																																																					});
+
+																																																																																																																																				} else {
+																																																																																																																																					// pc
+
+
+																																																																																																																																					jQuery(document).ready(function($) {
+																																																																																																																																						input_width = $(".otkr-plicelist #searchbox p input").width();
+																																																																																																																																						text_width = 130
+																																																																																																																																						arrow_width = 15;
+																																																																																																																																						margin_width = 10;
+																																																																																																																																						arrow_text_width = text_width + arrow_width + margin_width;
+																																																																																																																																						arrow_text_width_calc = input_width - arrow_text_width;
+																																																																																																																																						arrow_text_width_calc = arrow_text_width_calc / 2;
+																																																																																																																																						arrow_text_width_calc = arrow_text_width_calc + 22;
+																																																																																																																																						$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
+																																																																																																																																					});
+
+
+																																																																																																																																					// タブ処理
+																																																																																																																																					$("a[href='#price_table_contents2']").on('click', function() {
+																																																																																																																																						var windowWidth = $(window).width();
+
+																																																																																																																																						if (windowWidth >= 1361) {
+																																																																																																																																							$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																																						} else {
+																																																																																																																																							$("#tablelistbox > h2").css("margin-top", "650px");
+																																																																																																																																						}
+
+																																																																																																																																					});
+																																																																																																																																					$("a[href='#price_table_contents1']").on('click', function() {
+																																																																																																																																						$("#tablelistbox > h2").css("margin-top", "400px");
 
 																																																																																																																																					});
 																																																																																																																																				}
 
-																																																																																																																																				// Initial setup
-																																																																																																																																				updateElementsAndEvents('tab2');
+																																																																																																																																			});
+																																																																																																																																		</script>
 
-																																																																																																																																				// Event handlers
-																																																																																																																																				$(".price_table_contents_nav2").on('click', function() {
-																																																																																																																																					updateElementsAndEvents('tab1');
-																																																																																																																																				});
+																																																																																																																																		<script>
+																																																																																																																																			document.addEventListener('DOMContentLoaded', function() {
 
-																																																																																																																																				$(".price_table_contents_nav1").on('click', function() {
-																																																																																																																																					updateElementsAndEvents('tab2');
-																																																																																																																																				});
+																																																																																																																																				function multi(selectId, weightId, answerId, answerCpId) {
+																																																																																																																																					var text = jQuery('#' + selectId + ' option:selected').val();
+																																																																																																																																					if (text === undefined) {
+																																																																																																																																						console.error('No selected option found for #' + selectId);
+																																																																																																																																						return;
+																																																																																																																																					}
 
+																																																																																																																																					var removed = text.replace(/,/g, '');
+																																																																																																																																					var num = parseInt(removed, 10);
+																																																																																																																																					var weight = jQuery("#" + weightId).val();
 
-																																																																																																																																				// new
-																																																																																																																																				// ページロード時に価格データを取得
-																																																																																																																																				var carat_num = <?php echo wp_json_encode( $carat_num ) ?>;
-																																																																																																																																				var prices = {};
-																																																																																																																																				for (var i = 0; i < carat_num.length; i++) {
-																																																																																																																																					var label = carat_num[i]['label'];
-																																																																																																																																					var id = "#ct-" + label + "-if";
-																																																																																																																																					var price = $(id + " > tr:nth-child(1) > td:nth-child(2)").text();
-																																																																																																																																					prices[label] = price;
-																																																																																																																																				}
+																																																																																																																																					if (num) {
+																																																																																																																																						if (weight) {
+																																																																																																																																							var _up = 0;
 
-																																																																																																																																				function updatePrice(carat, target) {
-																																																																																																																																					var price = prices[carat];
-																																																																																																																																					if (price) {
-																																																																																																																																						$(target).html(price + '<span class="value">HK$</span>');
+																																																																																																																																							var answer_cp = num * weight + _up * weight;
+																																																																																																																																							answer_cp = Math.round(answer_cp).toLocaleString();
+																																																																																																																																							jQuery('#' + answerCpId).text(answer_cp);
+
+																																																																																																																																							var answer = num * weight;
+																																																																																																																																							answer = Math.round(answer).toLocaleString();
+
+																																																																																																																																							// ここで値を確認
+																																																																																																																																							console.log("Calculated Answer:", answer);
+
+																																																																																																																																							// 1. `val()` で `input` の値を設定
+																																																																																																																																							jQuery('#' + answerId).val("HK$ " + answer);
+
+																																																																																																																																							// 2. `setAttribute` も試してみる
+																																																																																																																																							document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
+
+																																																																																																																																							// 値が正しくセットされたか確認
+																																																																																																																																							console.log("Updated Input Value:", jQuery('#' + answerId).val());
+																																																																																																																																						}
 																																																																																																																																					}
 																																																																																																																																				}
 
-																																																																																																																																				$("#carat_only_btn1").on('click', function() {
-																																																																																																																																					var carat_only_price_area = $("#carat_only_price_area select").val();
-																																																																																																																																					updatePrice(carat_only_price_area, "#carat_only_price");
+
+
+																																																																																																																																				jQuery(document).on('change', '#simulation_select', function() {
+																																																																																																																																					multi('simulation_select', 'weight', 'answer', 'answer_cp');
 																																																																																																																																				});
 
-																																																																																																																																				$(document).on('click', '#carat_only_btn2', function() {
-																																																																																																																																					var carat_only_price_area2 = $("#carat_only_price_area2 select").val();
-																																																																																																																																					console.log("Selected carat: ", carat_only_price_area2);
-																																																																																																																																					updatePrice(carat_only_price_area2, "#carat_only_price2");
-
-																																																																																																																																					var caratPrice = parseInt($("#carat_only_price2").text().replace(/[HK$,]/g, ''), 10);
-																																																																																																																																					var answer2 = parseInt($("#answer2").val().replace(/,/g, ''), 10);
-																																																																																																																																					var goldPriceVal = parseInt($("#simulation_select2").val().replace(/,/g, ''), 10);
-																																																																																																																																					var weight = parseFloat($("#weight2").val().replace(/,/g, ''));
-
-																																																																																																																																					var goldCalcPrice = goldPriceVal * weight;
-																																																																																																																																					if (isNaN(goldCalcPrice)) {
-																																																																																																																																						goldCalcPrice = 0;
-																																																																																																																																					}
-																																																																																																																																					// var total = caratPrice + answer2 + goldCalcPrice;
-																																																																																																																																					var total = caratPrice + answer2;
-
-																																																																																																																																					$("#daiya_gold_calc2").html(total.toLocaleString() + '<span class="value">HK$</span>');
+																																																																																																																																				jQuery(document).on('change', '#weight', function() {
+																																																																																																																																					multi('simulation_select', 'weight', 'answer', 'answer_cp');
 																																																																																																																																				});
 
-
-																																																																																																																																				$(".price_table_contents_nav").on('click', function() {
-																																																																																																																																					$("#price_table_contents1 #price_table_calc").text("0");
-																																																																																																																																					$("#price_table_contents2 #price_table_calc").text("0");
+																																																																																																																																				jQuery(document).on('change', '#simulation_select2', function() {
+																																																																																																																																					multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
 																																																																																																																																				});
 
-																																																																																																																																				// タブ処理
-																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																																					$(".arrow_bottom_daiya_default").css("display", "block");
-																																																																																																																																					$(".arrow_bottom_gold_default").css("display", "none");
-																																																																																																																																					$(".arrow_bottom_gold").css("display", "block");
-																																																																																																																																					$(".arrow_bottom_daiya").css("display", "none");
-																																																																																																																																					$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "none");
-																																																																																																																																					$(".prompt_text_daiya").css("display", "none");
-																																																																																																																																					$(".prompt_text_gold").css("display", "block");
-																																																																																																																																				});
-																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																																					$(".arrow_bottom_daiya_default").css("display", "none");
-																																																																																																																																					$(".arrow_bottom_daiya").css("display", "block");
-																																																																																																																																					$("#diamond_price_table_display_inner .price_table_calc_area").css("display", "flex");
-																																																																																																																																					$(".prompt_text_gold").css("display", "none");
-																																																																																																																																					$(".prompt_text_daiya").css("display", "block");
-																																																																																																																																				});
-																																																																																																																																				let clone1 = $(".calc_area").clone();
-																																																																																																																																				$(".cloned_gold_calc").append(clone1);
-
-
-																																																																																																																																			});
-																																																																																																																																			const ua = navigator.userAgent;
-																																																																																																																																			if (ua.indexOf('iPhone') > -1 || (ua.indexOf('Android') > -1 && ua.indexOf('Mobile') > -1)) {
-
-																																																																																																																																				// タブ処理
-																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																																					$("#tablelistbox h2").css("margin-top", "680px");
-																																																																																																																																					$("a[href='#price_table_contents2'] .arrow_bottom_gold").css("display", "none")
-																																																																																																																																					$("a[href='#price_table_contents2'] .arrow_bottom").css("display", "block")
-																																																																																																																																				});
-																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																																					$("#tablelistbox h2").css("margin-top", "160%");
+																																																																																																																																				jQuery(document).on('change', '#weight2', function() {
+																																																																																																																																					multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
 																																																																																																																																				});
 
-																																																																																																																																			} else {
-																																																																																																																																				// pc
-
-
-																																																																																																																																				jQuery(document).ready(function($) {
-																																																																																																																																					input_width = $(".otkr-plicelist #searchbox p input").width();
-																																																																																																																																					text_width = 130
-																																																																																																																																					arrow_width = 15;
-																																																																																																																																					margin_width = 10;
-																																																																																																																																					arrow_text_width = text_width + arrow_width + margin_width;
-																																																																																																																																					arrow_text_width_calc = input_width - arrow_text_width;
-																																																																																																																																					arrow_text_width_calc = arrow_text_width_calc / 2;
-																																																																																																																																					arrow_text_width_calc = arrow_text_width_calc + 22;
-																																																																																																																																					$(".otkr-plicelist #searchbox p input").css("padding-right", arrow_text_width_calc);
-																																																																																																																																				});
-
-
-																																																																																																																																				// タブ処理
-																																																																																																																																				$("a[href='#price_table_contents2']").on('click', function() {
-																																																																																																																																					var windowWidth = $(window).width();
-
-																																																																																																																																					if (windowWidth >= 1361) {
-																																																																																																																																						$("#tablelistbox > h2").css("margin-top", "650px");
-																																																																																																																																					} else {
-																																																																																																																																						$("#tablelistbox > h2").css("margin-top", "650px");
-																																																																																																																																					}
-
-																																																																																																																																				});
-																																																																																																																																				$("a[href='#price_table_contents1']").on('click', function() {
-																																																																																																																																					$("#tablelistbox > h2").css("margin-top", "400px");
-
-																																																																																																																																				});
-																																																																																																																																			}
-
-																																																																																																																																		});
-																																																																																																																																	</script>
-
-																																																																																																																																	<script>
-																																																																																																																																		document.addEventListener('DOMContentLoaded', function() {
-
-																																																																																																																																			function multi(selectId, weightId, answerId, answerCpId) {
-																																																																																																																																				var text = jQuery('#' + selectId + ' option:selected').val();
-																																																																																																																																				if (text === undefined) {
-																																																																																																																																					console.error('No selected option found for #' + selectId);
-																																																																																																																																					return;
-																																																																																																																																				}
-
-																																																																																																																																				var removed = text.replace(/,/g, '');
-																																																																																																																																				var num = parseInt(removed, 10);
-																																																																																																																																				var weight = jQuery("#" + weightId).val();
-
-																																																																																																																																				if (num) {
-																																																																																																																																					if (weight) {
-																																																																																																																																						var _up = 0;
-
-																																																																																																																																						var answer_cp = num * weight + _up * weight;
-																																																																																																																																						answer_cp = Math.round(answer_cp).toLocaleString();
-																																																																																																																																						jQuery('#' + answerCpId).text(answer_cp);
-
-																																																																																																																																						var answer = num * weight;
-																																																																																																																																						answer = Math.round(answer).toLocaleString();
-
-																																																																																																																																						// ここで値を確認
-																																																																																																																																						console.log("Calculated Answer:", answer);
-
-																																																																																																																																						// 1. `val()` で `input` の値を設定
-																																																																																																																																						jQuery('#' + answerId).val("HK$ " + answer);
-
-																																																																																																																																						// 2. `setAttribute` も試してみる
-																																																																																																																																						document.getElementById(answerId).setAttribute("value", "HK$ " + answer);
-
-																																																																																																																																						// 値が正しくセットされたか確認
-																																																																																																																																						console.log("Updated Input Value:", jQuery('#' + answerId).val());
-																																																																																																																																					}
-																																																																																																																																				}
-																																																																																																																																			}
-
-
-
-																																																																																																																																			jQuery(document).on('change', '#simulation_select', function() {
-																																																																																																																																				multi('simulation_select', 'weight', 'answer', 'answer_cp');
-																																																																																																																																			});
-
-																																																																																																																																			jQuery(document).on('change', '#weight', function() {
-																																																																																																																																				multi('simulation_select', 'weight', 'answer', 'answer_cp');
-																																																																																																																																			});
-
-																																																																																																																																			jQuery(document).on('change', '#simulation_select2', function() {
-																																																																																																																																				multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-																																																																																																																																			});
-
-																																																																																																																																			jQuery(document).on('change', '#weight2', function() {
-																																																																																																																																				multi('simulation_select2', 'weight2', 'answer2', 'answer_cp2');
-																																																																																																																																			});
-
-																																																																																																																																			jQuery(function() {
-																																																																																																																																				jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
-																																																																																																																																					var month = parseInt(jQuery(this).val());
-																																																																																																																																					var monthMax = parseInt(jQuery(this).attr('max'));
-																																																																																																																																					var monthMin = parseInt(jQuery(this).attr('min'));
-																																																																																																																																					if (month > monthMax) {
-																																																																																																																																						jQuery(this).val(monthMax);
-																																																																																																																																					}
-																																																																																																																																					if (month < monthMin) {
-																																																																																																																																						jQuery(this).val(monthMin);
-																																																																																																																																					}
+																																																																																																																																				jQuery(function() {
+																																																																																																																																					jQuery(document).on('mouseup keyup', '#weight, #weight2', function(e) {
+																																																																																																																																						var month = parseInt(jQuery(this).val());
+																																																																																																																																						var monthMax = parseInt(jQuery(this).attr('max'));
+																																																																																																																																						var monthMin = parseInt(jQuery(this).attr('min'));
+																																																																																																																																						if (month > monthMax) {
+																																																																																																																																							jQuery(this).val(monthMax);
+																																																																																																																																						}
+																																																																																																																																						if (month < monthMin) {
+																																																																																																																																							jQuery(this).val(monthMin);
+																																																																																																																																						}
+																																																																																																																																					});
 																																																																																																																																				});
 																																																																																																																																			});
-																																																																																																																																		});
-																																																																																																																																	</script>
+																																																																																																																																		</script>
 
-																																																																																																																																	<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
-																																																																																																																																	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-																																																																																																																																	<script src="/rate_files_v2/japanese-holidays.min.js"></script>
-																																																																																																																																	<script src="/rate_files_v2/price_load_ex.js"></script>
-																																																																																																																																	<script>
-																																																																																																																																		//crossdomainのphpファイルのアップ先URL
-																																																																																																																																		const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
-																																																																																																																																		//データを反映したいDOM要素のID
-																																																																																																																																		const dom_id = ["#price", "#simulation", "#todayprice"];
-																																																																																																																																		Vue.use(PriceLoad, {
-																																																																																																																																			_file: crossdomain_file,
-																																																																																																																																			_dom: dom_id
-																																																																																																																																		});
-																																																																																																																																	</script>
+																																																																																																																																		<script src="https://www.otakaraya.jp/js/vue.min.js"></script>
+																																																																																																																																		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+																																																																																																																																		<script src="/rate_files_v2/japanese-holidays.min.js"></script>
+																																																																																																																																		<script src="/rate_files_v2/price_load_ex.js"></script>
+																																																																																																																																		<script>
+																																																																																																																																			//crossdomainのphpファイルのアップ先URL
+																																																																																																																																			const crossdomain_file = "https://www.otakaraya.jp/rate_files_v2/crossdomain.php";
+																																																																																																																																			//データを反映したいDOM要素のID
+																																																																																																																																			const dom_id = ["#price", "#simulation", "#todayprice"];
+																																																																																																																																			Vue.use(PriceLoad, {
+																																																																																																																																				_file: crossdomain_file,
+																																																																																																																																				_dom: dom_id
+																																																																																																																																			});
+																																																																																																																																		</script>
 
 			<?php } ?>
 
@@ -4078,10 +4078,10 @@ Pompadour）的啟發，因此得名。									</p>
 					<div class="colBox colBox__col01">
 						<div class="col" style="display: flex; justify-content: space-between;">
 							<div class="img gg_holder_profile">
-								<img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松 利香">
+								<img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="Rika Iwamatsu">
 							</div>
 							<div class="gg_profile">
-								<h4 class="titleSub" style="color:black;">岩松 利香</h4>
+								<h4 class="titleSub" style="color:black;">Rika Iwamatsu</h4>
 								<div class="profile">
 									<nobr>
 										<p class="profile1">Profile</p>
@@ -4633,7 +4633,7 @@ Pompadour）的啟發，因此得名。									</p>
 								</div>
 								<ul class="floatlist">
 									<li class="shop-leader_name sitetextcolor" style="font-family: serif;">
-										<span class="noto ja" style="font-weight: bold;"> 岩松</span>
+										<span class="noto ja" style="font-weight: bold; font-size: 40px;">Iwamatsu</span>
 									</li>
 									<li class="shop-leader_info">
 										<table>
